@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Simiçiste
- | EmriAlt                = Simichishte,Simiciste,Simiçiste,Simičište,Симичиште
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      SIMICISTE
+ | FULL_NAME_RO = Simiçiste
+ | FULL_NAME_ND_RO=Simiciste
+ | SORT_NAME_RG=SIMICISTE
+ | FULL_NAME_RG=Simiçiste
+ | FULL_NAME_ND_RG=Simiciste
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 43.19111
- | Gjatësia            = 20.77861
+ | Gjerësia            = 43.191111
+ | Gjatësia            = 20.778611
  | Lartësia            = 
 }}
-'''Simiçiste''' është një [[Fshati]] në [[Lipjan]] të [[Kosovës]].
+'''Simiçiste''' është një [[]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Volljak
- | EmriAlt                = Valljake,Valljakë,Volljak,Volujak,Волујак
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      VOLLJAK
+ | FULL_NAME_RO = Volljak
+ | FULL_NAME_ND_RO=Volljak
+ | SORT_NAME_RG=VOLLJAK
+ | FULL_NAME_RG=Volljak
+ | FULL_NAME_ND_RG=Volljak
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.54611
+ | Gjerësia            = 42.546111
  | Gjatësia            = 20.585
  | Lartësia            = 
 }}
-'''Volljak''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
+'''Volljak''' është një [[]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Carabreg
- | EmriAlt                = Breg i Zi,Carabreg,Crni Breg,Црни Брег
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      CARABREG
+ | FULL_NAME_RO = Carabreg
+ | FULL_NAME_ND_RO=Carabreg
+ | SORT_NAME_RG=CARABREG
+ | FULL_NAME_RG=Carabreg
+ | FULL_NAME_ND_RG=Carabreg
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Malishevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -15,10 +31,10 @@
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
  | Gjerësia            = 42.475
- | Gjatësia            = 21.05583
+ | Gjatësia            = 21.055833
  | Lartësia            = 
 }}
-'''Carabreg''' është një [[Fshati]] në [[Malishevë]] të [[Kosovës]].
+'''Carabreg''' është një [[]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

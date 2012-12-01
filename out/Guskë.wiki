@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Guskë
- | EmriAlt                = Guska,Guske,Guskë,Гуска
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      GUSKE
+ | FULL_NAME_RO = Guskë
+ | FULL_NAME_ND_RO=Guske
+ | SORT_NAME_RG=GUSKE
+ | FULL_NAME_RG=Guskë
+ | FULL_NAME_ND_RG=Guske
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.36083
- | Gjatësia            = 20.37278
+ | Gjerësia            = 42.360833
+ | Gjatësia            = 20.372778
  | Lartësia            = 
 }}
-'''Guskë''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
+'''Guskë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Radulloc
- | EmriAlt                = Radulloc,Radulovac,Radulovci,Радуловац
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      RADULLOC
+ | FULL_NAME_RO = Radulloc
+ | FULL_NAME_ND_RO=Radulloc
+ | SORT_NAME_RG=RADULLOC
+ | FULL_NAME_RG=Radulloc
+ | FULL_NAME_ND_RG=Radulloc
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.64778
+ | Gjerësia            = 42.647778
  | Gjatësia            = 20.56
  | Lartësia            = 
 }}
-'''Radulloc''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
+'''Radulloc''' është një [[]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

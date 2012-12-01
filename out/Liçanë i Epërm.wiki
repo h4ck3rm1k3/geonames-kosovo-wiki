@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Liçanë i Epërm
- | EmriAlt                = Gornje Licane,Gornje Ličane,Licane i Eperm,Liçanë i Epërm
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      LICANEIEPERM
+ | FULL_NAME_RO = Liçanë i Epërm
+ | FULL_NAME_ND_RO=Licane i Eperm
+ | SORT_NAME_RG=LICANEIEPERM
+ | FULL_NAME_RG=Liçanë i Epërm
+ | FULL_NAME_ND_RG=Licane i Eperm
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.94389
- | Gjatësia            = 21.20389
+ | Gjerësia            = 42.943889
+ | Gjatësia            = 21.203889
  | Lartësia            = 
 }}
-'''Liçanë i Epërm''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
+'''Liçanë i Epërm''' është një [[]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

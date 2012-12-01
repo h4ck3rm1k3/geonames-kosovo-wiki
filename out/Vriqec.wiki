@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Vriqec
- | EmriAlt                = Verrin,Verrini,Vricefci,Vriqec,Vriçefci,Vrucevce,Vrucevci,Vruqec,Vruqevc,Vrućevce,Vrućevci,Vërrin,Vërrini,Врућевце
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      VRIQEC
+ | FULL_NAME_RO = Vriqec
+ | FULL_NAME_ND_RO=Vriqec
+ | SORT_NAME_RG=VRIQEC
+ | FULL_NAME_RG=Vriqec
+ | FULL_NAME_ND_RG=Vriqec
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Fushë Kosovë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.63944
- | Gjatësia            = 21.69583
+ | Gjerësia            = 42.639444
+ | Gjatësia            = 21.695833
  | Lartësia            = 
 }}
-'''Vriqec''' është një [[Fshati]] në [[Fushë Kosovë]] të [[Kosovës]].
+'''Vriqec''' është një [[]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

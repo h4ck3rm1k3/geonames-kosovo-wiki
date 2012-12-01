@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Vitanoviq
- | EmriAlt                = Vitanovice,Vitanovici,Vitanoviq,Vitanoviće,Vitanovići,Витановиће
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      VITANOVIQ
+ | FULL_NAME_RO = Vitanoviq
+ | FULL_NAME_ND_RO=Vitanoviq
+ | SORT_NAME_RG=VITANOVIQ
+ | FULL_NAME_RG=Vitanoviq
+ | FULL_NAME_ND_RG=Vitanoviq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 43.18111
- | Gjatësia            = 20.78972
+ | Gjerësia            = 43.181111
+ | Gjatësia            = 20.789722
  | Lartësia            = 
 }}
-'''Vitanoviq''' është një [[Fshati]] në [[Lipjan]] të [[Kosovës]].
+'''Vitanoviq''' është një [[]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

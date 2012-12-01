@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Plava
- | EmriAlt                = Plava,Plave,Plave I (Pare),Plave II (Dyte),Plavë,Plavë I (Parë),Plavë II (Dytë),Pllave,Pllavë,Плава
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      PLAVA
+ | FULL_NAME_RO = Plava
+ | FULL_NAME_ND_RO=Plava
+ | SORT_NAME_RG=PLAVA
+ | FULL_NAME_RG=Plava
+ | FULL_NAME_ND_RG=Plava
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Dragash
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.09639
- | Gjatësia            = 20.64667
+ | Gjerësia            = 42.096389
+ | Gjatësia            = 20.646667
  | Lartësia            = 
 }}
-'''Plava''' është një [[Fshati]] në [[Dragash]] të [[Kosovës]].
+'''Plava''' është një [[]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

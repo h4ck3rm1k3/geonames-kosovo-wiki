@@ -1,10 +1,26 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Drenovci
- | EmriAlt                = Drenovci
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      DRENOVCI
+ | FULL_NAME_RO = Drenovci
+ | FULL_NAME_ND_RO=Drenovci
+ | SORT_NAME_RG=DRENOVCI
+ | FULL_NAME_RG=Drenovci
+ | FULL_NAME_ND_RG=Drenovci
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
- | Komuna              = Prishtinë
+ | Shteti              = Kosovo
+ | Komuna              = 
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -14,19 +30,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.67611
- | Gjatësia            = 21.44472
+ | Gjerësia            = 42.518611
+ | Gjatësia            = 21.600556
  | Lartësia            = 
 }}
-'''Drenovci''' është një [[Fshati]] në [[Prishtinë]] të [[Kosovës]].
+'''Drenovci''' është një [[]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Prishtinë}}
+{{Komuna }}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Prishtinë]]
+[[Kategoria:Fshatra në Kommunes ]]
 [[Kategoria:Vendbanime në Kosovës]]

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Pepiq
- | EmriAlt                = Pepaj,Pepajt,Pepic,Pepice,Pepici,Pepiq,Pepiqi,Pepić,Pepiće,Pepići,Пепиће,Пепићи
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      PEPIQ
+ | FULL_NAME_RO = Pepiq
+ | FULL_NAME_ND_RO=Pepiq
+ | SORT_NAME_RG=PEPIQ
+ | FULL_NAME_RG=Pepiq
+ | FULL_NAME_ND_RG=Pepiq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.72417
+ | Gjerësia            = 42.724167
  | Gjatësia            = 20.1275
  | Lartësia            = 
 }}
-'''Pepiq''' është një [[Fshati]] në [[Pejë]] të [[Kosovës]].
+'''Pepiq''' është një [[]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

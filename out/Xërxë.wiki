@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Xërxë
- | EmriAlt                = Xerxe,Xërxë,Zirce,Zirze,Zrze,Žirče,Зрзе
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      XERXE
+ | FULL_NAME_RO = Xërxë
+ | FULL_NAME_ND_RO=Xerxe
+ | SORT_NAME_RG=XERXE
+ | FULL_NAME_RG=Xërxë
+ | FULL_NAME_ND_RG=Xerxe
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.34972
- | Gjatësia            = 20.57056
+ | Gjerësia            = 42.349722
+ | Gjatësia            = 20.570556
  | Lartësia            = 
 }}
-'''Xërxë''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
+'''Xërxë''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

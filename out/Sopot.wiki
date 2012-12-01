@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Sopot
- | EmriAlt                = Sopot,Сопот
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      SOPOT
+ | FULL_NAME_RO = Sopot
+ | FULL_NAME_ND_RO=Sopot
+ | SORT_NAME_RG=SOPOT
+ | FULL_NAME_RG=Sopot
+ | FULL_NAME_ND_RG=Sopot
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.45444
+ | Gjerësia            = 42.454444
  | Gjatësia            = 20.4225
  | Lartësia            = 
 }}
-'''Sopot''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
+'''Sopot''' është një [[]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Stankovc
- | EmriAlt                = Keshtjella,Keshtjelle,Kështjella,Kështjellë,Sankoc,Sankofci,Stankoc,Stankofc,Stankovc,Stankovce,Stankovci,Станковце
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      STANKOVC
+ | FULL_NAME_RO = Stankovc
+ | FULL_NAME_ND_RO=Stankovc
+ | SORT_NAME_RG=STANKOVC
+ | FULL_NAME_RG=Stankovc
+ | FULL_NAME_ND_RG=Stankovc
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.57194
- | Gjatësia            = 20.93611
+ | Gjerësia            = 42.571944
+ | Gjatësia            = 20.936111
  | Lartësia            = 
 }}
-'''Stankovc''' është një [[Fshati]] në [[Kaçanik]] të [[Kosovës]].
+'''Stankovc''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

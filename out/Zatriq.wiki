@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Zatriq
- | EmriAlt                = Zatric,Zatriq,Zatrić,Затрић
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      ZATRIQ
+ | FULL_NAME_RO = Zatriq
+ | FULL_NAME_ND_RO=Zatriq
+ | SORT_NAME_RG=ZATRIQ
+ | FULL_NAME_RG=Zatriq
+ | FULL_NAME_ND_RG=Zatriq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.45833
- | Gjatësia            = 20.62611
+ | Gjerësia            = 42.458333
+ | Gjatësia            = 20.626111
  | Lartësia            = 
 }}
-'''Zatriq''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
+'''Zatriq''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

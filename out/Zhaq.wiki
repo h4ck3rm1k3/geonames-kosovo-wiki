@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Zhaq
- | EmriAlt                = Zac,Zallc,Zallci,Zallq,Zallqi,Zallç,Zallçi,Zhach,Zhaq,Žač,Жач
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      ZHAQ
+ | FULL_NAME_RO = Zhaq
+ | FULL_NAME_ND_RO=Zhaq
+ | SORT_NAME_RG=ZHAQ
+ | FULL_NAME_RG=Zhaq
+ | FULL_NAME_ND_RG=Zhaq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Kamenicë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.70639
- | Gjatësia            = 20.50167
+ | Gjerësia            = 42.706389
+ | Gjatësia            = 20.501667
  | Lartësia            = 
 }}
-'''Zhaq''' është një [[Fshati]] në [[Kamenicë]] të [[Kosovës]].
+'''Zhaq''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

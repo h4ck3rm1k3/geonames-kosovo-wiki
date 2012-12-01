@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Tankosiq
- | EmriAlt                = Tankosic,Tankosiq,Tankosić,Танкосић
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      TANKOSIQ
+ | FULL_NAME_RO = Tankosiq
+ | FULL_NAME_ND_RO=Tankosiq
+ | SORT_NAME_RG=TANKOSIQ
+ | FULL_NAME_RG=Tankosiq
+ | FULL_NAME_ND_RG=Tankosiq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjakovë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.37917
- | Gjatësia            = 21.28917
+ | Gjerësia            = 42.379167
+ | Gjatësia            = 21.289167
  | Lartësia            = 
 }}
-'''Tankosiq''' është një [[Fshati]] në [[Gjakovë]] të [[Kosovës]].
+'''Tankosiq''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

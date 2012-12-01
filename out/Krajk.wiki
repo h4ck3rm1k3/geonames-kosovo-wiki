@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Krajk
- | EmriAlt                = Krajk,Krajka,Krajke,Krajkë,Крајк
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      KRAJK
+ | FULL_NAME_RO = Krajk
+ | FULL_NAME_ND_RO=Krajk
+ | SORT_NAME_RG=KRAJK
+ | FULL_NAME_RG=Krajk
+ | FULL_NAME_ND_RG=Krajk
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.28222
- | Gjatësia            = 20.66083
+ | Gjerësia            = 42.282222
+ | Gjatësia            = 20.660833
  | Lartësia            = 
 }}
-'''Krajk''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
+'''Krajk''' është një [[]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Binxha
- | EmriAlt                = Bica,Bicha,Binca,Bince,Binxha,Binxhe,Binxhë,Binça,Binçë,Biqa,Biqe,Biqë,Biča,Бича
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      BINXHA
+ | FULL_NAME_RO = Binxha
+ | FULL_NAME_ND_RO=Binxha
+ | SORT_NAME_RG=BINXHA
+ | FULL_NAME_RG=Binxha
+ | FULL_NAME_ND_RG=Binxha
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.67944
- | Gjatësia            = 20.60083
+ | Gjerësia            = 42.679444
+ | Gjatësia            = 20.600833
  | Lartësia            = 
 }}
-'''Binxha''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
+'''Binxha''' është një [[]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

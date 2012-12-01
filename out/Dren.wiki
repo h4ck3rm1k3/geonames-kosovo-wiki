@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Dren
- | EmriAlt                = Dren,Дрен
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      DREN
+ | FULL_NAME_RO = Dren
+ | FULL_NAME_ND_RO=Dren
+ | SORT_NAME_RG=DREN
+ | FULL_NAME_RG=Dren
+ | FULL_NAME_ND_RG=Dren
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 43.13222
- | Gjatësia            = 20.76861
+ | Gjerësia            = 43.132222
+ | Gjatësia            = 20.768611
  | Lartësia            = 
 }}
-'''Dren''' është një [[Fshati]] në [[Lipjan]] të [[Kosovës]].
+'''Dren''' është një [[]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

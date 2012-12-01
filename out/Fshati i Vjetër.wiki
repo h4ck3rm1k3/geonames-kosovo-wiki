@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Fshati i Vjetër
- | EmriAlt                = Fshat i Vjeter,Fshat i Vjetër,Fshati i Vjeter,Fshati i Vjetër,Katuni i Vi,Staro Selo,Staroselle,Starosellë,Старо Село
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      FSHATIIVJETER
+ | FULL_NAME_RO = Fshati i Vjetër
+ | FULL_NAME_ND_RO=Fshati i Vjeter
+ | SORT_NAME_RG=FSHATIIVJETER
+ | FULL_NAME_RG=Fshati i Vjetër
+ | FULL_NAME_ND_RG=Fshati i Vjeter
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjakovë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.36444
- | Gjatësia            = 21.19583
+ | Gjerësia            = 42.364444
+ | Gjatësia            = 21.195833
  | Lartësia            = 
 }}
-'''Fshati i Vjetër''' është një [[Fshati]] në [[Gjakovë]] të [[Kosovës]].
+'''Fshati i Vjetër''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

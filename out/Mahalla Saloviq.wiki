@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Mahalla Saloviq
- | EmriAlt                = Mahalla Saloviq,Saalovic Mahala,Saalovič Mahala
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      MAHALLASALOVIQ
+ | FULL_NAME_RO = Mahalla Saloviq
+ | FULL_NAME_ND_RO=Mahalla Saloviq
+ | SORT_NAME_RG=MAHALLASALOVIQ
+ | FULL_NAME_RG=Mahalla Saloviq
+ | FULL_NAME_ND_RG=Mahalla Saloviq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.95096
- | Gjatësia            = 21.2003
+ | Gjerësia            = 42.950958
+ | Gjatësia            = 21.200305
  | Lartësia            = 
 }}
-'''Mahalla Saloviq''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
+'''Mahalla Saloviq''' është një [[]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

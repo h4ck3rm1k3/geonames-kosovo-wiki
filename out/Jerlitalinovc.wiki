@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Jerlitalinovc
- | EmriAlt                = Jerli,Jerli Talinovac,Jerli Talinovci,Jerlitalinovc,Talinoc i Jerlive,Јерли Талиновац
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      JERLITALINOVC
+ | FULL_NAME_RO = Jerlitalinovc
+ | FULL_NAME_ND_RO=Jerlitalinovc
+ | SORT_NAME_RG=JERLITALINOVC
+ | FULL_NAME_RG=Jerlitalinovc
+ | FULL_NAME_ND_RG=Jerlitalinovc
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjakovë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.38972
- | Gjatësia            = 21.14972
+ | Gjerësia            = 42.389722
+ | Gjatësia            = 21.149722
  | Lartësia            = 
 }}
-'''Jerlitalinovc''' është një [[Fshati]] në [[Gjakovë]] të [[Kosovës]].
+'''Jerlitalinovc''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,10 +1,26 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Krushevo
- | EmriAlt                = Krusevo,Krushe,Krusheva,Krushevc,Krusheve,Krushevo,Krushevë,Krushja,Krusovo,Kruševo,Krušovo,Kryshefc,Крушево
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      KRUSHEVO
+ | FULL_NAME_RO = Krushevo
+ | FULL_NAME_ND_RO=Krushevo
+ | SORT_NAME_RG=KRUSHEVO
+ | FULL_NAME_RG=Krushevo
+ | FULL_NAME_ND_RG=Krushevo
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
- | Komuna              = Dragash
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -14,19 +30,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 41.97889
- | Gjatësia            = 20.63889
+ | Gjerësia            = 42.639444
+ | Gjatësia            = 20.563889
  | Lartësia            = 
 }}
-'''Krushevo''' është një [[Fshati]] në [[Dragash]] të [[Kosovës]].
+'''Krushevo''' është një [[]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Dragash}}
+{{Komuna Albanik}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Dragash]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
 [[Kategoria:Vendbanime në Kosovës]]

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Llukavci i Thatë
- | EmriAlt                = Llukafci i Thate,Llukafci i Thatë,Llukavci i Thate,Llukavci i Thatë,Lugthat,Lugthati
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      LLUKAVCIITHATE
+ | FULL_NAME_RO = Llukavci i Thatë
+ | FULL_NAME_ND_RO=Llukavci i Thate
+ | SORT_NAME_RG=LLUKAVCIITHATE
+ | FULL_NAME_RG=Llukavci i Thatë
+ | FULL_NAME_ND_RG=Llukavci i Thate
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Kamenicë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.73472
- | Gjatësia            = 20.50944
+ | Gjerësia            = 42.734722
+ | Gjatësia            = 20.509444
  | Lartësia            = 
 }}
-'''Llukavci i Thatë''' është një [[Fshati]] në [[Kamenicë]] të [[Kosovës]].
+'''Llukavci i Thatë''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

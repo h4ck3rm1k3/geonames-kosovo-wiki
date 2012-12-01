@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Koliq
- | EmriAlt                = Kolic,Koliq,Kolić,Колић
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      KOLIQ
+ | FULL_NAME_RO = Koliq
+ | FULL_NAME_ND_RO=Koliq
+ | SORT_NAME_RG=KOLIQ
+ | FULL_NAME_RG=Koliq
+ | FULL_NAME_ND_RG=Koliq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Prishtinë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.77333
- | Gjatësia            = 21.28611
+ | Gjerësia            = 42.773333
+ | Gjatësia            = 21.286111
  | Lartësia            = 
 }}
-'''Koliq''' është një [[Fshati]] në [[Prishtinë]] të [[Kosovës]].
+'''Koliq''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

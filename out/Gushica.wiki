@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Gushica
- | EmriAlt                = Goshice,Goshicë,Gushica,Gushice,Gushicë,Gusica,Gušica,Lupishte,Lupishtë,Гушица
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      GUSHICA
+ | FULL_NAME_RO = Gushica
+ | FULL_NAME_ND_RO=Gushica
+ | SORT_NAME_RG=GUSHICA
+ | FULL_NAME_RG=Gushica
+ | FULL_NAME_ND_RG=Gushica
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.30806
+ | Gjerësia            = 42.308056
  | Gjatësia            = 21.3025
  | Lartësia            = 
 }}
-'''Gushica''' është një [[Fshati]] në [[Viti]] të [[Kosovës]].
+'''Gushica''' është një [[]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

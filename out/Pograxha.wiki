@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Pograxha
- | EmriAlt                = Bogace,Bogaçe,Gurgat,Gurgati,Pagragje,Pagragjë,Podgrade,Podgrađe,Pograde,Pograxha,Pograxhe,Pograxhë,Pograđe,Пограђе
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      POGRAXHA
+ | FULL_NAME_RO = Pograxha
+ | FULL_NAME_ND_RO=Pograxha
+ | SORT_NAME_RG=POGRAXHA
+ | FULL_NAME_RG=Pograxha
+ | FULL_NAME_ND_RG=Pograxha
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.63583
- | Gjatësia            = 20.63639
+ | Gjerësia            = 42.635833
+ | Gjatësia            = 20.636389
  | Lartësia            = 
 }}
-'''Pograxha''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
+'''Pograxha''' është një [[]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

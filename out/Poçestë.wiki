@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Poçestë
- | EmriAlt                = Poceshqe,Pocest,Poceste,Poçeshqe,Poçestë
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      POCESTE
+ | FULL_NAME_RO = Poçestë
+ | FULL_NAME_ND_RO=Poceste
+ | SORT_NAME_RG=POCESTE
+ | FULL_NAME_RG=Poçestë
+ | FULL_NAME_ND_RG=Poceste
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.63333
- | Gjatësia            = 20.39139
+ | Gjerësia            = 42.633333
+ | Gjatësia            = 20.391389
  | Lartësia            = 
 }}
-'''Poçestë''' është një [[Fshati]] në [[Pejë]] të [[Kosovës]].
+'''Poçestë''' është një [[]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Cerrcë
- | EmriAlt                = Cerrca,Crnce,Cërrca,Rranza,Rranze,Rranzë,Црнце
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      CERRCE
+ | FULL_NAME_RO = Cerrcë
+ | FULL_NAME_ND_RO=Cerrce
+ | SORT_NAME_RG=CERRCE
+ | FULL_NAME_RG=Cerrcë
+ | FULL_NAME_ND_RG=Cerrce
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Kamenicë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.77972
- | Gjatësia            = 20.45306
+ | Gjerësia            = 42.779722
+ | Gjatësia            = 20.453056
  | Lartësia            = 
 }}
-'''Cerrcë''' është një [[Fshati]] në [[Kamenicë]] të [[Kosovës]].
+'''Cerrcë''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

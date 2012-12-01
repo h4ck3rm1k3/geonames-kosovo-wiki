@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Sheremet
- | EmriAlt                = Seremet,Sheremet,Sheremetaj,Šeremet,Шеремет
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      SHEREMET
+ | FULL_NAME_RO = Sheremet
+ | FULL_NAME_ND_RO=Sheremet
+ | SORT_NAME_RG=SHEREMET
+ | FULL_NAME_RG=Sheremet
+ | FULL_NAME_ND_RG=Sheremet
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.43556
- | Gjatësia            = 20.33028
+ | Gjerësia            = 42.435556
+ | Gjatësia            = 20.330278
  | Lartësia            = 
 }}
-'''Sheremet''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
+'''Sheremet''' është një [[]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

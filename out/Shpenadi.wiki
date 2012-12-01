@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Shpenadi
- | EmriAlt                = Shipandije,Shpenadi,Shpinadi,Shpinadija,Shpinadije,Shpinadijë,Spinadija,Špinadija,Шпинадија
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      SHPENADI
+ | FULL_NAME_RO = Shpenadi
+ | FULL_NAME_ND_RO=Shpenadi
+ | SORT_NAME_RG=SHPENADI
+ | FULL_NAME_RG=Shpenadi
+ | FULL_NAME_ND_RG=Shpenadi
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -18,7 +34,7 @@
  | Gjatësia            = 20.76
  | Lartësia            = 
 }}
-'''Shpenadi''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
+'''Shpenadi''' është një [[]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

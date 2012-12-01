@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Godishnjak
- | EmriAlt                = Godishnak,Godishnjak,Godishnjaku,Godisnjak,Godišnjak,Koderz,Koderza,Kodërz,Kodërza,Годишњак
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      GODISHNJAK
+ | FULL_NAME_RO = Godishnjak
+ | FULL_NAME_ND_RO=Godishnjak
+ | SORT_NAME_RG=GODISHNJAK
+ | FULL_NAME_RG=Godishnjak
+ | FULL_NAME_ND_RG=Godishnjak
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.83827
- | Gjatësia            = 21.16146
+ | Gjerësia            = 42.838268
+ | Gjatësia            = 21.161465
  | Lartësia            = 
 }}
-'''Godishnjak''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
+'''Godishnjak''' është një [[]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

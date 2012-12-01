@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Shipol
- | EmriAlt                = Shipol,Shipole,Sipol,Sipolje,Šipolje,Шипоље
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      SHIPOL
+ | FULL_NAME_RO = Shipol
+ | FULL_NAME_ND_RO=Shipol
+ | SORT_NAME_RG=SHIPOL
+ | FULL_NAME_RG=Shipol
+ | FULL_NAME_ND_RG=Shipol
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.86361
- | Gjatësia            = 20.84889
+ | Gjerësia            = 42.863611
+ | Gjatësia            = 20.848889
  | Lartësia            = 
 }}
-'''Shipol''' është një [[Fshati]] në [[Novobërdë]] të [[Kosovës]].
+'''Shipol''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

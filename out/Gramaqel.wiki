@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Gramaqel
- | EmriAlt                = Gramace,Gramacel,Gramaqel,Gramaçe,Gramaçel,Gramocel,Gramocelj,Gramochel,Gramočel,Gramočelj,Грамочељ
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      GRAMAQEL
+ | FULL_NAME_RO = Gramaqel
+ | FULL_NAME_ND_RO=Gramaqel
+ | SORT_NAME_RG=GRAMAQEL
+ | FULL_NAME_RG=Gramaqel
+ | FULL_NAME_ND_RG=Gramaqel
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.48222
- | Gjatësia            = 20.36361
+ | Gjerësia            = 42.482222
+ | Gjatësia            = 20.363611
  | Lartësia            = 
 }}
-'''Gramaqel''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
+'''Gramaqel''' është një [[]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,10 +1,26 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Mihaliq
- | EmriAlt                = Mihaliq,Miolice,Mioliće,Миолиће
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      MIHALIQ
+ | FULL_NAME_RO = Mihaliq
+ | FULL_NAME_ND_RO=Mihaliq
+ | SORT_NAME_RG=MIHALIQ
+ | FULL_NAME_RG=Mihaliq
+ | FULL_NAME_ND_RG=Mihaliq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
- | Komuna              = Lipjan
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -14,19 +30,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 43.16694
- | Gjatësia            = 20.78639
+ | Gjerësia            = 42.758375
+ | Gjatësia            = 20.999149
  | Lartësia            = 
 }}
-'''Mihaliq''' është një [[Fshati]] në [[Lipjan]] të [[Kosovës]].
+'''Mihaliq''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Lipjan}}
+{{Komuna Vushtrri}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
 [[Kategoria:Vendbanime në Kosovës]]

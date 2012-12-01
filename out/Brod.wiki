@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Brod
- | EmriAlt                = Brad,Brod,Brod-Prizrenski,Brodi,Брод
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      BROD
+ | FULL_NAME_RO = Brod
+ | FULL_NAME_ND_RO=Brod
+ | SORT_NAME_RG=BROD
+ | FULL_NAME_RG=Brod
+ | FULL_NAME_ND_RG=Brod
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Dragash
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 41.99194
- | Gjatësia            = 20.70611
+ | Gjerësia            = 41.991944
+ | Gjatësia            = 20.706111
  | Lartësia            = 
 }}
-'''Brod''' është një [[Fshati]] në [[Dragash]] të [[Kosovës]].
+'''Brod''' është një [[]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

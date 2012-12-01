@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Capar
- | EmriAlt                = Capar,Capari,Sapar,Сапар
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      CAPAR
+ | FULL_NAME_RO = Capar
+ | FULL_NAME_ND_RO=Capar
+ | SORT_NAME_RG=CAPAR
+ | FULL_NAME_RG=Capar
+ | FULL_NAME_ND_RG=Capar
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Istog
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.45361
- | Gjatësia            = 21.54833
+ | Gjerësia            = 42.453611
+ | Gjatësia            = 21.548333
  | Lartësia            = 
 }}
-'''Capar''' është një [[Fshati]] në [[Istog]] të [[Kosovës]].
+'''Capar''' është një [[]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Zhub
- | EmriAlt                = Zhub,Zub,Žub,Жуб
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      ZHUB
+ | FULL_NAME_RO = Zhub
+ | FULL_NAME_ND_RO=Zhub
+ | SORT_NAME_RG=ZHUB
+ | FULL_NAME_RG=Zhub
+ | FULL_NAME_ND_RG=Zhub
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.34056
+ | Gjerësia            = 42.340556
  | Gjatësia            = 20.39
  | Lartësia            = 
 }}
-'''Zhub''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
+'''Zhub''' është një [[]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

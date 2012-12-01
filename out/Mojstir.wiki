@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Mojstir
- | EmriAlt                = Mojstir,Mojstiri,Мојстир
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      MOJSTIR
+ | FULL_NAME_RO = Mojstir
+ | FULL_NAME_ND_RO=Mojstir
+ | SORT_NAME_RG=MOJSTIR
+ | FULL_NAME_RG=Mojstir
+ | FULL_NAME_ND_RG=Mojstir
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Kamenicë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.80028
- | Gjatësia            = 20.54278
+ | Gjerësia            = 42.800278
+ | Gjatësia            = 20.542778
  | Lartësia            = 
 }}
-'''Mojstir''' është një [[Fshati]] në [[Kamenicë]] të [[Kosovës]].
+'''Mojstir''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Bardhi i Vogël
- | EmriAlt                = Bardhi i Vogel,Bardhi i Vogël,Bellaqefci i Vogel,Bellaqefci i Vogël,Mali Belacevac,Mali Belaćevac,Мали Белаћевац
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      BARDHIIVOGEL
+ | FULL_NAME_RO = Bardhi i Vogël
+ | FULL_NAME_ND_RO=Bardhi i Vogel
+ | SORT_NAME_RG=BARDHIIVOGEL
+ | FULL_NAME_RG=Bardhi i Vogël
+ | FULL_NAME_ND_RG=Bardhi i Vogel
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gllogovc
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.61083
- | Gjatësia            = 21.03722
+ | Gjerësia            = 42.610833
+ | Gjatësia            = 21.037222
  | Lartësia            = 
 }}
-'''Bardhi i Vogël''' është një [[Fshati]] në [[Gllogovc]] të [[Kosovës]].
+'''Bardhi i Vogël''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

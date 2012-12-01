@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Kliqinë
- | EmriAlt                = Ardian,Ardiani,Klicine,Klincine,Klinçinë,Kliqine,Kliqinë,Kliçinë
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      KLIQINE
+ | FULL_NAME_RO = Kliqinë
+ | FULL_NAME_ND_RO=Kliqine
+ | SORT_NAME_RG=KLIQINE
+ | FULL_NAME_RG=Kliqinë
+ | FULL_NAME_ND_RG=Kliqine
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.62389
- | Gjatësia            = 20.46083
+ | Gjerësia            = 42.623889
+ | Gjatësia            = 20.460833
  | Lartësia            = 
 }}
-'''Kliqinë''' është një [[Fshati]] në [[Pejë]] të [[Kosovës]].
+'''Kliqinë''' është një [[]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

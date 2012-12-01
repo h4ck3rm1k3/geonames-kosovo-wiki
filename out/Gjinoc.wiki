@@ -1,24 +1,40 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Gjinoc
- | EmriAlt                = Dinovce,Dzinovce,Džinovce,Gjinoc,Gjinofc,Gjinovc,Ðinovce,Ђиновце
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      GJINOC
+ | FULL_NAME_RO = Gjinoc
+ | FULL_NAME_ND_RO=Gjinoc
+ | SORT_NAME_RG=GJINOC
+ | FULL_NAME_RG=Gjinoc
+ | FULL_NAME_ND_RG=Gjinoc
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Ferizaj
  | Kodi postar         = 
  | Sipërfaqja          = 
 
- | Popullsia           = 1571
+ | Popullsia           = 
 
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.31833
- | Gjatësia            = 20.81861
+ | Gjerësia            = 42.318333
+ | Gjatësia            = 20.818611
  | Lartësia            = 
 }}
-'''Gjinoc''' është një [[Fshati]] në [[Ferizaj]] të [[Kosovës]].
+'''Gjinoc''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

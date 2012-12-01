@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Rakoc
- | EmriAlt                = Rakoc,Ракоц
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      RAKOC
+ | FULL_NAME_RO = Rakoc
+ | FULL_NAME_ND_RO=Rakoc
+ | SORT_NAME_RG=RAKOC
+ | FULL_NAME_RG=Rakoc
+ | FULL_NAME_ND_RG=Rakoc
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -15,10 +31,10 @@
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
  | Gjerësia            = 42.5
- | Gjatësia            = 20.41722
+ | Gjatësia            = 20.417222
  | Lartësia            = 
 }}
-'''Rakoc''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
+'''Rakoc''' është një [[]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

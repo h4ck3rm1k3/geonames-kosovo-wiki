@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Mjak
- | EmriAlt                = Mijak,Mjak,Мијак
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      MJAK
+ | FULL_NAME_RO = Mjak
+ | FULL_NAME_ND_RO=Mjak
+ | SORT_NAME_RG=MJAK
+ | FULL_NAME_RG=Mjak
+ | FULL_NAME_ND_RG=Mjak
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.24722
- | Gjatësia            = 21.38556
+ | Gjerësia            = 42.247222
+ | Gjatësia            = 21.385556
  | Lartësia            = 
 }}
-'''Mjak''' është një [[Fshati]] në [[Viti]] të [[Kosovës]].
+'''Mjak''' është një [[]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

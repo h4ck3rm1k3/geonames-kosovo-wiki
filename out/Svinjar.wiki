@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Svinjar
- | EmriAlt                = Frasher,Frashër,Svinare,Svinjar,Svinjare,Svinjarë,Свињаре
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      SVINJAR
+ | FULL_NAME_RO = Svinjar
+ | FULL_NAME_ND_RO=Svinjar
+ | SORT_NAME_RG=SVINJAR
+ | FULL_NAME_RG=Svinjar
+ | FULL_NAME_ND_RG=Svinjar
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.85111
- | Gjatësia            = 20.88972
+ | Gjerësia            = 42.851111
+ | Gjatësia            = 20.889722
  | Lartësia            = 
 }}
-'''Svinjar''' është një [[Fshati]] në [[Novobërdë]] të [[Kosovës]].
+'''Svinjar''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

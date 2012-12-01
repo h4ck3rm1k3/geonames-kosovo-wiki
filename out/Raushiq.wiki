@@ -1,24 +1,40 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Raushiq
- | EmriAlt                = Raush,Raushi,Raushic,Raushiq,Raushiqi,Rausic,Raušić,Rrafshi,Stari Rausic,Stari Raušić,Раушић
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      RAUSHIQ
+ | FULL_NAME_RO = Raushiq
+ | FULL_NAME_ND_RO=Raushiq
+ | SORT_NAME_RG=RAUSHIQ
+ | FULL_NAME_RG=Raushiq
+ | FULL_NAME_ND_RG=Raushiq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
- | Popullsia           = 4
+ | Popullsia           = 
 
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
  | Gjerësia            = 42.615
- | Gjatësia            = 20.31167
+ | Gjatësia            = 20.311667
  | Lartësia            = 
 }}
-'''Raushiq''' është një [[Fshati]] në [[Pejë]] të [[Kosovës]].
+'''Raushiq''' është një [[]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

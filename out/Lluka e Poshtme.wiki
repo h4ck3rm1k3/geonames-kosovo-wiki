@@ -1,24 +1,40 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Lluka e Poshtme
- | EmriAlt                = Lluka e Poshtem,Lluka e Poshtme,Lluke e Poshtme,Llukë e Poshtme,Luka e Ulet,Luka e Ulët
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      LLUKAEPOSHTME
+ | FULL_NAME_RO = Lluka e Poshtme
+ | FULL_NAME_ND_RO=Lluka e Poshtme
+ | SORT_NAME_RG=LLUKAEPOSHTME
+ | FULL_NAME_RG=Lluka e Poshtme
+ | FULL_NAME_ND_RG=Lluka e Poshtme
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
 
- | Popullsia           = 700
+ | Popullsia           = 
 
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.54583
- | Gjatësia            = 20.33556
+ | Gjerësia            = 42.545833
+ | Gjatësia            = 20.335556
  | Lartësia            = 
 }}
-'''Lluka e Poshtme''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
+'''Lluka e Poshtme''' është një [[]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

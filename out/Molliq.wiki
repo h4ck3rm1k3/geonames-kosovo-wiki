@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Molliq
- | EmriAlt                = Molic,Molić,Molliq,Молић
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      MOLLIQ
+ | FULL_NAME_RO = Molliq
+ | FULL_NAME_ND_RO=Molliq
+ | SORT_NAME_RG=MOLLIQ
+ | FULL_NAME_RG=Molliq
+ | FULL_NAME_ND_RG=Molliq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.43917
- | Gjatësia            = 20.27083
+ | Gjerësia            = 42.439167
+ | Gjatësia            = 20.270833
  | Lartësia            = 
 }}
-'''Molliq''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
+'''Molliq''' është një [[]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

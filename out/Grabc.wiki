@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Grabc
- | EmriAlt                = Bingje,Bingjë,Biqe,Biqë,Grabac,Grabc,Grabci,Grabos,Grabosi,Грабац
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      GRABC
+ | FULL_NAME_RO = Grabc
+ | FULL_NAME_ND_RO=Grabc
+ | SORT_NAME_RG=GRABC
+ | FULL_NAME_RG=Grabc
+ | FULL_NAME_ND_RG=Grabc
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.67806
- | Gjatësia            = 20.61861
+ | Gjerësia            = 42.678056
+ | Gjatësia            = 20.618611
  | Lartësia            = 
 }}
-'''Grabc''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
+'''Grabc''' është një [[]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

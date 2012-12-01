@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Gegjë
- | EmriAlt                = Geda,Gede,Gegje,Gegjë,Gexhe,Gexhë,Geđa,Geđe,Геђа,Геђе
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      GEGJE
+ | FULL_NAME_RO = Gegjë
+ | FULL_NAME_ND_RO=Gegje
+ | SORT_NAME_RG=GEGJE
+ | FULL_NAME_RG=Gegjë
+ | FULL_NAME_ND_RG=Gegje
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.36444
+ | Gjerësia            = 42.364444
  | Gjatësia            = 20.545
  | Lartësia            = 
 }}
-'''Gegjë''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
+'''Gegjë''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

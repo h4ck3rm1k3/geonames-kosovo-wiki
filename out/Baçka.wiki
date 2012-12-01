@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Baçka
- | EmriAlt                = Backa,Baçka,Bačka
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      BACKA
+ | FULL_NAME_RO = Baçka
+ | FULL_NAME_ND_RO=Backa
+ | SORT_NAME_RG=BACKA
+ | FULL_NAME_RG=Baçka
+ | FULL_NAME_ND_RG=Backa
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Vushtrri
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.91424
- | Gjatësia            = 21.04553
+ | Gjerësia            = 42.895037
+ | Gjatësia            = 21.033781
  | Lartësia            = 
 }}
-'''Baçka''' është një [[Fshati]] në [[Vushtrri]] të [[Kosovës]].
+'''Baçka''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

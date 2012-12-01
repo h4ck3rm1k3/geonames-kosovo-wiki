@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Zhur
- | EmriAlt                = Zhur,Zhuri,Zur,Žur,Жур
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      ZHUR
+ | FULL_NAME_RO = Zhur
+ | FULL_NAME_ND_RO=Zhur
+ | SORT_NAME_RG=ZHUR
+ | FULL_NAME_RG=Zhur
+ | FULL_NAME_ND_RG=Zhur
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.16389
- | Gjatësia            = 20.62111
+ | Gjerësia            = 42.163889
+ | Gjatësia            = 20.621111
  | Lartësia            = 
 }}
-'''Zhur''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
+'''Zhur''' është një [[]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

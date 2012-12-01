@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Ukoviq
- | EmriAlt                = Ukovici,Ukoviq,Ukovići
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      UKOVIQ
+ | FULL_NAME_RO = Ukoviq
+ | FULL_NAME_ND_RO=Ukoviq
+ | SORT_NAME_RG=UKOVIQ
+ | FULL_NAME_RG=Ukoviq
+ | FULL_NAME_ND_RG=Ukoviq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.98454
- | Gjatësia            = 21.21443
+ | Gjerësia            = 42.984538
+ | Gjatësia            = 21.214426
  | Lartësia            = 
 }}
-'''Ukoviq''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
+'''Ukoviq''' është një [[]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

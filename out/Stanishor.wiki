@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Stanishor
- | EmriAlt                = Stanishor,Stanisor,Stanišor,Станишор
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      STANISHOR
+ | FULL_NAME_RO = Stanishor
+ | FULL_NAME_ND_RO=Stanishor
+ | SORT_NAME_RG=STANISHOR
+ | FULL_NAME_RG=Stanishor
+ | FULL_NAME_ND_RG=Stanishor
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Istog
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.49333
- | Gjatësia            = 21.46361
+ | Gjerësia            = 42.493333
+ | Gjatësia            = 21.463611
  | Lartësia            = 
 }}
-'''Stanishor''' është një [[Fshati]] në [[Istog]] të [[Kosovës]].
+'''Stanishor''' është një [[]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

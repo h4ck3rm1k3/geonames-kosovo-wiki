@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Konjuh
- | EmriAlt                = Konjuh,Konukh,Коњух
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      KONJUH
+ | FULL_NAME_RO = Konjuh
+ | FULL_NAME_ND_RO=Konjuh
+ | SORT_NAME_RG=KONJUH
+ | FULL_NAME_RG=Konjuh
+ | FULL_NAME_ND_RG=Konjuh
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Malishevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.53972
+ | Gjerësia            = 42.539722
  | Gjatësia            = 21.14
  | Lartësia            = 
 }}
-'''Konjuh''' është një [[Fshati]] në [[Malishevë]] të [[Kosovës]].
+'''Konjuh''' është një [[]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

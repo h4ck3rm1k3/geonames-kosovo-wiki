@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Tupec
- | EmriAlt                = Tues,Tupec,Tupes,Тупец
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      TUPEC
+ | FULL_NAME_RO = Tupec
+ | FULL_NAME_ND_RO=Tupec
+ | SORT_NAME_RG=TUPEC
+ | FULL_NAME_RG=Tupec
+ | FULL_NAME_ND_RG=Tupec
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -15,10 +31,10 @@
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
  | Gjerësia            = 42.255
- | Gjatësia            = 20.66611
+ | Gjatësia            = 20.666111
  | Lartësia            = 
 }}
-'''Tupec''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
+'''Tupec''' është një [[]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

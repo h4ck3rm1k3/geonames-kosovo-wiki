@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Deiq
- | EmriAlt                = Deic,Deich,Deiq,Deiqi,Deis,Deič,Dejez,Dejeza,Dejëz,Dejëza,Novo Selo Deic,Novo Selo Deič,Novo Selo Devic,Деич
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      DEIQ
+ | FULL_NAME_RO = Deiq
+ | FULL_NAME_ND_RO=Deiq
+ | SORT_NAME_RG=DEIQ
+ | FULL_NAME_RG=Deiq
+ | FULL_NAME_ND_RG=Deiq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.61139
- | Gjatësia            = 20.55861
+ | Gjerësia            = 42.611389
+ | Gjatësia            = 20.558611
  | Lartësia            = 
 }}
-'''Deiq''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
+'''Deiq''' është një [[]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Mirash
- | EmriAlt                = Dona Makhala,Donja Mahala,Miras,Mirash,Miraš,Доња Махала,Мираш
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      MIRASH
+ | FULL_NAME_RO = Mirash
+ | FULL_NAME_ND_RO=Mirash
+ | SORT_NAME_RG=MIRASH
+ | FULL_NAME_RG=Mirash
+ | FULL_NAME_ND_RG=Mirash
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjakovë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.44861
- | Gjatësia            = 21.22417
+ | Gjerësia            = 42.448056
+ | Gjatësia            = 21.221389
  | Lartësia            = 
 }}
-'''Mirash''' është një [[Fshati]] në [[Gjakovë]] të [[Kosovës]].
+'''Mirash''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

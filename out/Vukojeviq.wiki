@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Vukojeviq
- | EmriAlt                = Vukojevice,Vukojevici,Vukojeviq,Vukojeviće,Vukojevići,Vukovici,Vukovići,Вуковићи,Вукојевиће,Вукојевићи
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      VUKOJEVIQ
+ | FULL_NAME_RO = Vukojeviq
+ | FULL_NAME_ND_RO=Vukojeviq
+ | SORT_NAME_RG=VUKOJEVIQ
+ | FULL_NAME_RG=Vukojeviq
+ | FULL_NAME_ND_RG=Vukojeviq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Zubin Potok
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.95111
- | Gjatësia            = 20.56083
+ | Gjerësia            = 42.951111
+ | Gjatësia            = 20.560833
  | Lartësia            = 
 }}
-'''Vukojeviq''' është një [[Fshati]] në [[Zubin Potok]] të [[Kosovës]].
+'''Vukojeviq''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

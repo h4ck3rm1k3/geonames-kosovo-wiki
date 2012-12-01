@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Petriq i Ultë
- | EmriAlt                = Doni Petric,Doni Petrich,Donji Petric,Donji Petrić,Donji Petrič,Donji Poterc,Donji Poterč,Petriq i Ulte,Petriq i Ultë,Pjeterq i Poshtem,Pjetërq i Poshtëm,Potriq i Ulet,Potriq i Ulët,Доњи Петрич,Доњи Петрић
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      PETRIQIULTE
+ | FULL_NAME_RO = Petriq i Ultë
+ | FULL_NAME_ND_RO=Petriq i Ulte
+ | SORT_NAME_RG=PETRIQIULTE
+ | FULL_NAME_RG=Petriq i Ultë
+ | FULL_NAME_ND_RG=Petriq i Ulte
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -15,10 +31,10 @@
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
  | Gjerësia            = 42.6125
- | Gjatësia            = 20.50222
+ | Gjatësia            = 20.502222
  | Lartësia            = 
 }}
-'''Petriq i Ultë''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
+'''Petriq i Ultë''' është një [[]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

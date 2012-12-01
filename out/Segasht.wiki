@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Segasht
- | EmriAlt                = Segas,Segasht,Segaš
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      SEGASHT
+ | FULL_NAME_RO = Segasht
+ | FULL_NAME_ND_RO=Segasht
+ | SORT_NAME_RG=SEGASHT
+ | FULL_NAME_RG=Segasht
+ | FULL_NAME_ND_RG=Segasht
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.91389
- | Gjatësia            = 21.07806
+ | Gjerësia            = 42.913889
+ | Gjatësia            = 21.078056
  | Lartësia            = 
 }}
-'''Segasht''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
+'''Segasht''' është një [[]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

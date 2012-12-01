@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Zupç
- | EmriAlt                = Zupc,Zupce,Zupche,Zupç,Zupçë,Zupče,Зупче
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      ZUPC
+ | FULL_NAME_RO = Zupç
+ | FULL_NAME_ND_RO=Zupc
+ | SORT_NAME_RG=ZUPC
+ | FULL_NAME_RG=Zupç
+ | FULL_NAME_ND_RG=Zupc
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Zubin Potok
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.89611
- | Gjatësia            = 20.76778
+ | Gjerësia            = 42.896111
+ | Gjatësia            = 20.767778
  | Lartësia            = 
 }}
-'''Zupç''' është një [[Fshati]] në [[Zubin Potok]] të [[Kosovës]].
+'''Zupç''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

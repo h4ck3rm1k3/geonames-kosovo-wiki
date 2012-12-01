@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Korenicë
- | EmriAlt                = Korenica,Korenice,Korenicë,Koronica,Кореница
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      KORENICE
+ | FULL_NAME_RO = Korenicë
+ | FULL_NAME_ND_RO=Korenice
+ | SORT_NAME_RG=KORENICE
+ | FULL_NAME_RG=Korenicë
+ | FULL_NAME_ND_RG=Korenice
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.37194
+ | Gjerësia            = 42.371944
  | Gjatësia            = 20.3675
  | Lartësia            = 
 }}
-'''Korenicë''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
+'''Korenicë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Tvrgjan
- | EmriAlt                = Tvardzhan,Tvrdan,Tvrdane,Tvrdani,Tvrgjan,Tvrđan,Tvrđane,Tvrđani,Тврђан
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      TVRGJAN
+ | FULL_NAME_RO = Tvrgjan
+ | FULL_NAME_ND_RO=Tvrgjan
+ | SORT_NAME_RG=TVRGJAN
+ | FULL_NAME_RG=Tvrgjan
+ | FULL_NAME_ND_RG=Tvrgjan
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 43.11694
- | Gjatësia            = 20.80306
+ | Gjerësia            = 43.116944
+ | Gjatësia            = 20.803056
  | Lartësia            = 
 }}
-'''Tvrgjan''' është një [[Fshati]] në [[Lipjan]] të [[Kosovës]].
+'''Tvrgjan''' është një [[]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

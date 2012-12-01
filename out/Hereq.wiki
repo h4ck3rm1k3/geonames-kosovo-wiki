@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Hereq
- | EmriAlt                = Erec,Erech,Ereč,Herec,Hereq,Hereç,Ереч,Ерећ
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      HEREQ
+ | FULL_NAME_RO = Hereq
+ | FULL_NAME_ND_RO=Hereq
+ | SORT_NAME_RG=HEREQ
+ | FULL_NAME_RG=Hereq
+ | FULL_NAME_ND_RG=Hereq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.46444
+ | Gjerësia            = 42.464444
  | Gjatësia            = 20.3575
  | Lartësia            = 
 }}
-'''Hereq''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
+'''Hereq''' është një [[]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

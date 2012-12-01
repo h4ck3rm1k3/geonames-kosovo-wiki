@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Vërbiçan
- | EmriAlt                = Urbican,Urbiçan,Verbican,Verbiqan,Vrbicane,Vrbichane,Vrbičane,Vërbiqan,Vërbiçan,Врбичане
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      VERBICAN
+ | FULL_NAME_RO = Vërbiçan
+ | FULL_NAME_ND_RO=Verbican
+ | SORT_NAME_RG=VERBICAN
+ | FULL_NAME_RG=Vërbiçan
+ | FULL_NAME_ND_RG=Verbican
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.20694
- | Gjatësia            = 20.79083
+ | Gjerësia            = 42.206944
+ | Gjatësia            = 20.790833
  | Lartësia            = 
 }}
-'''Vërbiçan''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
+'''Vërbiçan''' është një [[]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

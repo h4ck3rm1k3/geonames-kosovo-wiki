@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Mahalla Cakiq
- | EmriAlt                = Cakic Mahala,Cakić Mahala,Mahalla Cakiq
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      MAHALLACAKIQ
+ | FULL_NAME_RO = Mahalla Cakiq
+ | FULL_NAME_ND_RO=Mahalla Cakiq
+ | SORT_NAME_RG=MAHALLACAKIQ
+ | FULL_NAME_RG=Mahalla Cakiq
+ | FULL_NAME_ND_RG=Mahalla Cakiq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.89907
- | Gjatësia            = 21.13331
+ | Gjerësia            = 42.899073
+ | Gjatësia            = 21.133312
  | Lartësia            = 
 }}
-'''Mahalla Cakiq''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
+'''Mahalla Cakiq''' është një [[]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Tenezhdoll
- | EmriAlt                = Tenes Do,Tenes Dol,Tenesh Do,Teneshdoll,Tenezhdoll,Teneš Do,Teneš Dol,Тенеш До
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      TENEZHDOLL
+ | FULL_NAME_RO = Tenezhdoll
+ | FULL_NAME_ND_RO=Tenezhdoll
+ | SORT_NAME_RG=TENEZHDOLL
+ | FULL_NAME_RG=Tenezhdoll
+ | FULL_NAME_ND_RG=Tenezhdoll
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Prishtinë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.78778
- | Gjatësia            = 21.17111
+ | Gjerësia            = 42.787778
+ | Gjatësia            = 21.171111
  | Lartësia            = 
 }}
-'''Tenezhdoll''' është një [[Fshati]] në [[Prishtinë]] të [[Kosovës]].
+'''Tenezhdoll''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Biqec
- | EmriAlt                = Bicec,Bicevac,Bichevac,Biqec,Biqevc,Biçec,Bičevac,Бичевац,Бићевац
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      BIQEC
+ | FULL_NAME_RO = Biqec
+ | FULL_NAME_ND_RO=Biqec
+ | SORT_NAME_RG=BIQEC
+ | FULL_NAME_RG=Biqec
+ | FULL_NAME_ND_RG=Biqec
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Klinë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.24556
- | Gjatësia            = 21.21444
+ | Gjerësia            = 42.245556
+ | Gjatësia            = 21.214444
  | Lartësia            = 
 }}
-'''Biqec''' është një [[Fshati]] në [[Klinë]] të [[Kosovës]].
+'''Biqec''' është një [[]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

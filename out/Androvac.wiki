@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Androvac
- | EmriAlt                = Androvac,Androvce,Hanroc,Андровац
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      ANDROVAC
+ | FULL_NAME_RO = Androvac
+ | FULL_NAME_ND_RO=Androvac
+ | SORT_NAME_RG=ANDROVAC
+ | FULL_NAME_RG=Androvac
+ | FULL_NAME_ND_RG=Androvac
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Malishevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.59724
- | Gjatësia            = 21.28692
+ | Gjerësia            = 42.597242
+ | Gjatësia            = 21.286918
  | Lartësia            = 
 }}
-'''Androvac''' është një [[Fshati]] në [[Malishevë]] të [[Kosovës]].
+'''Androvac''' është një [[]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

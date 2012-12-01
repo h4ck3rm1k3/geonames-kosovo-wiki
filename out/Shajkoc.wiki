@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Shajkoc
- | EmriAlt                = Albanik,Albaniku,Sajkovac,Sajkovc,Shajkoc,Shajkofc,Shajkofci,Shajkovac,Shajkovc,Šajkovac,Шајковац
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      SHAJKOC
+ | FULL_NAME_RO = Shajkoc
+ | FULL_NAME_ND_RO=Shajkoc
+ | SORT_NAME_RG=SHAJKOC
+ | FULL_NAME_RG=Shajkoc
+ | FULL_NAME_ND_RG=Shajkoc
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.86343
- | Gjatësia            = 21.23901
+ | Gjerësia            = 42.856563
+ | Gjatësia            = 21.252534
  | Lartësia            = 
 }}
-'''Shajkoc''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
+'''Shajkoc''' është një [[]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

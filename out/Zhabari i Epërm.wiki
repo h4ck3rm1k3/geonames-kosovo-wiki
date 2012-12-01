@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Zhabari i Epërm
- | EmriAlt                = Gorne Zhabare,Gornje Zabare,Gornje Žabare,Zabari i Eperm,Zabari i Epërm,Zhabar i Eperm,Zhabar i Epërm,Zhabare,Zhabari i Eperm,Zhabari i Epërm,Zhabarë,Горње Жабаре
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      ZHABARIIEPERM
+ | FULL_NAME_RO = Zhabari i Epërm
+ | FULL_NAME_ND_RO=Zhabari i Eperm
+ | SORT_NAME_RG=ZHABARIIEPERM
+ | FULL_NAME_RG=Zhabari i Epërm
+ | FULL_NAME_ND_RG=Zhabari i Eperm
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.86389
- | Gjatësia            = 20.83167
+ | Gjerësia            = 42.863889
+ | Gjatësia            = 20.831667
  | Lartësia            = 
 }}
-'''Zhabari i Epërm''' është një [[Fshati]] në [[Novobërdë]] të [[Kosovës]].
+'''Zhabari i Epërm''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Reti e Poshtme
- | EmriAlt                = Done Retimle,Doni Retimle,Donji Retimlje,Garane,Gorane,Reti e Poshtme,Доње Ретимље,Доњи Ретимље
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      RETIEPOSHTME
+ | FULL_NAME_RO = Reti e Poshtme
+ | FULL_NAME_ND_RO=Reti e Poshtme
+ | SORT_NAME_RG=RETIEPOSHTME
+ | FULL_NAME_RG=Reti e Poshtme
+ | FULL_NAME_ND_RG=Reti e Poshtme
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -15,10 +31,10 @@
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
  | Gjerësia            = 42.325
- | Gjatësia            = 20.69528
+ | Gjatësia            = 20.695278
  | Lartësia            = 
 }}
-'''Reti e Poshtme''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
+'''Reti e Poshtme''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

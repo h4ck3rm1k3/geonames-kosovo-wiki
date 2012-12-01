@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Gogolloc
- | EmriAlt                = Gogolloc,Gogollofc,Gogollofci,Gogollovc,Gogolovce,Gugullan,Gugullani,Гоголовце
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      GOGOLLOC
+ | FULL_NAME_RO = Gogolloc
+ | FULL_NAME_ND_RO=Gogolloc
+ | SORT_NAME_RG=GOGOLLOC
+ | FULL_NAME_RG=Gogolloc
+ | FULL_NAME_ND_RG=Gogolloc
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Fushë Kosovë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.58917
- | Gjatësia            = 21.54306
+ | Gjerësia            = 42.589167
+ | Gjatësia            = 21.543056
  | Lartësia            = 
 }}
-'''Gogolloc''' është një [[Fshati]] në [[Fushë Kosovë]] të [[Kosovës]].
+'''Gogolloc''' është një [[]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

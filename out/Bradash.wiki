@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Bradash
- | EmriAlt                = Bradas,Bradasa,Bradash,Bradashi,Bradaš,Bradaša,Brades,Bradeš,Брадаш
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      BRADASH
+ | FULL_NAME_RO = Bradash
+ | FULL_NAME_ND_RO=Bradash
+ | SORT_NAME_RG=BRADASH
+ | FULL_NAME_RG=Bradash
+ | FULL_NAME_ND_RG=Bradash
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.94028
- | Gjatësia            = 21.13806
+ | Gjerësia            = 42.940278
+ | Gjatësia            = 21.138056
  | Lartësia            = 
 }}
-'''Bradash''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
+'''Bradash''' është një [[]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

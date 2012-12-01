@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Mahalla Huseinoviç
- | EmriAlt                = Huseinovic Mahala,Huseinović Mahala,Mahalla Huseinovic,Mahalla Huseinoviç
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      MAHALLAHUSEINOVIC
+ | FULL_NAME_RO = Mahalla Huseinoviç
+ | FULL_NAME_ND_RO=Mahalla Huseinovic
+ | SORT_NAME_RG=MAHALLAHUSEINOVIC
+ | FULL_NAME_RG=Mahalla Huseinoviç
+ | FULL_NAME_ND_RG=Mahalla Huseinovic
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.97478
- | Gjatësia            = 21.06801
+ | Gjerësia            = 42.974785
+ | Gjatësia            = 21.068009
  | Lartësia            = 
 }}
-'''Mahalla Huseinoviç''' është një [[Fshati]] në [[Novobërdë]] të [[Kosovës]].
+'''Mahalla Huseinoviç''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

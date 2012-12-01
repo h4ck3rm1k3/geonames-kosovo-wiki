@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Joshevik
- | EmriAlt                = Jeshevnik,Josevik,Joshevik,Joševik,Јошевик
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      JOSHEVIK
+ | FULL_NAME_RO = Joshevik
+ | FULL_NAME_ND_RO=Joshevik
+ | SORT_NAME_RG=JOSHEVIK
+ | FULL_NAME_RG=Joshevik
+ | FULL_NAME_ND_RG=Joshevik
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Zveçan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.96722
- | Gjatësia            = 20.80972
+ | Gjerësia            = 42.967222
+ | Gjatësia            = 20.809722
  | Lartësia            = 
 }}
-'''Joshevik''' është një [[Fshati]] në [[Zveçan]] të [[Kosovës]].
+'''Joshevik''' është një [[]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

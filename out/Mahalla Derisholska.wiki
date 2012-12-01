@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Mahalla Derisholska
- | EmriAlt                = Deryisolska Mahala,Deryišolska Mahala,Mahalla Derisholska
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      MAHALLADERISHOLSKA
+ | FULL_NAME_RO = Mahalla Derisholska
+ | FULL_NAME_ND_RO=Mahalla Derisholska
+ | SORT_NAME_RG=MAHALLADERISHOLSKA
+ | FULL_NAME_RG=Mahalla Derisholska
+ | FULL_NAME_ND_RG=Mahalla Derisholska
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -15,10 +31,10 @@
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
  | Gjerësia            = 42.96778
- | Gjatësia            = 21.12139
+ | Gjatësia            = 21.121386
  | Lartësia            = 
 }}
-'''Mahalla Derisholska''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
+'''Mahalla Derisholska''' është një [[]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

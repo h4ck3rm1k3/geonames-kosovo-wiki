@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Dobruzhda
- | EmriAlt                = Dobrushte,Dobrushtja,Dobrushtë,Dobruste,Dobruzda,Dobruzhda,Dobruzhe,Dobruzhë,Dobrušte,Dobružda,Mirez,Mireza,Mirëz,Mirëza,Добруште
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      DOBRUZHDA
+ | FULL_NAME_RO = Dobruzhda
+ | FULL_NAME_ND_RO=Dobruzhda
+ | SORT_NAME_RG=DOBRUZHDA
+ | FULL_NAME_RG=Dobruzhda
+ | FULL_NAME_ND_RG=Dobruzhda
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.18083
- | Gjatësia            = 20.59028
+ | Gjerësia            = 42.180833
+ | Gjatësia            = 20.590278
  | Lartësia            = 
 }}
-'''Dobruzhda''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
+'''Dobruzhda''' është një [[]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

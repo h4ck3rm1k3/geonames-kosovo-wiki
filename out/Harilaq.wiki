@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Harilaq
- | EmriAlt                = Arilacha,Ariliaca,Ariliača,Ariljaca,Ariljača,Harilac,Harilaci,Harilaq,Harilaç,Harilaçi,Ариљача
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      HARILAQ
+ | FULL_NAME_RO = Harilaq
+ | FULL_NAME_ND_RO=Harilaq
+ | SORT_NAME_RG=HARILAQ
+ | FULL_NAME_RG=Harilaq
+ | FULL_NAME_ND_RG=Harilaq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gllogovc
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.58417
- | Gjatësia            = 21.00194
+ | Gjerësia            = 42.584167
+ | Gjatësia            = 21.001944
  | Lartësia            = 
 }}
-'''Harilaq''' është një [[Fshati]] në [[Gllogovc]] të [[Kosovës]].
+'''Harilaq''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

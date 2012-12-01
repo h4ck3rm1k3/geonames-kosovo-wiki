@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Mahalla Zukova
- | EmriAlt                = Mahalla Zukova,Zukova Mahala
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      MAHALLAZUKOVA
+ | FULL_NAME_RO = Mahalla Zukova
+ | FULL_NAME_ND_RO=Mahalla Zukova
+ | SORT_NAME_RG=MAHALLAZUKOVA
+ | FULL_NAME_RG=Mahalla Zukova
+ | FULL_NAME_ND_RG=Mahalla Zukova
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.88889
- | Gjatësia            = 21.24348
+ | Gjerësia            = 42.888891
+ | Gjatësia            = 21.243485
  | Lartësia            = 
 }}
-'''Mahalla Zukova''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
+'''Mahalla Zukova''' është një [[]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

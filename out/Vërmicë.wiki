@@ -1,10 +1,26 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Vërmicë
- | EmriAlt                = Urbice,Verbnice,Vermice,Vernice,Vrbnica,Vërbnicë,Vërmicë,Vërnicë,Врбница
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      VERMICE
+ | FULL_NAME_RO = Vërmicë
+ | FULL_NAME_ND_RO=Vermice
+ | SORT_NAME_RG=VERMICE
+ | FULL_NAME_RG=Vërmicë
+ | FULL_NAME_ND_RG=Vermice
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
- | Komuna              = Prizren
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -14,19 +30,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.16
- | Gjatësia            = 20.56528
+ | Gjerësia            = 42.543611
+ | Gjatësia            = 20.761944
  | Lartësia            = 
 }}
-'''Vërmicë''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
+'''Vërmicë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Prizren}}
+{{Komuna Mitrovicë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
 [[Kategoria:Vendbanime në Kosovës]]

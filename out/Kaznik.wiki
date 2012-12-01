@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Kaznik
- | EmriAlt                = Kasnik,Kaznik,Kozanik,Koznik,Козник
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      KAZNIK
+ | FULL_NAME_RO = Kaznik
+ | FULL_NAME_ND_RO=Kaznik
+ | SORT_NAME_RG=KAZNIK
+ | FULL_NAME_RG=Kaznik
+ | FULL_NAME_ND_RG=Kaznik
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.47306
- | Gjatësia            = 20.59389
+ | Gjerësia            = 42.473056
+ | Gjatësia            = 20.593889
  | Lartësia            = 
 }}
-'''Kaznik''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
+'''Kaznik''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Kotradiq
- | EmriAlt                = Kodradiq,Kotradic,Kotradiq,Kotradić,Котрадић
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      KOTRADIQ
+ | FULL_NAME_RO = Kotradiq
+ | FULL_NAME_ND_RO=Kotradiq
+ | SORT_NAME_RG=KOTRADIQ
+ | FULL_NAME_RG=Kotradiq
+ | FULL_NAME_ND_RG=Kotradiq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.56139
- | Gjatësia            = 20.40139
+ | Gjerësia            = 42.561389
+ | Gjatësia            = 20.401389
  | Lartësia            = 
 }}
-'''Kotradiq''' është një [[Fshati]] në [[Pejë]] të [[Kosovës]].
+'''Kotradiq''' është një [[]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

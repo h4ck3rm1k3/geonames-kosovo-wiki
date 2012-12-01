@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Vrajak
- | EmriAlt                = Vrajak,Vrajake,Vrajakë,Vranak,Vranjak,Vranjake,Vranjakë,Врањак
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      VRAJAK
+ | FULL_NAME_RO = Vrajak
+ | FULL_NAME_ND_RO=Vrajak
+ | SORT_NAME_RG=VRAJAK
+ | FULL_NAME_RG=Vrajak
+ | FULL_NAME_ND_RG=Vrajak
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.41556
- | Gjatësia            = 20.57389
+ | Gjerësia            = 42.415556
+ | Gjatësia            = 20.573889
  | Lartësia            = 
 }}
-'''Vrajak''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
+'''Vrajak''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

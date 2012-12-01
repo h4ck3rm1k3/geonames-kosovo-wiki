@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Gajrak
- | EmriAlt                = Gajrak,Гајрак
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      GAJRAK
+ | FULL_NAME_RO = Gajrak
+ | FULL_NAME_ND_RO=Gajrak
+ | SORT_NAME_RG=GAJRAK
+ | FULL_NAME_RG=Gajrak
+ | FULL_NAME_ND_RG=Gajrak
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Mitrovicë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.46028
- | Gjatësia            = 20.75222
+ | Gjerësia            = 42.460278
+ | Gjatësia            = 20.752222
  | Lartësia            = 
 }}
-'''Gajrak''' është një [[Fshati]] në [[Mitrovicë]] të [[Kosovës]].
+'''Gajrak''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

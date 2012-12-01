@@ -1,10 +1,26 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Domanek
- | EmriAlt                = Damanek,Domanek,Доманек
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      DOMANEK
+ | FULL_NAME_RO = Domanek
+ | FULL_NAME_ND_RO=Domanek
+ | SORT_NAME_RG=DOMANEK
+ | FULL_NAME_RG=Domanek
+ | FULL_NAME_ND_RG=Domanek
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
- | Komuna              = Mitrovicë
+ | Shteti              = Kosovo
+ | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -14,19 +30,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.52167
- | Gjatësia            = 20.67556
+ | Gjerësia            = 42.614444
+ | Gjatësia            = 20.853333
  | Lartësia            = 
 }}
-'''Domanek''' është një [[Fshati]] në [[Mitrovicë]] të [[Kosovës]].
+'''Domanek''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Mitrovicë}}
+{{Komuna Kaçanik}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Fshatra në Kommunes Kaçanik]]
 [[Kategoria:Vendbanime në Kosovës]]

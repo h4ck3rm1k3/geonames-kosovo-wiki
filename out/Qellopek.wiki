@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Qellopek
- | EmriAlt                = Calopek,Celopek,Chelopek,Qellopek,Čalopek,Čelopek,Челопек
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      QELLOPEK
+ | FULL_NAME_RO = Qellopek
+ | FULL_NAME_ND_RO=Qellopek
+ | SORT_NAME_RG=QELLOPEK
+ | FULL_NAME_RG=Qellopek
+ | FULL_NAME_ND_RG=Qellopek
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Malishevë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.50583
- | Gjatësia            = 21.18083
+ | Gjerësia            = 42.505833
+ | Gjatësia            = 21.180833
  | Lartësia            = 
 }}
-'''Qellopek''' është një [[Fshati]] në [[Malishevë]] të [[Kosovës]].
+'''Qellopek''' është një [[]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

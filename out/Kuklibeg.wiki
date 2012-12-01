@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Kuklibeg
- | EmriAlt                = Kuklibeg,Куклибег
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      KUKLIBEG
+ | FULL_NAME_RO = Kuklibeg
+ | FULL_NAME_ND_RO=Kuklibeg
+ | SORT_NAME_RG=KUKLIBEG
+ | FULL_NAME_RG=Kuklibeg
+ | FULL_NAME_ND_RG=Kuklibeg
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Dragash
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.10583
- | Gjatësia            = 20.72306
+ | Gjerësia            = 42.105833
+ | Gjatësia            = 20.723056
  | Lartësia            = 
 }}
-'''Kuklibeg''' është një [[Fshati]] në [[Dragash]] të [[Kosovës]].
+'''Kuklibeg''' është një [[]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

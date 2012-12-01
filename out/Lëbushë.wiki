@@ -1,24 +1,40 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Lëbushë
- | EmriAlt                = Lebusha,Lebushe,Ljebuse,Ljebuše,Ljubusa,Ljubusha,Ljubuša,Lpushe,Lpushë,Lubushe,Lubushë,Lëbusha,Lëbushë,Љубуша
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      LEBUSHE
+ | FULL_NAME_RO = Lëbushë
+ | FULL_NAME_ND_RO=Lebushe
+ | SORT_NAME_RG=LEBUSHE
+ | FULL_NAME_RG=Lëbushë
+ | FULL_NAME_ND_RG=Lebushe
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
 
- | Popullsia           = 1250
+ | Popullsia           = 
 
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.56306
- | Gjatësia            = 20.29083
- | Lartësia            = 618
+ | Gjerësia            = 42.563056
+ | Gjatësia            = 20.290833
+ | Lartësia            = 
 }}
-'''Lëbushë''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
+'''Lëbushë''' është një [[]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

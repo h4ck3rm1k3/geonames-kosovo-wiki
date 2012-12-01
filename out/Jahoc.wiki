@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Jahoc
- | EmriAlt                = Jaco,Jahoc,Jakhoc,Јахоц
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      JAHOC
+ | FULL_NAME_RO = Jahoc
+ | FULL_NAME_ND_RO=Jahoc
+ | SORT_NAME_RG=JAHOC
+ | FULL_NAME_RG=Jahoc
+ | FULL_NAME_ND_RG=Jahoc
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.39028
- | Gjatësia            = 20.39444
+ | Gjerësia            = 42.390278
+ | Gjatësia            = 20.394444
  | Lartësia            = 
 }}
-'''Jahoc''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
+'''Jahoc''' është një [[]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

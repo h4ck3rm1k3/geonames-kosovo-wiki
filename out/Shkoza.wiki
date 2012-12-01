@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Shkoza
- | EmriAlt                = Shkoza,Shkoze,Shkozë,Skoza,Skoze,Škoza,Škoze,Шкоза
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      SHKOZA
+ | FULL_NAME_RO = Shkoza
+ | FULL_NAME_ND_RO=Shkoza
+ | SORT_NAME_RG=SHKOZA
+ | FULL_NAME_RG=Shkoza
+ | FULL_NAME_ND_RG=Shkoza
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.16389
- | Gjatësia            = 20.59111
+ | Gjerësia            = 42.163889
+ | Gjatësia            = 20.591111
  | Lartësia            = 
 }}
-'''Shkoza''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
+'''Shkoza''' është një [[]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

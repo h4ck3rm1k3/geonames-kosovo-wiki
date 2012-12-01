@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Kramovik
- | EmriAlt                = Hramovik,Kramavik,Kramovik,Крамовик
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      KRAMOVIK
+ | FULL_NAME_RO = Kramovik
+ | FULL_NAME_ND_RO=Kramovik
+ | SORT_NAME_RG=KRAMOVIK
+ | FULL_NAME_RG=Kramovik
+ | FULL_NAME_ND_RG=Kramovik
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.48194
- | Gjatësia            = 20.52278
+ | Gjerësia            = 42.481944
+ | Gjatësia            = 20.522778
  | Lartësia            = 
 }}
-'''Kramovik''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
+'''Kramovik''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

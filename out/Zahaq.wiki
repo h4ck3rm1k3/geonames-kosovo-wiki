@@ -1,10 +1,26 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Zahaq
- | EmriAlt                = Zahac,Zahaq,Zahać,Zakhac,Захаћ
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      ZAHAQ
+ | FULL_NAME_RO = Zahaq
+ | FULL_NAME_ND_RO=Zahaq
+ | SORT_NAME_RG=ZAHAQ
+ | FULL_NAME_RG=Zahaq
+ | FULL_NAME_ND_RG=Zahaq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
- | Komuna              = Pejë
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -14,19 +30,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.65361
- | Gjatësia            = 20.38528
+ | Gjerësia            = 42.947384
+ | Gjatësia            = 21.105436
  | Lartësia            = 
 }}
-'''Zahaq''' është një [[Fshati]] në [[Pejë]] të [[Kosovës]].
+'''Zahaq''' është një [[]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Pejë}}
+{{Komuna Podujevë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
 [[Kategoria:Vendbanime në Kosovës]]

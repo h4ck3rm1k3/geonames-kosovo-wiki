@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Dragobil
- | EmriAlt                = Dragobil,Dragobile,Dragobilj,Dragobilja,Dragobilje,Dragobilë,Драгобиље
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      DRAGOBIL
+ | FULL_NAME_RO = Dragobil
+ | FULL_NAME_ND_RO=Dragobil
+ | SORT_NAME_RG=DRAGOBIL
+ | FULL_NAME_RG=Dragobil
+ | FULL_NAME_ND_RG=Dragobil
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Mitrovicë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.45694
- | Gjatësia            = 20.72667
+ | Gjerësia            = 42.456944
+ | Gjatësia            = 20.726667
  | Lartësia            = 
 }}
-'''Dragobil''' është një [[Fshati]] në [[Mitrovicë]] të [[Kosovës]].
+'''Dragobil''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

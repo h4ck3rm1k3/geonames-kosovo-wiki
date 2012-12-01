@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Kçiq i Madh
- | EmriAlt                = Kciq i Madh,Kciqi i Madh,Kçiq i Madh,Kçiqi i Madh,Velike Kicice,Velike Kičiće,Veliki Kichic,Veliki Kicic,Veliki Kičić,Veliko Kicice,Veliko Kičiće,Велики Кичић
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      KCIQIMADH
+ | FULL_NAME_RO = Kçiq i Madh
+ | FULL_NAME_ND_RO=Kciq i Madh
+ | SORT_NAME_RG=KCIQIMADH
+ | FULL_NAME_RG=Kçiq i Madh
+ | FULL_NAME_ND_RG=Kciq i Madh
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.87056
- | Gjatësia            = 20.92222
+ | Gjerësia            = 42.870556
+ | Gjatësia            = 20.922222
  | Lartësia            = 
 }}
-'''Kçiq i Madh''' është një [[Fshati]] në [[Novobërdë]] të [[Kosovës]].
+'''Kçiq i Madh''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

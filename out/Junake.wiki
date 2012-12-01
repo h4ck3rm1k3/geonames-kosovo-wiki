@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Junake
- | EmriAlt                = Junaci,Junaka,Junake,Junakë,Junce,Junice,Junicë,Јунаке
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      JUNAKE
+ | FULL_NAME_RO = Junake
+ | FULL_NAME_ND_RO=Junake
+ | SORT_NAME_RG=JUNAKE
+ | FULL_NAME_RG=Junake
+ | FULL_NAME_ND_RG=Junake
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Zubin Potok
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 43.00639
- | Gjatësia            = 20.67611
+ | Gjerësia            = 43.006389
+ | Gjatësia            = 20.676111
  | Lartësia            = 
 }}
-'''Junake''' është një [[Fshati]] në [[Zubin Potok]] të [[Kosovës]].
+'''Junake''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

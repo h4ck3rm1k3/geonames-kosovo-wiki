@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Rodel
- | EmriAlt                = Rodel,Rodelj,Родељ
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      RODEL
+ | FULL_NAME_RO = Rodel
+ | FULL_NAME_ND_RO=Rodel
+ | SORT_NAME_RG=RODEL
+ | FULL_NAME_RG=Rodel
+ | FULL_NAME_ND_RG=Rodel
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 43.15472
- | Gjatësia            = 20.81528
+ | Gjerësia            = 43.154722
+ | Gjatësia            = 20.815278
  | Lartësia            = 
 }}
-'''Rodel''' është një [[Fshati]] në [[Lipjan]] të [[Kosovës]].
+'''Rodel''' është një [[]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

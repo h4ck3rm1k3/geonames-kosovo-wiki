@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Nushpal
- | EmriAlt                = Nashpal,Nashpale,Naspale,Naspanje,Naspolje,Našpale,Našpanje,Našpolje,Nushpal,Nushpale,Nushpalë,Нашпале
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      NUSHPAL
+ | FULL_NAME_RO = Nushpal
+ | FULL_NAME_ND_RO=Nushpal
+ | SORT_NAME_RG=NUSHPAL
+ | FULL_NAME_RG=Nushpal
+ | FULL_NAME_ND_RG=Nushpal
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.41139
- | Gjatësia            = 20.60056
+ | Gjerësia            = 42.411389
+ | Gjatësia            = 20.600556
  | Lartësia            = 
 }}
-'''Nushpal''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
+'''Nushpal''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

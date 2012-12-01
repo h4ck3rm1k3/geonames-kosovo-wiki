@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Shashare
- | EmriAlt                = Sasare,Shashare,Shasharë,Shoshare,Sosare,Šašare,Šošare,Шашаре
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      SHASHARE
+ | FULL_NAME_RO = Shashare
+ | FULL_NAME_ND_RO=Shashare
+ | SORT_NAME_RG=SHASHARE
+ | FULL_NAME_RG=Shashare
+ | FULL_NAME_ND_RG=Shashare
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.28472
- | Gjatësia            = 21.44833
+ | Gjerësia            = 42.284722
+ | Gjatësia            = 21.448333
  | Lartësia            = 
 }}
-'''Shashare''' është një [[Fshati]] në [[Viti]] të [[Kosovës]].
+'''Shashare''' është një [[]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

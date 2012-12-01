@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Desetak
- | EmriAlt                = Deseta,Desetak,Десетак
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      DESETAK
+ | FULL_NAME_RO = Desetak
+ | FULL_NAME_ND_RO=Desetak
+ | SORT_NAME_RG=DESETAK
+ | FULL_NAME_RG=Desetak
+ | FULL_NAME_ND_RG=Desetak
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 43.09472
- | Gjatësia            = 20.76444
+ | Gjerësia            = 43.094722
+ | Gjatësia            = 20.764444
  | Lartësia            = 
 }}
-'''Desetak''' është një [[Fshati]] në [[Lipjan]] të [[Kosovës]].
+'''Desetak''' është një [[]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Reqan
- | EmriAlt                = Pecan,Peçan,Recan,Recane,Rechane,Reqan,Reçan,Rečane,Речане
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      REQAN
+ | FULL_NAME_RO = Reqan
+ | FULL_NAME_ND_RO=Reqan
+ | SORT_NAME_RG=REQAN
+ | FULL_NAME_RG=Reqan
+ | FULL_NAME_ND_RG=Reqan
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Ferizaj
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.35917
+ | Gjerësia            = 42.359167
  | Gjatësia            = 20.8675
  | Lartësia            = 
 }}
-'''Reqan''' është një [[Fshati]] në [[Ferizaj]] të [[Kosovës]].
+'''Reqan''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

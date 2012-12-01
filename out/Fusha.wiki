@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Fusha
- | EmriAlt                = Fusha,Fushe,Fushtica e Eperme,Fushtica e Epërme,Fushtice e Eperme,Fushticë e Epërme,Fushë,Fustice e Poshtme,Fusticë e Poshtmë,Gorna Fushtica,Gornja Fustica,Gornja Fuštica,Горња Фуштица
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      FUSHA
+ | FULL_NAME_RO = Fusha
+ | FULL_NAME_ND_RO=Fusha
+ | SORT_NAME_RG=FUSHA
+ | FULL_NAME_RG=Fusha
+ | FULL_NAME_ND_RG=Fusha
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -15,10 +31,10 @@
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
  | Gjerësia            = 42.555
- | Gjatësia            = 20.94806
+ | Gjatësia            = 20.948056
  | Lartësia            = 
 }}
-'''Fusha''' është një [[Fshati]] në [[Kaçanik]] të [[Kosovës]].
+'''Fusha''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

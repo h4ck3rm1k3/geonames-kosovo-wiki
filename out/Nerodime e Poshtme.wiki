@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Nerodime e Poshtme
- | EmriAlt                = Done Nerodimle,Donje Nerodimlje,Neredime e Poshtme,Nerodime e Poshteme,Nerodime e Poshtme,Nerodime e Poshtëme,Nerodimja e Ulte,Nerodimja e Ultë,Nerodimlja e Ulte,Nerodimlja e Ultë,Доње Неродимље
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      NERODIMEEPOSHTME
+ | FULL_NAME_RO = Nerodime e Poshtme
+ | FULL_NAME_ND_RO=Nerodime e Poshtme
+ | SORT_NAME_RG=NERODIMEEPOSHTME
+ | FULL_NAME_RG=Nerodime e Poshtme
+ | FULL_NAME_ND_RG=Nerodime e Poshtme
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjakovë
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -15,10 +31,10 @@
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
  | Gjerësia            = 42.365
- | Gjatësia            = 21.09389
+ | Gjatësia            = 21.093889
  | Lartësia            = 
 }}
-'''Nerodime e Poshtme''' është një [[Fshati]] në [[Gjakovë]] të [[Kosovës]].
+'''Nerodime e Poshtme''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

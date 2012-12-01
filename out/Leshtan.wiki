@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Leshtan
- | EmriAlt                = Leshtan,Leshtane,Leshtani,Lestane,Leštane,Lleshtan,Лештане
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      LESHTAN
+ | FULL_NAME_RO = Leshtan
+ | FULL_NAME_ND_RO=Leshtan
+ | SORT_NAME_RG=LESHTAN
+ | FULL_NAME_RG=Leshtan
+ | FULL_NAME_ND_RG=Leshtan
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Dragash
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.04417
- | Gjatësia            = 20.68472
+ | Gjerësia            = 42.044167
+ | Gjatësia            = 20.684722
  | Lartësia            = 
 }}
-'''Leshtan''' është një [[Fshati]] në [[Dragash]] të [[Kosovës]].
+'''Leshtan''' është një [[]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

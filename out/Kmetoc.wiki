@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Kmetoc
- | EmriAlt                = Kmetoc,Kmetofc,Kmetofci,Kmetovc,Kmetovce,Plakaj,Кметовце
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      KMETOC
+ | FULL_NAME_RO = Kmetoc
+ | FULL_NAME_ND_RO=Kmetoc
+ | SORT_NAME_RG=KMETOC
+ | FULL_NAME_RG=Kmetoc
+ | FULL_NAME_ND_RG=Kmetoc
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Istog
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.49194
- | Gjatësia            = 21.52778
+ | Gjerësia            = 42.491944
+ | Gjatësia            = 21.527778
  | Lartësia            = 
 }}
-'''Kmetoc''' është një [[Fshati]] në [[Istog]] të [[Kosovës]].
+'''Kmetoc''' është një [[]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

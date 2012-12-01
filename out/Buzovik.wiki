@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Buzovik
- | EmriAlt                = Buzovik,Бузовик
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      BUZOVIK
+ | FULL_NAME_RO = Buzovik
+ | FULL_NAME_ND_RO=Buzovik
+ | SORT_NAME_RG=BUZOVIK
+ | FULL_NAME_RG=Buzovik
+ | FULL_NAME_ND_RG=Buzovik
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.28556
- | Gjatësia            = 21.39056
+ | Gjerësia            = 42.285556
+ | Gjatësia            = 21.390556
  | Lartësia            = 
 }}
-'''Buzovik''' është një [[Fshati]] në [[Viti]] të [[Kosovës]].
+'''Buzovik''' është një [[]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

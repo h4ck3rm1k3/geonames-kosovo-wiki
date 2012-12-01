@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Mekiniqe
- | EmriAlt                = Drenska,Mekinic,Mekinice,Mekiniqe,Mekinić,Mekiniće,Мекиниће
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      MEKINIQE
+ | FULL_NAME_RO = Mekiniqe
+ | FULL_NAME_ND_RO=Mekiniqe
+ | SORT_NAME_RG=MEKINIQE
+ | FULL_NAME_RG=Mekiniqe
+ | FULL_NAME_ND_RG=Mekiniqe
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 43.15278
- | Gjatësia            = 20.78333
+ | Gjerësia            = 43.152778
+ | Gjatësia            = 20.783333
  | Lartësia            = 
 }}
-'''Mekiniqe''' është një [[Fshati]] në [[Lipjan]] të [[Kosovës]].
+'''Mekiniqe''' është një [[]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

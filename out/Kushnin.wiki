@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Kushnin
- | EmriAlt                = Kushin,Kushnik,Kushnin,Kusneni,Kusnin,Kušneni,Kušnin,Кушнин
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      KUSHNIN
+ | FULL_NAME_RO = Kushnin
+ | FULL_NAME_ND_RO=Kushnin
+ | SORT_NAME_RG=KUSHNIN
+ | FULL_NAME_RG=Kushnin
+ | FULL_NAME_ND_RG=Kushnin
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.27556
+ | Gjerësia            = 42.275556
  | Gjatësia            = 20.5375
  | Lartësia            = 
 }}
-'''Kushnin''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
+'''Kushnin''' është një [[]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Grizhan
- | EmriAlt                = Grizane,Grizani,Grizhan,Grizhane,Grizhani,Grižane,Grižani,Грижане,Грижани
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      GRIZHAN
+ | FULL_NAME_RO = Grizhan
+ | FULL_NAME_ND_RO=Grizhan
+ | SORT_NAME_RG=GRIZHAN
+ | FULL_NAME_RG=Grizhan
+ | FULL_NAME_ND_RG=Grizhan
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Zveçan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 43.02278
- | Gjatësia            = 20.70639
+ | Gjerësia            = 43.022778
+ | Gjatësia            = 20.706389
  | Lartësia            = 
 }}
-'''Grizhan''' është një [[Fshati]] në [[Zveçan]] të [[Kosovës]].
+'''Grizhan''' është një [[]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

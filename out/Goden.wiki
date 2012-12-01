@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Goden
- | EmriAlt                = Goden,Godeni,Годен
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      GODEN
+ | FULL_NAME_RO = Goden
+ | FULL_NAME_ND_RO=Goden
+ | SORT_NAME_RG=GODEN
+ | FULL_NAME_RG=Goden
+ | FULL_NAME_ND_RG=Goden
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.29306
- | Gjatësia            = 20.44361
+ | Gjerësia            = 42.293056
+ | Gjatësia            = 20.443611
  | Lartësia            = 
 }}
-'''Goden''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
+'''Goden''' është një [[]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Bresje
- | EmriAlt                = Brece,Brecë,Bresja,Bresje,Бресје
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      BRESJE
+ | FULL_NAME_RO = Bresje
+ | FULL_NAME_ND_RO=Bresje
+ | SORT_NAME_RG=BRESJE
+ | FULL_NAME_RG=Bresje
+ | FULL_NAME_ND_RG=Bresje
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gllogovc
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.62944
- | Gjatësia            = 21.09222
+ | Gjerësia            = 42.629444
+ | Gjatësia            = 21.092222
  | Lartësia            = 
 }}
-'''Bresje''' është një [[Fshati]] në [[Gllogovc]] të [[Kosovës]].
+'''Bresje''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

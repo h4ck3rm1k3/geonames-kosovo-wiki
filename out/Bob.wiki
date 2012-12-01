@@ -1,10 +1,26 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Bob
- | EmriAlt                = Bob
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      BOB
+ | FULL_NAME_RO = Bob
+ | FULL_NAME_ND_RO=Bob
+ | SORT_NAME_RG=BOB
+ | FULL_NAME_RG=Bob
+ | FULL_NAME_ND_RG=Bob
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
- | Komuna              = Gjilan
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -14,19 +30,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.34722
- | Gjatësia            = 20.34667
+ | Gjerësia            = 42.2275
+ | Gjatësia            = 21.250556
  | Lartësia            = 
 }}
-'''Bob''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
+'''Bob''' është një [[]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Gjilan}}
+{{Komuna Klinë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
 [[Kategoria:Vendbanime në Kosovës]]

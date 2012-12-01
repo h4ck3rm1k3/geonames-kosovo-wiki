@@ -1,9 +1,25 @@
-{{Fshat në Kosovës
+{{Fshat në 
  | Emri                = Bardhi i Madh
- | EmriAlt                = Bardhi i Madh,Bellaqefci i Madh,Veliki Belacevac,Veliki Belaćevac,Велики Белаћевац
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      BARDHIIMADH
+ | FULL_NAME_RO = Bardhi i Madh
+ | FULL_NAME_ND_RO=Bardhi i Madh
+ | SORT_NAME_RG=BARDHIIMADH
+ | FULL_NAME_RG=Bardhi i Madh
+ | FULL_NAME_ND_RG=Bardhi i Madh
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = Kosovës
+ | Shteti              = Kosovo
  | Komuna              = Gllogovc
  | Kodi postar         = 
  | Sipërfaqja          = 
@@ -14,11 +30,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.63704
+ | Gjerësia            = 42.637042
  | Gjatësia            = 21.02616
  | Lartësia            = 
 }}
-'''Bardhi i Madh''' është një [[Fshati]] në [[Gllogovc]] të [[Kosovës]].
+'''Bardhi i Madh''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
