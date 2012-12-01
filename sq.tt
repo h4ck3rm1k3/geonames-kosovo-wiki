@@ -15,7 +15,7 @@
  | Gjatësia            = [% long %]
  | Lartësia            = [% elevation %]
 }}
-'''[% Name %]''' është një [[% typename %]] në [[ [% municipality %] ]] të [[ [% country2 %] ]].
+'''[% name %]''' është një [[[% typename %]]] në [[ [% municipality %] ]] të [[ [% country2 %] ]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
