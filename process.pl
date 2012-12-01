@@ -92,37 +92,44 @@ while (<IN>) {
     next unless $featureclass eq "P";
     next unless $featurecode eq "PPL";
 
-    warn  "Muni:$admin1code unknown for $name " unless     exists($munis{$admin1code});
+#    warn  "Muni:$admin1code unknown for $name " unless     exists($munis{$admin1code});
     next unless exists($munis{$admin1code});
 
 	
 #    warn "processing $name in 1:$admin1code 2:$admin2code 3:$admin3code 4:$admin4code of type: $featureclass  type2: $featurecode  
 #$countrycode
 #";
+    my $data= {
+	geoname => $geonameid, 
+	name => $name,
+	asciiname =>$asciiname , 
+	altname => $alternatenames, 
+	lat => $latitude, 
+	long => $longitude,
+	featureclass => $featureclass,
+	featurecode => $featurecode,
+	typename => $featurecodes{$featurecode},
+	countrycode => $countrycode,
+	country => $country{$countrycode},
+	country2 => $country2{$countrycode},
+	cc2=> $cc2,
+	admin1code => $admin1code,
+	municipality => $munis{$admin1code},
+	admin2code =>$admin2code,
+	admin3code =>$admin3code, 
+	admin4code => $admin4code,
+	elevation  =>$elevation, 
+	dem => $dem, 
+    };
+
+    if ($population ne "0" ) 
+    {
+	warn "$name $population";
+	$data->{population} =$population;
+    };
+
     $template->process("sq.tt",
-		       {
-			   geoname => $geonameid, 
-			   name => $name,
-			   asciiname =>$asciiname , 
-			   altname => $alternatenames, 
-			   lat => $latitude, 
-			   long => $longitude,
-			   featureclass => $featureclass,
-			   featurecode => $featurecode,
-			   typename => $featurecodes{$featurecode},
-			   countrycode => $countrycode,
-			   country => $country{$countrycode},
-			   country2 => $country2{$countrycode},
-			   cc2=> $cc2,
-			   admin1code => $admin1code,
-			   municipality => $munis{$admin1code},
-			   admin2code =>$admin2code,
-			   admin3code =>$admin3code, 
-			   admin4code => $admin4code,
-			   population =>$population, 
-			   elevation  =>$elevation, 
-			   dem => $dem, 
-		       }, 
+		       $data, 
 "out/$name.wiki"
 	);   
 }

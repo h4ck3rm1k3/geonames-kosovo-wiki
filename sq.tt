@@ -1,4 +1,4 @@
-{{Fshat në [% Country %]
+{{Fshat në [% country2 %]
  | Emri                = [% name %]
  | Emri (Rasa dhanore) = 
  | Figura              = 
@@ -6,7 +6,11 @@
  | Komuna              = [% municipality %]
  | Kodi postar         = 
  | Sipërfaqja          = 
+[% if population %]
  | Popullsia           = [% population %]
+[% else %]
+ | Popullsia           = 
+[% endif %]
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +19,7 @@
  | Gjatësia            = [% long %]
  | Lartësia            = [% elevation %]
 }}
-'''[% name %]''' është një [[[% typename %]]] në [[ [% municipality %] ]] të [[ [% country2 %] ]].
+'''[% name %]''' është një [[[% typename %]]] në [[[% municipality %]]] të [[[% country2 %]]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
