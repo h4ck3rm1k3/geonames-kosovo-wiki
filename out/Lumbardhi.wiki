@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lumbardhi
+ | EmriAlt                = Ljumbardh,Lumbarda,Lumbardh,Lumbardhe,Lumbardhi,Lumbardhë,Лумбарда
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 1500
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.34667
  | Lartësia            = 
 }}
-'''Lumbardhi''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Lumbardhi''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

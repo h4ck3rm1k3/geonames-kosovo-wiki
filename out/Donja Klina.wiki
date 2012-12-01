@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donja Klina
+ | EmriAlt                = Dona Klina,Donja Klina,Klina e Poshteme,Klina e Poshtëme,Klina e Ulte,Klina e Ultë,Kline e Poshtme,Klinë e Poshtme,Доња Клина
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Suharekë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.79028
  | Lartësia            = 
 }}
-'''Donja Klina''' është një [[Fshati]] në [[ Suharekë ]] të [[ Kosovës ]].
+'''Donja Klina''' është një [[Fshati]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

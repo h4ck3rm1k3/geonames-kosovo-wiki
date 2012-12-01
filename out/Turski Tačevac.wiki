@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Turski Tačevac
+ | EmriAlt                = Turski Tacevac,Turski Tačevac
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.14528
  | Lartësia            = 
 }}
-'''Turski Tačevac''' është një [[Fshati]] në [[ Podujevë ]] të [[ Kosovës ]].
+'''Turski Tačevac''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

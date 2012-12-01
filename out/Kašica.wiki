@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kašica
+ | EmriAlt                = Drinas,Drinasi,Kashica,Kashice,Kashicë,Kasica,Kašica,Кашица
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kamenicë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.40444
  | Lartësia            = 
 }}
-'''Kašica''' është një [[Fshati]] në [[ Kamenicë ]] të [[ Kosovës ]].
+'''Kašica''' është një [[Fshati]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

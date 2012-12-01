@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lopuški Han
+ | EmriAlt                = Lopuski Han,Lopuški Han
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Dragash
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.65028
  | Lartësia            = 
 }}
-'''Lopuški Han''' është një [[Fshati]] në [[ Dragash ]] të [[ Kosovës ]].
+'''Lopuški Han''' është një [[Fshati]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

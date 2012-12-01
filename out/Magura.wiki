@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Magura
+ | EmriAlt                = Magura,Magure,Magurë,Магура
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Malishevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.01023
  | Lartësia            = 
 }}
-'''Magura''' është një [[Fshati]] në [[ Malishevë ]] të [[ Kosovës ]].
+'''Magura''' është një [[Fshati]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

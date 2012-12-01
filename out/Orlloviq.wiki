@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Orlloviq
+ | EmriAlt                = Orlaj,Orlloviq,Orlovic,Orlović,Орловић
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prishtinë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.12366
  | Lartësia            = 
 }}
-'''Orlloviq''' është një [[Fshati]] në [[ Prishtinë ]] të [[ Kosovës ]].
+'''Orlloviq''' është një [[Fshati]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

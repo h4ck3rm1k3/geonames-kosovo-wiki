@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kokince
+ | EmriAlt                = Kokince
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Istog
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.57944
  | Lartësia            = 
 }}
-'''Kokince''' është një [[Fshati]] në [[ Istog ]] të [[ Kosovës ]].
+'''Kokince''' është një [[Fshati]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

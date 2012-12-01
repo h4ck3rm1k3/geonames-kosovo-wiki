@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Muhaxher
+ | EmriAlt                = Muhadzeri,Muhadžeri,Muhaxher,Mukhadzeri,Мухаџери
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gjakovë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.09278
  | Lartësia            = 
 }}
-'''Muhaxher''' është një [[Fshati]] në [[ Gjakovë ]] të [[ Kosovës ]].
+'''Muhaxher''' është një [[Fshati]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

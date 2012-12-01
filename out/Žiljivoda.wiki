@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Žiljivoda
+ | EmriAlt                = Zeli Voda,Zhilivoda,Zhilivode,Zhilivodë,Zilivoda,Ziljivoda,Želi Voda,Žilivoda,Žiljivoda,Жиливода
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Vushtrri
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.99
  | Lartësia            = 
 }}
-'''Žiljivoda''' është një [[Fshati]] në [[ Vushtrri ]] të [[ Kosovës ]].
+'''Žiljivoda''' është një [[Fshati]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

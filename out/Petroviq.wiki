@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Petroviq
+ | EmriAlt                = Petrovic,Petrovici,Petroviq,Petrović,Petrovići,Петровић
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Shtime
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.04056
  | Lartësia            = 
 }}
-'''Petroviq''' është një [[Fshati]] në [[ Shtime ]] të [[ Kosovës ]].
+'''Petroviq''' është një [[Fshati]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

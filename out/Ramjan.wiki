@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ramjan
+ | EmriAlt                = Done Ramnane,Donje Ramjane,Donje Ramnjane,Ramjan,Ramjan i Poshtem,Ramjan i Poshtëm,Ramjani,Ramjani i Poshtem,Ramjani i Poshtëm,Ramnjane,Доње Рамњане
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.31028
  | Lartësia            = 
 }}
-'''Ramjan''' është një [[Fshati]] në [[ Viti ]] të [[ Kosovës ]].
+'''Ramjan''' është një [[Fshati]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

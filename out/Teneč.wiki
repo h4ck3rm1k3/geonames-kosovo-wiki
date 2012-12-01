@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Teneč
+ | EmriAlt                = Tenec,Tenec Mahala,Teneć Mahala,Teneč
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Klinë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.25361
  | Lartësia            = 
 }}
-'''Teneč''' është një [[Fshati]] në [[ Klinë ]] të [[ Kosovës ]].
+'''Teneč''' është një [[Fshati]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

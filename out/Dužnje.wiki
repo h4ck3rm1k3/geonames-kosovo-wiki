@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dužnje
+ | EmriAlt                = Duzhne,Duzhnje,Duzhnjë,Duznje,Dužnje,Дужње
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.34139
  | Lartësia            = 
 }}
-'''Dužnje''' është një [[Fshati]] në [[ Gjilan ]] të [[ Kosovës ]].
+'''Dužnje''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kojuš
+ | EmriAlt                = Kajush,Kojus,Kojusa,Kojush,Kojushe,Kojushë,Kojuš,Kojuša,Konjusha,Koujsha,Којуш
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.61056
  | Lartësia            = 
 }}
-'''Kojuš''' është një [[Fshati]] në [[ Prizren ]] të [[ Kosovës ]].
+'''Kojuš''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

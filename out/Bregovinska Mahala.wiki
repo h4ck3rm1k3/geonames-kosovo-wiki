@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bregovinska Mahala
+ | EmriAlt                = Bregovinska Mahala
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Vushtrri
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.04255
  | Lartësia            = 
 }}
-'''Bregovinska Mahala''' është një [[Fshati]] në [[ Vushtrri ]] të [[ Kosovës ]].
+'''Bregovinska Mahala''' është një [[Fshati]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

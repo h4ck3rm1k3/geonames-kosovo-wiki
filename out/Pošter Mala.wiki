@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pošter Mala
+ | EmriAlt                = Poster Mala,Pošter Mala
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Shtime
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.98917
  | Lartësia            = 
 }}
-'''Pošter Mala''' është një [[Fshati]] në [[ Shtime ]] të [[ Kosovës ]].
+'''Pošter Mala''' është një [[Fshati]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

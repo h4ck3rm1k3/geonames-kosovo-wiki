@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornji Grabovac
+ | EmriAlt                = Gorni Grabovac,Gornji Grabovac,Graboc i Eperm,Graboc i Epërm,Grabovci i Eperm,Grabovci i Epërm,Горњи Грабовац
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Rahovec
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.985
  | Lartësia            = 
 }}
-'''Gornji Grabovac''' është një [[Fshati]] në [[ Rahovec ]] të [[ Kosovës ]].
+'''Gornji Grabovac''' është një [[Fshati]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

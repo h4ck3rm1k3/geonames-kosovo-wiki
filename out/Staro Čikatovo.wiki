@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Staro Čikatovo
+ | EmriAlt                = Cikalovo,Cikatova,Cikatova e Vjeter,Cikatova e Vjetër,Cikatove,Cikatove e Vjeter,Cikatovo,Qikatove e Vjeter,Qikatovë e Vjetër,Staro Chikatovo,Staro Cikatovo,Staro Ćikatovo,Staro Čikatovo,Çikatova,Çikatovë,Çikatovë e Vjetër,Čikalovo,Čikatovo,Старо Ћикатово,Старо Чикатово
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.90778
  | Lartësia            = 
 }}
-'''Staro Čikatovo''' është një [[Fshati]] në [[ Kaçanik ]] të [[ Kosovës ]].
+'''Staro Čikatovo''' është një [[Fshati]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

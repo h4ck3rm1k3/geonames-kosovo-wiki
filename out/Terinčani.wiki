@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Terinčani
+ | EmriAlt                = Perincani,Perinčani,Terincani,Terinčani,Tirincani,Tirinčani
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Obiliq
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.38889
  | Lartësia            = 
 }}
-'''Terinčani''' është një [[Fshati]] në [[ Obiliq ]] të [[ Kosovës ]].
+'''Terinčani''' është një [[Fshati]] në [[Obiliq]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

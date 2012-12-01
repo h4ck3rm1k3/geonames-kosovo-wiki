@@ -1,16 +1,17 @@
 {{Fshat në [% country2 %]
  | Emri                = [% name %]
+ | EmriAlt                = [% altname %]
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = [% country %]
  | Komuna              = [% municipality %]
  | Kodi postar         = 
  | Sipërfaqja          = 
-[% if population %]
+[% IF population  %]
  | Popullsia           = [% population %]
-[% else %]
+[% ELSE %]
  | Popullsia           = 
-[% endif %]
+[% END %]
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 

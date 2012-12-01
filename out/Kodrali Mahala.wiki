@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kodrali Mahala
+ | EmriAlt                = Kodrali Mahala
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Vushtrri
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.07133
  | Lartësia            = 
 }}
-'''Kodrali Mahala''' është një [[Fshati]] në [[ Vushtrri ]] të [[ Kosovës ]].
+'''Kodrali Mahala''' është një [[Fshati]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

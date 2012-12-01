@@ -99,6 +99,10 @@ while (<IN>) {
 #    warn "processing $name in 1:$admin1code 2:$admin2code 3:$admin3code 4:$admin4code of type: $featureclass  type2: $featurecode  
 #$countrycode
 #";
+
+#    my @names= split ",", $alternatenames;
+#    warn length(@names);
+
     my $data= {
 	geoname => $geonameid, 
 	name => $name,
@@ -124,14 +128,15 @@ while (<IN>) {
 
     if ($population ne "0" ) 
     {
-	warn "$name $population";
+#	warn "$name $population";
 	$data->{population} =$population;
     };
 
     $template->process("sq.tt",
 		       $data, 
-"out/$name.wiki"
-	);   
+		       "out/$name.wiki"
+	) || die $template->error(), "\n";
+
 }
 
 close IN;

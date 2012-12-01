@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kosuriq
+ | EmriAlt                = Kosuric,Kosuriq,Kosurić,Косурић
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 1200
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.46472
  | Lartësia            = 420
 }}
-'''Kosuriq''' është një [[Fshati]] në [[ Pejë ]] të [[ Kosovës ]].
+'''Kosuriq''' është një [[Fshati]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

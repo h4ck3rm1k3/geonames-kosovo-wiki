@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Hoça e qytetit
+ | EmriAlt                = Hoca,Hoca Zagradska,Hoca e Qytetit,Hoce,Hoce e Qytetit,Hoqe,Hoqë,Hoça,Hoça e Qytetit,Hoçë,Hoçë e Qytetit,Hoča Zagradska,Khocha Zagradska,Хоча Заградска
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.69139
  | Lartësia            = 
 }}
-'''Hoça e qytetit''' është një [[Fshati]] në [[ Prizren ]] të [[ Kosovës ]].
+'''Hoça e qytetit''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

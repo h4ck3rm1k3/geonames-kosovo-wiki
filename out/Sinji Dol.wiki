@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sinji Dol
+ | EmriAlt                = Sini Dol,Sinidol,Sinji Dol,Сињи Дол
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prishtinë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.16966
  | Lartësia            = 
 }}
-'''Sinji Dol''' është një [[Fshati]] në [[ Prishtinë ]] të [[ Kosovës ]].
+'''Sinji Dol''' është një [[Fshati]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lisica
+ | EmriAlt                = Lisi,Lisica,Lisice,Lisicë,Лисица
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.88333
  | Lartësia            = 
 }}
-'''Lisica''' është një [[Fshati]] në [[ Novobërdë ]] të [[ Kosovës ]].
+'''Lisica''' është një [[Fshati]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

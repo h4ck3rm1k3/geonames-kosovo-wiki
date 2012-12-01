@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Jekić
+ | EmriAlt                = Jekic,Jekić,Mjekic,Mjekić
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Rahovec
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.97278
  | Lartësia            = 
 }}
-'''Jekić''' është një [[Fshati]] në [[ Rahovec ]] të [[ Kosovës ]].
+'''Jekić''' është një [[Fshati]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

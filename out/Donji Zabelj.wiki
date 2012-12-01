@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donji Zabelj
+ | EmriAlt                = Doni Zabel,Donji Zabel,Donji Zabelj,Zabel i Poshtem,Zabel i Poshtëm,Zabel i Ulte,Zabel i Ultë,Zabeli i Poshtem,Zabeli i Poshtëm,Zabeli i Ulet,Zabeli i Ulte,Zabeli i Ultë,Zabeli i Ulët,Доњи Забељ
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.89361
  | Lartësia            = 
 }}
-'''Donji Zabelj''' është një [[Fshati]] në [[ Kaçanik ]] të [[ Kosovës ]].
+'''Donji Zabelj''' është një [[Fshati]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

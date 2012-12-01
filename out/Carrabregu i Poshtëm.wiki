@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Carrabregu i Poshtëm
+ | EmriAlt                = Carabreg i Ulet,Carabreg i Ulët,Carrabreg i Poshtem,Carrabregu i Poshtem,Carrabregu i Poshtëm,Cerrabreg,Crnabreg,Crni Breg,Cërrabreg,Qarrabregu i Poshtem,Qarrabregu i Poshtëm
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.29806
  | Lartësia            = 
 }}
-'''Carrabregu i Poshtëm''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Carrabregu i Poshtëm''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

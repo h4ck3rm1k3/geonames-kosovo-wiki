@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kneževo Brdo
+ | EmriAlt                = Knezevo Brdo,Kneževo Brdo
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.89167
  | Lartësia            = 
 }}
-'''Kneževo Brdo''' është një [[Fshati]] në [[ Lipjan ]] të [[ Kosovës ]].
+'''Kneževo Brdo''' është një [[Fshati]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

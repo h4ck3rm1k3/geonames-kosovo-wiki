@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Beqiq
+ | EmriAlt                = Bechic,Becic,Beciq,Beqiq,Beçiq,Bečić,Бечић
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Vushtrri
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.89056
  | Lartësia            = 
 }}
-'''Beqiq''' është një [[Fshati]] në [[ Vushtrri ]] të [[ Kosovës ]].
+'''Beqiq''' është një [[Fshati]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

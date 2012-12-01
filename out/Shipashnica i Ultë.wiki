@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shipashnica i Ultë
+ | EmriAlt                = Gorna Shipashnica,Gornja Sipasnica,Gornja Šipašnica,Shipashice,Shipashicë,Shipashnica i Ulte,Shipashnica i Ultë,Shipashnice e Eperme,Shipashnicë e Epërme,Shpati i Eperm,Shpati i Epërm,Sipasnica Gornja,Šipašnica Gornja,Горња Шипашница
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Fushë Kosovë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.66444
  | Lartësia            = 
 }}
-'''Shipashnica i Ultë''' është një [[Fshati]] në [[ Fushë Kosovë ]] të [[ Kosovës ]].
+'''Shipashnica i Ultë''' është një [[Fshati]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

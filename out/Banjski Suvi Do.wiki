@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Banjski Suvi Do
+ | EmriAlt                = Banjski Suvi Do,Banski Suvi Do,Suhadoll i Banjes,Suhadoll i Banjës,Suvi Do,Бањски Суви До
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Zveçan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.75167
  | Lartësia            = 
 }}
-'''Banjski Suvi Do''' është një [[Fshati]] në [[ Zveçan ]] të [[ Kosovës ]].
+'''Banjski Suvi Do''' është një [[Fshati]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

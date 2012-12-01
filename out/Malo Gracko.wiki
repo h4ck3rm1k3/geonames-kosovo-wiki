@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Malo Gracko
+ | EmriAlt                = Gracka i Vogel,Gracka i Vogël,Gracke,Gracke e Vogel,Grackë,Grackë e Vogël,Malo Gracko,Staro Gracko,Мало Грацко
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Malishevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.09833
  | Lartësia            = 
 }}
-'''Malo Gracko''' është një [[Fshati]] në [[ Malishevë ]] të [[ Kosovës ]].
+'''Malo Gracko''' është një [[Fshati]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

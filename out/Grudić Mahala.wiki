@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Grudić Mahala
+ | EmriAlt                = Grudic Mahala,Grudić Mahala
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Suharekë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.82417
  | Lartësia            = 
 }}
-'''Grudić Mahala''' është një [[Fshati]] në [[ Suharekë ]] të [[ Kosovës ]].
+'''Grudić Mahala''' është një [[Fshati]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

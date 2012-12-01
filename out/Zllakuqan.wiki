@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zllakuqan
+ | EmriAlt                = Zllakuqan,Zllakuqi,Zllokuqan,Zlokucane,Zlokućane,Злокућане
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Malishevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.02185
  | Lartësia            = 
 }}
-'''Zllakuqan''' është një [[Fshati]] në [[ Malishevë ]] të [[ Kosovës ]].
+'''Zllakuqan''' është një [[Fshati]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

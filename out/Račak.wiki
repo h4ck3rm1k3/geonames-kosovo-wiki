@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Račak
+ | EmriAlt                = Racak,Rachak,Raçak,Račak,Recak,Reçak,Рачак
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Shtime
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.01639
  | Lartësia            = 
 }}
-'''Račak''' është një [[Fshati]] në [[ Shtime ]] të [[ Kosovës ]].
+'''Račak''' është një [[Fshati]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

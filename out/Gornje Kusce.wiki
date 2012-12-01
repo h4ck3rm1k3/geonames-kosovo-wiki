@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornje Kusce
+ | EmriAlt                = Gorne Kusce,Gornje Kusce,Kufce e Eperme,Kufcë e Epërme,Kuske e Eperme,Kuskë e Epërme,Горње Кусце
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Istog
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.48222
  | Lartësia            = 
 }}
-'''Gornje Kusce''' është një [[Fshati]] në [[ Istog ]] të [[ Kosovës ]].
+'''Gornje Kusce''' është një [[Fshati]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

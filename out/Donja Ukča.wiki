@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donja Ukča
+ | EmriAlt                = Donja Ukca,Donja Ukča
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kamenicë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.61278
  | Lartësia            = 
 }}
-'''Donja Ukča''' është një [[Fshati]] në [[ Kamenicë ]] të [[ Kosovës ]].
+'''Donja Ukča''' është një [[Fshati]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

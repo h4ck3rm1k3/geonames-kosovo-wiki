@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gavaz
+ | EmriAlt                = Gavaz,Гаваз
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Mitrovicë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.86222
  | Lartësia            = 
 }}
-'''Gavaz''' është një [[Fshati]] në [[ Mitrovicë ]] të [[ Kosovës ]].
+'''Gavaz''' është një [[Fshati]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

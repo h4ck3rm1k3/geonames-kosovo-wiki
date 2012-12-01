@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vujanov Mahala
+ | EmriAlt                = Butovac,Vujanov Mahala
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prishtinë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.25389
  | Lartësia            = 
 }}
-'''Vujanov Mahala''' është një [[Fshati]] në [[ Prishtinë ]] të [[ Kosovës ]].
+'''Vujanov Mahala''' është një [[Fshati]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

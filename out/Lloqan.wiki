@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lloqan
+ | EmriAlt                = Llocan,Llocani,Lloqan,Lloqani,Lloçan,Lloçani,Locan,Locane,Loçan,Loćane,Лоћане
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 1050
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.28083
  | Lartësia            = 
 }}
-'''Lloqan''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Lloqan''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

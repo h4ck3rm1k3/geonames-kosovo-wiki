@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sendo
+ | EmriAlt                = Sende,Sendo,Sendoje,Sendojë,Sendë,Сендо
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Zveçan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.81028
  | Lartësia            = 
 }}
-'''Sendo''' është një [[Fshati]] në [[ Zveçan ]] të [[ Kosovës ]].
+'''Sendo''' është një [[Fshati]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prelez i Muhaxher
+ | EmriAlt                = Muhadzer Prelez,Muhadžer Prelez,Mukhadzer Prelez,Prelez i Muhaxher,Prelez i Muhaxhereve,Prelez i Muhaxherve,Prelez i Muhaxherëve,Prelezi Muhaxher,Мухаџер Прелез
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gjakovë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.16694
  | Lartësia            = 
 }}
-'''Prelez i Muhaxher''' është një [[Fshati]] në [[ Gjakovë ]] të [[ Kosovës ]].
+'''Prelez i Muhaxher''' është një [[Fshati]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

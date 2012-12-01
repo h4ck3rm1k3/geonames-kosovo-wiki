@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Glavnik
+ | EmriAlt                = Glavnik,Gllamnik,Gllamniku,Gllavnik,Vendenis,Vendenisi,Главник
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.18537
  | Lartësia            = 
 }}
-'''Glavnik''' është një [[Fshati]] në [[ Podujevë ]] të [[ Kosovës ]].
+'''Glavnik''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

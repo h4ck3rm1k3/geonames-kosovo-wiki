@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Potoqan
+ | EmriAlt                = Done Potochane,Donje Potocane,Donje Potočane,Patacan i Poshtem,Pataçan i Poshtëm,Potocani i Ulte,Potoqan,Potoqan i Ulet,Potoqan i Ulët,Potoçani i Ultë,Доње Поточане
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.605
  | Lartësia            = 
 }}
-'''Potoqan''' është një [[Fshati]] në [[ Skënderaj ]] të [[ Kosovës ]].
+'''Potoqan''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

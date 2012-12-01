@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Jelloc
+ | EmriAlt                = Celina,Celine,Jelloc,Jelloci,Jelovac,Çelina,Çelinë,Јеловац
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.66917
  | Lartësia            = 
 }}
-'''Jelloc''' është një [[Fshati]] në [[ Albanik ]] të [[ Kosovës ]].
+'''Jelloc''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

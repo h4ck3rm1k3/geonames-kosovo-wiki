@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lužnica
+ | EmriAlt                = Ljuznica,Ljužnica,Lluzhinice,Lluzhinicë,Lushice,Lushicë,Luzhnica,Luzhnice,Luzhnicë,Luznica,Lužnica,Лужница
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Ferizaj
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.89472
  | Lartësia            = 
 }}
-'''Lužnica''' është një [[Fshati]] në [[ Ferizaj ]] të [[ Kosovës ]].
+'''Lužnica''' është një [[Fshati]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Husenović Mahala
+ | EmriAlt                = Hisenovic Mahala,Hisenović Mahala,Husenovic Mahala,Husenović Mahala
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.79833
  | Lartësia            = 
 }}
-'''Husenović Mahala''' është një [[Fshati]] në [[ Kaçanik ]] të [[ Kosovës ]].
+'''Husenović Mahala''' është një [[Fshati]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

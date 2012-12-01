@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Planeja
+ | EmriAlt                = Plane,Planeja,Planeje,Planejë,Pljaneja,Pllaneje,Pllanejë,Планеја
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.57806
  | Lartësia            = 
 }}
-'''Planeja''' është një [[Fshati]] në [[ Prizren ]] të [[ Kosovës ]].
+'''Planeja''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

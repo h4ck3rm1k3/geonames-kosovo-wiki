@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Buđenica
+ | EmriAlt                = Budenica,Buđenica,Mahala Budenica,Mahala Buđenica
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Fushë Kosovë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.51667
  | Lartësia            = 
 }}
-'''Buđenica''' është një [[Fshati]] në [[ Fushë Kosovë ]] të [[ Kosovës ]].
+'''Buđenica''' është një [[Fshati]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

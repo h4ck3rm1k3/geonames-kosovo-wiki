@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Čerkez Sadovina
+ | EmriAlt                = Cerkez Sadovina,Cherkez Sadovina,Sadovina e Cerkez,Sadovina e Çerkez,Sadovine e Cerkezeve,Sadovine e Cerkezve,Sadovinë e Çerkezve,Sadovinë e Çerkezëve,Sadovona e Cerkez,Sadovona e Çerkez,Čerkez Sadovina,Черкез Садовина
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.28
  | Lartësia            = 
 }}
-'''Čerkez Sadovina''' është një [[Fshati]] në [[ Viti ]] të [[ Kosovës ]].
+'''Čerkez Sadovina''' është një [[Fshati]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

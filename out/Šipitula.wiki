@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Šipitula
+ | EmriAlt                = Shipitula,Shipitulle,Shipitullë,Sipitula,Šipitula,Шипитула
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Rahovec
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.00306
  | Lartësia            = 
 }}
-'''Šipitula''' është një [[Fshati]] në [[ Rahovec ]] të [[ Kosovës ]].
+'''Šipitula''' është një [[Fshati]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

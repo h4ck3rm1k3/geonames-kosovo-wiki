@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zrnosek
+ | EmriAlt                = Zernosek,Zrnosek,Zërnosek,Зрносек
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.82583
  | Lartësia            = 
 }}
-'''Zrnosek''' është një [[Fshati]] në [[ Lipjan ]] të [[ Kosovës ]].
+'''Zrnosek''' është një [[Fshati]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

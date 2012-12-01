@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Čitluk
+ | EmriAlt                = Chitluk,Citlluk,Citluk,Çitlluk,Čitluk,Читлук
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Zubin Potok
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.70917
  | Lartësia            = 
 }}
-'''Čitluk''' është një [[Fshati]] në [[ Zubin Potok ]] të [[ Kosovës ]].
+'''Čitluk''' është një [[Fshati]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

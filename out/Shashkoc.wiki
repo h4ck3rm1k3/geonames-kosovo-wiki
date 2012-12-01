@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shashkoc
+ | EmriAlt                = Saskovac,Saskovce,Shashkoc,Shashkovac,Shashkovc,Šaškovac,Шашковац
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prishtinë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.22944
  | Lartësia            = 
 }}
-'''Shashkoc''' është një [[Fshati]] në [[ Prishtinë ]] të [[ Kosovës ]].
+'''Shashkoc''' është një [[Fshati]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

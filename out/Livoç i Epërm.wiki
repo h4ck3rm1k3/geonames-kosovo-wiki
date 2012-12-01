@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Livoç i Epërm
+ | EmriAlt                = Gorni Livoc,Gornji Livoc,Gornji Livoč,Livoc i Eperm,Livoci i Eperm,Livoq i Eperm,Livoq i Epërm,Livoç i Epërm,Livoçi i Epërm,Горњи Ливоц
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Istog
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.43111
  | Lartësia            = 
 }}
-'''Livoç i Epërm''' është një [[Fshati]] në [[ Istog ]] të [[ Kosovës ]].
+'''Livoç i Epërm''' është një [[Fshati]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

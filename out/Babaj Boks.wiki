@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Babaj Boks
+ | EmriAlt                = Babaj Baks,Babaj Bokes,Babaj Boks,Babaj Bokës,Babaj i Bokes,Babaj i Bokës,Бабај Бокс
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.33417
  | Lartësia            = 
 }}
-'''Babaj Boks''' është një [[Fshati]] në [[ Gjilan ]] të [[ Kosovës ]].
+'''Babaj Boks''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

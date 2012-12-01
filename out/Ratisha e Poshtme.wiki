@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ratisha e Poshtme
+ | EmriAlt                = Doni Ratish,Donji Ratis,Donji Ratiš,Qendresa e Poshtme,Qëndresa e Poshtme,Ratish i Ulte,Ratish i Ultë,Ratisha e Poshtme,Ratishi i Ulet,Ratishi i Ulte,Ratishi i Ultë,Ratishi i Ulët,Raush i Poshtem,Raush i Poshtëm,Доњи Ратиш
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.39083
  | Lartësia            = 
 }}
-'''Ratisha e Poshtme''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Ratisha e Poshtme''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

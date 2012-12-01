@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Podujeva
+ | EmriAlt                = Besiana,Besiane,Besianë,Podjeve,Podjevë,Podujeva,Podujeve,Podujevo,Podujevë,Podujevó
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 35000
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.19306
  | Lartësia            = 
 }}
-'''Podujeva''' është një [[Fshati]] në [[ Podujevë ]] të [[ Kosovës ]].
+'''Podujeva''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

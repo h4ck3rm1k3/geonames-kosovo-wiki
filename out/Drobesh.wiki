@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Drobesh
+ | EmriAlt                = Drobes,Drobesh,Drobeshe,Drobeshi,Drobeshë,Drobeš,Дробеш
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.33611
  | Lartësia            = 
 }}
-'''Drobesh''' është një [[Fshati]] në [[ Viti ]] të [[ Kosovës ]].
+'''Drobesh''' është një [[Fshati]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Miđanska Mahala
+ | EmriAlt                = Midanska Mahala,Miđanska Mahala
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Rahovec
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.01044
  | Lartësia            = 
 }}
-'''Miđanska Mahala''' është një [[Fshati]] në [[ Rahovec ]] të [[ Kosovës ]].
+'''Miđanska Mahala''' është një [[Fshati]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

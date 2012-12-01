@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Eleza
+ | EmriAlt                = Elez,Eleza,Elezaj,Eljeza,Елеза
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Klinë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.18361
  | Lartësia            = 
 }}
-'''Eleza''' është një [[Fshati]] në [[ Klinë ]] të [[ Kosovës ]].
+'''Eleza''' është një [[Fshati]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

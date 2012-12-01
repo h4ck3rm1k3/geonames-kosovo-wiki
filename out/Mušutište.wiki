@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mušutište
+ | EmriAlt                = Mushitishte,Mushitishtë,Mushtisht,Mushtishte,Mushtishtë,Mushutishte,Musutiste,Mušutište,Мушутиште
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Ferizaj
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.88944
  | Lartësia            = 
 }}
-'''Mušutište''' është një [[Fshati]] në [[ Ferizaj ]] të [[ Kosovës ]].
+'''Mušutište''' është një [[Fshati]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

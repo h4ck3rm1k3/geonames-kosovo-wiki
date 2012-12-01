@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pjetriq
+ | EmriAlt                = Gorni Petrich,Gornji Peterc,Gornji Peterč,Gornji Petric,Gornji Petrič,Gornji Poterc,Gornji Poterč,Petriq i Eperm,Petriq i Epërm,Pjeterq i Eperm,Pjetriq,Pjetërq i Epërm,Poterci,Poterçi,Potriq i Siperm,Potriq i Sipërm,Горњи Петрич
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.48611
  | Lartësia            = 
 }}
-'''Pjetriq''' është një [[Fshati]] në [[ Albanik ]] të [[ Kosovës ]].
+'''Pjetriq''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

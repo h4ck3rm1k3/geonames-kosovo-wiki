@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Muhuxhirt
+ | EmriAlt                = Muhudziri,Mukhudziri,Мухудзири
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Fushë Kosovë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.67278
  | Lartësia            = 
 }}
-'''Muhuxhirt''' është një [[Fshati]] në [[ Fushë Kosovë ]] të [[ Kosovës ]].
+'''Muhuxhirt''' është një [[Fshati]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

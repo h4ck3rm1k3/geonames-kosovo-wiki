@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donja Pakaštica
+ | EmriAlt                = Albona e Poshtme,Dona Pakashtica,Donja Pakastica,Donja Pakaštica,Pakashtica e Poshtme,Pakashtice e Poshteme,Pakashtice e Poshtme,Pakashticë e Poshtme,Pakashticë e Poshtëme,Pakastica,Pakaštica,Доња Пакаштица
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.13501
  | Lartësia            = 
 }}
-'''Donja Pakaštica''' është një [[Fshati]] në [[ Podujevë ]] të [[ Kosovës ]].
+'''Donja Pakaštica''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mali Zvečan
+ | EmriAlt                = Mali Zvecan,Mali Zvechan,Mali Zvečan,Zvecan,Zvecan i Vogel,Zvechan,Zveçan i Vogël,Zvečan,Звечан,Мали Звечан
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Zveçan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.84944
  | Lartësia            = 
 }}
-'''Mali Zvečan''' është një [[Fshati]] në [[ Zveçan ]] të [[ Kosovës ]].
+'''Mali Zvečan''' është një [[Fshati]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

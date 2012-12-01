@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kaçanik i Vjetër
+ | EmriAlt                = Kacanik i Vjeter,Kacaniku i Vjeter,Kaçanik i Vjetër,Kaçaniku i Vjetër,Stari Kacanik,Stari Kachanik,Stari Kačanik,Staro Kacanik,Staro Kačanik,Стари Качаник
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Klinë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.22306
  | Lartësia            = 
 }}
-'''Kaçanik i Vjetër''' është një [[Fshati]] në [[ Klinë ]] të [[ Kosovës ]].
+'''Kaçanik i Vjetër''' është një [[Fshati]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

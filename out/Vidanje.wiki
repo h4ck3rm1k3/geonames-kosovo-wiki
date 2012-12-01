@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vidanje
+ | EmriAlt                = Vidane,Vidanje,Vide,Videja,Videje,Videjë,Видање
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.54889
  | Lartësia            = 
 }}
-'''Vidanje''' është një [[Fshati]] në [[ Albanik ]] të [[ Kosovës ]].
+'''Vidanje''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

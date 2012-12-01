@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kabash i Hasit
+ | EmriAlt                = Kabas,Kabas Has,Kabash,Kabash Khas,Kabash i Hasit,Kabashi i Hasit,Kabaš,Kabaš Has,Кабаш Хас
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.55417
  | Lartësia            = 
 }}
-'''Kabash i Hasit''' është një [[Fshati]] në [[ Prizren ]] të [[ Kosovës ]].
+'''Kabash i Hasit''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

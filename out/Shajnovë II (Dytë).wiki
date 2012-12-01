@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shajnovë II (Dytë)
+ | EmriAlt                = Shajne II (Dyte),Shajnë II (Dytë)
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Dragash
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.74667
  | Lartësia            = 
 }}
-'''Shajnovë II (Dytë)''' është një [[Fshati]] në [[ Dragash ]] të [[ Kosovës ]].
+'''Shajnovë II (Dytë)''' është një [[Fshati]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

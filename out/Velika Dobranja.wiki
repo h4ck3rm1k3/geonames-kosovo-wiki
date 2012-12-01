@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Velika Dobranja
+ | EmriAlt                = Dobraja e Madhe,Dobraje e Madhe,Dobrajë e Madhe,Dobranja,Velika Dobrana,Velika Dobranja,Велика Добрања
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Malishevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.04417
  | Lartësia            = 
 }}
-'''Velika Dobranja''' është një [[Fshati]] në [[ Malishevë ]] të [[ Kosovës ]].
+'''Velika Dobranja''' është një [[Fshati]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

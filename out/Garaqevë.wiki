@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Garaqevë
+ | EmriAlt                = Garacevo,Garaqeve,Garaqevë,Garačevo,Gorachevo,Горачево
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Mitrovicë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.64444
  | Lartësia            = 
 }}
-'''Garaqevë''' është një [[Fshati]] në [[ Mitrovicë ]] të [[ Kosovës ]].
+'''Garaqevë''' është një [[Fshati]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

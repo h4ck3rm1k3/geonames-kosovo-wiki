@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mitrovicë
+ | EmriAlt                = Kosovska Mitrovica,Mitrovica,Mitrovice,Mitrovicë,Косовска Митровица
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 107045
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.86667
  | Lartësia            = 
 }}
-'''Mitrovicë''' është një [[Fshati]] në [[ Novobërdë ]] të [[ Kosovës ]].
+'''Mitrovicë''' është një [[Fshati]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

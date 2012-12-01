@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Irzniq
+ | EmriAlt                = Irzniq,Irzniqi,Rrezar,Rrezari,Rrezniq,Rrznic,Rrznić,Rrëzniq,Rznic,Rznić,Рзнић
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 2200
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.34722
  | Lartësia            = 
 }}
-'''Irzniq''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Irzniq''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

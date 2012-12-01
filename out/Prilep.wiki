@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prilep
+ | EmriAlt                = Arrnjet,Arrnjeti,Perlep,Prejlep,Prejlepi,Prelep,Prilep,Prilip,Përlep,Прилеп
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 2500
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.31778
  | Lartësia            = 
 }}
-'''Prilep''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Prilep''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

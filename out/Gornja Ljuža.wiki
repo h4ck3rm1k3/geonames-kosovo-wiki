@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornja Ljuža
+ | EmriAlt                = Gornja Ljuza,Gornja Ljuža,Ljuza,Ljuža,Luza,Luža
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Klinë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.26222
  | Lartësia            = 
 }}
-'''Gornja Ljuža''' është një [[Fshati]] në [[ Klinë ]] të [[ Kosovës ]].
+'''Gornja Ljuža''' është një [[Fshati]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

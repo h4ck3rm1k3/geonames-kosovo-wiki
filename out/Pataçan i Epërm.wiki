@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pataçan i Epërm
+ | EmriAlt                = Gorne Potochane,Gornje Potocane,Gornje Potočane,Patacan i Eperm,Pataqan i Eperm,Pataqan i Epërm,Pataçan i Epërm,Potoqan i Eperm,Potoqan i Epërm,Горње Поточане
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.61972
  | Lartësia            = 
 }}
-'''Pataçan i Epërm''' është një [[Fshati]] në [[ Skënderaj ]] të [[ Kosovës ]].
+'''Pataçan i Epërm''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

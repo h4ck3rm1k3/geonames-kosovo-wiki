@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Deçan
+ | EmriAlt                = Decan,Decani,Dekan,Deçan,Deçani,Декан
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 50500
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.28793
  | Lartësia            = 612
 }}
-'''Deçan''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Deçan''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

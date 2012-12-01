@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shajn II
+ | EmriAlt                = Sainovce,Sajinovac,Sajnovce,Shajn I,Shajn II,Shajna,Shajne,Shajnovce,Shajnove I,Shajnove I (Pare),Shajnovë I,Shajnovë I (Parë),Shajnë,Šainovce,Šajinovac,Šajnovce,Шајновце
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Dragash
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.66028
  | Lartësia            = 
 }}
-'''Shajn II''' është një [[Fshati]] në [[ Dragash ]] të [[ Kosovës ]].
+'''Shajn II''' është një [[Fshati]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

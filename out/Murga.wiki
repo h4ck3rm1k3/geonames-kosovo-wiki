@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Murga
+ | EmriAlt                = Mugra,Murga,Murge,Murgë,Мурга
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Suharekë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.75361
  | Lartësia            = 
 }}
-'''Murga''' është një [[Fshati]] në [[ Suharekë ]] të [[ Kosovës ]].
+'''Murga''' është një [[Fshati]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

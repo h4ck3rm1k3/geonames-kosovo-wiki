@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornje Dobrevo
+ | EmriAlt                = Dobreva e Eperme,Dobreva e Epërme,Dobreve e Eperme,Dobrevo,Dobrevë e Epërme,Gorne Dobrevo,Gornje Dobrevo,Miradi e Eperme,Miradi e Epërme,Miradie e Eperme,Miradie e Epërme,Горње Добрево
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gllogovc
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.09
  | Lartësia            = 
 }}
-'''Gornje Dobrevo''' është një [[Fshati]] në [[ Gllogovc ]] të [[ Kosovës ]].
+'''Gornje Dobrevo''' është një [[Fshati]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

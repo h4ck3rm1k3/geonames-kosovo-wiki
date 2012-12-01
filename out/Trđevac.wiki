@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Trđevac
+ | EmriAlt                = Grykas,Grykasi,Terdec,Terdeci,Terdefc,Terdevc,Trdevac,Trđevac,Tvrdevac,Tvrđevac,Tërdec,Tërdeci,Tërdefc,Tërdevc,Трдевац,Трђевац
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.78306
  | Lartësia            = 
 }}
-'''Trđevac''' është një [[Fshati]] në [[ Kaçanik ]] të [[ Kosovës ]].
+'''Trđevac''' është një [[Fshati]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

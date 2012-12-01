@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornji Sibovac
+ | EmriAlt                = Gorni Sibovac,Gornji Sibovac,Siboc i Eperm,Siboc i Epërm,Siboci i Eperm,Siboci i Epërm,Sibolci i Eperm,Sibolci i Epërm,Sibovac,Sibovci i Eperm,Sibovci i Epërm,Vindeni i Eperm,Vindeni i Epërm,Горњи Сибовац
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.19083
  | Lartësia            = 
 }}
-'''Gornji Sibovac''' është një [[Fshati]] në [[ Podujevë ]] të [[ Kosovës ]].
+'''Gornji Sibovac''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

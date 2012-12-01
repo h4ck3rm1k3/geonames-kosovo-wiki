@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Grdovac
+ | EmriAlt                = Gerdoc,Gerdoci,Gerdovc,Grdovac,Grdovce,Gërdoc,Gërdoci,Gërdovc,Plepas,Plepasi,Грдовац
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.21917
  | Lartësia            = 
 }}
-'''Grdovac''' është një [[Fshati]] në [[ Podujevë ]] të [[ Kosovës ]].
+'''Grdovac''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

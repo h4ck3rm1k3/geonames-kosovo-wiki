@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Novi Obilić
+ | EmriAlt                = Novi Obilic,Novi Obilić
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Rahovec
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.10065
  | Lartësia            = 
 }}
-'''Novi Obilić''' është një [[Fshati]] në [[ Rahovec ]] të [[ Kosovës ]].
+'''Novi Obilić''' është një [[Fshati]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

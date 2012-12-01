@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Parlin Potok
+ | EmriAlt                = Parlin Potok,Parnim,Parnim Potok
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.75028
  | Lartësia            = 
 }}
-'''Parlin Potok''' është një [[Fshati]] në [[ Lipjan ]] të [[ Kosovës ]].
+'''Parlin Potok''' është një [[Fshati]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mahalla e Mamutëve
+ | EmriAlt                = Mahalla e Mamuteve,Mahalla e Mamutëve,Mamutovicka Mahala,Mamutovićka Mahala
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.12495
  | Lartësia            = 
 }}
-'''Mahalla e Mamutëve''' është një [[Fshati]] në [[ Podujevë ]] të [[ Kosovës ]].
+'''Mahalla e Mamutëve''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

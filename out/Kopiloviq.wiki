@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kopiloviq
+ | EmriAlt                = Kopilovice,Kopilovici,Kopiloviq,Kopiloviće,Kopilovići,Копиловиће,Копиловићи
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Zubin Potok
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.61111
  | Lartësia            = 
 }}
-'''Kopiloviq''' është një [[Fshati]] në [[ Zubin Potok ]] të [[ Kosovës ]].
+'''Kopiloviq''' është një [[Fshati]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

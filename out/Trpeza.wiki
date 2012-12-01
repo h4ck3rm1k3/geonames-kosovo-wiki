@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Trpeza
+ | EmriAlt                = Terpeze,Terpeze e Madhe,Trpeza,Trpeze,Tërpezë,Tërpezë e Madhe,Трпеза
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.34278
  | Lartësia            = 
 }}
-'''Trpeza''' është një [[Fshati]] në [[ Viti ]] të [[ Kosovës ]].
+'''Trpeza''' është një [[Fshati]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

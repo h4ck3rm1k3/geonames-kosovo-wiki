@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Drenovac
+ | EmriAlt                = Drenoc,Drenovac,Drenovc,Дреновац
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.60917
  | Lartësia            = 
 }}
-'''Drenovac''' është një [[Fshati]] në [[ Skënderaj ]] të [[ Kosovës ]].
+'''Drenovac''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

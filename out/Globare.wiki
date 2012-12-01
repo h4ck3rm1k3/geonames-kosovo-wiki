@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Globare
+ | EmriAlt                = Bletar,Bletari,Glabar,Gllabar,Gllabari,Gllobar,Gllobare,Globar,Globare,Globarë,Глобаре
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.87056
  | Lartësia            = 
 }}
-'''Globare''' është një [[Fshati]] në [[ Kaçanik ]] të [[ Kosovës ]].
+'''Globare''' është një [[Fshati]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

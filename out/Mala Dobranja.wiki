@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mala Dobranja
+ | EmriAlt                = Dobraja e Vogel,Dobraja e Vogël,Dobraje e Vogel,Dobrajë e Vogël,Mala Dobrana,Mala Dobranja,Мала Добрања
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Malishevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.02861
  | Lartësia            = 
 }}
-'''Mala Dobranja''' është një [[Fshati]] në [[ Malishevë ]] të [[ Kosovës ]].
+'''Mala Dobranja''' është një [[Fshati]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Liqane e Poshtëme
+ | EmriAlt                = Donje Licane,Donje Ličane,Liqane e Poshteme,Liqane e Poshtëme
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.21383
  | Lartësia            = 
 }}
-'''Liqane e Poshtëme''' është një [[Fshati]] në [[ Podujevë ]] të [[ Kosovës ]].
+'''Liqane e Poshtëme''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Retimlje
+ | EmriAlt                = Reti,Retije,Retijë,Retimje,Retimle,Retimlje,Retimlë,Retimne,Retimnje,Ретимље
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.70194
  | Lartësia            = 
 }}
-'''Retimlje''' është një [[Fshati]] në [[ Skënderaj ]] të [[ Kosovës ]].
+'''Retimlje''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

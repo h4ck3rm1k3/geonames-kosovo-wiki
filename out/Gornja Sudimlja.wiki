@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornja Sudimlja
+ | EmriAlt                = Gorna Studimla,Gorna Sudimla,Gornja Studimlja,Gornja Sudimlja,Gornje Studimlje,Studime e Eperme,Studime e Epërme,Studimla e Eperme,Studimla e Epërme,Горња Студимља,Горња Судимља
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Vushtrri
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.03167
  | Lartësia            = 
 }}
-'''Gornja Sudimlja''' është një [[Fshati]] në [[ Vushtrri ]] të [[ Kosovës ]].
+'''Gornja Sudimlja''' është një [[Fshati]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

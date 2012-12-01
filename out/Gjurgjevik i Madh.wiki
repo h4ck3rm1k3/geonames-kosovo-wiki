@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gjurgjevik i Madh
+ | EmriAlt                = Durdevic,Durdevik,Gjurgjevici i Madh,Gjurgjevik,Gjurgjevik i Madh,Gjurxhevik,Gjyrgjeviku i Madh,Martiras,Martirasi,Veliki Durdevik,Veliki Ðurđevik,Ðurđevik,Ðurđević,Ђурђевик,Велики Ђурђевик
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.65778
  | Lartësia            = 
 }}
-'''Gjurgjevik i Madh''' është një [[Fshati]] në [[ Albanik ]] të [[ Kosovës ]].
+'''Gjurgjevik i Madh''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

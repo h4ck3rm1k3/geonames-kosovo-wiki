@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornje Prekaze
+ | EmriAlt                = Gorne Prekaze,Gornje Prekaze,Prekaz i Eperm,Prekaz i Epërm,Prekazi i Eperm,Prekazi i Epërm,Горње Преказе
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Suharekë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.82972
  | Lartësia            = 
 }}
-'''Gornje Prekaze''' është një [[Fshati]] në [[ Suharekë ]] të [[ Kosovës ]].
+'''Gornje Prekaze''' është një [[Fshati]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

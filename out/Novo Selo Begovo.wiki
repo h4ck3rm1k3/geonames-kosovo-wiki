@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Novo Selo Begovo
+ | EmriAlt                = Begaj,Begovo,Novo Selo,Novo Selo Begovo,Novo-Sello,Novoselle Begeve,Novoselle e Begut,Novosellë Begëve,Novosellë e Begut,Ново Село Бегово
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Vushtrri
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.98667
  | Lartësia            = 
 }}
-'''Novo Selo Begovo''' është një [[Fshati]] në [[ Vushtrri ]] të [[ Kosovës ]].
+'''Novo Selo Begovo''' është një [[Fshati]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

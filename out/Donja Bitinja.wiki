@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donja Bitinja
+ | EmriAlt                = Biti e Poshteme,Biti e Poshtme,Biti e Poshtëme,Bitia e Poshteme,Bitia e Poshtëme,Dona Bitina,Donja Bitinja,Доња Битиња
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Shtërpcë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.04306
  | Lartësia            = 
 }}
-'''Donja Bitinja''' është një [[Fshati]] në [[ Shtërpcë ]] të [[ Kosovës ]].
+'''Donja Bitinja''' është një [[Fshati]] në [[Shtërpcë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

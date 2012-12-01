@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donje Godance
+ | EmriAlt                = Done Godance,Donje Gadance,Donje Godance,Godanc i Poshtem,Godanc i Poshtëm,Godanci i Poshtem,Godanci i Poshtëm,Доње Годанце
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Shtime
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.0475
  | Lartësia            = 
 }}
-'''Donje Godance''' është një [[Fshati]] në [[ Shtime ]] të [[ Kosovës ]].
+'''Donje Godance''' është një [[Fshati]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

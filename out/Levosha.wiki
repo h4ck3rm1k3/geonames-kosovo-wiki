@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Levosha
+ | EmriAlt                = Lavosa,Lavoša,Levosa,Levosha,Levoshe,Levoša,Ljevosa,Ljevosha,Ljevoshe,Ljevoša,Lëvosha,Lëvoshë,Љевоша
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.25667
  | Lartësia            = 
 }}
-'''Levosha''' është një [[Fshati]] në [[ Pejë ]] të [[ Kosovës ]].
+'''Levosha''' është një [[Fshati]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

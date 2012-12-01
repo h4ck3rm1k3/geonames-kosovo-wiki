@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Alashi i Madh
+ | EmriAlt                = Alashi i Madh,Hallac i Madh,Hallaç i Madh,Veliki Alas,Veliki Alash,Veliki Alaš,Велики Алаш
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Malishevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.08528
  | Lartësia            = 
 }}
-'''Alashi i Madh''' është një [[Fshati]] në [[ Malishevë ]] të [[ Kosovës ]].
+'''Alashi i Madh''' është një [[Fshati]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donja Srbica
+ | EmriAlt                = Arbanas,Dona Srbica,Donja Srbica,Serbica,Serbica e Ulte,Serbice,Serbice e Poshtme,Serbicë e Poshtme,Sërbica e Ultë,Sërbicë,Sërbicë e Poshtme,Доња Србица
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.69806
  | Lartësia            = 
 }}
-'''Donja Srbica''' është një [[Fshati]] në [[ Prizren ]] të [[ Kosovës ]].
+'''Donja Srbica''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

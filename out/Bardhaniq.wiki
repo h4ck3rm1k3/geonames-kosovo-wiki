@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bardhaniq
+ | EmriAlt                = Bardhaniq,Bardonic,Bardonić,Bordenic,Bordeniç,Бардонић
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.44778
  | Lartësia            = 
 }}
-'''Bardhaniq''' është një [[Fshati]] në [[ Gjilan ]] të [[ Kosovës ]].
+'''Bardhaniq''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

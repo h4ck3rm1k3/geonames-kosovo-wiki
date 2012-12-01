@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Strellc i Epërm
+ | EmriAlt                = Strallc i Eperm,Strallc i Epërm,Strellc i Eperm,Strellc i Epërm
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 6100
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.29398
  | Lartësia            = 624
 }}
-'''Strellc i Epërm''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Strellc i Epërm''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

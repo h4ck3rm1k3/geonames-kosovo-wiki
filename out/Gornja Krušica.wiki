@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornja Krušica
+ | EmriAlt                = Gorna Krushica,Gornja Krusica,Gornja Krušica,Krushica,Krushica e Eperme,Krushica e Epërme,Krushice e Eperme,Krushicë e Epërme,Krusica,Krušica,Kryshice,Kryshicë,Горња Крушица
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Ferizaj
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.935
  | Lartësia            = 
 }}
-'''Gornja Krušica''' është një [[Fshati]] në [[ Ferizaj ]] të [[ Kosovës ]].
+'''Gornja Krušica''' është një [[Fshati]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

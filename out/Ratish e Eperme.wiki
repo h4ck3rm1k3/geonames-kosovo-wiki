@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ratish e Eperme
+ | EmriAlt                = Gorni Ratish,Qendresa e Eperme,Qëndresa e Epërme,Ratis,Ratish,Ratish i Eperm,Ratish i Epërm,Ratisha i Eperme,Ratisha i Epërme,Ratisi i Eperme,Ratisi i Epërme,Ratiš,Горњи Ратиш
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.37056
  | Lartësia            = 
 }}
-'''Ratish e Eperme''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Ratish e Eperme''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

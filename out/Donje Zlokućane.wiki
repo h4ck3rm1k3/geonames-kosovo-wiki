@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donje Zlokućane
+ | EmriAlt                = Donje Zlokucane,Donje Zlokućane,Zlakucan,Zlakuçan,Zllokuqan Ulet
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Istog
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.54917
  | Lartësia            = 
 }}
-'''Donje Zlokućane''' është një [[Fshati]] në [[ Istog ]] të [[ Kosovës ]].
+'''Donje Zlokućane''' është një [[Fshati]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

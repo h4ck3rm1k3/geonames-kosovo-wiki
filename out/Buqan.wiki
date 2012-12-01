@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Buqan
+ | EmriAlt                = Bucan,Bucani,Buçan,Bučani
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 800
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.45278
  | Lartësia            = 425
 }}
-'''Buqan''' është një [[Fshati]] në [[ Pejë ]] të [[ Kosovës ]].
+'''Buqan''' është një [[Fshati]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

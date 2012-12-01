@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Belče Mahala
+ | EmriAlt                = Belce Mahala,Belche Makhala,Belče Mahala,Бeлче Махала
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Mitrovicë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.76333
  | Lartësia            = 
 }}
-'''Belče Mahala''' është një [[Fshati]] në [[ Mitrovicë ]] të [[ Kosovës ]].
+'''Belče Mahala''' është një [[Fshati]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

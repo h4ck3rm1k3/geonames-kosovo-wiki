@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lëbushë
+ | EmriAlt                = Lebusha,Lebushe,Ljebuse,Ljebuše,Ljubusa,Ljubusha,Ljubuša,Lpushe,Lpushë,Lubushe,Lubushë,Lëbusha,Lëbushë,Љубуша
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 1250
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.29083
  | Lartësia            = 618
 }}
-'''Lëbushë''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Lëbushë''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

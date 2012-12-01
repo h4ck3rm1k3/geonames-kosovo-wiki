@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Čupevo
+ | EmriAlt                = Chupevo,Cupeve,Cupevo,Cypeve,Donje Cupevo,Donje Čupevo,Qupeve,Qupevë,Çupevë,Çypevë,Čupevo,Чупево
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.56861
  | Lartësia            = 
 }}
-'''Čupevo''' është një [[Fshati]] në [[ Albanik ]] të [[ Kosovës ]].
+'''Čupevo''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

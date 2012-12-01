@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ioshanica
+ | EmriAlt                = Ioshanica,Jashanice,Jashanicë,Josanica,Joshanica,Jošanica,Јошаница
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.77167
  | Lartësia            = 
 }}
-'''Ioshanica''' është një [[Fshati]] në [[ Lipjan ]] të [[ Kosovës ]].
+'''Ioshanica''' është një [[Fshati]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

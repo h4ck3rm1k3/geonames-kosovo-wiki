@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prekolluk
+ | EmriAlt                = Preklukaj,Prekoimpa,Prekolluk,Prekolluku,Prekoluke,Prekolukë
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 350
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.33917
  | Lartësia            = 
 }}
-'''Prekolluk''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Prekolluk''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

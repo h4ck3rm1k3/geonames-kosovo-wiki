@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Krushevo
+ | EmriAlt                = Krusevo,Krushe,Krusheva,Krushevc,Krusheve,Krushevo,Krushevë,Krushja,Krusovo,Kruševo,Krušovo,Kryshefc,Крушево
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Dragash
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.63889
  | Lartësia            = 
 }}
-'''Krushevo''' është një [[Fshati]] në [[ Dragash ]] të [[ Kosovës ]].
+'''Krushevo''' është një [[Fshati]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

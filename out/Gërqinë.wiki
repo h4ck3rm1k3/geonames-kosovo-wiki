@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gërqinë
+ | EmriAlt                = Gercine,Gerqin,Gerqina,Gerqine,Grchina,Grcin,Grcina,Grčin,Grčina,Gërqin,Gërqina,Gërqinë,Gërçinë,Грчина
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.48444
  | Lartësia            = 
 }}
-'''Gërqinë''' është një [[Fshati]] në [[ Gjilan ]] të [[ Kosovës ]].
+'''Gërqinë''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

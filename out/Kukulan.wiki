@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kukulan
+ | EmriAlt                = Kukajan,Kukajani,Kukjan,Kukoljane,Kukulan,Kukulane,Kukuljane,Кукуљане
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Dragash
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.65583
  | Lartësia            = 
 }}
-'''Kukulan''' është një [[Fshati]] në [[ Dragash ]] të [[ Kosovës ]].
+'''Kukulan''' është një [[Fshati]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

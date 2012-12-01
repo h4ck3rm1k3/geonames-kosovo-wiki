@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lipovica
+ | EmriAlt                = Lipovica,Lipovice,Lipovicë,Lovice,Lovicë,Липовица
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Zveçan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.77222
  | Lartësia            = 
 }}
-'''Lipovica''' është një [[Fshati]] në [[ Zveçan ]] të [[ Kosovës ]].
+'''Lipovica''' është një [[Fshati]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dobra Voda
+ | EmriAlt                = Dobra Voda,Dobrovode,Dobrovodë,Ujmir,Ujmire,Ujmiri,Ujmirë,Добра Вода
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.70611
  | Lartësia            = 
 }}
-'''Dobra Voda''' është një [[Fshati]] në [[ Albanik ]] të [[ Kosovës ]].
+'''Dobra Voda''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

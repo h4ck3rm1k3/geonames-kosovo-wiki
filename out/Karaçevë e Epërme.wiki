@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Karaçevë e Epërme
+ | EmriAlt                = Gorne Karachevo,Gornje Karacevo,Gornje Karačevo,Karaceva e Eperme,Karaceve,Karaceve e Eperme,Karaceve i Eperm,Karaçeva e Epërme,Karaçevë,Karaçevë e Epërme,Karaçevë i Epërm,Kastrati i Eperm,Kastrati i Epërm,Горње Карачево
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Fushë Kosovë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.73028
  | Lartësia            = 
 }}
-'''Karaçevë e Epërme''' është një [[Fshati]] në [[ Fushë Kosovë ]] të [[ Kosovës ]].
+'''Karaçevë e Epërme''' është një [[Fshati]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

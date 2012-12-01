@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nebregosht
+ | EmriAlt                = Nebregoshi,Nebregosht,Nebregoshte,Nebregoshtë,Nebregoste,Nebregošte,Nepergosht,Nepregoshte,Nepregoshtë,Nepregoste,Nepregošte,Небрегоште
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.82389
  | Lartësia            = 
 }}
-'''Nebregosht''' është një [[Fshati]] në [[ Prizren ]] të [[ Kosovës ]].
+'''Nebregosht''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

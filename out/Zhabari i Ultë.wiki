@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zhabari i Ultë
+ | EmriAlt                = Done Zhabare,Donje Zabare,Donje Žabare,Zabari i Ulte,Zabari i Ultë,Zhabar i Poshtem,Zhabar i Poshtëm,Zhabare,Zhabari i Ulte,Zhabari i Ultë,Zhabarë,Доње Жабаре
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.84111
  | Lartësia            = 
 }}
-'''Zhabari i Ultë''' është një [[Fshati]] në [[ Novobërdë ]] të [[ Kosovës ]].
+'''Zhabari i Ultë''' është një [[Fshati]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

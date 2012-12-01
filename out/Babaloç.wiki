@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Babaloç
+ | EmriAlt                = Babaj-Lac,Babaj-Laç,Babajloc,Babajloć,Baballoq,Babaloc,Babaloć,Бабалоћ
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.34889
  | Lartësia            = 
 }}
-'''Babaloç''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Babaloç''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

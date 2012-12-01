@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Trubuhoc
+ | EmriAlt                = Buzedrin,Buzedrini,Buzëdrin,Buzëdrini,Terbuhoc,Terbuhovc,Trbuhovac,Trbukhovac,Trubuhoc,Turbuhovci,Tërbuhovc,Трбуховац
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kamenicë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.46583
  | Lartësia            = 
 }}
-'''Trubuhoc''' është një [[Fshati]] në [[ Kamenicë ]] të [[ Kosovës ]].
+'''Trubuhoc''' është një [[Fshati]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

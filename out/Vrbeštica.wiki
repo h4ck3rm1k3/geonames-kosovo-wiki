@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vrbeštica
+ | EmriAlt                = Verbeshtice,Verbeshticë,Vrbeshtica,Vrbestica,Vrbeštica,Vrebishtice,Vrebishticë,Vërbeshticë,Врбештица
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Shtërpcë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.97889
  | Lartësia            = 
 }}
-'''Vrbeštica''' është një [[Fshati]] në [[ Shtërpcë ]] të [[ Kosovës ]].
+'''Vrbeštica''' është një [[Fshati]] në [[Shtërpcë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

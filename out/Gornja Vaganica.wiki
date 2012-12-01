@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornja Vaganica
+ | EmriAlt                = Gorna Vaganica,Gornja Vaganica,Vaganica,Vaganice,Vaganicë,Ваганица,Горња Ваганица
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.855
  | Lartësia            = 
 }}
-'''Gornja Vaganica''' është një [[Fshati]] në [[ Novobërdë ]] të [[ Kosovës ]].
+'''Gornja Vaganica''' është një [[Fshati]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

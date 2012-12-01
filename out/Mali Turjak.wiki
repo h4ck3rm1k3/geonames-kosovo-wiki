@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mali Turjak
+ | EmriAlt                = Mali Turjak,Turjak,Мали Турјак
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Mitrovicë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.68194
  | Lartësia            = 
 }}
-'''Mali Turjak''' është një [[Fshati]] në [[ Mitrovicë ]] të [[ Kosovës ]].
+'''Mali Turjak''' është një [[Fshati]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

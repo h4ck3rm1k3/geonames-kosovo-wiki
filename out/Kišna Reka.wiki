@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kišna Reka
+ | EmriAlt                = Kerzhareke,Kisha e Nrekes,Kisha e Nrekës,Kishna Reka,Kishnareke,Kishnarekë,Kisna Reka,Kizhareka,Kišna Reka,Krzna Reka,Kržna Reka,Kërzharekë,Lumishta,Lumishte,Lumishtë,Кишна Река
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.89083
  | Lartësia            = 
 }}
-'''Kišna Reka''' është një [[Fshati]] në [[ Kaçanik ]] të [[ Kosovës ]].
+'''Kišna Reka''' është një [[Fshati]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

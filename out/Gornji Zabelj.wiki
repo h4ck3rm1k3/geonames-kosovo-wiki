@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornji Zabelj
+ | EmriAlt                = Gorni Zabel,Gornji Zabel,Gornji Zabelj,Zabel i Eperm,Zabel i Epërm,Zabeli i Eperm,Zabeli i Epërm,Горњи Забељ
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.92111
  | Lartësia            = 
 }}
-'''Gornji Zabelj''' është një [[Fshati]] në [[ Kaçanik ]] të [[ Kosovës ]].
+'''Gornji Zabelj''' është një [[Fshati]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

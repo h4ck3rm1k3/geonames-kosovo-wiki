@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stublla e Poshtme
+ | EmriAlt                = Dona Stubla,Donja Stubla,Stubell e Poshtme,Stublla e Poshteme,Stublla e Poshtme,Stublla e Poshtëme,Stubëll e Poshtme,Доња Стубла
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.4525
  | Lartësia            = 
 }}
-'''Stublla e Poshtme''' është një [[Fshati]] në [[ Viti ]] të [[ Kosovës ]].
+'''Stublla e Poshtme''' është një [[Fshati]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

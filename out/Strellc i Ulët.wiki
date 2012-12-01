@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Strellc i Ulët
+ | EmriAlt                = Strellc i Poshtem,Strellc i Poshtëm
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 2850
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.31619
  | Lartësia            = 567
 }}
-'''Strellc i Ulët''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Strellc i Ulët''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

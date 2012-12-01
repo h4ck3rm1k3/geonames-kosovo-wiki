@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donji Jasenovik
+ | EmriAlt                = Doni Jasenovik,Donji Jasenovik,Jasenovik i Poshtem,Jasenovik i Poshtëm,Jasenoviku i Eperm,Jasenoviku i Epërm,Доњи Јасеновик
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Zubin Potok
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.6775
  | Lartësia            = 
 }}
-'''Donji Jasenovik''' është një [[Fshati]] në [[ Zubin Potok ]] të [[ Kosovës ]].
+'''Donji Jasenovik''' është një [[Fshati]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

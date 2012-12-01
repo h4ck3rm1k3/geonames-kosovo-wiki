@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Doganjevo
+ | EmriAlt                = Daganovc,Daganovic,Daganović,Doganaj,Doganevo,Doganjevo,Догањево
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gjakovë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.15278
  | Lartësia            = 
 }}
-'''Doganjevo''' është një [[Fshati]] në [[ Gjakovë ]] të [[ Kosovës ]].
+'''Doganjevo''' është një [[Fshati]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lešanska Mahala
+ | EmriAlt                = Lesanska Mahala,Lesanska Mala,Lešanska Mahala,Lešanska Mala
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Ferizaj
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.78667
  | Lartësia            = 
 }}
-'''Lešanska Mahala''' është një [[Fshati]] në [[ Ferizaj ]] të [[ Kosovës ]].
+'''Lešanska Mahala''' është një [[Fshati]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

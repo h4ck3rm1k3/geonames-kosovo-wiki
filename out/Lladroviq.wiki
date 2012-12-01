@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lladroviq
+ | EmriAlt                = Ladrovic,Ladroviq,Ladrović,Landrovic,Lladroviq,Ладровић,Ландровић
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Mitrovicë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.84167
  | Lartësia            = 
 }}
-'''Lladroviq''' është një [[Fshati]] në [[ Mitrovicë ]] të [[ Kosovës ]].
+'''Lladroviq''' është një [[Fshati]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

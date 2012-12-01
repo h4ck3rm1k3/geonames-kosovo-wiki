@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ribar i Madh
+ | EmriAlt                = Ribar i Madh,Ribari i Madh,Veliko Ribare,Велико Рибаре
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Malishevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.04111
  | Lartësia            = 
 }}
-'''Ribar i Madh''' është një [[Fshati]] në [[ Malishevë ]] të [[ Kosovës ]].
+'''Ribar i Madh''' është një [[Fshati]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

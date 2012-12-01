@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gjylekar
+ | EmriAlt                = Delekare,Gjylekar,Gjylekare,Gjylekarë,Skifteraj,Ðelekare,Ђелекаре
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.42778
  | Lartësia            = 
 }}
-'''Gjylekar''' është një [[Fshati]] në [[ Viti ]] të [[ Kosovës ]].
+'''Gjylekar''' është një [[Fshati]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

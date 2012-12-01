@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pozharan
+ | EmriAlt                = Pozarane,Pozaranje,Pozharan,Pozharane,Pozheran,Požarane,Požaranje,Пожарање
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.34028
  | Lartësia            = 
 }}
-'''Pozharan''' është një [[Fshati]] në [[ Viti ]] të [[ Kosovës ]].
+'''Pozharan''' është një [[Fshati]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Çallapek
+ | EmriAlt                = Callapek,Callopek,Celopek,Chelopek,Qollopek,Çallapek,Çallopek,Čelopek,Челопек
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.44056
  | Lartësia            = 
 }}
-'''Çallapek''' është një [[Fshati]] në [[ Pejë ]] të [[ Kosovës ]].
+'''Çallapek''' është një [[Fshati]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Papraqan
+ | EmriAlt                = Papracane,Papraqan,Papraćane,Papračane,Prapacan,Prapacane,Prapacani,Prapaqan,Prapaqani,Prapaçan,Prapaçani,Prapaćan,Prapaćane,Папраћане,Прапаћане
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Deçan
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 1288
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.33111
  | Lartësia            = 
 }}
-'''Papraqan''' është një [[Fshati]] në [[ Deçan ]] të [[ Kosovës ]].
+'''Papraqan''' është një [[Fshati]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

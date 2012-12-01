@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dobroshec
+ | EmriAlt                = Dobrashec,Dobrasheci,Dobrosevac,Dobrosevci,Dobroshec,Dobroshefc,Dobroshevac,Dobroševac,Dobroševci,Dritan,Dritani,Доброшевац
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.9375
  | Lartësia            = 
 }}
-'''Dobroshec''' është një [[Fshati]] në [[ Kaçanik ]] të [[ Kosovës ]].
+'''Dobroshec''' është një [[Fshati]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

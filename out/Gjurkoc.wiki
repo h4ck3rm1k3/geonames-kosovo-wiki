@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gjurkoc
+ | EmriAlt                = Durkovce,Gjurakofc,Gjurkoc,Gjurkovc,Ðurkovce,Ђурковце
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Shtime
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.08944
  | Lartësia            = 
 }}
-'''Gjurkoc''' është një [[Fshati]] në [[ Shtime ]] të [[ Kosovës ]].
+'''Gjurkoc''' është një [[Fshati]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

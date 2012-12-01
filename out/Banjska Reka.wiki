@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Banjska Reka
+ | EmriAlt                = Banjska Reka,Banska Reka,Bastanska Reka,Bishtanska Reka,Bistanska Reka,Bištanska Reka,Reke e Banjskes,Rekë e Banjskës,Бањска Река,Биштанска Река
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Zveçan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.75556
  | Lartësia            = 
 }}
-'''Banjska Reka''' është një [[Fshati]] në [[ Zveçan ]] të [[ Kosovës ]].
+'''Banjska Reka''' është një [[Fshati]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

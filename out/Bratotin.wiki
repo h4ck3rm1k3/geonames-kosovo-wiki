@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bratotin
+ | EmriAlt                = Bratogin,Bratotin,Bratotine,Bratotinë,Братотин
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.57972
  | Lartësia            = 
 }}
-'''Bratotin''' është një [[Fshati]] në [[ Skënderaj ]] të [[ Kosovës ]].
+'''Bratotin''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

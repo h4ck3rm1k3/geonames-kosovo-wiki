@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Suvi Do
+ | EmriAlt                = Gorni Suvi Do,Gornji Suvi Do,Gornji Suvo Do,Logmire,Logmirë,Suhodoll,Suhodoll i Eperm,Suhodoll i Epërm,Suvi Do,Suvidoll,Горњи Суви До,Суви До
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.84833
  | Lartësia            = 
 }}
-'''Suvi Do''' është një [[Fshati]] në [[ Novobërdë ]] të [[ Kosovës ]].
+'''Suvi Do''' është një [[Fshati]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

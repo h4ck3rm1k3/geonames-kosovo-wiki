@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ješkovo
+ | EmriAlt                = Gjeq,Gjeqi,Jeshkova,Jeshkove,Jeshkovo,Jeshkovë,Jeskovo,Ješkovo,Јешково
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.70278
  | Lartësia            = 
 }}
-'''Ješkovo''' është një [[Fshati]] në [[ Prizren ]] të [[ Kosovës ]].
+'''Ješkovo''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

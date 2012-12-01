@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bulović Mahala
+ | EmriAlt                = Bulovic Mahala,Bulović Mahala,Mahala Bulovic,Mahala Bulović
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prishtinë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.39611
  | Lartësia            = 
 }}
-'''Bulović Mahala''' është një [[Fshati]] në [[ Prishtinë ]] të [[ Kosovës ]].
+'''Bulović Mahala''' është një [[Fshati]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

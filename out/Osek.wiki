@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Osek
+ | EmriAlt                = Osek Hile,Osek Hilja,Osek Hilë,Osek Hyle,Osek Hylë,Osek Khila,Осек Хиља
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.39167
  | Lartësia            = 
 }}
-'''Osek''' është një [[Fshati]] në [[ Gjilan ]] të [[ Kosovës ]].
+'''Osek''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

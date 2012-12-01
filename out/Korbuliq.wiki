@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Korbuliq
+ | EmriAlt                = Kerbliq,Korbiliq,Korbliq,Korboliq,Korbulic,Korbuliq,Korbulić,Корбулић
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Klinë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.33611
  | Lartësia            = 
 }}
-'''Korbuliq''' është një [[Fshati]] në [[ Klinë ]] të [[ Kosovës ]].
+'''Korbuliq''' është një [[Fshati]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

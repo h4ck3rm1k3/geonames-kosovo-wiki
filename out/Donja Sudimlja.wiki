@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donja Sudimlja
+ | EmriAlt                = Dona Studimla,Dona Sudimla,Donja Studimlja,Donja Sudimlja,Studime e Poshteme,Studime e Poshtme,Studime e Poshtëme,Studimla e Poshtme,Studimla e Poshtmë,Доња Студимља,Доња Судимља
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Vushtrri
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.00414
  | Lartësia            = 
 }}
-'''Donja Sudimlja''' është një [[Fshati]] në [[ Vushtrri ]] të [[ Kosovës ]].
+'''Donja Sudimlja''' është një [[Fshati]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donje Gadimlje
+ | EmriAlt                = Done Gadimle,Donja Gadimlja,Donje Gadimlje,Gadime e Poshteme,Gadime e Poshtme,Gadime e Poshtëme,Gadime e Ulet,Gadime e Ulte,Gadime e Ultë,Gadime e Ulët,Gadimla e Ulte,Gadimla e Ultë,Доње Гадимље
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Malishevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.20639
  | Lartësia            = 
 }}
-'''Donje Gadimlje''' është një [[Fshati]] në [[ Malishevë ]] të [[ Kosovës ]].
+'''Donje Gadimlje''' është një [[Fshati]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

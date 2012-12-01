@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shtime
+ | EmriAlt                = Shtime,Shtimle,Stimle,Stimlje,Ştimle,Štimlje,Штимље
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Shtime
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 35000
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.03972
  | Lartësia            = 
 }}
-'''Shtime''' është një [[Fshati]] në [[ Shtime ]] të [[ Kosovës ]].
+'''Shtime''' është një [[Fshati]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

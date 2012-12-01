@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornja Budriga
+ | EmriAlt                = Budriga e Eperme,Budriga e Epërme,Budrika e Eperme,Budrika e Epërme,Budrike e Eperme,Budrikë e Epërme,Gorna Budrika,Gornja Budriga,Горња Будрика
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.41917
  | Lartësia            = 
 }}
-'''Gornja Budriga''' është një [[Fshati]] në [[ Viti ]] të [[ Kosovës ]].
+'''Gornja Budriga''' është një [[Fshati]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

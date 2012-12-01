@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornje Godance
+ | EmriAlt                = Godan i Eperm,Godan i Epërm,Godanc i Eperm,Godanc i Epërm,Godanci i Eperm,Godanci i Epërm,Godonc i Eperm,Godonc i Epërm,Godonci i Eperm,Godonci i Epërm,Gorne Godance,Gornje Godance,Горње Годанце
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Shtime
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.03639
  | Lartësia            = 
 }}
-'''Gornje Godance''' është një [[Fshati]] në [[ Shtime ]] të [[ Kosovës ]].
+'''Gornje Godance''' është një [[Fshati]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

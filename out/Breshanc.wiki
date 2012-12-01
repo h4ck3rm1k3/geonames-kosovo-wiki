@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Breshanc
+ | EmriAlt                = Bresance,Bresance Mehana,Bresene,Bresenë,Breshanc,Breshance,Brešance,Brešance Mehana,Брешанце
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Ferizaj
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.77889
  | Lartësia            = 
 }}
-'''Breshanc''' është një [[Fshati]] në [[ Ferizaj ]] të [[ Kosovës ]].
+'''Breshanc''' është një [[Fshati]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llugaxhi
+ | EmriAlt                = Llugaxhi,Lugadija,Lugadzija,Lugadžija,Lugađija,Лугађија,Лугаџија
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.43944
  | Lartësia            = 
 }}
-'''Llugaxhi''' është një [[Fshati]] në [[ Pejë ]] të [[ Kosovës ]].
+'''Llugaxhi''' është një [[Fshati]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

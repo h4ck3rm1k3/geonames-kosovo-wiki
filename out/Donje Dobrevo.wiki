@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donje Dobrevo
+ | EmriAlt                = Dobreva e Ulet,Dobreva e Ulët,Dobreva i Ulte,Dobreva i Ultë,Done Dobrevo,Donje Dobrevo,Miradi e Poshtme,Miradie e Poshteme,Miradie e Poshtëme,Доње Добрево
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gllogovc
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.06944
  | Lartësia            = 
 }}
-'''Donje Dobrevo''' është një [[Fshati]] në [[ Gllogovc ]] të [[ Kosovës ]].
+'''Donje Dobrevo''' është një [[Fshati]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shtedim
+ | EmriAlt                = Gjake,Gjakja,Shtedim,Shtedimi,Stedim,Stedin,Štedim,Štedin,Штедим
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.2178
  | Lartësia            = 
 }}
-'''Shtedim''' është një [[Fshati]] në [[ Podujevë ]] të [[ Kosovës ]].
+'''Shtedim''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

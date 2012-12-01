@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornje Ljubinje
+ | EmriAlt                = Gorne LJubine,Gornje Ljubinge,Gornje Ljubinje,Lubi e Eperme,Lubi e Epërme,Lubinja e Eperme,Lubinja e Epërme,Lubinje e Eperme,Lubinjë e Epërme,Горње Љубиње
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.86139
  | Lartësia            = 
 }}
-'''Gornje Ljubinje''' është një [[Fshati]] në [[ Prizren ]] të [[ Kosovës ]].
+'''Gornje Ljubinje''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

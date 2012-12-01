@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bishtazhin
+ | EmriAlt                = Bishtazhin,Bishtrazhin,Bistazhini,Bistrazin,Bistražin,Биштражин
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.51194
  | Lartësia            = 
 }}
-'''Bishtazhin''' është një [[Fshati]] në [[ Gjilan ]] të [[ Kosovës ]].
+'''Bishtazhin''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

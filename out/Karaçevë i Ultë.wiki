@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Karaçevë i Ultë
+ | EmriAlt                = Done Karachevo,Donje Kacarevo,Donje Karacevo,Donje Karačevo,Donje Kačarevo,Karaceva e Poshtme,Karaceve e Poshteme,Karaceve e Poshtme,Karaceve i Ulte,Karaçeva e Poshtme,Karaçevë e Poshtme,Karaçevë e Poshtëme,Karaçevë i Ultë,Kastrati i Poshtem,Kastrati i Poshtëm,Доње Карачево
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Fushë Kosovë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.725
  | Lartësia            = 
 }}
-'''Karaçevë i Ultë''' është një [[Fshati]] në [[ Fushë Kosovë ]] të [[ Kosovës ]].
+'''Karaçevë i Ultë''' është një [[Fshati]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

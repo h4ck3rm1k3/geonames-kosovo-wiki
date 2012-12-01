@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kishnapole
+ | EmriAlt                = Kishnapole,Kishnapolë,Kishno Pole,Kisno Polje,Kišno Polje,Кишно Поље
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Istog
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.30167
  | Lartësia            = 
 }}
-'''Kishnapole''' është një [[Fshati]] në [[ Istog ]] të [[ Kosovës ]].
+'''Kishnapole''' është një [[Fshati]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

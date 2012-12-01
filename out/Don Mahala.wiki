@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Don Mahala
+ | EmriAlt                = Don Mahala,Don Makhala,Дон Махала
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Shtërpcë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.12444
  | Lartësia            = 
 }}
-'''Don Mahala''' është një [[Fshati]] në [[ Shtërpcë ]] të [[ Kosovës ]].
+'''Don Mahala''' është një [[Fshati]] në [[Shtërpcë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

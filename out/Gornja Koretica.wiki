@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornja Koretica
+ | EmriAlt                = Gorna Koretica,Gornja Koratica,Gornja Koretica,Gornja Korotica,Koretice e Eperme,Koreticë e Epërme,Korotica e Eperme,Korotica e Epërme,Korratica e Eperme,Korratica e Epërme,Korrotice e Eperme,Korroticë e Epërme,Kruembret,Kruembreti,Горња Коретица
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.93389
  | Lartësia            = 
 }}
-'''Gornja Koretica''' është një [[Fshati]] në [[ Kaçanik ]] të [[ Kosovës ]].
+'''Gornja Koretica''' është një [[Fshati]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zhivinjan
+ | EmriAlt                = Shivinjan,Zhivinane,Zhivinjan,Zhivinjane,Zivinjane,Živinjane,Живињане
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.82278
  | Lartësia            = 
 }}
-'''Zhivinjan''' është një [[Fshati]] në [[ Prizren ]] të [[ Kosovës ]].
+'''Zhivinjan''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vrbnica
+ | EmriAlt                = Verbenice,Verbnice,Verbënicë,Vernice,Vrbnica,Vërbnicë,Vërnicë,Врбница
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.84083
  | Lartësia            = 
 }}
-'''Vrbnica''' është një [[Fshati]] në [[ Novobërdë ]] të [[ Kosovës ]].
+'''Vrbnica''' është një [[Fshati]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

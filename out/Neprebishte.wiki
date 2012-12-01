@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Neprebishte
+ | EmriAlt                = Neperbisht,Neperbishte,Neprebishte,Neprebishtë,Neprebiste,Neprebište,Nepërbisht,Nepërbishtë,Непребиште
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Ferizaj
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.73889
  | Lartësia            = 
 }}
-'''Neprebishte''' është një [[Fshati]] në [[ Ferizaj ]] të [[ Kosovës ]].
+'''Neprebishte''' është një [[Fshati]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pridvorica
+ | EmriAlt                = Pridvorica,Pridvorice,Pridvoricë,Radic Pole,Radic Polje,Radić Polje,Придворица,Радић Поље
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Zubin Potok
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.68917
  | Lartësia            = 
 }}
-'''Pridvorica''' është një [[Fshati]] në [[ Zubin Potok ]] të [[ Kosovës ]].
+'''Pridvorica''' është një [[Fshati]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

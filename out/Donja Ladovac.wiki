@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donja Ladovac
+ | EmriAlt                = Donja Ladovac,Donja Mala,Lladoc e Poshteme,Lladoc e Poshtëme,Mala e Poshteme,Mala e Poshtëme
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Podujevë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.23551
  | Lartësia            = 
 }}
-'''Donja Ladovac''' është një [[Fshati]] në [[ Podujevë ]] të [[ Kosovës ]].
+'''Donja Ladovac''' është një [[Fshati]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Likoshan
+ | EmriAlt                = Likashan,Likashani,Likosan,Likosane,Likoshan,Likoshane,Likoshani,Likošan,Likošane,Lukasan,Lukašan,Ликошане
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.89833
  | Lartësia            = 
 }}
-'''Likoshan''' është një [[Fshati]] në [[ Kaçanik ]] të [[ Kosovës ]].
+'''Likoshan''' është një [[Fshati]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

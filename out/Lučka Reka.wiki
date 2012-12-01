@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lučka Reka
+ | EmriAlt                = Lluckarake,Lluckareke,Llukareke,Llukarekë,Lluqkareke,Lluqkarekë,Lluçkarakë,Lluçkarekë,Luchka Reka,Lucka Reka,Lučka Reka,Лучка Река
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Zubin Potok
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.68333
  | Lartësia            = 
 }}
-'''Lučka Reka''' është një [[Fshati]] në [[ Zubin Potok ]] të [[ Kosovës ]].
+'''Lučka Reka''' është një [[Fshati]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

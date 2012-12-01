@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Skočna
+ | EmriAlt                = Skocan,Skochna,Skocina,Skocna,Skocne,Skoçan,Skoçnë,Skočina,Skočna,Скочна
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Vushtrri
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.0321
  | Lartësia            = 
 }}
-'''Skočna''' është një [[Fshati]] në [[ Vushtrri ]] të [[ Kosovës ]].
+'''Skočna''' është një [[Fshati]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

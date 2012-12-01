@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Grabanica
+ | EmriAlt                = Fushelum,Fushelumi,Fushëlum,Fushëlumi,Gornja Grabanica,Grabanica,Grabanice,Grabanicë,Grebanica,Грабаница
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.53556
  | Lartësia            = 
 }}
-'''Grabanica''' është një [[Fshati]] në [[ Albanik ]] të [[ Kosovës ]].
+'''Grabanica''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

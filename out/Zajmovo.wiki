@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zajmovo
+ | EmriAlt                = Novo Selo,Novo Selo Zaimovo,Novo Selo Zajimovo,Novo Selo-Zajmovo,Novoselle Zaimove,Novosellë Zaimovë,Novoselo-Zaimit,Zajimovo,Zajm,Zajmovo,Зајмово
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.55917
  | Lartësia            = 
 }}
-'''Zajmovo''' është një [[Fshati]] në [[ Albanik ]] të [[ Kosovës ]].
+'''Zajmovo''' është një [[Fshati]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

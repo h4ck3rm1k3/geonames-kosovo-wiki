@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Megjegji Potok
+ | EmriAlt                = Mededi Potok,Medvedi Potok,Medveđi Potok,Megjegji Potok,Megjipotok,Međeđi Potok,Prroj i Megjes,Prroj i Megjës,Медвеђи Поток,Међеђи Поток
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Zubin Potok
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.62222
  | Lartësia            = 
 }}
-'''Megjegji Potok''' është një [[Fshati]] në [[ Zubin Potok ]] të [[ Kosovës ]].
+'''Megjegji Potok''' është një [[Fshati]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

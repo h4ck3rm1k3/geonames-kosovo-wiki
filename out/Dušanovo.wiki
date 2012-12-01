@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dušanovo
+ | EmriAlt                = Arbana,Arbane,Arbanë,Dusanovac,Dusanovo,Dushanova,Dushanove,Dushanovo,Dushanovë,Dušanovac,Dušanovo,Rralline,Rrallinë,Душаново
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.71972
  | Lartësia            = 
 }}
-'''Dušanovo''' është një [[Fshati]] në [[ Prizren ]] të [[ Kosovës ]].
+'''Dušanovo''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

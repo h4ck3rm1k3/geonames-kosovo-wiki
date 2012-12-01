@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Babushë i Sërbëve
+ | EmriAlt                = Babus Srpski,Babush i Serbeve,Babush i Serbëve,Babushe i Serbeve,Babushë i Sërbëve,Babuš Srpski,Srpski Babus,Srpski Babush,Srpski Babuš,Српски Бабуш
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gjakovë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.17528
  | Lartësia            = 
 }}
-'''Babushë i Sërbëve''' është një [[Fshati]] në [[ Gjakovë ]] të [[ Kosovës ]].
+'''Babushë i Sërbëve''' është një [[Fshati]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

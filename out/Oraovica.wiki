@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Oraovica
+ | EmriAlt                = Orahovica,Orakhovica,Oraovica,Rahovice,Rahovicë,Ораовица,Ораховица
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Zveçan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.73778
  | Lartësia            = 
 }}
-'''Oraovica''' është një [[Fshati]] në [[ Zveçan ]] të [[ Kosovës ]].
+'''Oraovica''' është një [[Fshati]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

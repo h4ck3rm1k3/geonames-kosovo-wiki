@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Štitarica
+ | EmriAlt                = Shatarice,Shataricë,Shtitarica,Shtitarice,Shtitaricë,Shtitatrice,Shtitatricë,Stitarica,Štitarica,Штитарица
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Vushtrri
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.93194
  | Lartësia            = 
 }}
-'''Štitarica''' është një [[Fshati]] në [[ Vushtrri ]] të [[ Kosovës ]].
+'''Štitarica''' është një [[Fshati]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Fshaj
+ | EmriAlt                = Fsaj,Fsat,Fshaj,Fshat,Fšaj,Fšat,Фшат,Фшај
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.53583
  | Lartësia            = 
 }}
-'''Fshaj''' është një [[Fshati]] në [[ Gjilan ]] të [[ Kosovës ]].
+'''Fshaj''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

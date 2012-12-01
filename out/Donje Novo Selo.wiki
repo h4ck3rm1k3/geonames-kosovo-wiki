@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donje Novo Selo
+ | EmriAlt                = Done Novo Selo,Donje Novo Selo,Novoselle e Poshtme,Novoselle e Ulet,Novosellë e Poshtme,Novosellë e Poshtmë,Novosellë e Ulët,Доње Ново Село
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.41028
  | Lartësia            = 
 }}
-'''Donje Novo Selo''' është një [[Fshati]] në [[ Gjilan ]] të [[ Kosovës ]].
+'''Donje Novo Selo''' është një [[Fshati]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

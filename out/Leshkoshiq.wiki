@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Leshkoshiq
+ | EmriAlt                = Leshkoshiq,Leskoshic,Leskovchic,Leskovcic,Leskovçic,Leskovčić,Lëskoshic,Лесковчић
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Rahovec
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.03569
  | Lartësia            = 
 }}
-'''Leshkoshiq''' është një [[Fshati]] në [[ Rahovec ]] të [[ Kosovës ]].
+'''Leshkoshiq''' është një [[Fshati]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

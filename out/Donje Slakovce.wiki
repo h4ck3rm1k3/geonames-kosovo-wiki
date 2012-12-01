@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donje Slakovce
+ | EmriAlt                = Done Slakovce,Donje Slakovce,Sllakoc i Poshtem,Sllakoc i Poshtëm,Sllakoci i Poshtem,Sllakoci i Poshtëm,Sllakofc i Poshtem,Sllakofc i Poshtëm,Sllakov i Ulte,Sllakov i Ultë,Sllakovc i Poshtem,Sllakovc i Poshtëm,Доње Слаковце
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Istog
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.30583
  | Lartësia            = 
 }}
-'''Donje Slakovce''' është një [[Fshati]] në [[ Istog ]] të [[ Kosovës ]].
+'''Donje Slakovce''' është një [[Fshati]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

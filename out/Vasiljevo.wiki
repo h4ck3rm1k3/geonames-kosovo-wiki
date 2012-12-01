@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vasiljevo
+ | EmriAlt                = Blerim,Blerimi,Vasileva,Vasileve,Vasilevo,Vasilevë,Vasiljevo,Васиљево
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Kaçanik
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.93639
  | Lartësia            = 
 }}
-'''Vasiljevo''' është një [[Fshati]] në [[ Kaçanik ]] të [[ Kosovës ]].
+'''Vasiljevo''' është një [[Fshati]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

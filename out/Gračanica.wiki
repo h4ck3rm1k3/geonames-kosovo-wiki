@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gračanica
+ | EmriAlt                = Gracanica,Gracanice,Gracanicë,Grachanica,Graqanice,Graqanicë,Graçanicë,Gračanica,Manastir Gracanica,Manastir Gračanica,Ulkian,Грачаница
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prishtinë
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 1000
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.19583
  | Lartësia            = 
 }}
-'''Gračanica''' është një [[Fshati]] në [[ Prishtinë ]] të [[ Kosovës ]].
+'''Gračanica''' është një [[Fshati]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

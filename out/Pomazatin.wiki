@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pomazatin
+ | EmriAlt                = Mesbardh,Mesbardhi,Pomazatin,Pomazotin,Pomozotin,Pomozotini,Помазатин
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gllogovc
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.02857
  | Lartësia            = 
 }}
-'''Pomazatin''' është një [[Fshati]] në [[ Gllogovc ]] të [[ Kosovës ]].
+'''Pomazatin''' është një [[Fshati]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

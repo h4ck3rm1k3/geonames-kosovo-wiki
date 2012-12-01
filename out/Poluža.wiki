@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Poluža
+ | EmriAlt                = Polluzhe,Polluzhë,Poluza,Poluze,Poluzha,Poluzhe,Poluža,Poluže,Полужа
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.56389
  | Lartësia            = 
 }}
-'''Poluža''' është një [[Fshati]] në [[ Skënderaj ]] të [[ Kosovës ]].
+'''Poluža''' është një [[Fshati]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

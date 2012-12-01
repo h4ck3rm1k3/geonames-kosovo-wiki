@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornji Svračak
+ | EmriAlt                = Gorni Svrachak,Gornji Svracak,Gornji Svračak,Sfaracak i Eperm,Sfaraçak i Epërm,Горњи Сврачак
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Vushtrri
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.01833
  | Lartësia            = 
 }}
-'''Gornji Svračak''' është një [[Fshati]] në [[ Vushtrri ]] të [[ Kosovës ]].
+'''Gornji Svračak''' është një [[Fshati]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

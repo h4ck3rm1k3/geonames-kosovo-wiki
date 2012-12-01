@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Radeša
+ | EmriAlt                = Ardesh,Ardeshi,Radesa,Radesh,Radesha,Radeshe,Radeshë,Radeša,Радеша
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Dragash
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.7
  | Lartësia            = 
 }}
-'''Radeša''' është një [[Fshati]] në [[ Dragash ]] të [[ Kosovës ]].
+'''Radeša''' është një [[Fshati]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

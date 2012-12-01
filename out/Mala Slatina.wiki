@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mala Slatina
+ | EmriAlt                = Albana e Vogel,Albana e Vogël,Mala Slatina,Sllatina e Vogel,Sllatina e Vogël,Sllatine e Vogel,Sllatinë e Vogël,Мала Слатина
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gllogovc
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.02811
  | Lartësia            = 
 }}
-'''Mala Slatina''' është një [[Fshati]] në [[ Gllogovc ]] të [[ Kosovës ]].
+'''Mala Slatina''' është një [[Fshati]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

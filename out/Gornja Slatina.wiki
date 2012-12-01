@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornja Slatina
+ | EmriAlt                = Gorna Slatina,Gornja Slatina,Slatina,Sllatine,Sllatine e Eperme,Sllatinë,Sllatinë e Epërme,Горња Слатина,Слатина
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.29639
  | Lartësia            = 
 }}
-'''Gornja Slatina''' është një [[Fshati]] në [[ Viti ]] të [[ Kosovës ]].
+'''Gornja Slatina''' është një [[Fshati]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Miloševo
+ | EmriAlt                = Millosheve,Milloshevë,Milosevo,Milosheve,Miloshevo,Miloshevë,Miloševo,Милошево
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Rahovec
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.08199
  | Lartësia            = 
 }}
-'''Miloševo''' është një [[Fshati]] në [[ Rahovec ]] të [[ Kosovës ]].
+'''Miloševo''' është një [[Fshati]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

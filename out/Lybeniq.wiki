@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lybeniq
+ | EmriAlt                = Drinishti,Lupeniq,Lybeniq,Lybeniqi
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
+
  | Popullsia           = 970
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.29139
  | Lartësia            = 590
 }}
-'''Lybeniq''' është një [[Fshati]] në [[ Pejë ]] të [[ Kosovës ]].
+'''Lybeniq''' është një [[Fshati]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

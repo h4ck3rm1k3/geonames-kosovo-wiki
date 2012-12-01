@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donji Grabovac
+ | EmriAlt                = Doni Grabovac,Donji Grabovac,Graboc i Poshtem,Graboc i Poshtëm,Grabovci i Poshtem,Grabovci i Poshtëm,Grabovci i Ulte,Grabovci i Ultë,Gurshkaba,Gurshkabe,Gurshkabë,Доњи Грабовац
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Gllogovc
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.01029
  | Lartësia            = 
 }}
-'''Donji Grabovac''' është një [[Fshati]] në [[ Gllogovc ]] të [[ Kosovës ]].
+'''Donji Grabovac''' është një [[Fshati]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

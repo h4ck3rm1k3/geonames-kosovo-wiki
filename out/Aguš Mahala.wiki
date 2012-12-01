@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Aguš Mahala
+ | EmriAlt                = Agus Mahala,Aguš Mahala,Mahala Agus,Mahala Aguš,Ogusaj,Ogušaj
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Shtërpcë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.11417
  | Lartësia            = 
 }}
-'''Aguš Mahala''' është një [[Fshati]] në [[ Shtërpcë ]] të [[ Kosovës ]].
+'''Aguš Mahala''' është një [[Fshati]] në [[Shtërpcë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shipashnica e Poshtme
+ | EmriAlt                = Dona Shipashnica,Donja Sipasnica,Donja Šipašnica,Shipashnica e Poshtme,Shipashnice e Poshtme,Shipashnicë e Poshtme,Shpati i Poshtem,Shpati i Poshtëm,Доња Шипашница
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Fushë Kosovë
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.655
  | Lartësia            = 
 }}
-'''Shipashnica e Poshtme''' është një [[Fshati]] në [[ Fushë Kosovë ]] të [[ Kosovës ]].
+'''Shipashnica e Poshtme''' është një [[Fshati]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

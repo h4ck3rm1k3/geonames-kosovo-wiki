@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vërmicë
+ | EmriAlt                = Urbice,Verbnice,Vermice,Vernice,Vrbnica,Vërbnicë,Vërmicë,Vërnicë,Врбница
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.56528
  | Lartësia            = 
 }}
-'''Vërmicë''' është një [[Fshati]] në [[ Prizren ]] të [[ Kosovës ]].
+'''Vërmicë''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

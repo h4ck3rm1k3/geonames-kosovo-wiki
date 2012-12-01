@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stružje
+ | EmriAlt                = Struke,Strukë,Struzha,Struzhe,Struzhje,Struzhë,Struzje,Stružje,Стружје
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.79417
  | Lartësia            = 
 }}
-'''Stružje''' është një [[Fshati]] në [[ Prizren ]] të [[ Kosovës ]].
+'''Stružje''' është një [[Fshati]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

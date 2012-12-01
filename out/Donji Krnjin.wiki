@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donji Krnjin
+ | EmriAlt                = Doni Krnin,Donji Krnjin,Kernin i Poshtem,Kernin i Ulet,Kernjini i Poshtem,Kernjini i Ulte,Kernjinji i Poshtem,Kërnin i Poshtëm,Kërnin i Ulët,Kërnjini i Poshtëm,Kërnjini i Ultë,Kërnjinji i Poshtëm,Доњи Крњин
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 20.74944
  | Lartësia            = 
 }}
-'''Donji Krnjin''' është një [[Fshati]] në [[ Lipjan ]] të [[ Kosovës ]].
+'''Donji Krnjin''' është një [[Fshati]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

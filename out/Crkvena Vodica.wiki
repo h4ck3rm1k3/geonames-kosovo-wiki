@@ -1,12 +1,15 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Crkvena Vodica
+ | EmriAlt                = Cerkvena Vodic,Crkvena Vodica,Cërkvena Vodic,Црквена Водица
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovës
  | Komuna              = Rahovec
  | Kodi postar         = 
  | Sipërfaqja          = 
- | Popullsia           = 0
+
+ | Popullsia           = 
+
  | Regj. i popullsisë  = 
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
@@ -15,7 +18,7 @@
  | Gjatësia            = 21.05389
  | Lartësia            = 
 }}
-'''Crkvena Vodica''' është një [[Fshati]] në [[ Rahovec ]] të [[ Kosovës ]].
+'''Crkvena Vodica''' është një [[Fshati]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
