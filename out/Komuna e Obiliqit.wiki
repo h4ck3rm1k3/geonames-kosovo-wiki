@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Komuna e Obiliqit
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      Obiliq
+ | NAME_GENERIC=      Komuna
+ | NAME_SORT_NAME_RO=      KOMUNAEOBILIQIT
+ | FULL_NAME_RO = Komuna e Obiliqit
+ | FULL_NAME_ND_RO=Komuna e Obiliqit
+ | SORT_NAME_RG=OBILIQIT KOMUNAE
+ | FULL_NAME_RG=Obiliqit, Komuna e
+ | FULL_NAME_ND_RG=Obiliqit, Komuna e
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Rahovec
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.683333
+ | Gjatësia            = 21.033333
+ | Lartësia            = 
+}}
+'''Komuna e Obiliqit''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Rahovec}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Rahovec]]
+[[Kategoria:Vendbanime në Kosovës]]

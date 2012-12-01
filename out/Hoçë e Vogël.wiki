@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Hoçë e Vogël
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      HOCEEVOGEL
+ | FULL_NAME_RO = Hoçë e Vogël
+ | FULL_NAME_ND_RO=Hoce e Vogel
+ | SORT_NAME_RG=HOCEEVOGEL
+ | FULL_NAME_RG=Hoçë e Vogël
+ | FULL_NAME_ND_RG=Hoce e Vogel
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Skënderaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.350833
+ | Gjatësia            = 20.658611
+ | Lartësia            = 
+}}
+'''Hoçë e Vogël''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Skënderaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Skënderaj]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Prapaqan
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      PRAPAQAN
+ | FULL_NAME_RO = Prapaqan
+ | FULL_NAME_ND_RO=Prapaqan
+ | SORT_NAME_RG=PRAPAQAN
+ | FULL_NAME_RG=Prapaqan
+ | FULL_NAME_ND_RG=Prapaqan
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Deçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.552778
+ | Gjatësia            = 20.331111
+ | Lartësia            = 
+}}
+'''Prapaqan''' është një [[]] në [[Deçan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Deçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Deçan]]
+[[Kategoria:Vendbanime në Kosovës]]

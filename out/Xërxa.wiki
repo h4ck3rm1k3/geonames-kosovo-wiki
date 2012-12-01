@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Xërxa
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      XERXA
+ | FULL_NAME_RO = Xërxa
+ | FULL_NAME_ND_RO=Xerxa
+ | SORT_NAME_RG=XERXA
+ | FULL_NAME_RG=Xërxa
+ | FULL_NAME_ND_RG=Xerxa
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Dragash
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.078889
+ | Gjatësia            = 20.685278
+ | Lartësia            = 
+}}
+'''Xërxa''' është një [[]] në [[Dragash]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Dragash}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Dragash]]
+[[Kategoria:Vendbanime në Kosovës]]

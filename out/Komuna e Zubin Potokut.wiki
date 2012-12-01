@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Komuna e Zubin Potokut
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      Zubin Potok
+ | NAME_GENERIC=      Komuna
+ | NAME_SORT_NAME_RO=      KOMUNAEZUBINPOTOKUT
+ | FULL_NAME_RO = Komuna e Zubin Potokut
+ | FULL_NAME_ND_RO=Komuna e Zubin Potokut
+ | SORT_NAME_RG=ZUBINPOTOKUT KOMUNAE
+ | FULL_NAME_RG=Zubin Potokut, Komuna e
+ | FULL_NAME_ND_RG=Zubin Potokut, Komuna e
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zubin Potok
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.916667
+ | Gjatësia            = 20.633333
+ | Lartësia            = 
+}}
+'''Komuna e Zubin Potokut''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zubin Potok}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zubin Potok]]
+[[Kategoria:Vendbanime në Kosovës]]

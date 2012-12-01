@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Ljugu i Nunces
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      Ljugu
+ | NAME_SORT_NAME_RO=      LJUGUINUNCES
+ | FULL_NAME_RO = Ljugu i Nunces
+ | FULL_NAME_ND_RO=Ljugu i Nunces
+ | SORT_NAME_RG=NUNCES LJUGUI
+ | FULL_NAME_RG=Nunces, Ljugu i
+ | FULL_NAME_ND_RG=Nunces, Ljugu i
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.824504
+ | Gjatësia            = 21.135372
+ | Lartësia            = 
+}}
+'''Ljugu i Nunces''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

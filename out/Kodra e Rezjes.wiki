@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Kodra e Rezjes
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      Kodra
+ | NAME_SORT_NAME_RO=      KODRAEREZJES
+ | FULL_NAME_RO = Kodra e Rezjes
+ | FULL_NAME_ND_RO=Kodra e Rezjes
+ | SORT_NAME_RG=REZJES KODRAE
+ | FULL_NAME_RG=Rezjes, Kodra e
+ | FULL_NAME_ND_RG=Rezjes, Kodra e
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.8091
+ | Gjatësia            = 21.252158
+ | Lartësia            = 
+}}
+'''Kodra e Rezjes''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

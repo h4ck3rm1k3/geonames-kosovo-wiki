@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Bernjaqë
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      BERNJAQE
+ | FULL_NAME_RO = Bernjaqë
+ | FULL_NAME_ND_RO=Bernjaqe
+ | SORT_NAME_RG=BERNJAQE
+ | FULL_NAME_RG=Bernjaqë
+ | FULL_NAME_ND_RG=Bernjaqe
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Skënderaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.366389
+ | Gjatësia            = 20.613056
+ | Lartësia            = 
+}}
+'''Bernjaqë''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Skënderaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Skënderaj]]
+[[Kategoria:Vendbanime në Kosovës]]

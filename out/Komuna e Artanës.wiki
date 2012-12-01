@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Komuna e Artanës
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      Artanë
+ | NAME_GENERIC=      Komuna
+ | NAME_SORT_NAME_RO=      KOMUNAEARTANES
+ | FULL_NAME_RO = Komuna e Artanës
+ | FULL_NAME_ND_RO=Komuna e Artanes
+ | SORT_NAME_RG=ARTANES KOMUNAE
+ | FULL_NAME_RG=Artanës, Komuna e
+ | FULL_NAME_ND_RG=Artanes, Komuna e
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Obiliq
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.566667
+ | Gjatësia            = 21.4
+ | Lartësia            = 
+}}
+'''Komuna e Artanës''' është një [[]] në [[Obiliq]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Obiliq}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Obiliq]]
+[[Kategoria:Vendbanime në Kosovës]]

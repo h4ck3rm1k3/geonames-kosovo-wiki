@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Lismiri
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      LISMIRI
+ | FULL_NAME_RO = Lismiri
+ | FULL_NAME_ND_RO=Lismiri
+ | SORT_NAME_RG=LISMIRI
+ | FULL_NAME_RG=Lismiri
+ | FULL_NAME_ND_RG=Lismiri
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gllogovc
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.641369
+ | Gjatësia            = 21.061976
+ | Lartësia            = 
+}}
+'''Lismiri''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gllogovc}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gllogovc]]
+[[Kategoria:Vendbanime në Kosovës]]

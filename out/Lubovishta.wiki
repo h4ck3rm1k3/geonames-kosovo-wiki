@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Lubovishta
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      LUBOVISHTA
+ | FULL_NAME_RO = Lubovishta
+ | FULL_NAME_ND_RO=Lubovishta
+ | SORT_NAME_RG=LUBOVISHTA
+ | FULL_NAME_RG=Lubovishta
+ | FULL_NAME_ND_RG=Lubovishta
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Dragash
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.056667
+ | Gjatësia            = 20.663056
+ | Lartësia            = 
+}}
+'''Lubovishta''' është një [[]] në [[Dragash]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Dragash}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Dragash]]
+[[Kategoria:Vendbanime në Kosovës]]

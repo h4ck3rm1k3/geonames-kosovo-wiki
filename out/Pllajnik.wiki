@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Pllajnik
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      PLLAJNIK
+ | FULL_NAME_RO = Pllajnik
+ | FULL_NAME_ND_RO=Pllajnik
+ | SORT_NAME_RG=PLLAJNIK
+ | FULL_NAME_RG=Pllajnik
+ | FULL_NAME_ND_RG=Pllajnik
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Dragash
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.0775
+ | Gjatësia            = 20.706111
+ | Lartësia            = 
+}}
+'''Pllajnik''' është një [[]] në [[Dragash]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Dragash}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Dragash]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Poluzhe
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      POLUZHE
+ | FULL_NAME_RO = Poluzhe
+ | FULL_NAME_ND_RO=Poluzhe
+ | SORT_NAME_RG=POLUZHE
+ | FULL_NAME_RG=Poluzhe
+ | FULL_NAME_ND_RG=Poluzhe
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Skënderaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.452778
+ | Gjatësia            = 20.563889
+ | Lartësia            = 
+}}
+'''Poluzhe''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Skënderaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Skënderaj]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Vërbicë e Kmetovcit
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      VERBICEEKMETOVCIT
+ | FULL_NAME_RO = Vërbicë e Kmetovcit
+ | FULL_NAME_ND_RO=Verbice e Kmetovcit
+ | SORT_NAME_RG=VERBICEEKMETOVCIT
+ | FULL_NAME_RG=Vërbicë e Kmetovcit
+ | FULL_NAME_ND_RG=Verbice e Kmetovcit
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.4775
+ | Gjatësia            = 21.525278
+ | Lartësia            = 
+}}
+'''Vërbicë e Kmetovcit''' është një [[]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

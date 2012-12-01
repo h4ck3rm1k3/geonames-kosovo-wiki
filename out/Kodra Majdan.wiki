@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Kodra Majdan
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      Kodra
+ | NAME_SORT_NAME_RO=      KODRAMAJDAN
+ | FULL_NAME_RO = Kodra Majdan
+ | FULL_NAME_ND_RO=Kodra Majdan
+ | SORT_NAME_RG=MAJDAN KODRA
+ | FULL_NAME_RG=Majdan, Kodra
+ | FULL_NAME_ND_RG=Majdan, Kodra
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = KV,RI
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.952391
+ | Gjatësia            = 21.233483
+ | Lartësia            = 
+}}
+'''Kodra Majdan''' është një [[]] në [[]] të [[KV,Serbia]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në KV,Serbia]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në KV,Serbia]]

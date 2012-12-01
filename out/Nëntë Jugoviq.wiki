@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Nëntë Jugoviq
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      NENTEJUGOVIQ
+ | FULL_NAME_RO = Nëntë Jugoviq
+ | FULL_NAME_ND_RO=Nente Jugoviq
+ | SORT_NAME_RG=NENTEJUGOVIQ
+ | FULL_NAME_RG=Nëntë Jugoviq
+ | FULL_NAME_ND_RG=Nente Jugoviq
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prishtinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.721623
+ | Gjatësia            = 21.141894
+ | Lartësia            = 
+}}
+'''Nëntë Jugoviq''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prishtinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prishtinë]]
+[[Kategoria:Vendbanime në Kosovës]]

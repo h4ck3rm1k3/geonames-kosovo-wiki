@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Komuna e Rahovecit
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      Rahovec
+ | NAME_GENERIC=      Komuna
+ | NAME_SORT_NAME_RO=      KOMUNAERAHOVECIT
+ | FULL_NAME_RO = Komuna e Rahovecit
+ | FULL_NAME_ND_RO=Komuna e Rahovecit
+ | SORT_NAME_RG=RAHOVECIT KOMUNAE
+ | FULL_NAME_RG=Rahovecit, Komuna e
+ | FULL_NAME_ND_RG=Rahovecit, Komuna e
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Skënderaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.383333
+ | Gjatësia            = 20.616667
+ | Lartësia            = 
+}}
+'''Komuna e Rahovecit''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Skënderaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Skënderaj]]
+[[Kategoria:Vendbanime në Kosovës]]

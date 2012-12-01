@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Komuna e Zveçanit
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      Zveçan
+ | NAME_GENERIC=      Komuna
+ | NAME_SORT_NAME_RO=      KOMUNAEZVECANIT
+ | FULL_NAME_RO = Komuna e Zveçanit
+ | FULL_NAME_ND_RO=Komuna e Zvecanit
+ | SORT_NAME_RG=ZVECANIT KOMUNAE
+ | FULL_NAME_RG=Zveçanit, Komuna e
+ | FULL_NAME_ND_RG=Zvecanit, Komuna e
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zveçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.982709
+ | Gjatësia            = 20.775235
+ | Lartësia            = 
+}}
+'''Komuna e Zveçanit''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zveçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zveçan]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Komuna e Kamenicës
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      Kamenicë
+ | NAME_GENERIC=      Komuna
+ | NAME_SORT_NAME_RO=      KOMUNAEKAMENICES
+ | FULL_NAME_RO = Komuna e Kamenicës
+ | FULL_NAME_ND_RO=Komuna e Kamenices
+ | SORT_NAME_RG=KAMENICES KOMUNAE
+ | FULL_NAME_RG=Kamenicës, Komuna e
+ | FULL_NAME_ND_RG=Kamenices, Komuna e
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.6
+ | Gjatësia            = 21.616667
+ | Lartësia            = 
+}}
+'''Komuna e Kamenicës''' është një [[]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

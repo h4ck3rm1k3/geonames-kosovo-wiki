@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Republika e Kosovës
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      Kosova
+ | NAME_GENERIC=      Republika
+ | NAME_SORT_NAME_RO=      REPUBLIKAEKOSOVES
+ | FULL_NAME_RO = Republika e Kosovës
+ | FULL_NAME_ND_RO=Republika e Kosoves
+ | SORT_NAME_RG=KOSOVES REPUBLIKAE
+ | FULL_NAME_RG=Kosovës, Republika e
+ | FULL_NAME_ND_RG=Kosoves, Republika e
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.583333
+ | Gjatësia            = 21
+ | Lartësia            = 
+}}
+'''Republika e Kosovës''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

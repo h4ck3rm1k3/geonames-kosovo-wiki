@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Komuna e Lipjanit
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      Lipjan
+ | NAME_GENERIC=      Komuna
+ | NAME_SORT_NAME_RO=      KOMUNAELIPJANIT
+ | FULL_NAME_RO = Komuna e Lipjanit
+ | FULL_NAME_ND_RO=Komuna e Lipjanit
+ | SORT_NAME_RG=LIPJANIT KOMUNAE
+ | FULL_NAME_RG=Lipjanit, Komuna e
+ | FULL_NAME_ND_RG=Lipjanit, Komuna e
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Malishevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.5
+ | Gjatësia            = 21.116667
+ | Lartësia            = 
+}}
+'''Komuna e Lipjanit''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Malishevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Malishevë]]
+[[Kategoria:Vendbanime në Kosovës]]

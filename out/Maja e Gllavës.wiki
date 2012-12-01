@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Maja e Gllavës
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      Maja
+ | NAME_SORT_NAME_RO=      MAJAEGLLAVES
+ | FULL_NAME_RO = Maja e Gllavës
+ | FULL_NAME_ND_RO=Maja e Gllaves
+ | SORT_NAME_RG=GLLAVES MAJAE
+ | FULL_NAME_RG=Gllavës, Maja e
+ | FULL_NAME_ND_RG=Gllaves, Maja e
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.4375
+ | Gjatësia            = 20.213611
+ | Lartësia            = 
+}}
+'''Maja e Gllavës''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

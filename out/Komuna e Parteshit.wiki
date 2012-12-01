@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Komuna e Parteshit
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      Partesh
+ | NAME_GENERIC=      Komuna
+ | NAME_SORT_NAME_RO=      KOMUNAEPARTESHIT
+ | FULL_NAME_RO = Komuna e Parteshit
+ | FULL_NAME_ND_RO=Komuna e Parteshit
+ | SORT_NAME_RG=PARTESHIT KOMUNAE
+ | FULL_NAME_RG=Parteshit, Komuna e
+ | FULL_NAME_ND_RG=Parteshit, Komuna e
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.408482
+ | Gjatësia            = 21.477369
+ | Lartësia            = 
+}}
+'''Komuna e Parteshit''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

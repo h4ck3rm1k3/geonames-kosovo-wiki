@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Postë Kufitare Borski Put
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      POSTEKUFITAREBORSKIPUT
+ | FULL_NAME_RO = Postë Kufitare Borski Put
+ | FULL_NAME_ND_RO=Poste Kufitare Borski Put
+ | SORT_NAME_RG=BORSKIPUT POSTEKUFITARE
+ | FULL_NAME_RG=Borski Put, Postë Kufitare
+ | FULL_NAME_ND_RG=Borski Put, Poste Kufitare
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Dragash
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.011111
+ | Gjatësia            = 20.608611
+ | Lartësia            = 
+}}
+'''Postë Kufitare Borski Put''' është një [[]] në [[Dragash]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Dragash}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Dragash]]
+[[Kategoria:Vendbanime në Kosovës]]

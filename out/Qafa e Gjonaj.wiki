@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Qafa e Gjonaj
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      Qafa
+ | NAME_SORT_NAME_RO=      QAFAEGJONAJ
+ | FULL_NAME_RO = Qafa e Gjonaj
+ | FULL_NAME_ND_RO=Qafa e Gjonaj
+ | SORT_NAME_RG=GJONAJ QAFAE
+ | FULL_NAME_RG=Gjonaj, Qafa e
+ | FULL_NAME_ND_RG=Gjonaj, Qafa e
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.339167
+ | Gjatësia            = 20.244167
+ | Lartësia            = 
+}}
+'''Qafa e Gjonaj''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,48 @@
+{{Fshat në 
+ | Emri                = Ratish i Ultë
+ | EmriAlt                = 
+ | NAME_SHORT_FORM=      
+ | NAME_GENERIC=      
+ | NAME_SORT_NAME_RO=      RATISHIULTE
+ | FULL_NAME_RO = Ratish i Ultë
+ | FULL_NAME_ND_RO=Ratish i Ulte
+ | SORT_NAME_RG=RATISHIULTE
+ | FULL_NAME_RG=Ratish i Ultë
+ | FULL_NAME_ND_RG=Ratish i Ulte
+ | SRP_NAME_SHORT_FORM=      
+ | SRP_NAME_GENERIC=      
+ | SRP_NAME_SORT_NAME_RO=      
+ | SRP_FULL_NAME_RO = 
+ | SRP_FULL_NAME_ND_RO=
+ | SRP_SORT_NAME_RG=
+ | SRP_FULL_NAME_RG=
+ | SRP_FULL_NAME_ND_RG=
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Deçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.519444
+ | Gjatësia            = 20.390833
+ | Lartësia            = 
+}}
+'''Ratish i Ultë''' është një [[]] në [[Deçan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Deçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Deçan]]
+[[Kategoria:Vendbanime në Kosovës]]
