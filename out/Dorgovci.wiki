@@ -1,0 +1,29 @@
+{{Fshat në 
+ | Emri                = Dorgovci
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovës
+ | Komuna              = Obiliq
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+ | Popullsia           = 0
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.57309
+ | Gjatësia            = 21.35966
+ | Lartësia            = 
+}}
+'''''' është një [Fshati] në [[ Obiliq ]] të [[ Kosovës ]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Obiliq}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Obiliq]]
+[[Kategoria:Vendbanime në Kosovës]]

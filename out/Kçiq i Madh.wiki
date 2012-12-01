@@ -1,0 +1,29 @@
+{{Fshat në 
+ | Emri                = Kçiq i Madh
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovës
+ | Komuna              = Novobërdë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+ | Popullsia           = 0
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.87056
+ | Gjatësia            = 20.92222
+ | Lartësia            = 
+}}
+'''''' është një [Fshati] në [[ Novobërdë ]] të [[ Kosovës ]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Novobërdë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
+[[Kategoria:Vendbanime në Kosovës]]

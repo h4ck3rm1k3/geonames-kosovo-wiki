@@ -1,0 +1,29 @@
+{{Fshat në 
+ | Emri                = Isniq
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovës
+ | Komuna              = Deçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+ | Popullsia           = 5500
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.5575
+ | Gjatësia            = 20.30278
+ | Lartësia            = 586
+}}
+'''''' është një [Fshati] në [[ Deçan ]] të [[ Kosovës ]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Deçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Deçan]]
+[[Kategoria:Vendbanime në Kosovës]]

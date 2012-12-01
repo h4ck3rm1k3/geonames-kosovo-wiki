@@ -1,0 +1,29 @@
+{{Fshat në 
+ | Emri                = Mala Slatina
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovës
+ | Komuna              = Gllogovc
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+ | Popullsia           = 0
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.60611
+ | Gjatësia            = 21.02811
+ | Lartësia            = 
+}}
+'''''' është një [Fshati] në [[ Gllogovc ]] të [[ Kosovës ]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gllogovc}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gllogovc]]
+[[Kategoria:Vendbanime në Kosovës]]

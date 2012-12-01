@@ -1,0 +1,29 @@
+{{Fshat në 
+ | Emri                = Ramun Mala
+ | Emri (Rasa dhanore) = Ramun Mala
+ | Figura              = 
+ | Shteti              = Kosovës
+ | Komuna              = ???
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+ | Popullsia           = 
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 
+ | Gjatësia            = 
+ | Lartësia            = 
+}}
+'''''' është një [] në [[  ]] në [  ] të [[  ]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna ???}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ???]]
+[[Kategoria:Vendbanime në Kosovës]]

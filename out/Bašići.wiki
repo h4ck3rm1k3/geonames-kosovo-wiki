@@ -1,0 +1,29 @@
+{{Fshat në 
+ | Emri                = Bašići
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovës
+ | Komuna              = Viti
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+ | Popullsia           = 0
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.30444
+ | Gjatësia            = 21.47028
+ | Lartësia            = 
+}}
+'''''' është një [Fshati] në [[ Viti ]] të [[ Kosovës ]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Viti}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Viti]]
+[[Kategoria:Vendbanime në Kosovës]]

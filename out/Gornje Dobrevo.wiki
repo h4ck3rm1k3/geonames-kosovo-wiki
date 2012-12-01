@@ -1,0 +1,29 @@
+{{Fshat në 
+ | Emri                = Gornje Dobrevo
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovës
+ | Komuna              = Gllogovc
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+ | Popullsia           = 0
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.59972
+ | Gjatësia            = 21.09
+ | Lartësia            = 
+}}
+'''''' është një [Fshati] në [[ Gllogovc ]] të [[ Kosovës ]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gllogovc}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gllogovc]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,29 @@
+{{Fshat në 
+ | Emri                = Lybeniq
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovës
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+ | Popullsia           = 970
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.59778
+ | Gjatësia            = 20.29139
+ | Lartësia            = 590
+}}
+'''''' është një [Fshati] në [[ Pejë ]] të [[ Kosovës ]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,29 @@
+{{Fshat në [% Country %]
+ | Emri                = [% name %]
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = [% country %]
+ | Komuna              = [% municipality %]
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+ | Popullsia           = [% population %]
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = [% lat %]
+ | Gjatësia            = [% long %]
+ | Lartësia            = [% elevation %]
+}}
+'''[% Name %]''' është një [[% typename %]] në [[ [% municipality %] ]] të [[ [% country2 %] ]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna [% municipality %]}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në [% country2 %]]]
+[[Kategoria:Fshatra në Kommunes [% municipality %]]]
+[[Kategoria:Vendbanime në [% country2 %]]]

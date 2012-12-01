@@ -1,0 +1,29 @@
+{{Fshat në 
+ | Emri                = Papraqan
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovës
+ | Komuna              = Deçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+ | Popullsia           = 1288
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.55278
+ | Gjatësia            = 20.33111
+ | Lartësia            = 
+}}
+'''''' është një [Fshati] në [[ Deçan ]] të [[ Kosovës ]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Deçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Deçan]]
+[[Kategoria:Vendbanime në Kosovës]]
