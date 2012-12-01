@@ -1,0 +1,50 @@
+{{Fshat në [% country2 %]
+ | Emri                = [% sqi.name %]
+ | EmriAlt                = [% altname %]
+ | NAME_SHORT_FORM=      [% sqi.SHORT_FORM %]
+ | NAME_GENERIC=      [% sqi.GENERIC  %]
+ | NAME_SORT_NAME_RO=      [% sqi.SORT_NAME_RO %]
+ | FULL_NAME_RO = [% sqi.FULL_NAME_RO %]
+ | FULL_NAME_ND_RO=[% sqi.FULL_NAME_ND_RO %]
+ | SORT_NAME_RG=[% sqi.SORT_NAME_RG %]
+ | FULL_NAME_RG=[% sqi.FULL_NAME_RG %]
+ | FULL_NAME_ND_RG=[% sqi.FULL_NAME_ND_RG %]
+ | SRP_NAME_SHORT_FORM=      [% srp.SHORT_FORM %]
+ | SRP_NAME_GENERIC=      [% srp.GENERIC  %]
+ | SRP_NAME_SORT_NAME_RO=      [% srp.SORT_NAME_RO %]
+ | SRP_FULL_NAME_RO = [% srp.FULL_NAME_RO %]
+ | SRP_FULL_NAME_ND_RO=[% srp.FULL_NAME_ND_RO %]
+ | SRP_SORT_NAME_RG=[% srp.SORT_NAME_RG %]
+ | SRP_FULL_NAME_RG=[% srp.FULL_NAME_RG %]
+ | SRP_FULL_NAME_ND_RG=[% srp.FULL_NAME_ND_RG %]
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = [% sqi.country %]
+ | Komuna              = [% sqi.municipality %]
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+[% IF population  %]
+ | Popullsia           = [% sqi.population %]
+[% ELSE %]
+ | Popullsia           = 
+[% END %]
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = [% sqi.lat %]
+ | Gjatësia            = [% sqi.long %]
+ | Lartësia            = [% sqi.elevation %]
+}}
+'''[% sqi.name %]''' është një [[[% sqi.typename %]]] në [[[% sqi.municipality %]]] të [[[% sqi.country2 %]]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna [% sqi.municipality %]}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në [% sqi.country2 %]]]
+[[Kategoria:Fshatra në Kommunes [% sqi.municipality %]]]
+[[Kategoria:Vendbanime në [% sqi.country2 %]]]
