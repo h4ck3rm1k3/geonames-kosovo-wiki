@@ -1,26 +1,28 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rekë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      REKE
- | FULL_NAME_RO = Rekë
- | FULL_NAME_ND_RO=Reke
- | SORT_NAME_RG=REKE
- | FULL_NAME_RG=Rekë
- | FULL_NAME_ND_RG=Reke
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rekë
+| sqi_N_FULL_NAME_RO = Rekë
+| sqi_N_FULL_NAME_ND_RO = Reke
+| sqi_N_SORT_NAME_RG = REKE
+| sqi_N_FULL_NAME_RG = Rekë
+| sqi_N_FULL_NAME_ND_RG = Reke
+| srp_N_name = Reka
+| srp_N_FULL_NAME_RO = Reka
+| srp_N_FULL_NAME_ND_RO = Reka
+| srp_N_SORT_NAME_RG = REKA
+| srp_N_FULL_NAME_RG = Reka
+| srp_N_FULL_NAME_ND_RG = Reka
+| srp_NS_name = Река
+| srp_NS_FULL_NAME_RO = Река
+| srp_NS_FULL_NAME_ND_RO = Река
+| srp_NS_SORT_NAME_RG = РЕКА
+| srp_NS_FULL_NAME_RG = Река
+| srp_NS_FULL_NAME_ND_RG = Река
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Klinë
+ | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +32,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.259444
- | Gjatësia            = 21.210556
+ | Gjerësia            = 42.903889
+ | Gjatësia            = 20.900833
  | Lartësia            = 
 }}
-'''Rekë''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Rekë''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Klinë}}
+{{Komuna Novobërdë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
 [[Kategoria:Vendbanime në Kosovës]]

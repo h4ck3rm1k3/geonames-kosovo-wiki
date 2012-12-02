@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Osek Pashë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      OSEKPASHE
- | FULL_NAME_RO = Osek Pashë
- | FULL_NAME_ND_RO=Osek Pashe
- | SORT_NAME_RG=OSEKPASHE
- | FULL_NAME_RG=Osek Pashë
- | FULL_NAME_ND_RG=Osek Pashe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Osek Pashë
+| sqi_N_FULL_NAME_RO = Osek Pashë
+| sqi_N_FULL_NAME_ND_RO = Osek Pashe
+| sqi_N_SORT_NAME_RG = OSEKPASHE
+| sqi_N_FULL_NAME_RG = Osek Pashë
+| sqi_N_FULL_NAME_ND_RG = Osek Pashe
+| srp_N_name = Osek Paša
+| srp_N_FULL_NAME_RO = Osek Paša
+| srp_N_FULL_NAME_ND_RO = Osek Pasa
+| srp_N_SORT_NAME_RG = OSEKPASA
+| srp_N_FULL_NAME_RG = Osek Paša
+| srp_N_FULL_NAME_ND_RG = Osek Pasa
+| srp_NS_name = Осек Паша
+| srp_NS_FULL_NAME_RO = Осек Паша
+| srp_NS_FULL_NAME_ND_RO = Осек Паша
+| srp_NS_SORT_NAME_RG = ОСЕКПАША
+| srp_NS_FULL_NAME_RG = Осек Паша
+| srp_NS_FULL_NAME_ND_RG = Осек Паша
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.424444
  | Lartësia            = 
 }}
-'''Osek Pashë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Osek Pashë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

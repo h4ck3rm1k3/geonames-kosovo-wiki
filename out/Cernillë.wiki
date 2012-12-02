@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Cernillë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CERNILLE
- | FULL_NAME_RO = Cernillë
- | FULL_NAME_ND_RO=Cernille
- | SORT_NAME_RG=CERNILLE
- | FULL_NAME_RG=Cernillë
- | FULL_NAME_ND_RG=Cernille
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Cernillë
+| sqi_N_FULL_NAME_RO = Cernillë
+| sqi_N_FULL_NAME_ND_RO = Cernille
+| sqi_N_SORT_NAME_RG = CERNILLE
+| sqi_N_FULL_NAME_RG = Cernillë
+| sqi_N_FULL_NAME_ND_RG = Cernille
+| srp_N_name = Crnilo
+| srp_N_FULL_NAME_RO = Crnilo
+| srp_N_FULL_NAME_ND_RO = Crnilo
+| srp_N_SORT_NAME_RG = CRNILO
+| srp_N_FULL_NAME_RG = Crnilo
+| srp_N_FULL_NAME_ND_RG = Crnilo
+| srp_NS_name = Црнило
+| srp_NS_FULL_NAME_RO = Црнило
+| srp_NS_FULL_NAME_ND_RO = Црнило
+| srp_NS_SORT_NAME_RG = ЦРНИЛО
+| srp_NS_FULL_NAME_RG = Црнило
+| srp_NS_FULL_NAME_ND_RG = Црнило
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.199722
  | Lartësia            = 
 }}
-'''Cernillë''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Cernillë''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dobroshevinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DOBROSHEVINE
- | FULL_NAME_RO = Dobroshevinë
- | FULL_NAME_ND_RO=Dobroshevine
- | SORT_NAME_RG=DOBROSHEVINE
- | FULL_NAME_RG=Dobroshevinë
- | FULL_NAME_ND_RG=Dobroshevine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dobroshevinë
+| sqi_N_FULL_NAME_RO = Dobroshevinë
+| sqi_N_FULL_NAME_ND_RO = Dobroshevine
+| sqi_N_SORT_NAME_RG = DOBROSHEVINE
+| sqi_N_FULL_NAME_RG = Dobroshevinë
+| sqi_N_FULL_NAME_ND_RG = Dobroshevine
+| srp_N_name = Dobroševina
+| srp_N_FULL_NAME_RO = Dobroševina
+| srp_N_FULL_NAME_ND_RO = Dobrosevina
+| srp_N_SORT_NAME_RG = DOBROSEVINA
+| srp_N_FULL_NAME_RG = Dobroševina
+| srp_N_FULL_NAME_ND_RG = Dobrosevina
+| srp_NS_name = Доброшевина
+| srp_NS_FULL_NAME_RO = Доброшевина
+| srp_NS_FULL_NAME_ND_RO = Доброшевина
+| srp_NS_SORT_NAME_RG = ДОБРОШЕВИНА
+| srp_NS_FULL_NAME_RG = Доброшевина
+| srp_NS_FULL_NAME_ND_RG = Доброшевина
+| srp_V_name = Donje Dobroševina
+| srp_V_FULL_NAME_RO = Donje Dobroševina Donja Dobroševina
+| srp_V_FULL_NAME_ND_RO = Donje Dobrosevina Donja Dobrosevina
+| srp_V_SORT_NAME_RG = DONJEDOBROSEVINA DONJADOBROSEVINA
+| srp_V_FULL_NAME_RG = Donje Dobroševina Donja Dobroševina
+| srp_V_FULL_NAME_ND_RG = Donje Dobrosevina Donja Dobrosevina
+| srp_VS_name = Доње Доброшевина
+| srp_VS_FULL_NAME_RO = Доње Доброшевина Доња Доброшевина
+| srp_VS_FULL_NAME_ND_RO = Доње Доброшевина Доња Доброшевина
+| srp_VS_SORT_NAME_RG = ДОЊЕДОБРОШЕВИНА ДОЊАДОБРОШЕВИНА
+| srp_VS_FULL_NAME_RG = Доње Доброшевина Доња Доброшевина
+| srp_VS_FULL_NAME_ND_RG = Доње Доброшевина Доња Доброшевина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.701667
  | Lartësia            = 
 }}
-'''Dobroshevinë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Dobroshevinë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

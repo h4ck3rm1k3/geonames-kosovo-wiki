@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Runjevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RUNJEVE
- | FULL_NAME_RO = Runjevë
- | FULL_NAME_ND_RO=Runjeve
- | SORT_NAME_RG=RUNJEVE
- | FULL_NAME_RG=Runjevë
- | FULL_NAME_ND_RG=Runjeve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Runjevë
+| sqi_N_FULL_NAME_RO = Runjevë
+| sqi_N_FULL_NAME_ND_RO = Runjeve
+| sqi_N_SORT_NAME_RG = RUNJEVE
+| sqi_N_FULL_NAME_RG = Runjevë
+| sqi_N_FULL_NAME_ND_RG = Runjeve
+| srp_N_name = Runjevo
+| srp_N_FULL_NAME_RO = Runjevo
+| srp_N_FULL_NAME_ND_RO = Runjevo
+| srp_N_SORT_NAME_RG = RUNJEVO
+| srp_N_FULL_NAME_RG = Runjevo
+| srp_N_FULL_NAME_ND_RG = Runjevo
+| srp_NS_name = Руњево
+| srp_NS_FULL_NAME_RO = Руњево
+| srp_NS_FULL_NAME_ND_RO = Руњево
+| srp_NS_SORT_NAME_RG = РУЊЕВО
+| srp_NS_FULL_NAME_RG = Руњево
+| srp_NS_FULL_NAME_ND_RG = Руњево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.254444
  | Lartësia            = 
 }}
-'''Runjevë''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Runjevë''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

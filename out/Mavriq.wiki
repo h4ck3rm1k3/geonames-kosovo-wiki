@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mavriq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAVRIQ
- | FULL_NAME_RO = Mavriq
- | FULL_NAME_ND_RO=Mavriq
- | SORT_NAME_RG=MAVRIQ
- | FULL_NAME_RG=Mavriq
- | FULL_NAME_ND_RG=Mavriq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Mavriq
+| sqi_N_FULL_NAME_RO = Mavriq
+| sqi_N_FULL_NAME_ND_RO = Mavriq
+| sqi_N_SORT_NAME_RG = MAVRIQ
+| sqi_N_FULL_NAME_RG = Mavriq
+| sqi_N_FULL_NAME_ND_RG = Mavriq
+| srp_N_name = Mavrić
+| srp_N_FULL_NAME_RO = Mavrić
+| srp_N_FULL_NAME_ND_RO = Mavric
+| srp_N_SORT_NAME_RG = MAVRIC
+| srp_N_FULL_NAME_RG = Mavrić
+| srp_N_FULL_NAME_ND_RG = Mavric
+| srp_NS_name = Маврић
+| srp_NS_FULL_NAME_RO = Маврић
+| srp_NS_FULL_NAME_ND_RO = Маврић
+| srp_NS_SORT_NAME_RG = МАВРИЋ
+| srp_NS_FULL_NAME_RG = Маврић
+| srp_NS_FULL_NAME_ND_RG = Маврић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.99559
  | Lartësia            = 
 }}
-'''Mavriq''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Mavriq''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

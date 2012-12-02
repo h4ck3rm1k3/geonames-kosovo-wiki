@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Përpellac
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PERPELLAC
- | FULL_NAME_RO = Përpellac
- | FULL_NAME_ND_RO=Perpellac
- | SORT_NAME_RG=PERPELLAC
- | FULL_NAME_RG=Përpellac
- | FULL_NAME_ND_RG=Perpellac
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Përpellac
+| sqi_D_FULL_NAME_RO = Përpellac
+| sqi_D_FULL_NAME_ND_RO = Perpellac
+| sqi_D_SORT_NAME_RG = PERPELLAC
+| sqi_D_FULL_NAME_RG = Përpellac
+| sqi_D_FULL_NAME_ND_RG = Perpellac
+| sqi_V_name = Prepelc
+| sqi_V_FULL_NAME_RO = Prepelc Përpëllac Përpëllaci
+| sqi_V_FULL_NAME_ND_RO = Prepelc Perpellac Perpellaci
+| sqi_V_SORT_NAME_RG = PREPELC PERPELLAC PERPELLACI
+| sqi_V_FULL_NAME_RG = Prepelc Përpëllac Përpëllaci
+| sqi_V_FULL_NAME_ND_RG = Prepelc Perpellac Perpellaci
+| srp_N_name = Prepolac
+| srp_N_FULL_NAME_RO = Prepolac
+| srp_N_FULL_NAME_ND_RO = Prepolac
+| srp_N_SORT_NAME_RG = PREPOLAC
+| srp_N_FULL_NAME_RG = Prepolac
+| srp_N_FULL_NAME_ND_RG = Prepolac
+| srp_NS_name = Преполац
+| srp_NS_FULL_NAME_RO = Преполац
+| srp_NS_FULL_NAME_ND_RO = Преполац
+| srp_NS_SORT_NAME_RG = ПРЕПОЛАЦ
+| srp_NS_FULL_NAME_RG = Преполац
+| srp_NS_FULL_NAME_ND_RG = Преполац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.227375
  | Lartësia            = 
 }}
-'''Përpellac''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Përpellac''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

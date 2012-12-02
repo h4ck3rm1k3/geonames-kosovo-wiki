@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stanishor
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STANISHOR
- | FULL_NAME_RO = Stanishor
- | FULL_NAME_ND_RO=Stanishor
- | SORT_NAME_RG=STANISHOR
- | FULL_NAME_RG=Stanishor
- | FULL_NAME_ND_RG=Stanishor
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Stanishor
+| sqi_N_FULL_NAME_RO = Stanishor
+| sqi_N_FULL_NAME_ND_RO = Stanishor
+| sqi_N_SORT_NAME_RG = STANISHOR
+| sqi_N_FULL_NAME_RG = Stanishor
+| sqi_N_FULL_NAME_ND_RG = Stanishor
+| srp_N_name = Stanišor
+| srp_N_FULL_NAME_RO = Stanišor
+| srp_N_FULL_NAME_ND_RO = Stanisor
+| srp_N_SORT_NAME_RG = STANISOR
+| srp_N_FULL_NAME_RG = Stanišor
+| srp_N_FULL_NAME_ND_RG = Stanisor
+| srp_NS_name = Станишор
+| srp_NS_FULL_NAME_RO = Станишор
+| srp_NS_FULL_NAME_ND_RO = Станишор
+| srp_NS_SORT_NAME_RG = СТАНИШОР
+| srp_NS_FULL_NAME_RG = Станишор
+| srp_NS_FULL_NAME_ND_RG = Станишор
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.463611
  | Lartësia            = 
 }}
-'''Stanishor''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Stanishor''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

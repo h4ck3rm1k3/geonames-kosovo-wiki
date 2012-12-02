@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vranoc i Vogël
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VRANOCIVOGEL
- | FULL_NAME_RO = Vranoc i Vogël
- | FULL_NAME_ND_RO=Vranoc i Vogel
- | SORT_NAME_RG=VRANOCIVOGEL
- | FULL_NAME_RG=Vranoc i Vogël
- | FULL_NAME_ND_RG=Vranoc i Vogel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vranoc i Vogël
+| sqi_N_FULL_NAME_RO = Vranoc i Vogël
+| sqi_N_FULL_NAME_ND_RO = Vranoc i Vogel
+| sqi_N_SORT_NAME_RG = VRANOCIVOGEL
+| sqi_N_FULL_NAME_RG = Vranoc i Vogël
+| sqi_N_FULL_NAME_ND_RG = Vranoc i Vogel
+| sqi_V_name = Vrandoci i Vogël
+| sqi_V_FULL_NAME_RO = Vrandoci i Vogël Vranoci i Vogël
+| sqi_V_FULL_NAME_ND_RO = Vrandoci i Vogel Vranoci i Vogel
+| sqi_V_SORT_NAME_RG = VRANDOCIIVOGEL VRANOCIIVOGEL
+| sqi_V_FULL_NAME_RG = Vrandoci i Vogël Vranoci i Vogël
+| sqi_V_FULL_NAME_ND_RG = Vrandoci i Vogel Vranoci i Vogel
+| srp_N_name = Mali Vranovac
+| srp_N_FULL_NAME_RO = Mali Vranovac
+| srp_N_FULL_NAME_ND_RO = Mali Vranovac
+| srp_N_SORT_NAME_RG = MALIVRANOVAC
+| srp_N_FULL_NAME_RG = Mali Vranovac
+| srp_N_FULL_NAME_ND_RG = Mali Vranovac
+| srp_NS_name = Мали Врановац
+| srp_NS_FULL_NAME_RO = Мали Врановац
+| srp_NS_FULL_NAME_ND_RO = Мали Врановац
+| srp_NS_SORT_NAME_RG = МАЛИВРАНОВАЦ
+| srp_NS_FULL_NAME_RG = Мали Врановац
+| srp_NS_FULL_NAME_ND_RG = Мали Врановац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.415556
  | Lartësia            = 
 }}
-'''Vranoc i Vogël''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Vranoc i Vogël''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

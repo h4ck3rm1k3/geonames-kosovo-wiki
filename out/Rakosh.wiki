@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rakosh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RAKOSH
- | FULL_NAME_RO = Rakosh
- | FULL_NAME_ND_RO=Rakosh
- | SORT_NAME_RG=RAKOSH
- | FULL_NAME_RG=Rakosh
- | FULL_NAME_ND_RG=Rakosh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rakosh
+| sqi_N_FULL_NAME_RO = Rakosh
+| sqi_N_FULL_NAME_ND_RO = Rakosh
+| sqi_N_SORT_NAME_RG = RAKOSH
+| sqi_N_FULL_NAME_RG = Rakosh
+| sqi_N_FULL_NAME_ND_RG = Rakosh
+| sqi_V_name = Rakoshi
+| sqi_V_FULL_NAME_RO = Rakoshi
+| sqi_V_FULL_NAME_ND_RO = Rakoshi
+| sqi_V_SORT_NAME_RG = RAKOSHI
+| sqi_V_FULL_NAME_RG = Rakoshi
+| sqi_V_FULL_NAME_ND_RG = Rakoshi
+| srp_N_name = Rakoš
+| srp_N_FULL_NAME_RO = Rakoš
+| srp_N_FULL_NAME_ND_RO = Rakos
+| srp_N_SORT_NAME_RG = RAKOS
+| srp_N_FULL_NAME_RG = Rakoš
+| srp_N_FULL_NAME_ND_RG = Rakos
+| srp_NS_name = Ракош
+| srp_NS_FULL_NAME_RO = Ракош
+| srp_NS_FULL_NAME_ND_RO = Ракош
+| srp_NS_SORT_NAME_RG = РАКОШ
+| srp_NS_FULL_NAME_RG = Ракош
+| srp_NS_FULL_NAME_ND_RG = Ракош
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.604722
  | Lartësia            = 
 }}
-'''Rakosh''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Rakosh''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

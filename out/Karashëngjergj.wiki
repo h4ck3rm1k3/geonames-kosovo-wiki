@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Karashëngjergj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KARASHENGJERGJ
- | FULL_NAME_RO = Karashëngjergj
- | FULL_NAME_ND_RO=Karashengjergj
- | SORT_NAME_RG=KARASHENGJERGJ
- | FULL_NAME_RG=Karashëngjergj
- | FULL_NAME_ND_RG=Karashengjergj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Karashëngjergj
+| sqi_N_FULL_NAME_RO = Karashëngjergj
+| sqi_N_FULL_NAME_ND_RO = Karashengjergj
+| sqi_N_SORT_NAME_RG = KARASHENGJERGJ
+| sqi_N_FULL_NAME_RG = Karashëngjergj
+| sqi_N_FULL_NAME_ND_RG = Karashengjergj
+| sqi_V_name = Karashingjergj
+| sqi_V_FULL_NAME_RO = Karashingjergj
+| sqi_V_FULL_NAME_ND_RO = Karashingjergj
+| sqi_V_SORT_NAME_RG = KARASHINGJERGJ
+| sqi_V_FULL_NAME_RG = Karashingjergj
+| sqi_V_FULL_NAME_ND_RG = Karashingjergj
+| srp_N_name = Karašinđerđ
+| srp_N_FULL_NAME_RO = Karašinđerđ
+| srp_N_FULL_NAME_ND_RO = Karasinderd
+| srp_N_SORT_NAME_RG = KARASINDERD
+| srp_N_FULL_NAME_RG = Karašinđerđ
+| srp_N_FULL_NAME_ND_RG = Karasinderd
+| srp_NS_name = Карашинђерђ
+| srp_NS_FULL_NAME_RO = Карашинђерђ
+| srp_NS_FULL_NAME_ND_RO = Карашинђерђ
+| srp_NS_SORT_NAME_RG = КАРАШИНЂЕРЂ
+| srp_NS_FULL_NAME_RG = Карашинђерђ
+| srp_NS_FULL_NAME_ND_RG = Карашинђерђ
+| srp_V_name = Karašiđerđe
+| srp_V_FULL_NAME_RO = Karašiđerđe
+| srp_V_FULL_NAME_ND_RO = Karasiderde
+| srp_V_SORT_NAME_RG = KARASIDERDE
+| srp_V_FULL_NAME_RG = Karašiđerđe
+| srp_V_FULL_NAME_ND_RG = Karasiderde
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.608056
  | Lartësia            = 
 }}
-'''Karashëngjergj''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Karashëngjergj''' është një [[Fshat Vogel]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

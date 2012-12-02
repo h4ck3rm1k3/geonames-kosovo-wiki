@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Raushiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RAUSHIQ
- | FULL_NAME_RO = Raushiq
- | FULL_NAME_ND_RO=Raushiq
- | SORT_NAME_RG=RAUSHIQ
- | FULL_NAME_RG=Raushiq
- | FULL_NAME_ND_RG=Raushiq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Raushiq
+| sqi_N_FULL_NAME_RO = Raushiq
+| sqi_N_FULL_NAME_ND_RO = Raushiq
+| sqi_N_SORT_NAME_RG = RAUSHIQ
+| sqi_N_FULL_NAME_RG = Raushiq
+| sqi_N_FULL_NAME_ND_RG = Raushiq
+| sqi_V_name = Raushiqi
+| sqi_V_FULL_NAME_RO = Raushiqi Rrafshi Raush Raushi
+| sqi_V_FULL_NAME_ND_RO = Raushiqi Rrafshi Raush Raushi
+| sqi_V_SORT_NAME_RG = RAUSHIQI RRAFSHI RAUSH RAUSHI
+| sqi_V_FULL_NAME_RG = Raushiqi Rrafshi Raush Raushi
+| sqi_V_FULL_NAME_ND_RG = Raushiqi Rrafshi Raush Raushi
+| srp_N_name = Raušić
+| srp_N_FULL_NAME_RO = Raušić
+| srp_N_FULL_NAME_ND_RO = Rausic
+| srp_N_SORT_NAME_RG = RAUSIC
+| srp_N_FULL_NAME_RG = Raušić
+| srp_N_FULL_NAME_ND_RG = Rausic
+| srp_NS_name = Раушић
+| srp_NS_FULL_NAME_RO = Раушић
+| srp_NS_FULL_NAME_ND_RO = Раушић
+| srp_NS_SORT_NAME_RG = РАУШИЋ
+| srp_NS_FULL_NAME_RG = Раушић
+| srp_NS_FULL_NAME_ND_RG = Раушић
+| srp_V_name = Stari Raušić
+| srp_V_FULL_NAME_RO = Stari Raušić
+| srp_V_FULL_NAME_ND_RO = Stari Rausic
+| srp_V_SORT_NAME_RG = STARIRAUSIC
+| srp_V_FULL_NAME_RG = Stari Raušić
+| srp_V_FULL_NAME_ND_RG = Stari Rausic
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.311667
  | Lartësia            = 
 }}
-'''Raushiq''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Raushiq''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

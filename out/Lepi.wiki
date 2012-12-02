@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lepi
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LEPI
- | FULL_NAME_RO = Lepi
- | FULL_NAME_ND_RO=Lepi
- | SORT_NAME_RG=LEPI
- | FULL_NAME_RG=Lepi
- | FULL_NAME_ND_RG=Lepi
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Lepi
+| sqi_D_FULL_NAME_RO = Lepi
+| sqi_D_FULL_NAME_ND_RO = Lepi
+| sqi_D_SORT_NAME_RG = LEPI
+| sqi_D_FULL_NAME_RG = Lepi
+| sqi_D_FULL_NAME_ND_RG = Lepi
+| sqi_V_name = Lepinë
+| sqi_V_FULL_NAME_RO = Lepinë
+| sqi_V_FULL_NAME_ND_RO = Lepine
+| sqi_V_SORT_NAME_RG = LEPINE
+| sqi_V_FULL_NAME_RG = Lepinë
+| sqi_V_FULL_NAME_ND_RG = Lepine
+| srp_N_name = Lepina
+| srp_N_FULL_NAME_RO = Lepina
+| srp_N_FULL_NAME_ND_RO = Lepina
+| srp_N_SORT_NAME_RG = LEPINA
+| srp_N_FULL_NAME_RG = Lepina
+| srp_N_FULL_NAME_ND_RG = Lepina
+| srp_NS_name = Лепина
+| srp_NS_FULL_NAME_RO = Лепина
+| srp_NS_FULL_NAME_ND_RO = Лепина
+| srp_NS_SORT_NAME_RG = ЛЕПИНА
+| srp_NS_FULL_NAME_RG = Лепина
+| srp_NS_FULL_NAME_ND_RG = Лепина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.070918
  | Lartësia            = 
 }}
-'''Lepi''' është një [[]] në [[]] të [[Kosovës]].
+'''Lepi''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

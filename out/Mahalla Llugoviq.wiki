@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mahalla Llugoviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAHALLALLUGOVIQ
- | FULL_NAME_RO = Mahalla Llugoviq
- | FULL_NAME_ND_RO=Mahalla Llugoviq
- | SORT_NAME_RG=MAHALLALLUGOVIQ
- | FULL_NAME_RG=Mahalla Llugoviq
- | FULL_NAME_ND_RG=Mahalla Llugoviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Mahalla Llugoviq
+| sqi_D_FULL_NAME_RO = Mahalla Llugoviq
+| sqi_D_FULL_NAME_ND_RO = Mahalla Llugoviq
+| sqi_D_SORT_NAME_RG = MAHALLALLUGOVIQ
+| sqi_D_FULL_NAME_RG = Mahalla Llugoviq
+| sqi_D_FULL_NAME_ND_RG = Mahalla Llugoviq
+| srp_N_name = Lugović Mahala
+| srp_N_FULL_NAME_RO = Lugović Mahala
+| srp_N_FULL_NAME_ND_RO = Lugovic Mahala
+| srp_N_SORT_NAME_RG = LUGOVICMAHALA
+| srp_N_FULL_NAME_RG = Lugović Mahala
+| srp_N_FULL_NAME_ND_RG = Lugovic Mahala
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 21.166035
  | Lartësia            = 
 }}
-'''Mahalla Llugoviq''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Mahalla Llugoviq''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

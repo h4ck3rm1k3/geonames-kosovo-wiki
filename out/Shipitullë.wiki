@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shipitullë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHIPITULLE
- | FULL_NAME_RO = Shipitullë
- | FULL_NAME_ND_RO=Shipitulle
- | SORT_NAME_RG=SHIPITULLE
- | FULL_NAME_RG=Shipitullë
- | FULL_NAME_ND_RG=Shipitulle
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shipitullë
+| sqi_N_FULL_NAME_RO = Shipitullë
+| sqi_N_FULL_NAME_ND_RO = Shipitulle
+| sqi_N_SORT_NAME_RG = SHIPITULLE
+| sqi_N_FULL_NAME_RG = Shipitullë
+| sqi_N_FULL_NAME_ND_RG = Shipitulle
+| srp_N_name = Šipitula
+| srp_N_FULL_NAME_RO = Šipitula
+| srp_N_FULL_NAME_ND_RO = Sipitula
+| srp_N_SORT_NAME_RG = SIPITULA
+| srp_N_FULL_NAME_RG = Šipitula
+| srp_N_FULL_NAME_ND_RG = Sipitula
+| srp_NS_name = Шипитула
+| srp_NS_FULL_NAME_RO = Шипитула
+| srp_NS_FULL_NAME_ND_RO = Шипитула
+| srp_NS_SORT_NAME_RG = ШИПИТУЛА
+| srp_NS_FULL_NAME_RG = Шипитула
+| srp_NS_FULL_NAME_ND_RG = Шипитула
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.003056
  | Lartësia            = 
 }}
-'''Shipitullë''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Shipitullë''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

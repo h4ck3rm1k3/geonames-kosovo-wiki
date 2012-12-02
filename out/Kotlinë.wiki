@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kotlinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOTLINE
- | FULL_NAME_RO = Kotlinë
- | FULL_NAME_ND_RO=Kotline
- | SORT_NAME_RG=KOTLINE
- | FULL_NAME_RG=Kotlinë
- | FULL_NAME_ND_RG=Kotline
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kotlinë
+| sqi_N_FULL_NAME_RO = Kotlinë
+| sqi_N_FULL_NAME_ND_RO = Kotline
+| sqi_N_SORT_NAME_RG = KOTLINE
+| sqi_N_FULL_NAME_RG = Kotlinë
+| sqi_N_FULL_NAME_ND_RG = Kotline
+| sqi_V_name = Kotlinë
+| sqi_V_FULL_NAME_RO = Kotlinë
+| sqi_V_FULL_NAME_ND_RO = Kotline
+| sqi_V_SORT_NAME_RG = KOTLINE
+| sqi_V_FULL_NAME_RG = Kotlinë
+| sqi_V_FULL_NAME_ND_RG = Kotline
+| srp_N_name = Kotlina
+| srp_N_FULL_NAME_RO = Kotlina
+| srp_N_FULL_NAME_ND_RO = Kotlina
+| srp_N_SORT_NAME_RG = KOTLINA
+| srp_N_FULL_NAME_RG = Kotlina
+| srp_N_FULL_NAME_ND_RG = Kotlina
+| srp_NS_name = Котлина
+| srp_NS_FULL_NAME_RO = Котлина
+| srp_NS_FULL_NAME_ND_RO = Котлина
+| srp_NS_SORT_NAME_RG = КОТЛИНА
+| srp_NS_FULL_NAME_RG = Котлина
+| srp_NS_FULL_NAME_ND_RG = Котлина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.230833
  | Lartësia            = 
 }}
-'''Kotlinë''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Kotlinë''' është një [[Fshat Vogel]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

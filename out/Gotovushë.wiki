@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gotovushë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GOTOVUSHE
- | FULL_NAME_RO = Gotovushë
- | FULL_NAME_ND_RO=Gotovushe
- | SORT_NAME_RG=GOTOVUSHE
- | FULL_NAME_RG=Gotovushë
- | FULL_NAME_ND_RG=Gotovushe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gotovushë
+| sqi_N_FULL_NAME_RO = Gotovushë
+| sqi_N_FULL_NAME_ND_RO = Gotovushe
+| sqi_N_SORT_NAME_RG = GOTOVUSHE
+| sqi_N_FULL_NAME_RG = Gotovushë
+| sqi_N_FULL_NAME_ND_RG = Gotovushe
+| sqi_V_name = Gëtovushë
+| sqi_V_FULL_NAME_RO = Gëtovushë
+| sqi_V_FULL_NAME_ND_RO = Getovushe
+| sqi_V_SORT_NAME_RG = GETOVUSHE
+| sqi_V_FULL_NAME_RG = Gëtovushë
+| sqi_V_FULL_NAME_ND_RG = Getovushe
+| srp_N_name = Gotovuša
+| srp_N_FULL_NAME_RO = Gotovuša
+| srp_N_FULL_NAME_ND_RO = Gotovusa
+| srp_N_SORT_NAME_RG = GOTOVUSA
+| srp_N_FULL_NAME_RG = Gotovuša
+| srp_N_FULL_NAME_ND_RG = Gotovusa
+| srp_NS_name = Готовуша
+| srp_NS_FULL_NAME_RO = Готовуша
+| srp_NS_FULL_NAME_ND_RO = Готовуша
+| srp_NS_SORT_NAME_RG = ГОТОВУША
+| srp_NS_FULL_NAME_RG = Готовуша
+| srp_NS_FULL_NAME_ND_RG = Готовуша
+| srp_V_name = Gotovuše
+| srp_V_FULL_NAME_RO = Gotovuše
+| srp_V_FULL_NAME_ND_RO = Gotovuse
+| srp_V_SORT_NAME_RG = GOTOVUSE
+| srp_V_FULL_NAME_RG = Gotovuše
+| srp_V_FULL_NAME_ND_RG = Gotovuse
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.072778
  | Lartësia            = 
 }}
-'''Gotovushë''' është një [[]] në [[Shtërpcë]] të [[Kosovës]].
+'''Gotovushë''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

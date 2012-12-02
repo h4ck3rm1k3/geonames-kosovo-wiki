@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nashec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NASHEC
- | FULL_NAME_RO = Nashec
- | FULL_NAME_ND_RO=Nashec
- | SORT_NAME_RG=NASHEC
- | FULL_NAME_RG=Nashec
- | FULL_NAME_ND_RG=Nashec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Nashec
+| sqi_N_FULL_NAME_RO = Nashec
+| sqi_N_FULL_NAME_ND_RO = Nashec
+| sqi_N_SORT_NAME_RG = NASHEC
+| sqi_N_FULL_NAME_RG = Nashec
+| sqi_N_FULL_NAME_ND_RG = Nashec
+| sqi_V_name = Noshec
+| sqi_V_FULL_NAME_RO = Noshec
+| sqi_V_FULL_NAME_ND_RO = Noshec
+| sqi_V_SORT_NAME_RG = NOSHEC
+| sqi_V_FULL_NAME_RG = Noshec
+| sqi_V_FULL_NAME_ND_RG = Noshec
+| srp_N_name = Našec
+| srp_N_FULL_NAME_RO = Našec
+| srp_N_FULL_NAME_ND_RO = Nasec
+| srp_N_SORT_NAME_RG = NASEC
+| srp_N_FULL_NAME_RG = Našec
+| srp_N_FULL_NAME_ND_RG = Nasec
+| srp_NS_name = Нашец
+| srp_NS_FULL_NAME_RO = Нашец
+| srp_NS_FULL_NAME_ND_RO = Нашец
+| srp_NS_SORT_NAME_RG = НАШЕЦ
+| srp_NS_FULL_NAME_RG = Нашец
+| srp_NS_FULL_NAME_ND_RG = Нашец
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.652778
  | Lartësia            = 
 }}
-'''Nashec''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Nashec''' është një [[Fshat Vogel]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

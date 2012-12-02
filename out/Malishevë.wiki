@@ -1,26 +1,40 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Malishevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MALISHEVE
- | FULL_NAME_RO = Malishevë
- | FULL_NAME_ND_RO=Malisheve
- | SORT_NAME_RG=MALISHEVE
- | FULL_NAME_RG=Malishevë
- | FULL_NAME_ND_RG=Malisheve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Malishevë
+| sqi_N_FULL_NAME_RO = Malishevë
+| sqi_N_FULL_NAME_ND_RO = Malisheve
+| sqi_N_SORT_NAME_RG = MALISHEVE
+| sqi_N_FULL_NAME_RG = Malishevë
+| sqi_N_FULL_NAME_ND_RG = Malisheve
+| sqi_V_name = Malishte-a
+| sqi_V_FULL_NAME_RO = Malishte-a
+| sqi_V_FULL_NAME_ND_RO = Malishte-a
+| sqi_V_SORT_NAME_RG = MALISHTEA
+| sqi_V_FULL_NAME_RG = Malishte-a
+| sqi_V_FULL_NAME_ND_RG = Malishte-a
+| srp_N_name = Mališevo
+| srp_N_FULL_NAME_RO = Mališevo
+| srp_N_FULL_NAME_ND_RO = Malisevo
+| srp_N_SORT_NAME_RG = MALISEVO
+| srp_N_FULL_NAME_RG = Mališevo
+| srp_N_FULL_NAME_ND_RG = Malisevo
+| srp_NS_name = Малишево
+| srp_NS_FULL_NAME_RO = Малишево
+| srp_NS_FULL_NAME_ND_RO = Малишево
+| srp_NS_SORT_NAME_RG = МАЛИШЕВО
+| srp_NS_FULL_NAME_RG = Малишево
+| srp_NS_FULL_NAME_ND_RG = Малишево
+| srp_V_name = Maleševo
+| srp_V_FULL_NAME_RO = Maleševo
+| srp_V_FULL_NAME_ND_RO = Malesevo
+| srp_V_SORT_NAME_RG = MALESEVO
+| srp_V_FULL_NAME_RG = Maleševo
+| srp_V_FULL_NAME_ND_RG = Malesevo
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Mitrovicë
+ | Komuna              = Istog
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +44,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.482222
- | Gjatësia            = 20.745833
+ | Gjerësia            = 42.452778
+ | Gjatësia            = 21.507222
  | Lartësia            = 
 }}
-'''Malishevë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Malishevë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Mitrovicë}}
+{{Komuna Istog}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Fshatra në Kommunes Istog]]
 [[Kategoria:Vendbanime në Kosovës]]

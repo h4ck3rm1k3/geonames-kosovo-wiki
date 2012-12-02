@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Çagllavicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CAGLLAVICE
- | FULL_NAME_RO = Çagllavicë
- | FULL_NAME_ND_RO=Cagllavice
- | SORT_NAME_RG=CAGLLAVICE
- | FULL_NAME_RG=Çagllavicë
- | FULL_NAME_ND_RG=Cagllavice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Çagllavicë
+| sqi_N_FULL_NAME_RO = Çagllavicë
+| sqi_N_FULL_NAME_ND_RO = Cagllavice
+| sqi_N_SORT_NAME_RG = CAGLLAVICE
+| sqi_N_FULL_NAME_RG = Çagllavicë
+| sqi_N_FULL_NAME_ND_RG = Cagllavice
+| sqi_V_name = Qakllavicë
+| sqi_V_FULL_NAME_RO = Qakllavicë
+| sqi_V_FULL_NAME_ND_RO = Qakllavice
+| sqi_V_SORT_NAME_RG = QAKLLAVICE
+| sqi_V_FULL_NAME_RG = Qakllavicë
+| sqi_V_FULL_NAME_ND_RG = Qakllavice
+| srp_N_name = Čaglavica
+| srp_N_FULL_NAME_RO = Čaglavica
+| srp_N_FULL_NAME_ND_RO = Caglavica
+| srp_N_SORT_NAME_RG = CAGLAVICA
+| srp_N_FULL_NAME_RG = Čaglavica
+| srp_N_FULL_NAME_ND_RG = Caglavica
+| srp_NS_name = Чаглавица
+| srp_NS_FULL_NAME_RO = Чаглавица
+| srp_NS_FULL_NAME_ND_RO = Чаглавица
+| srp_NS_SORT_NAME_RG = ЧАГЛАВИЦА
+| srp_NS_FULL_NAME_RG = Чаглавица
+| srp_NS_FULL_NAME_ND_RG = Чаглавица
+| srp_V_name = Čaglovica
+| srp_V_FULL_NAME_RO = Čaglovica
+| srp_V_FULL_NAME_ND_RO = Caglovica
+| srp_V_SORT_NAME_RG = CAGLOVICA
+| srp_V_FULL_NAME_RG = Čaglovica
+| srp_V_FULL_NAME_ND_RG = Caglovica
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.146944
  | Lartësia            = 
 }}
-'''Çagllavicë''' është një [[]] në [[]] të [[Kosovës]].
+'''Çagllavicë''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

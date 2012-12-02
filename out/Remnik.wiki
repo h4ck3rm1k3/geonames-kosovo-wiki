@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Remnik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      REMNIK
- | FULL_NAME_RO = Remnik
- | FULL_NAME_ND_RO=Remnik
- | SORT_NAME_RG=REMNIK
- | FULL_NAME_RG=Remnik
- | FULL_NAME_ND_RG=Remnik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Remnik
+| sqi_N_FULL_NAME_RO = Remnik
+| sqi_N_FULL_NAME_ND_RO = Remnik
+| sqi_N_SORT_NAME_RG = REMNIK
+| sqi_N_FULL_NAME_RG = Remnik
+| sqi_N_FULL_NAME_ND_RG = Remnik
+| sqi_V_name = Remniku
+| sqi_V_FULL_NAME_RO = Remniku Ribnik
+| sqi_V_FULL_NAME_ND_RO = Remniku Ribnik
+| sqi_V_SORT_NAME_RG = REMNIKU RIBNIK
+| sqi_V_FULL_NAME_RG = Remniku Ribnik
+| sqi_V_FULL_NAME_ND_RG = Remniku Ribnik
+| srp_N_name = Ribnik
+| srp_N_FULL_NAME_RO = Ribnik
+| srp_N_FULL_NAME_ND_RO = Ribnik
+| srp_N_SORT_NAME_RG = RIBNIK
+| srp_N_FULL_NAME_RG = Ribnik
+| srp_N_FULL_NAME_ND_RG = Ribnik
+| srp_NS_name = Рибник
+| srp_NS_FULL_NAME_RO = Рибник
+| srp_NS_FULL_NAME_ND_RO = Рибник
+| srp_NS_SORT_NAME_RG = РИБНИК
+| srp_NS_FULL_NAME_RG = Рибник
+| srp_NS_FULL_NAME_ND_RG = Рибник
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.442222
  | Lartësia            = 
 }}
-'''Remnik''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Remnik''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

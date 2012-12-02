@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sallagrazhdë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SALLAGRAZHDE
- | FULL_NAME_RO = Sallagrazhdë
- | FULL_NAME_ND_RO=Sallagrazhde
- | SORT_NAME_RG=SALLAGRAZHDE
- | FULL_NAME_RG=Sallagrazhdë
- | FULL_NAME_ND_RG=Sallagrazhde
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sallagrazhdë
+| sqi_N_FULL_NAME_RO = Sallagrazhdë
+| sqi_N_FULL_NAME_ND_RO = Sallagrazhde
+| sqi_N_SORT_NAME_RG = SALLAGRAZHDE
+| sqi_N_FULL_NAME_RG = Sallagrazhdë
+| sqi_N_FULL_NAME_ND_RG = Sallagrazhde
+| sqi_V_name = Sellogragjë
+| sqi_V_FULL_NAME_RO = Sellogragjë Sallogragjë Sellograzhdë Selogrozhda
+| sqi_V_FULL_NAME_ND_RO = Sellogragje Sallogragje Sellograzhde Selogrozhda
+| sqi_V_SORT_NAME_RG = SELLOGRAGJE SALLOGRAGJE SELLOGRAZHDE SELOGROZHDA
+| sqi_V_FULL_NAME_RG = Sellogragjë Sallogragjë Sellograzhdë Selogrozhda
+| sqi_V_FULL_NAME_ND_RG = Sellogragje Sallogragje Sellograzhde Selogrozhda
+| srp_N_name = Selogražde
+| srp_N_FULL_NAME_RO = Selogražde
+| srp_N_FULL_NAME_ND_RO = Selograzde
+| srp_N_SORT_NAME_RG = SELOGRAZDE
+| srp_N_FULL_NAME_RG = Selogražde
+| srp_N_FULL_NAME_ND_RG = Selograzde
+| srp_NS_name = Селогражде
+| srp_NS_FULL_NAME_RO = Селогражде
+| srp_NS_FULL_NAME_ND_RO = Селогражде
+| srp_NS_SORT_NAME_RG = СЕЛОГРАЖДЕ
+| srp_NS_FULL_NAME_RG = Селогражде
+| srp_NS_FULL_NAME_ND_RG = Селогражде
+| srp_V_name = Selogražda
+| srp_V_FULL_NAME_RO = Selogražda
+| srp_V_FULL_NAME_ND_RO = Selograzda
+| srp_V_SORT_NAME_RG = SELOGRAZDA
+| srp_V_FULL_NAME_RG = Selogražda
+| srp_V_FULL_NAME_ND_RG = Selograzda
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.848889
  | Lartësia            = 
 }}
-'''Sallagrazhdë''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Sallagrazhdë''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lëbushë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LEBUSHE
- | FULL_NAME_RO = Lëbushë
- | FULL_NAME_ND_RO=Lebushe
- | SORT_NAME_RG=LEBUSHE
- | FULL_NAME_RG=Lëbushë
- | FULL_NAME_ND_RG=Lebushe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lëbushë
+| sqi_N_FULL_NAME_RO = Lëbushë
+| sqi_N_FULL_NAME_ND_RO = Lebushe
+| sqi_N_SORT_NAME_RG = LEBUSHE
+| sqi_N_FULL_NAME_RG = Lëbushë
+| sqi_N_FULL_NAME_ND_RG = Lebushe
+| sqi_V_name = Lpushë
+| sqi_V_FULL_NAME_RO = Lpushë Lubushë Lëbusha
+| sqi_V_FULL_NAME_ND_RO = Lpushe Lubushe Lebusha
+| sqi_V_SORT_NAME_RG = LPUSHE LUBUSHE LEBUSHA
+| sqi_V_FULL_NAME_RG = Lpushë Lubushë Lëbusha
+| sqi_V_FULL_NAME_ND_RG = Lpushe Lubushe Lebusha
+| srp_N_name = Ljubuša
+| srp_N_FULL_NAME_RO = Ljubuša
+| srp_N_FULL_NAME_ND_RO = Ljubusa
+| srp_N_SORT_NAME_RG = LJUBUSA
+| srp_N_FULL_NAME_RG = Ljubuša
+| srp_N_FULL_NAME_ND_RG = Ljubusa
+| srp_NS_name = Љубуша
+| srp_NS_FULL_NAME_RO = Љубуша
+| srp_NS_FULL_NAME_ND_RO = Љубуша
+| srp_NS_SORT_NAME_RG = ЉУБУША
+| srp_NS_FULL_NAME_RG = Љубуша
+| srp_NS_FULL_NAME_ND_RG = Љубуша
+| srp_V_name = Ljebuše
+| srp_V_FULL_NAME_RO = Ljebuše
+| srp_V_FULL_NAME_ND_RO = Ljebuse
+| srp_V_SORT_NAME_RG = LJEBUSE
+| srp_V_FULL_NAME_RG = Ljebuše
+| srp_V_FULL_NAME_ND_RG = Ljebuse
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.290833
  | Lartësia            = 
 }}
-'''Lëbushë''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Lëbushë''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

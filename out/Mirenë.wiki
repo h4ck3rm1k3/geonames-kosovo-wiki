@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mirenë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MIRENE
- | FULL_NAME_RO = Mirenë
- | FULL_NAME_ND_RO=Mirene
- | SORT_NAME_RG=MIRENE
- | FULL_NAME_RG=Mirenë
- | FULL_NAME_ND_RG=Mirene
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Mirenë
+| sqi_N_FULL_NAME_RO = Mirenë
+| sqi_N_FULL_NAME_ND_RO = Mirene
+| sqi_N_SORT_NAME_RG = MIRENE
+| sqi_N_FULL_NAME_RG = Mirenë
+| sqi_N_FULL_NAME_ND_RG = Mirene
+| srp_N_name = Mirena
+| srp_N_FULL_NAME_RO = Mirena
+| srp_N_FULL_NAME_ND_RO = Mirena
+| srp_N_SORT_NAME_RG = MIRENA
+| srp_N_FULL_NAME_RG = Mirena
+| srp_N_FULL_NAME_ND_RG = Mirena
+| srp_NS_name = Мирена
+| srp_NS_FULL_NAME_RO = Мирена
+| srp_NS_FULL_NAME_ND_RO = Мирена
+| srp_NS_SORT_NAME_RG = МИРЕНА
+| srp_NS_FULL_NAME_RG = Мирена
+| srp_NS_FULL_NAME_ND_RG = Мирена
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.965278
  | Lartësia            = 
 }}
-'''Mirenë''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Mirenë''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

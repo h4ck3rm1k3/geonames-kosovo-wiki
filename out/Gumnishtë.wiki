@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gumnishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GUMNISHTE
- | FULL_NAME_RO = Gumnishtë
- | FULL_NAME_ND_RO=Gumnishte
- | SORT_NAME_RG=GUMNISHTE
- | FULL_NAME_RG=Gumnishtë
- | FULL_NAME_ND_RG=Gumnishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gumnishtë
+| sqi_N_FULL_NAME_RO = Gumnishtë
+| sqi_N_FULL_NAME_ND_RO = Gumnishte
+| sqi_N_SORT_NAME_RG = GUMNISHTE
+| sqi_N_FULL_NAME_RG = Gumnishtë
+| sqi_N_FULL_NAME_ND_RG = Gumnishte
+| srp_N_name = Gumnište
+| srp_N_FULL_NAME_RO = Gumnište
+| srp_N_FULL_NAME_ND_RO = Gumniste
+| srp_N_SORT_NAME_RG = GUMNISTE
+| srp_N_FULL_NAME_RG = Gumnište
+| srp_N_FULL_NAME_ND_RG = Gumniste
+| srp_NS_name = Гумниште
+| srp_NS_FULL_NAME_RO = Гумниште
+| srp_NS_FULL_NAME_ND_RO = Гумниште
+| srp_NS_SORT_NAME_RG = ГУМНИШТЕ
+| srp_NS_FULL_NAME_RG = Гумниште
+| srp_NS_FULL_NAME_ND_RG = Гумниште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.377222
  | Lartësia            = 
 }}
-'''Gumnishtë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Gumnishtë''' është një [[Fshat Vogel]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

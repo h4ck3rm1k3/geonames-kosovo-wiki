@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Haxhaj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      HAXHAJ
- | FULL_NAME_RO = Haxhaj
- | FULL_NAME_ND_RO=Haxhaj
- | SORT_NAME_RG=HAXHAJ
- | FULL_NAME_RG=Haxhaj
- | FULL_NAME_ND_RG=Haxhaj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Haxhaj
+| sqi_N_FULL_NAME_RO = Haxhaj
+| sqi_N_FULL_NAME_ND_RO = Haxhaj
+| sqi_N_SORT_NAME_RG = HAXHAJ
+| sqi_N_FULL_NAME_RG = Haxhaj
+| sqi_N_FULL_NAME_ND_RG = Haxhaj
+| sqi_V_name = Haxhiaj
+| sqi_V_FULL_NAME_RO = Haxhiaj Hoxhaj Hoxhoviq
+| sqi_V_FULL_NAME_ND_RO = Haxhiaj Hoxhaj Hoxhoviq
+| sqi_V_SORT_NAME_RG = HAXHIAJ HOXHAJ HOXHOVIQ
+| sqi_V_FULL_NAME_RG = Haxhiaj Hoxhaj Hoxhoviq
+| sqi_V_FULL_NAME_ND_RG = Haxhiaj Hoxhaj Hoxhoviq
+| srp_N_name = Adžovići
+| srp_N_FULL_NAME_RO = Adžovići
+| srp_N_FULL_NAME_ND_RO = Adzovici
+| srp_N_SORT_NAME_RG = ADZOVICI
+| srp_N_FULL_NAME_RG = Adžovići
+| srp_N_FULL_NAME_ND_RG = Adzovici
+| srp_NS_name = Аџовићи
+| srp_NS_FULL_NAME_RO = Аџовићи
+| srp_NS_FULL_NAME_ND_RO = Аџовићи
+| srp_NS_SORT_NAME_RG = АЏОВИЋИ
+| srp_NS_FULL_NAME_RG = Аџовићи
+| srp_NS_FULL_NAME_ND_RG = Аџовићи
+| srp_V_name = Hadžović
+| srp_V_FULL_NAME_RO = Hadžović Hadževići Hađovići Hadževice Hadžovići
+| srp_V_FULL_NAME_ND_RO = Hadzovic Hadzevici Hadovici Hadzevice Hadzovici
+| srp_V_SORT_NAME_RG = HADZOVIC HADZEVICI HADOVICI HADZEVICE HADZOVICI
+| srp_V_FULL_NAME_RG = Hadžović Hadževići Hađovići Hadževice Hadžovići
+| srp_V_FULL_NAME_ND_RG = Hadzovic Hadzevici Hadovici Hadzevice Hadzovici
+| srp_VS_name = Хаџовићи
+| srp_VS_FULL_NAME_RO = Хаџовићи
+| srp_VS_FULL_NAME_ND_RO = Хаџовићи
+| srp_VS_SORT_NAME_RG = ХАЏОВИЋИ
+| srp_VS_FULL_NAME_RG = Хаџовићи
+| srp_VS_FULL_NAME_ND_RG = Хаџовићи
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.044167
  | Lartësia            = 
 }}
-'''Haxhaj''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Haxhaj''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dragoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DRAGOC
- | FULL_NAME_RO = Dragoc
- | FULL_NAME_ND_RO=Dragoc
- | SORT_NAME_RG=DRAGOC
- | FULL_NAME_RG=Dragoc
- | FULL_NAME_ND_RG=Dragoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dragoc
+| sqi_N_FULL_NAME_RO = Dragoc
+| sqi_N_FULL_NAME_ND_RO = Dragoc
+| sqi_N_SORT_NAME_RG = DRAGOC
+| sqi_N_FULL_NAME_RG = Dragoc
+| sqi_N_FULL_NAME_ND_RG = Dragoc
+| srp_N_name = Dragovac
+| srp_N_FULL_NAME_RO = Dragovac
+| srp_N_FULL_NAME_ND_RO = Dragovac
+| srp_N_SORT_NAME_RG = DRAGOVAC
+| srp_N_FULL_NAME_RG = Dragovac
+| srp_N_FULL_NAME_ND_RG = Dragovac
+| srp_NS_name = Драговац
+| srp_NS_FULL_NAME_RO = Драговац
+| srp_NS_FULL_NAME_ND_RO = Драговац
+| srp_NS_SORT_NAME_RG = ДРАГОВАЦ
+| srp_NS_FULL_NAME_RG = Драговац
+| srp_NS_FULL_NAME_ND_RG = Драговац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.33
  | Lartësia            = 
 }}
-'''Dragoc''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Dragoc''' është një [[Fshat Vogel]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

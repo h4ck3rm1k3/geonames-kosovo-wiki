@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dremjak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DREMJAK
- | FULL_NAME_RO = Dremjak
- | FULL_NAME_ND_RO=Dremjak
- | SORT_NAME_RG=DREMJAK
- | FULL_NAME_RG=Dremjak
- | FULL_NAME_ND_RG=Dremjak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Dremjak
+| sqi_D_FULL_NAME_RO = Dremjak
+| sqi_D_FULL_NAME_ND_RO = Dremjak
+| sqi_D_SORT_NAME_RG = DREMJAK
+| sqi_D_FULL_NAME_RG = Dremjak
+| sqi_D_FULL_NAME_ND_RG = Dremjak
+| sqi_V_name = Dramjakë
+| sqi_V_FULL_NAME_RO = Dramjakë Dramjak Dromnjak
+| sqi_V_FULL_NAME_ND_RO = Dramjake Dramjak Dromnjak
+| sqi_V_SORT_NAME_RG = DRAMJAKE DRAMJAK DROMNJAK
+| sqi_V_FULL_NAME_RG = Dramjakë Dramjak Dromnjak
+| sqi_V_FULL_NAME_ND_RG = Dramjake Dramjak Dromnjak
+| srp_N_name = Dramnjak
+| srp_N_FULL_NAME_RO = Dramnjak
+| srp_N_FULL_NAME_ND_RO = Dramnjak
+| srp_N_SORT_NAME_RG = DRAMNJAK
+| srp_N_FULL_NAME_RG = Dramnjak
+| srp_N_FULL_NAME_ND_RG = Dramnjak
+| srp_NS_name = Драмњак
+| srp_NS_FULL_NAME_RO = Драмњак
+| srp_NS_FULL_NAME_ND_RO = Драмњак
+| srp_NS_SORT_NAME_RG = ДРАМЊАК
+| srp_NS_FULL_NAME_RG = Драмњак
+| srp_NS_FULL_NAME_ND_RG = Драмњак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.072222
  | Lartësia            = 
 }}
-'''Dremjak''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Dremjak''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

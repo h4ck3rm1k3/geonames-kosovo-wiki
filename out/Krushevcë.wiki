@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Krushevcë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KRUSHEVCE
- | FULL_NAME_RO = Krushevcë
- | FULL_NAME_ND_RO=Krushevce
- | SORT_NAME_RG=KRUSHEVCE
- | FULL_NAME_RG=Krushevcë
- | FULL_NAME_ND_RG=Krushevce
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Krushevcë
+| sqi_N_FULL_NAME_RO = Krushevcë
+| sqi_N_FULL_NAME_ND_RO = Krushevce
+| sqi_N_SORT_NAME_RG = KRUSHEVCE
+| sqi_N_FULL_NAME_RG = Krushevcë
+| sqi_N_FULL_NAME_ND_RG = Krushevce
+| sqi_V_name = Kryshevc
+| sqi_V_FULL_NAME_RO = Kryshevc Kryshec
+| sqi_V_FULL_NAME_ND_RO = Kryshevc Kryshec
+| sqi_V_SORT_NAME_RG = KRYSHEVC KRYSHEC
+| sqi_V_FULL_NAME_RG = Kryshevc Kryshec
+| sqi_V_FULL_NAME_ND_RG = Kryshevc Kryshec
+| srp_N_name = Kruševac
+| srp_N_FULL_NAME_RO = Kruševac
+| srp_N_FULL_NAME_ND_RO = Krusevac
+| srp_N_SORT_NAME_RG = KRUSEVAC
+| srp_N_FULL_NAME_RG = Kruševac
+| srp_N_FULL_NAME_ND_RG = Krusevac
+| srp_NS_name = Крушевац
+| srp_NS_FULL_NAME_RO = Крушевац
+| srp_NS_FULL_NAME_ND_RO = Крушевац
+| srp_NS_SORT_NAME_RG = КРУШЕВАЦ
+| srp_NS_FULL_NAME_RG = Крушевац
+| srp_NS_FULL_NAME_ND_RG = Крушевац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.082983
  | Lartësia            = 
 }}
-'''Krushevcë''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Krushevcë''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

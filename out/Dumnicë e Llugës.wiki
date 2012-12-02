@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dumnicë e Llugës
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DUMNICEELLUGES
- | FULL_NAME_RO = Dumnicë e Llugës
- | FULL_NAME_ND_RO=Dumnice e Lluges
- | SORT_NAME_RG=DUMNICEELLUGES
- | FULL_NAME_RG=Dumnicë e Llugës
- | FULL_NAME_ND_RG=Dumnice e Lluges
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dumnicë e Llugës
+| sqi_N_FULL_NAME_RO = Dumnicë e Llugës
+| sqi_N_FULL_NAME_ND_RO = Dumnice e Lluges
+| sqi_N_SORT_NAME_RG = DUMNICEELLUGES
+| sqi_N_FULL_NAME_RG = Dumnicë e Llugës
+| sqi_N_FULL_NAME_ND_RG = Dumnice e Lluges
+| sqi_V_name = Lluga
+| sqi_V_FULL_NAME_RO = Lluga Dumenica e Llugave
+| sqi_V_FULL_NAME_ND_RO = Lluga Dumenica e Llugave
+| sqi_V_SORT_NAME_RG = LLUGA DUMENICAELLUGAVE
+| sqi_V_FULL_NAME_RG = Lluga Dumenica e Llugave
+| sqi_V_FULL_NAME_ND_RG = Lluga Dumenica e Llugave
+| srp_N_name = Lug Dubnica
+| srp_N_FULL_NAME_RO = Lug Dubnica
+| srp_N_FULL_NAME_ND_RO = Lug Dubnica
+| srp_N_SORT_NAME_RG = LUGDUBNICA
+| srp_N_FULL_NAME_RG = Lug Dubnica
+| srp_N_FULL_NAME_ND_RG = Lug Dubnica
+| srp_NS_name = Луг Дубница
+| srp_NS_FULL_NAME_RO = Луг Дубница
+| srp_NS_FULL_NAME_ND_RO = Луг Дубница
+| srp_NS_SORT_NAME_RG = ЛУГДУБНИЦА
+| srp_NS_FULL_NAME_RG = Луг Дубница
+| srp_NS_FULL_NAME_ND_RG = Луг Дубница
+| srp_V_name = Lug
+| srp_V_FULL_NAME_RO = Lug
+| srp_V_FULL_NAME_ND_RO = Lug
+| srp_V_SORT_NAME_RG = LUG
+| srp_V_FULL_NAME_RG = Lug
+| srp_V_FULL_NAME_ND_RG = Lug
+| srp_VS_name = Луг
+| srp_VS_FULL_NAME_RO = Луг
+| srp_VS_FULL_NAME_ND_RO = Луг
+| srp_VS_SORT_NAME_RG = ЛУГ
+| srp_VS_FULL_NAME_RG = Луг
+| srp_VS_FULL_NAME_ND_RG = Луг
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.076936
  | Lartësia            = 
 }}
-'''Dumnicë e Llugës''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Dumnicë e Llugës''' është një [[Fshat Vogel]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

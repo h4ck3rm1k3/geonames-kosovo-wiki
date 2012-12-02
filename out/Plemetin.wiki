@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Plemetin
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PLEMETIN
- | FULL_NAME_RO = Plemetin
- | FULL_NAME_ND_RO=Plemetin
- | SORT_NAME_RG=PLEMETIN
- | FULL_NAME_RG=Plemetin
- | FULL_NAME_ND_RG=Plemetin
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Plemetin
+| sqi_N_FULL_NAME_RO = Plemetin
+| sqi_N_FULL_NAME_ND_RO = Plemetin
+| sqi_N_SORT_NAME_RG = PLEMETIN
+| sqi_N_FULL_NAME_RG = Plemetin
+| sqi_N_FULL_NAME_ND_RG = Plemetin
+| srp_N_name = Plemetina
+| srp_N_FULL_NAME_RO = Plemetina
+| srp_N_FULL_NAME_ND_RO = Plemetina
+| srp_N_SORT_NAME_RG = PLEMETINA
+| srp_N_FULL_NAME_RG = Plemetina
+| srp_N_FULL_NAME_ND_RG = Plemetina
+| srp_NS_name = Племетина
+| srp_NS_FULL_NAME_RO = Племетина
+| srp_NS_FULL_NAME_ND_RO = Племетина
+| srp_NS_SORT_NAME_RG = ПЛЕМЕТИНА
+| srp_NS_FULL_NAME_RG = Племетина
+| srp_NS_FULL_NAME_ND_RG = Племетина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.047073
  | Lartësia            = 
 }}
-'''Plemetin''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Plemetin''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

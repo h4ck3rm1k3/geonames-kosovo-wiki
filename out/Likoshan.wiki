@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Likoshan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LIKOSHAN
- | FULL_NAME_RO = Likoshan
- | FULL_NAME_ND_RO=Likoshan
- | SORT_NAME_RG=LIKOSHAN
- | FULL_NAME_RG=Likoshan
- | FULL_NAME_ND_RG=Likoshan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Likoshan
+| sqi_D_FULL_NAME_RO = Likoshan
+| sqi_D_FULL_NAME_ND_RO = Likoshan
+| sqi_D_SORT_NAME_RG = LIKOSHAN
+| sqi_D_FULL_NAME_RG = Likoshan
+| sqi_D_FULL_NAME_ND_RG = Likoshan
+| sqi_V_name = Likoshani
+| sqi_V_FULL_NAME_RO = Likoshani Likashan Likashani
+| sqi_V_FULL_NAME_ND_RO = Likoshani Likashan Likashani
+| sqi_V_SORT_NAME_RG = LIKOSHANI LIKASHAN LIKASHANI
+| sqi_V_FULL_NAME_RG = Likoshani Likashan Likashani
+| sqi_V_FULL_NAME_ND_RG = Likoshani Likashan Likashani
+| srp_N_name = Likošane
+| srp_N_FULL_NAME_RO = Likošane
+| srp_N_FULL_NAME_ND_RO = Likosane
+| srp_N_SORT_NAME_RG = LIKOSANE
+| srp_N_FULL_NAME_RG = Likošane
+| srp_N_FULL_NAME_ND_RG = Likosane
+| srp_NS_name = Ликошане
+| srp_NS_FULL_NAME_RO = Ликошане
+| srp_NS_FULL_NAME_ND_RO = Ликошане
+| srp_NS_SORT_NAME_RG = ЛИКОШАНЕ
+| srp_NS_FULL_NAME_RG = Ликошане
+| srp_NS_FULL_NAME_ND_RG = Ликошане
+| srp_V_name = Likošan
+| srp_V_FULL_NAME_RO = Likošan Lukašan
+| srp_V_FULL_NAME_ND_RO = Likosan Lukasan
+| srp_V_SORT_NAME_RG = LIKOSAN LUKASAN
+| srp_V_FULL_NAME_RG = Likošan Lukašan
+| srp_V_FULL_NAME_ND_RG = Likosan Lukasan
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.898333
  | Lartësia            = 
 }}
-'''Likoshan''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Likoshan''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

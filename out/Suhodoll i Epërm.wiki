@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Suhodoll i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SUHODOLLIEPERM
- | FULL_NAME_RO = Suhodoll i Epërm
- | FULL_NAME_ND_RO=Suhodoll i Eperm
- | SORT_NAME_RG=SUHODOLLIEPERM
- | FULL_NAME_RG=Suhodoll i Epërm
- | FULL_NAME_ND_RG=Suhodoll i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Suhodoll i Epërm
+| sqi_D_FULL_NAME_RO = Suhodoll i Epërm
+| sqi_D_FULL_NAME_ND_RO = Suhodoll i Eperm
+| sqi_D_SORT_NAME_RG = SUHODOLLIEPERM
+| sqi_D_FULL_NAME_RG = Suhodoll i Epërm
+| sqi_D_FULL_NAME_ND_RG = Suhodoll i Eperm
+| sqi_V_name = Logmirë
+| sqi_V_FULL_NAME_RO = Logmirë Suhodoll Suvidoll
+| sqi_V_FULL_NAME_ND_RO = Logmire Suhodoll Suvidoll
+| sqi_V_SORT_NAME_RG = LOGMIRE SUHODOLL SUVIDOLL
+| sqi_V_FULL_NAME_RG = Logmirë Suhodoll Suvidoll
+| sqi_V_FULL_NAME_ND_RG = Logmire Suhodoll Suvidoll
+| srp_N_name = Suvi Do
+| srp_N_FULL_NAME_RO = Suvi Do
+| srp_N_FULL_NAME_ND_RO = Suvi Do
+| srp_N_SORT_NAME_RG = SUVIDO
+| srp_N_FULL_NAME_RG = Suvi Do
+| srp_N_FULL_NAME_ND_RG = Suvi Do
+| srp_NS_name = Суви До
+| srp_NS_FULL_NAME_RO = Суви До
+| srp_NS_FULL_NAME_ND_RO = Суви До
+| srp_NS_SORT_NAME_RG = СУВИДО
+| srp_NS_FULL_NAME_RG = Суви До
+| srp_NS_FULL_NAME_ND_RG = Суви До
+| srp_V_name = Gornji Suvo Do
+| srp_V_FULL_NAME_RO = Gornji Suvo Do Gornji Suvi Do
+| srp_V_FULL_NAME_ND_RO = Gornji Suvo Do Gornji Suvi Do
+| srp_V_SORT_NAME_RG = GORNJISUVODO GORNJISUVIDO
+| srp_V_FULL_NAME_RG = Gornji Suvo Do Gornji Suvi Do
+| srp_V_FULL_NAME_ND_RG = Gornji Suvo Do Gornji Suvi Do
+| srp_VS_name = Горњи Суви До
+| srp_VS_FULL_NAME_RO = Горњи Суви До
+| srp_VS_FULL_NAME_ND_RO = Горњи Суви До
+| srp_VS_SORT_NAME_RG = ГОРЊИСУВИДО
+| srp_VS_FULL_NAME_RG = Горњи Суви До
+| srp_VS_FULL_NAME_ND_RG = Горњи Суви До
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.848333
  | Lartësia            = 
 }}
-'''Suhodoll i Epërm''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Suhodoll i Epërm''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

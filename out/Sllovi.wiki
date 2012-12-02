@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sllovi
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SLLOVI
- | FULL_NAME_RO = Sllovi
- | FULL_NAME_ND_RO=Sllovi
- | SORT_NAME_RG=SLLOVI
- | FULL_NAME_RG=Sllovi
- | FULL_NAME_ND_RG=Sllovi
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sllovi
+| sqi_N_FULL_NAME_RO = Sllovi
+| sqi_N_FULL_NAME_ND_RO = Sllovi
+| sqi_N_SORT_NAME_RG = SLLOVI
+| sqi_N_FULL_NAME_RG = Sllovi
+| sqi_N_FULL_NAME_ND_RG = Sllovi
+| srp_N_name = Slovinje
+| srp_N_FULL_NAME_RO = Slovinje
+| srp_N_FULL_NAME_ND_RO = Slovinje
+| srp_N_SORT_NAME_RG = SLOVINJE
+| srp_N_FULL_NAME_RG = Slovinje
+| srp_N_FULL_NAME_ND_RG = Slovinje
+| srp_NS_name = Словиње
+| srp_NS_FULL_NAME_RO = Словиње
+| srp_NS_FULL_NAME_ND_RO = Словиње
+| srp_NS_SORT_NAME_RG = СЛОВИЊЕ
+| srp_NS_FULL_NAME_RG = Словиње
+| srp_NS_FULL_NAME_ND_RG = Словиње
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.22
  | Lartësia            = 
 }}
-'''Sllovi''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Sllovi''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Reshtan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RESHTAN
- | FULL_NAME_RO = Reshtan
- | FULL_NAME_ND_RO=Reshtan
- | SORT_NAME_RG=RESHTAN
- | FULL_NAME_RG=Reshtan
- | FULL_NAME_ND_RG=Reshtan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Reshtan
+| sqi_D_FULL_NAME_RO = Reshtan
+| sqi_D_FULL_NAME_ND_RO = Reshtan
+| sqi_D_SORT_NAME_RG = RESHTAN
+| sqi_D_FULL_NAME_RG = Reshtan
+| sqi_D_FULL_NAME_ND_RG = Reshtan
+| sqi_V_name = Rashtan
+| sqi_V_FULL_NAME_RO = Rashtan Rreshtan Rashtane
+| sqi_V_FULL_NAME_ND_RO = Rashtan Rreshtan Rashtane
+| sqi_V_SORT_NAME_RG = RASHTAN RRESHTAN RASHTANE
+| sqi_V_FULL_NAME_RG = Rashtan Rreshtan Rashtane
+| sqi_V_FULL_NAME_ND_RG = Rashtan Rreshtan Rashtane
+| srp_N_name = Raštane
+| srp_N_FULL_NAME_RO = Raštane
+| srp_N_FULL_NAME_ND_RO = Rastane
+| srp_N_SORT_NAME_RG = RASTANE
+| srp_N_FULL_NAME_RG = Raštane
+| srp_N_FULL_NAME_ND_RG = Rastane
+| srp_NS_name = Раштане
+| srp_NS_FULL_NAME_RO = Раштане
+| srp_NS_FULL_NAME_ND_RO = Раштане
+| srp_NS_SORT_NAME_RG = РАШТАНЕ
+| srp_NS_FULL_NAME_RG = Раштане
+| srp_NS_FULL_NAME_ND_RG = Раштане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.792778
  | Lartësia            = 
 }}
-'''Reshtan''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Reshtan''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

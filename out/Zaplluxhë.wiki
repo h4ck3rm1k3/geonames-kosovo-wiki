@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zaplluxhë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZAPLLUXHE
- | FULL_NAME_RO = Zaplluxhë
- | FULL_NAME_ND_RO=Zaplluxhe
- | SORT_NAME_RG=ZAPLLUXHE
- | FULL_NAME_RG=Zaplluxhë
- | FULL_NAME_ND_RG=Zaplluxhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zaplluxhë
+| sqi_D_FULL_NAME_RO = Zaplluxhë
+| sqi_D_FULL_NAME_ND_RO = Zaplluxhe
+| sqi_D_SORT_NAME_RG = ZAPLLUXHE
+| sqi_D_FULL_NAME_RG = Zaplluxhë
+| sqi_D_FULL_NAME_ND_RG = Zaplluxhe
+| sqi_V_name = Zhapllushë
+| sqi_V_FULL_NAME_RO = Zhapllushë Shengjin Zaplluxhe Zaplluzhe
+| sqi_V_FULL_NAME_ND_RO = Zhapllushe Shengjin Zaplluxhe Zaplluzhe
+| sqi_V_SORT_NAME_RG = ZHAPLLUSHE SHENGJIN ZAPLLUXHE ZAPLLUZHE
+| sqi_V_FULL_NAME_RG = Zhapllushë Shengjin Zaplluxhe Zaplluzhe
+| sqi_V_FULL_NAME_ND_RG = Zhapllushe Shengjin Zaplluxhe Zaplluzhe
+| srp_N_name = Zaplužje
+| srp_N_FULL_NAME_RO = Zaplužje
+| srp_N_FULL_NAME_ND_RO = Zapluzje
+| srp_N_SORT_NAME_RG = ZAPLUZJE
+| srp_N_FULL_NAME_RG = Zaplužje
+| srp_N_FULL_NAME_ND_RG = Zapluzje
+| srp_NS_name = Заплужје
+| srp_NS_FULL_NAME_RO = Заплужје
+| srp_NS_FULL_NAME_ND_RO = Заплужје
+| srp_NS_SORT_NAME_RG = ЗАПЛУЖЈЕ
+| srp_NS_FULL_NAME_RG = Заплужје
+| srp_NS_FULL_NAME_ND_RG = Заплужје
+| srp_V_name = Zaplluzhë
+| srp_V_FULL_NAME_RO = Zaplluzhë
+| srp_V_FULL_NAME_ND_RO = Zaplluzhe
+| srp_V_SORT_NAME_RG = ZAPLLUZHE
+| srp_V_FULL_NAME_RG = Zaplluzhë
+| srp_V_FULL_NAME_ND_RG = Zaplluzhe
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.756389
  | Lartësia            = 
 }}
-'''Zaplluxhë''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Zaplluxhë''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

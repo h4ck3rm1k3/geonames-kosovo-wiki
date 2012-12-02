@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Krushë e Vogël
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KRUSHEEVOGEL
- | FULL_NAME_RO = Krushë e Vogël
- | FULL_NAME_ND_RO=Krushe e Vogel
- | SORT_NAME_RG=KRUSHEEVOGEL
- | FULL_NAME_RG=Krushë e Vogël
- | FULL_NAME_ND_RG=Krushe e Vogel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Krushë e Vogël
+| sqi_N_FULL_NAME_RO = Krushë e Vogël
+| sqi_N_FULL_NAME_ND_RO = Krushe e Vogel
+| sqi_N_SORT_NAME_RG = KRUSHEEVOGEL
+| sqi_N_FULL_NAME_RG = Krushë e Vogël
+| sqi_N_FULL_NAME_ND_RG = Krushe e Vogel
+| sqi_V_name = Krusha e Vogël
+| sqi_V_FULL_NAME_RO = Krusha e Vogël
+| sqi_V_FULL_NAME_ND_RO = Krusha e Vogel
+| sqi_V_SORT_NAME_RG = KRUSHAEVOGEL
+| sqi_V_FULL_NAME_RG = Krusha e Vogël
+| sqi_V_FULL_NAME_ND_RG = Krusha e Vogel
+| srp_N_name = Mala Kruša
+| srp_N_FULL_NAME_RO = Mala Kruša
+| srp_N_FULL_NAME_ND_RO = Mala Krusa
+| srp_N_SORT_NAME_RG = MALAKRUSA
+| srp_N_FULL_NAME_RG = Mala Kruša
+| srp_N_FULL_NAME_ND_RG = Mala Krusa
+| srp_NS_name = Мала Круша
+| srp_NS_FULL_NAME_RO = Мала Круша
+| srp_NS_FULL_NAME_ND_RO = Мала Круша
+| srp_NS_SORT_NAME_RG = МАЛАКРУША
+| srp_NS_FULL_NAME_RG = Мала Круша
+| srp_NS_FULL_NAME_ND_RG = Мала Круша
+| srp_V_name = Kruša-Male
+| srp_V_FULL_NAME_RO = Kruša-Male
+| srp_V_FULL_NAME_ND_RO = Krusa-Male
+| srp_V_SORT_NAME_RG = KRUSAMALE
+| srp_V_FULL_NAME_RG = Kruša-Male
+| srp_V_FULL_NAME_ND_RG = Krusa-Male
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.651111
  | Lartësia            = 
 }}
-'''Krushë e Vogël''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Krushë e Vogël''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

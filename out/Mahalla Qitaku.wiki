@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mahalla Qitaku
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAHALLAQITAKU
- | FULL_NAME_RO = Mahalla Qitaku
- | FULL_NAME_ND_RO=Mahalla Qitaku
- | SORT_NAME_RG=MAHALLAQITAKU
- | FULL_NAME_RG=Mahalla Qitaku
- | FULL_NAME_ND_RG=Mahalla Qitaku
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Mahalla Qitaku
+| sqi_D_FULL_NAME_RO = Mahalla Qitaku
+| sqi_D_FULL_NAME_ND_RO = Mahalla Qitaku
+| sqi_D_SORT_NAME_RG = MAHALLAQITAKU
+| sqi_D_FULL_NAME_RG = Mahalla Qitaku
+| sqi_D_FULL_NAME_ND_RG = Mahalla Qitaku
+| srp_N_name = Ćitak Mahala
+| srp_N_FULL_NAME_RO = Ćitak Mahala
+| srp_N_FULL_NAME_ND_RO = Citak Mahala
+| srp_N_SORT_NAME_RG = CITAKMAHALA
+| srp_N_FULL_NAME_RG = Ćitak Mahala
+| srp_N_FULL_NAME_ND_RG = Citak Mahala
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 21.155753
  | Lartësia            = 
 }}
-'''Mahalla Qitaku''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Mahalla Qitaku''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

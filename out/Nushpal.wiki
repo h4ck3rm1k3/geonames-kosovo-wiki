@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nushpal
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NUSHPAL
- | FULL_NAME_RO = Nushpal
- | FULL_NAME_ND_RO=Nushpal
- | SORT_NAME_RG=NUSHPAL
- | FULL_NAME_RG=Nushpal
- | FULL_NAME_ND_RG=Nushpal
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Nushpal
+| sqi_D_FULL_NAME_RO = Nushpal
+| sqi_D_FULL_NAME_ND_RO = Nushpal
+| sqi_D_SORT_NAME_RG = NUSHPAL
+| sqi_D_FULL_NAME_RG = Nushpal
+| sqi_D_FULL_NAME_ND_RG = Nushpal
+| sqi_V_name = Nushpalë
+| sqi_V_FULL_NAME_RO = Nushpalë Nashpal
+| sqi_V_FULL_NAME_ND_RO = Nushpale Nashpal
+| sqi_V_SORT_NAME_RG = NUSHPALE NASHPAL
+| sqi_V_FULL_NAME_RG = Nushpalë Nashpal
+| sqi_V_FULL_NAME_ND_RG = Nushpale Nashpal
+| srp_N_name = Našpale
+| srp_N_FULL_NAME_RO = Našpale
+| srp_N_FULL_NAME_ND_RO = Naspale
+| srp_N_SORT_NAME_RG = NASPALE
+| srp_N_FULL_NAME_RG = Našpale
+| srp_N_FULL_NAME_ND_RG = Naspale
+| srp_NS_name = Нашпале
+| srp_NS_FULL_NAME_RO = Нашпале
+| srp_NS_FULL_NAME_ND_RO = Нашпале
+| srp_NS_SORT_NAME_RG = НАШПАЛЕ
+| srp_NS_FULL_NAME_RG = Нашпале
+| srp_NS_FULL_NAME_ND_RG = Нашпале
+| srp_V_name = Našpanje
+| srp_V_FULL_NAME_RO = Našpanje Našpolje
+| srp_V_FULL_NAME_ND_RO = Naspanje Naspolje
+| srp_V_SORT_NAME_RG = NASPANJE NASPOLJE
+| srp_V_FULL_NAME_RG = Našpanje Našpolje
+| srp_V_FULL_NAME_ND_RG = Naspanje Naspolje
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.600556
  | Lartësia            = 
 }}
-'''Nushpal''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Nushpal''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

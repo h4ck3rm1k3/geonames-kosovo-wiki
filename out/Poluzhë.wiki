@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Poluzhë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POLUZHE
- | FULL_NAME_RO = Poluzhë
- | FULL_NAME_ND_RO=Poluzhe
- | SORT_NAME_RG=POLUZHE
- | FULL_NAME_RG=Poluzhë
- | FULL_NAME_ND_RG=Poluzhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Poluzhë
+| sqi_D_FULL_NAME_RO = Poluzhë
+| sqi_D_FULL_NAME_ND_RO = Poluzhe
+| sqi_D_SORT_NAME_RG = POLUZHE
+| sqi_D_FULL_NAME_RG = Poluzhë
+| sqi_D_FULL_NAME_ND_RG = Poluzhe
+| sqi_V_name = Palluzhë
+| sqi_V_FULL_NAME_RO = Palluzhë Palluzha Polluzhë
+| sqi_V_FULL_NAME_ND_RO = Palluzhe Palluzha Polluzhe
+| sqi_V_SORT_NAME_RG = PALLUZHE PALLUZHA POLLUZHE
+| sqi_V_FULL_NAME_RG = Palluzhë Palluzha Polluzhë
+| sqi_V_FULL_NAME_ND_RG = Palluzhe Palluzha Polluzhe
+| srp_N_name = Poluža
+| srp_N_FULL_NAME_RO = Poluža
+| srp_N_FULL_NAME_ND_RO = Poluza
+| srp_N_SORT_NAME_RG = POLUZA
+| srp_N_FULL_NAME_RG = Poluža
+| srp_N_FULL_NAME_ND_RG = Poluza
+| srp_NS_name = Полужа
+| srp_NS_FULL_NAME_RO = Полужа
+| srp_NS_FULL_NAME_ND_RO = Полужа
+| srp_NS_SORT_NAME_RG = ПОЛУЖА
+| srp_NS_FULL_NAME_RG = Полужа
+| srp_NS_FULL_NAME_ND_RG = Полужа
+| srp_V_name = Poluže
+| srp_V_FULL_NAME_RO = Poluže
+| srp_V_FULL_NAME_ND_RO = Poluze
+| srp_V_SORT_NAME_RG = POLUZE
+| srp_V_FULL_NAME_RG = Poluže
+| srp_V_FULL_NAME_ND_RG = Poluze
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.83
  | Lartësia            = 
 }}
-'''Poluzhë''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Poluzhë''' është një [[Fshat Vogel]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

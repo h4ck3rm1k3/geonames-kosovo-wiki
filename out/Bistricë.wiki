@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bistricë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BISTRICE
- | FULL_NAME_RO = Bistricë
- | FULL_NAME_ND_RO=Bistrice
- | SORT_NAME_RG=BISTRICE
- | FULL_NAME_RG=Bistricë
- | FULL_NAME_ND_RG=Bistrice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bistricë
+| sqi_N_FULL_NAME_RO = Bistricë
+| sqi_N_FULL_NAME_ND_RO = Bistrice
+| sqi_N_SORT_NAME_RG = BISTRICE
+| sqi_N_FULL_NAME_RG = Bistricë
+| sqi_N_FULL_NAME_ND_RG = Bistrice
+| srp_N_name = Bistrica
+| srp_N_FULL_NAME_RO = Bistrica
+| srp_N_FULL_NAME_ND_RO = Bistrica
+| srp_N_SORT_NAME_RG = BISTRICA
+| srp_N_FULL_NAME_RG = Bistrica
+| srp_N_FULL_NAME_ND_RG = Bistrica
+| srp_NS_name = Бистрица
+| srp_NS_FULL_NAME_RO = Бистрица
+| srp_NS_FULL_NAME_ND_RO = Бистрица
+| srp_NS_SORT_NAME_RG = БИСТРИЦА
+| srp_NS_FULL_NAME_RG = Бистрица
+| srp_NS_FULL_NAME_ND_RG = Бистрица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.718889
  | Lartësia            = 
 }}
-'''Bistricë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Bistricë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

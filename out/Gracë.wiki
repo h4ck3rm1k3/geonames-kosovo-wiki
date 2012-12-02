@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gracë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GRACE
- | FULL_NAME_RO = Gracë
- | FULL_NAME_ND_RO=Grace
- | SORT_NAME_RG=GRACE
- | FULL_NAME_RG=Gracë
- | FULL_NAME_ND_RG=Grace
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gracë
+| sqi_N_FULL_NAME_RO = Gracë
+| sqi_N_FULL_NAME_ND_RO = Grace
+| sqi_N_SORT_NAME_RG = GRACE
+| sqi_N_FULL_NAME_RG = Gracë
+| sqi_N_FULL_NAME_ND_RG = Grace
+| sqi_V_name = Grecë
+| sqi_V_FULL_NAME_RO = Grecë
+| sqi_V_FULL_NAME_ND_RO = Grece
+| sqi_V_SORT_NAME_RG = GRECE
+| sqi_V_FULL_NAME_RG = Grecë
+| sqi_V_FULL_NAME_ND_RG = Grece
+| srp_N_name = Grace
+| srp_N_FULL_NAME_RO = Grace
+| srp_N_FULL_NAME_ND_RO = Grace
+| srp_N_SORT_NAME_RG = GRACE
+| srp_N_FULL_NAME_RG = Grace
+| srp_N_FULL_NAME_ND_RG = Grace
+| srp_NS_name = Граце
+| srp_NS_FULL_NAME_RO = Граце
+| srp_NS_FULL_NAME_ND_RO = Граце
+| srp_NS_SORT_NAME_RG = ГРАЦЕ
+| srp_NS_FULL_NAME_RG = Граце
+| srp_NS_FULL_NAME_ND_RG = Граце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.058835
  | Lartësia            = 
 }}
-'''Gracë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Gracë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

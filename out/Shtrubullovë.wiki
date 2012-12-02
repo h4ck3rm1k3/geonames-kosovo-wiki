@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shtrubullovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHTRUBULLOVE
- | FULL_NAME_RO = Shtrubullovë
- | FULL_NAME_ND_RO=Shtrubullove
- | SORT_NAME_RG=SHTRUBULLOVE
- | FULL_NAME_RG=Shtrubullovë
- | FULL_NAME_ND_RG=Shtrubullove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shtrubullovë
+| sqi_N_FULL_NAME_RO = Shtrubullovë
+| sqi_N_FULL_NAME_ND_RO = Shtrubullove
+| sqi_N_SORT_NAME_RG = SHTRUBULLOVE
+| sqi_N_FULL_NAME_RG = Shtrubullovë
+| sqi_N_FULL_NAME_ND_RG = Shtrubullove
+| sqi_V_name = Drenushë
+| sqi_V_FULL_NAME_RO = Drenushë Strubullovë Shtrubullova Drenusha
+| sqi_V_FULL_NAME_ND_RO = Drenushe Strubullove Shtrubullova Drenusha
+| sqi_V_SORT_NAME_RG = DRENUSHE STRUBULLOVE SHTRUBULLOVA DRENUSHA
+| sqi_V_FULL_NAME_RG = Drenushë Strubullovë Shtrubullova Drenusha
+| sqi_V_FULL_NAME_ND_RG = Drenushe Strubullove Shtrubullova Drenusha
+| srp_N_name = Štrbulovo
+| srp_N_FULL_NAME_RO = Štrbulovo
+| srp_N_FULL_NAME_ND_RO = Strbulovo
+| srp_N_SORT_NAME_RG = STRBULOVO
+| srp_N_FULL_NAME_RG = Štrbulovo
+| srp_N_FULL_NAME_ND_RG = Strbulovo
+| srp_NS_name = Штрбулово
+| srp_NS_FULL_NAME_RO = Штрбулово
+| srp_NS_FULL_NAME_ND_RO = Штрбулово
+| srp_NS_SORT_NAME_RG = ШТРБУЛОВО
+| srp_NS_FULL_NAME_RG = Штрбулово
+| srp_NS_FULL_NAME_ND_RG = Штрбулово
+| srp_V_name = Štrubulovo
+| srp_V_FULL_NAME_RO = Štrubulovo
+| srp_V_FULL_NAME_ND_RO = Strubulovo
+| srp_V_SORT_NAME_RG = STRUBULOVO
+| srp_V_FULL_NAME_RG = Štrubulovo
+| srp_V_FULL_NAME_ND_RG = Strubulovo
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.883056
  | Lartësia            = 
 }}
-'''Shtrubullovë''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Shtrubullovë''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

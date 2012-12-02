@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Qylagë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      QYLAGE
- | FULL_NAME_RO = Qylagë
- | FULL_NAME_ND_RO=Qylage
- | SORT_NAME_RG=QYLAGE
- | FULL_NAME_RG=Qylagë
- | FULL_NAME_ND_RG=Qylage
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Qylagë
+| sqi_N_FULL_NAME_RO = Qylagë
+| sqi_N_FULL_NAME_ND_RO = Qylage
+| sqi_N_SORT_NAME_RG = QYLAGE
+| sqi_N_FULL_NAME_RG = Qylagë
+| sqi_N_FULL_NAME_ND_RG = Qylage
+| sqi_V_name = Çuçulljaaga
+| sqi_V_FULL_NAME_RO = Çuçulljaaga
+| sqi_V_FULL_NAME_ND_RO = Cuculljaaga
+| sqi_V_SORT_NAME_RG = CUCULLJAAGA
+| sqi_V_FULL_NAME_RG = Çuçulljaaga
+| sqi_V_FULL_NAME_ND_RG = Cuculljaaga
+| srp_N_name = Čučuljaga
+| srp_N_FULL_NAME_RO = Čučuljaga
+| srp_N_FULL_NAME_ND_RO = Cuculjaga
+| srp_N_SORT_NAME_RG = CUCULJAGA
+| srp_N_FULL_NAME_RG = Čučuljaga
+| srp_N_FULL_NAME_ND_RG = Cuculjaga
+| srp_NS_name = Чучуљага
+| srp_NS_FULL_NAME_RO = Чучуљага
+| srp_NS_FULL_NAME_ND_RO = Чучуљага
+| srp_NS_SORT_NAME_RG = ЧУЧУЉАГА
+| srp_NS_FULL_NAME_RG = Чучуљага
+| srp_NS_FULL_NAME_ND_RG = Чучуљага
+| srp_V_name = Ćuljaga
+| srp_V_FULL_NAME_RO = Ćuljaga
+| srp_V_FULL_NAME_ND_RO = Culjaga
+| srp_V_SORT_NAME_RG = CULJAGA
+| srp_V_FULL_NAME_RG = Ćuljaga
+| srp_V_FULL_NAME_ND_RG = Culjaga
+| srp_VS_name = Ћуљага
+| srp_VS_FULL_NAME_RO = Ћуљага
+| srp_VS_FULL_NAME_ND_RO = Ћуљага
+| srp_VS_SORT_NAME_RG = ЋУЉАГА
+| srp_VS_FULL_NAME_RG = Ћуљага
+| srp_VS_FULL_NAME_ND_RG = Ћуљага
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.023983
  | Lartësia            = 
 }}
-'''Qylagë''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Qylagë''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sarosh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SAROSH
- | FULL_NAME_RO = Sarosh
- | FULL_NAME_ND_RO=Sarosh
- | SORT_NAME_RG=SAROSH
- | FULL_NAME_RG=Sarosh
- | FULL_NAME_ND_RG=Sarosh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Sarosh
+| sqi_D_FULL_NAME_RO = Sarosh
+| sqi_D_FULL_NAME_ND_RO = Sarosh
+| sqi_D_SORT_NAME_RG = SAROSH
+| sqi_D_FULL_NAME_RG = Sarosh
+| sqi_D_FULL_NAME_ND_RG = Sarosh
+| srb_V_name = Saroš
+| srb_V_FULL_NAME_RO = Saroš
+| srb_V_FULL_NAME_ND_RO = Saros
+| srb_V_SORT_NAME_RG = SAROS
+| srb_V_FULL_NAME_RG = Saroš
+| srb_V_FULL_NAME_ND_RG = Saros
+| srp_N_name = Saros
+| srp_N_FULL_NAME_RO = Saros
+| srp_N_FULL_NAME_ND_RO = Saros
+| srp_N_SORT_NAME_RG = SAROS
+| srp_N_FULL_NAME_RG = Saros
+| srp_N_FULL_NAME_ND_RG = Saros
+| srp_NS_name = Сарос
+| srp_NS_FULL_NAME_RO = Сарос
+| srp_NS_FULL_NAME_ND_RO = Сарос
+| srp_NS_SORT_NAME_RG = САРОС
+| srp_NS_FULL_NAME_RG = Сарос
+| srp_NS_FULL_NAME_ND_RG = Сарос
+| srp_VS_name = Сарош
+| srp_VS_FULL_NAME_RO = Сарош
+| srp_VS_FULL_NAME_ND_RO = Сарош
+| srp_VS_SORT_NAME_RG = САРОШ
+| srp_VS_FULL_NAME_RG = Сарош
+| srp_VS_FULL_NAME_ND_RG = Сарош
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.533333
  | Lartësia            = 
 }}
-'''Sarosh''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Sarosh''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

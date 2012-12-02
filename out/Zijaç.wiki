@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zijaç
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZIJAC
- | FULL_NAME_RO = Zijaç
- | FULL_NAME_ND_RO=Zijac
- | SORT_NAME_RG=ZIJAC
- | FULL_NAME_RG=Zijaç
- | FULL_NAME_ND_RG=Zijac
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zijaç
+| sqi_N_FULL_NAME_RO = Zijaç
+| sqi_N_FULL_NAME_ND_RO = Zijac
+| sqi_N_SORT_NAME_RG = ZIJAC
+| sqi_N_FULL_NAME_RG = Zijaç
+| sqi_N_FULL_NAME_ND_RG = Zijac
+| sqi_V_name = Zijačë
+| sqi_V_FULL_NAME_RO = Zijačë Zijaqë
+| sqi_V_FULL_NAME_ND_RO = Zijace Zijaqe
+| sqi_V_SORT_NAME_RG = ZIJACE ZIJAQE
+| sqi_V_FULL_NAME_RG = Zijačë Zijaqë
+| sqi_V_FULL_NAME_ND_RG = Zijace Zijaqe
+| srp_N_name = Zijača
+| srp_N_FULL_NAME_RO = Zijača
+| srp_N_FULL_NAME_ND_RO = Zijaca
+| srp_N_SORT_NAME_RG = ZIJACA
+| srp_N_FULL_NAME_RG = Zijača
+| srp_N_FULL_NAME_ND_RG = Zijaca
+| srp_NS_name = Зијача
+| srp_NS_FULL_NAME_RO = Зијача
+| srp_NS_FULL_NAME_ND_RO = Зијача
+| srp_NS_SORT_NAME_RG = ЗИЈАЧА
+| srp_NS_FULL_NAME_RG = Зијача
+| srp_NS_FULL_NAME_ND_RG = Зијача
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.895
  | Lartësia            = 
 }}
-'''Zijaç''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Zijaç''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

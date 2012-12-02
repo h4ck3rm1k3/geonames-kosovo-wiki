@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Padinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PADINE
- | FULL_NAME_RO = Padinë
- | FULL_NAME_ND_RO=Padine
- | SORT_NAME_RG=PADINE
- | FULL_NAME_RG=Padinë
- | FULL_NAME_ND_RG=Padine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Padinë
+| sqi_N_FULL_NAME_RO = Padinë
+| sqi_N_FULL_NAME_ND_RO = Padine
+| sqi_N_SORT_NAME_RG = PADINE
+| sqi_N_FULL_NAME_RG = Padinë
+| sqi_N_FULL_NAME_ND_RG = Padine
+| srp_N_name = Padine
+| srp_N_FULL_NAME_RO = Padine
+| srp_N_FULL_NAME_ND_RO = Padine
+| srp_N_SORT_NAME_RG = PADINE
+| srp_N_FULL_NAME_RG = Padine
+| srp_N_FULL_NAME_ND_RG = Padine
+| srp_NS_name = Падине
+| srp_NS_FULL_NAME_RO = Падине
+| srp_NS_FULL_NAME_ND_RO = Падине
+| srp_NS_SORT_NAME_RG = ПАДИНЕ
+| srp_NS_FULL_NAME_RG = Падине
+| srp_NS_FULL_NAME_ND_RG = Падине
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.715278
  | Lartësia            = 
 }}
-'''Padinë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Padinë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

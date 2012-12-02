@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Maçitevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MACITEVE
- | FULL_NAME_RO = Maçitevë
- | FULL_NAME_ND_RO=Maciteve
- | SORT_NAME_RG=MACITEVE
- | FULL_NAME_RG=Maçitevë
- | FULL_NAME_ND_RG=Maciteve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Maçitevë
+| sqi_D_FULL_NAME_RO = Maçitevë
+| sqi_D_FULL_NAME_ND_RO = Maciteve
+| sqi_D_SORT_NAME_RG = MACITEVE
+| sqi_D_FULL_NAME_RG = Maçitevë
+| sqi_D_FULL_NAME_ND_RG = Maciteve
+| sqi_V_name = Maqetevë
+| sqi_V_FULL_NAME_RO = Maqetevë Maqitevë
+| sqi_V_FULL_NAME_ND_RO = Maqeteve Maqiteve
+| sqi_V_SORT_NAME_RG = MAQETEVE MAQITEVE
+| sqi_V_FULL_NAME_RG = Maqetevë Maqitevë
+| sqi_V_FULL_NAME_ND_RG = Maqeteve Maqiteve
+| srp_N_name = Mačitevo
+| srp_N_FULL_NAME_RO = Mačitevo
+| srp_N_FULL_NAME_ND_RO = Macitevo
+| srp_N_SORT_NAME_RG = MACITEVO
+| srp_N_FULL_NAME_RG = Mačitevo
+| srp_N_FULL_NAME_ND_RG = Macitevo
+| srp_NS_name = Мачитево
+| srp_NS_FULL_NAME_RO = Мачитево
+| srp_NS_FULL_NAME_ND_RO = Мачитево
+| srp_NS_SORT_NAME_RG = МАЧИТЕВО
+| srp_NS_FULL_NAME_RG = Мачитево
+| srp_NS_FULL_NAME_ND_RG = Мачитево
+| srp_V_name = Mačilevo
+| srp_V_FULL_NAME_RO = Mačilevo
+| srp_V_FULL_NAME_ND_RO = Macilevo
+| srp_V_SORT_NAME_RG = MACILEVO
+| srp_V_FULL_NAME_RG = Mačilevo
+| srp_V_FULL_NAME_ND_RG = Macilevo
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.945
  | Lartësia            = 
 }}
-'''Maçitevë''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Maçitevë''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

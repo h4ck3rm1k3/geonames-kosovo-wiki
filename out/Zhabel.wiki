@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zhabel
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZHABEL
- | FULL_NAME_RO = Zhabel
- | FULL_NAME_ND_RO=Zhabel
- | SORT_NAME_RG=ZHABEL
- | FULL_NAME_RG=Zhabel
- | FULL_NAME_ND_RG=Zhabel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zhabel
+| sqi_N_FULL_NAME_RO = Zhabel
+| sqi_N_FULL_NAME_ND_RO = Zhabel
+| sqi_N_SORT_NAME_RG = ZHABEL
+| sqi_N_FULL_NAME_RG = Zhabel
+| sqi_N_FULL_NAME_ND_RG = Zhabel
+| srp_N_name = Žabelj
+| srp_N_FULL_NAME_RO = Žabelj
+| srp_N_FULL_NAME_ND_RO = Zabelj
+| srp_N_SORT_NAME_RG = ZABELJ
+| srp_N_FULL_NAME_RG = Žabelj
+| srp_N_FULL_NAME_ND_RG = Zabelj
+| srp_NS_name = Жабељ
+| srp_NS_FULL_NAME_RO = Жабељ
+| srp_NS_FULL_NAME_ND_RO = Жабељ
+| srp_NS_SORT_NAME_RG = ЖАБЕЉ
+| srp_NS_FULL_NAME_RG = Жабељ
+| srp_NS_FULL_NAME_ND_RG = Жабељ
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.460833
  | Lartësia            = 
 }}
-'''Zhabel''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Zhabel''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Jasenovik i Poshtëm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JASENOVIKIPOSHTEM
- | FULL_NAME_RO = Jasenovik i Poshtëm
- | FULL_NAME_ND_RO=Jasenovik i Poshtem
- | SORT_NAME_RG=JASENOVIKIPOSHTEM
- | FULL_NAME_RG=Jasenovik i Poshtëm
- | FULL_NAME_ND_RG=Jasenovik i Poshtem
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Jasenovik i Poshtëm
+| sqi_D_FULL_NAME_RO = Jasenovik i Poshtëm
+| sqi_D_FULL_NAME_ND_RO = Jasenovik i Poshtem
+| sqi_D_SORT_NAME_RG = JASENOVIKIPOSHTEM
+| sqi_D_FULL_NAME_RG = Jasenovik i Poshtëm
+| sqi_D_FULL_NAME_ND_RG = Jasenovik i Poshtem
+| sqi_V_name = Jasenoviku i Epërm
+| sqi_V_FULL_NAME_RO = Jasenoviku i Epërm
+| sqi_V_FULL_NAME_ND_RO = Jasenoviku i Eperm
+| sqi_V_SORT_NAME_RG = JASENOVIKUIEPERM
+| sqi_V_FULL_NAME_RG = Jasenoviku i Epërm
+| sqi_V_FULL_NAME_ND_RG = Jasenoviku i Eperm
+| srp_N_name = Donji Jasenovik
+| srp_N_FULL_NAME_RO = Donji Jasenovik
+| srp_N_FULL_NAME_ND_RO = Donji Jasenovik
+| srp_N_SORT_NAME_RG = DONJIJASENOVIK
+| srp_N_FULL_NAME_RG = Donji Jasenovik
+| srp_N_FULL_NAME_ND_RG = Donji Jasenovik
+| srp_NS_name = Доњи Јасеновик
+| srp_NS_FULL_NAME_RO = Доњи Јасеновик
+| srp_NS_FULL_NAME_ND_RO = Доњи Јасеновик
+| srp_NS_SORT_NAME_RG = ДОЊИЈАСЕНОВИК
+| srp_NS_FULL_NAME_RG = Доњи Јасеновик
+| srp_NS_FULL_NAME_ND_RG = Доњи Јасеновик
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.6775
  | Lartësia            = 
 }}
-'''Jasenovik i Poshtëm''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Jasenovik i Poshtëm''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

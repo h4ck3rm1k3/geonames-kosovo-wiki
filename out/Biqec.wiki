@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Biqec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BIQEC
- | FULL_NAME_RO = Biqec
- | FULL_NAME_ND_RO=Biqec
- | SORT_NAME_RG=BIQEC
- | FULL_NAME_RG=Biqec
- | FULL_NAME_ND_RG=Biqec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Biqec
+| sqi_D_FULL_NAME_RO = Biqec
+| sqi_D_FULL_NAME_ND_RO = Biqec
+| sqi_D_SORT_NAME_RG = BIQEC
+| sqi_D_FULL_NAME_RG = Biqec
+| sqi_D_FULL_NAME_ND_RG = Biqec
+| sqi_V_name = Biçec
+| sqi_V_FULL_NAME_RO = Biçec Biqevc
+| sqi_V_FULL_NAME_ND_RO = Bicec Biqevc
+| sqi_V_SORT_NAME_RG = BICEC BIQEVC
+| sqi_V_FULL_NAME_RG = Biçec Biqevc
+| sqi_V_FULL_NAME_ND_RG = Bicec Biqevc
+| srp_N_name = Bičevac
+| srp_N_FULL_NAME_RO = Bičevac
+| srp_N_FULL_NAME_ND_RO = Bicevac
+| srp_N_SORT_NAME_RG = BICEVAC
+| srp_N_FULL_NAME_RG = Bičevac
+| srp_N_FULL_NAME_ND_RG = Bicevac
+| srp_NS_name = Бичевац
+| srp_NS_FULL_NAME_RO = Бичевац
+| srp_NS_FULL_NAME_ND_RO = Бичевац
+| srp_NS_SORT_NAME_RG = БИЧЕВАЦ
+| srp_NS_FULL_NAME_RG = Бичевац
+| srp_NS_FULL_NAME_ND_RG = Бичевац
+| srp_VS_name = Бићевац
+| srp_VS_FULL_NAME_RO = Бићевац
+| srp_VS_FULL_NAME_ND_RO = Бићевац
+| srp_VS_SORT_NAME_RG = БИЋЕВАЦ
+| srp_VS_FULL_NAME_RG = Бићевац
+| srp_VS_FULL_NAME_ND_RG = Бићевац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.214444
  | Lartësia            = 
 }}
-'''Biqec''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Biqec''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

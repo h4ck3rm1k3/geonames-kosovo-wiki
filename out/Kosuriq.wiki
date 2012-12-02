@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kosuriq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOSURIQ
- | FULL_NAME_RO = Kosuriq
- | FULL_NAME_ND_RO=Kosuriq
- | SORT_NAME_RG=KOSURIQ
- | FULL_NAME_RG=Kosuriq
- | FULL_NAME_ND_RG=Kosuriq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kosuriq
+| sqi_N_FULL_NAME_RO = Kosuriq
+| sqi_N_FULL_NAME_ND_RO = Kosuriq
+| sqi_N_SORT_NAME_RG = KOSURIQ
+| sqi_N_FULL_NAME_RG = Kosuriq
+| sqi_N_FULL_NAME_ND_RG = Kosuriq
+| srp_N_name = Kosurić
+| srp_N_FULL_NAME_RO = Kosurić
+| srp_N_FULL_NAME_ND_RO = Kosuric
+| srp_N_SORT_NAME_RG = KOSURIC
+| srp_N_FULL_NAME_RG = Kosurić
+| srp_N_FULL_NAME_ND_RG = Kosuric
+| srp_NS_name = Косурић
+| srp_NS_FULL_NAME_RO = Косурић
+| srp_NS_FULL_NAME_ND_RO = Косурић
+| srp_NS_SORT_NAME_RG = КОСУРИЋ
+| srp_NS_FULL_NAME_RG = Косурић
+| srp_NS_FULL_NAME_ND_RG = Косурић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.464722
  | Lartësia            = 
 }}
-'''Kosuriq''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Kosuriq''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Runik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RUNIK
- | FULL_NAME_RO = Runik
- | FULL_NAME_ND_RO=Runik
- | SORT_NAME_RG=RUNIK
- | FULL_NAME_RG=Runik
- | FULL_NAME_ND_RG=Runik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Runik
+| sqi_N_FULL_NAME_RO = Runik
+| sqi_N_FULL_NAME_ND_RO = Runik
+| sqi_N_SORT_NAME_RG = RUNIK
+| sqi_N_FULL_NAME_RG = Runik
+| sqi_N_FULL_NAME_ND_RG = Runik
+| sqi_V_name = Rudnik
+| sqi_V_FULL_NAME_RO = Rudnik
+| sqi_V_FULL_NAME_ND_RO = Rudnik
+| sqi_V_SORT_NAME_RG = RUDNIK
+| sqi_V_FULL_NAME_RG = Rudnik
+| sqi_V_FULL_NAME_ND_RG = Rudnik
+| srp_N_name = Rudnik
+| srp_N_FULL_NAME_RO = Rudnik
+| srp_N_FULL_NAME_ND_RO = Rudnik
+| srp_N_SORT_NAME_RG = RUDNIK
+| srp_N_FULL_NAME_RG = Rudnik
+| srp_N_FULL_NAME_ND_RG = Rudnik
+| srp_NS_name = Рудник
+| srp_NS_FULL_NAME_RO = Рудник
+| srp_NS_FULL_NAME_ND_RO = Рудник
+| srp_NS_SORT_NAME_RG = РУДНИК
+| srp_NS_FULL_NAME_RG = Рудник
+| srp_NS_FULL_NAME_ND_RG = Рудник
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.689722
  | Lartësia            = 
 }}
-'''Runik''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Runik''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

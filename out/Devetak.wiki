@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Devetak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DEVETAK
- | FULL_NAME_RO = Devetak
- | FULL_NAME_ND_RO=Devetak
- | SORT_NAME_RG=DEVETAK
- | FULL_NAME_RG=Devetak
- | FULL_NAME_ND_RG=Devetak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Devetak
+| sqi_D_FULL_NAME_RO = Devetak
+| sqi_D_FULL_NAME_ND_RO = Devetak
+| sqi_D_SORT_NAME_RG = DEVETAK
+| sqi_D_FULL_NAME_RG = Devetak
+| sqi_D_FULL_NAME_ND_RG = Devetak
+| srp_N_name = Devetak
+| srp_N_FULL_NAME_RO = Devetak
+| srp_N_FULL_NAME_ND_RO = Devetak
+| srp_N_SORT_NAME_RG = DEVETAK
+| srp_N_FULL_NAME_RG = Devetak
+| srp_N_FULL_NAME_ND_RG = Devetak
+| srp_NS_name = Деветак
+| srp_NS_FULL_NAME_RO = Деветак
+| srp_NS_FULL_NAME_ND_RO = Деветак
+| srp_NS_SORT_NAME_RG = ДЕВЕТАК
+| srp_NS_FULL_NAME_RG = Деветак
+| srp_NS_FULL_NAME_ND_RG = Деветак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.9775
  | Lartësia            = 
 }}
-'''Devetak''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Devetak''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

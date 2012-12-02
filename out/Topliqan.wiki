@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Topliqan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TOPLIQAN
- | FULL_NAME_RO = Topliqan
- | FULL_NAME_ND_RO=Topliqan
- | SORT_NAME_RG=TOPLIQAN
- | FULL_NAME_RG=Topliqan
- | FULL_NAME_ND_RG=Topliqan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Topliqan
+| sqi_N_FULL_NAME_RO = Topliqan
+| sqi_N_FULL_NAME_ND_RO = Topliqan
+| sqi_N_SORT_NAME_RG = TOPLIQAN
+| sqi_N_FULL_NAME_RG = Topliqan
+| sqi_N_FULL_NAME_ND_RG = Topliqan
+| sqi_V_name = Topliçan
+| sqi_V_FULL_NAME_RO = Topliçan
+| sqi_V_FULL_NAME_ND_RO = Toplican
+| sqi_V_SORT_NAME_RG = TOPLICAN
+| sqi_V_FULL_NAME_RG = Topliçan
+| sqi_V_FULL_NAME_ND_RG = Toplican
+| srp_N_name = Topličane
+| srp_N_FULL_NAME_RO = Topličane
+| srp_N_FULL_NAME_ND_RO = Toplicane
+| srp_N_SORT_NAME_RG = TOPLICANE
+| srp_N_FULL_NAME_RG = Topličane
+| srp_N_FULL_NAME_ND_RG = Toplicane
+| srp_NS_name = Топличане
+| srp_NS_FULL_NAME_RO = Топличане
+| srp_NS_FULL_NAME_ND_RO = Топличане
+| srp_NS_SORT_NAME_RG = ТОПЛИЧАНЕ
+| srp_NS_FULL_NAME_RG = Топличане
+| srp_NS_FULL_NAME_ND_RG = Топличане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.116667
  | Lartësia            = 
 }}
-'''Topliqan''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Topliqan''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mahalla Dudoviqa
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAHALLADUDOVIQA
- | FULL_NAME_RO = Mahalla Dudoviqa
- | FULL_NAME_ND_RO=Mahalla Dudoviqa
- | SORT_NAME_RG=MAHALLADUDOVIQA
- | FULL_NAME_RG=Mahalla Dudoviqa
- | FULL_NAME_ND_RG=Mahalla Dudoviqa
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Mahalla Dudoviqa
+| sqi_D_FULL_NAME_RO = Mahalla Dudoviqa
+| sqi_D_FULL_NAME_ND_RO = Mahalla Dudoviqa
+| sqi_D_SORT_NAME_RG = MAHALLADUDOVIQA
+| sqi_D_FULL_NAME_RG = Mahalla Dudoviqa
+| sqi_D_FULL_NAME_ND_RG = Mahalla Dudoviqa
+| srp_N_name = Dudovića Mahala
+| srp_N_FULL_NAME_RO = Dudovića Mahala
+| srp_N_FULL_NAME_ND_RO = Dudovica Mahala
+| srp_N_SORT_NAME_RG = DUDOVICAMAHALA
+| srp_N_FULL_NAME_RG = Dudovića Mahala
+| srp_N_FULL_NAME_ND_RG = Dudovica Mahala
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 21.216176
  | Lartësia            = 
 }}
-'''Mahalla Dudoviqa''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Mahalla Dudoviqa''' është një [[Fshat Vogel]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bellobërdë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BELLOBERDE
- | FULL_NAME_RO = Bellobërdë
- | FULL_NAME_ND_RO=Belloberde
- | SORT_NAME_RG=BELLOBERDE
- | FULL_NAME_RG=Bellobërdë
- | FULL_NAME_ND_RG=Belloberde
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bellobërdë
+| sqi_N_FULL_NAME_RO = Bellobërdë
+| sqi_N_FULL_NAME_ND_RO = Belloberde
+| sqi_N_SORT_NAME_RG = BELLOBERDE
+| sqi_N_FULL_NAME_RG = Bellobërdë
+| sqi_N_FULL_NAME_ND_RG = Belloberde
+| sqi_V_name = Belloberdë
+| sqi_V_FULL_NAME_RO = Belloberdë Belobrdë Belloberda
+| sqi_V_FULL_NAME_ND_RO = Belloberde Belobrde Belloberda
+| sqi_V_SORT_NAME_RG = BELLOBERDE BELOBRDE BELLOBERDA
+| sqi_V_FULL_NAME_RG = Belloberdë Belobrdë Belloberda
+| sqi_V_FULL_NAME_ND_RG = Belloberde Belobrde Belloberda
+| srp_N_name = Belo Brdo
+| srp_N_FULL_NAME_RO = Belo Brdo
+| srp_N_FULL_NAME_ND_RO = Belo Brdo
+| srp_N_SORT_NAME_RG = BELOBRDO
+| srp_N_FULL_NAME_RG = Belo Brdo
+| srp_N_FULL_NAME_ND_RG = Belo Brdo
+| srp_NS_name = Бело Брдо
+| srp_NS_FULL_NAME_RO = Бело Брдо
+| srp_NS_FULL_NAME_ND_RO = Бело Брдо
+| srp_NS_SORT_NAME_RG = БЕЛОБРДО
+| srp_NS_FULL_NAME_RG = Бело Брдо
+| srp_NS_FULL_NAME_ND_RG = Бело Брдо
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.821667
  | Lartësia            = 
 }}
-'''Bellobërdë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Bellobërdë''' është një [[Fshat Vogel]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

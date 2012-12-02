@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Smolicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SMOLICE
- | FULL_NAME_RO = Smolicë
- | FULL_NAME_ND_RO=Smolice
- | SORT_NAME_RG=SMOLICE
- | FULL_NAME_RG=Smolicë
- | FULL_NAME_ND_RG=Smolice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Smolicë
+| sqi_N_FULL_NAME_RO = Smolicë
+| sqi_N_FULL_NAME_ND_RO = Smolice
+| sqi_N_SORT_NAME_RG = SMOLICE
+| sqi_N_FULL_NAME_RG = Smolicë
+| sqi_N_FULL_NAME_ND_RG = Smolice
+| srp_N_name = Smonica
+| srp_N_FULL_NAME_RO = Smonica
+| srp_N_FULL_NAME_ND_RO = Smonica
+| srp_N_SORT_NAME_RG = SMONICA
+| srp_N_FULL_NAME_RG = Smonica
+| srp_N_FULL_NAME_ND_RG = Smonica
+| srp_NS_name = Смоница
+| srp_NS_FULL_NAME_RO = Смоница
+| srp_NS_FULL_NAME_ND_RO = Смоница
+| srp_NS_SORT_NAME_RG = СМОНИЦА
+| srp_NS_FULL_NAME_RG = Смоница
+| srp_NS_FULL_NAME_ND_RG = Смоница
+| std_V_name = Smoljica
+| std_V_FULL_NAME_RO = Smoljica Smonici
+| std_V_FULL_NAME_ND_RO = Smoljica Smonici
+| std_V_SORT_NAME_RG = SMOLJICA SMONICI
+| std_V_FULL_NAME_RG = Smoljica Smonici
+| std_V_FULL_NAME_ND_RG = Smoljica Smonici
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.3125
  | Lartësia            = 
 }}
-'''Smolicë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Smolicë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

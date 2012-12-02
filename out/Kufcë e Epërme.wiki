@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kufcë e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KUFCEEEPERME
- | FULL_NAME_RO = Kufcë e Epërme
- | FULL_NAME_ND_RO=Kufce e Eperme
- | SORT_NAME_RG=KUFCEEEPERME
- | FULL_NAME_RG=Kufcë e Epërme
- | FULL_NAME_ND_RG=Kufce e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kufcë e Epërme
+| sqi_N_FULL_NAME_RO = Kufcë e Epërme
+| sqi_N_FULL_NAME_ND_RO = Kufce e Eperme
+| sqi_N_SORT_NAME_RG = KUFCEEEPERME
+| sqi_N_FULL_NAME_RG = Kufcë e Epërme
+| sqi_N_FULL_NAME_ND_RG = Kufce e Eperme
+| sqi_V_name = Kuskë e Epërme
+| sqi_V_FULL_NAME_RO = Kuskë e Epërme
+| sqi_V_FULL_NAME_ND_RO = Kuske e Eperme
+| sqi_V_SORT_NAME_RG = KUSKEEEPERME
+| sqi_V_FULL_NAME_RG = Kuskë e Epërme
+| sqi_V_FULL_NAME_ND_RG = Kuske e Eperme
+| srp_N_name = Gornje Kusce
+| srp_N_FULL_NAME_RO = Gornje Kusce
+| srp_N_FULL_NAME_ND_RO = Gornje Kusce
+| srp_N_SORT_NAME_RG = GORNJEKUSCE
+| srp_N_FULL_NAME_RG = Gornje Kusce
+| srp_N_FULL_NAME_ND_RG = Gornje Kusce
+| srp_NS_name = Горње Кусце
+| srp_NS_FULL_NAME_RO = Горње Кусце
+| srp_NS_FULL_NAME_ND_RO = Горње Кусце
+| srp_NS_SORT_NAME_RG = ГОРЊЕКУСЦЕ
+| srp_NS_FULL_NAME_RG = Горње Кусце
+| srp_NS_FULL_NAME_ND_RG = Горње Кусце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.482222
  | Lartësia            = 
 }}
-'''Kufcë e Epërme''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Kufcë e Epërme''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

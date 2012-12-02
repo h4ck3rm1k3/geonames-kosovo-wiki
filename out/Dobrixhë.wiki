@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dobrixhë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DOBRIXHE
- | FULL_NAME_RO = Dobrixhë
- | FULL_NAME_ND_RO=Dobrixhe
- | SORT_NAME_RG=DOBRIXHE
- | FULL_NAME_RG=Dobrixhë
- | FULL_NAME_ND_RG=Dobrixhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dobrixhë
+| sqi_N_FULL_NAME_RO = Dobrixhë
+| sqi_N_FULL_NAME_ND_RO = Dobrixhe
+| sqi_N_SORT_NAME_RG = DOBRIXHE
+| sqi_N_FULL_NAME_RG = Dobrixhë
+| sqi_N_FULL_NAME_ND_RG = Dobrixhe
+| sqi_V_name = Dobrigzha
+| sqi_V_FULL_NAME_RO = Dobrigzha Dobriqë
+| sqi_V_FULL_NAME_ND_RO = Dobrigzha Dobriqe
+| sqi_V_SORT_NAME_RG = DOBRIGZHA DOBRIQE
+| sqi_V_FULL_NAME_RG = Dobrigzha Dobriqë
+| sqi_V_FULL_NAME_ND_RG = Dobrigzha Dobriqe
+| srp_N_name = Dobrić
+| srp_N_FULL_NAME_RO = Dobrić
+| srp_N_FULL_NAME_ND_RO = Dobric
+| srp_N_SORT_NAME_RG = DOBRIC
+| srp_N_FULL_NAME_RG = Dobrić
+| srp_N_FULL_NAME_ND_RG = Dobric
+| srp_NS_name = Добрић
+| srp_NS_FULL_NAME_RO = Добрић
+| srp_NS_FULL_NAME_ND_RO = Добрић
+| srp_NS_SORT_NAME_RG = ДОБРИЋ
+| srp_NS_FULL_NAME_RG = Добрић
+| srp_NS_FULL_NAME_ND_RG = Добрић
+| srp_V_name = Dobriđe
+| srp_V_FULL_NAME_RO = Dobriđe
+| srp_V_FULL_NAME_ND_RO = Dobride
+| srp_V_SORT_NAME_RG = DOBRIDE
+| srp_V_FULL_NAME_RG = Dobriđe
+| srp_V_FULL_NAME_ND_RG = Dobride
+| srp_VS_name = Добриђе
+| srp_VS_FULL_NAME_RO = Добриђе
+| srp_VS_FULL_NAME_ND_RO = Добриђе
+| srp_VS_SORT_NAME_RG = ДОБРИЂЕ
+| srp_VS_FULL_NAME_RG = Добриђе
+| srp_VS_FULL_NAME_ND_RG = Добриђе
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.378889
  | Lartësia            = 
 }}
-'''Dobrixhë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Dobrixhë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

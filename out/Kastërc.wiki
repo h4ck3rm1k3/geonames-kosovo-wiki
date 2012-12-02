@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kastërc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KASTERC
- | FULL_NAME_RO = Kastërc
- | FULL_NAME_ND_RO=Kasterc
- | SORT_NAME_RG=KASTERC
- | FULL_NAME_RG=Kastërc
- | FULL_NAME_ND_RG=Kasterc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kastërc
+| sqi_N_FULL_NAME_RO = Kastërc
+| sqi_N_FULL_NAME_ND_RO = Kasterc
+| sqi_N_SORT_NAME_RG = KASTERC
+| sqi_N_FULL_NAME_RG = Kastërc
+| sqi_N_FULL_NAME_ND_RG = Kasterc
+| sqi_V_name = Kostricë
+| sqi_V_FULL_NAME_RO = Kostricë Kostërc Kasterc
+| sqi_V_FULL_NAME_ND_RO = Kostrice Kosterc Kasterc
+| sqi_V_SORT_NAME_RG = KOSTRICE KOSTERC KASTERC
+| sqi_V_FULL_NAME_RG = Kostricë Kostërc Kasterc
+| sqi_V_FULL_NAME_ND_RG = Kostrice Kosterc Kasterc
+| srp_N_name = Kostrce
+| srp_N_FULL_NAME_RO = Kostrce
+| srp_N_FULL_NAME_ND_RO = Kostrce
+| srp_N_SORT_NAME_RG = KOSTRCE
+| srp_N_FULL_NAME_RG = Kostrce
+| srp_N_FULL_NAME_ND_RG = Kostrce
+| srp_NS_name = Кострце
+| srp_NS_FULL_NAME_RO = Кострце
+| srp_NS_FULL_NAME_ND_RO = Кострце
+| srp_NS_SORT_NAME_RG = КОСТРЦЕ
+| srp_NS_FULL_NAME_RG = Кострце
+| srp_NS_FULL_NAME_ND_RG = Кострце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.7925
  | Lartësia            = 
 }}
-'''Kastërc''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Kastërc''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

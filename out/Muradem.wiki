@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Muradem
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MURADEM
- | FULL_NAME_RO = Muradem
- | FULL_NAME_ND_RO=Muradem
- | SORT_NAME_RG=MURADEM
- | FULL_NAME_RG=Muradem
- | FULL_NAME_ND_RG=Muradem
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Muradem
+| sqi_D_FULL_NAME_RO = Muradem
+| sqi_D_FULL_NAME_ND_RO = Muradem
+| sqi_D_SORT_NAME_RG = MURADEM
+| sqi_D_FULL_NAME_RG = Muradem
+| sqi_D_FULL_NAME_ND_RG = Muradem
+| srp_N_name = Muradem
+| srp_N_FULL_NAME_RO = Muradem
+| srp_N_FULL_NAME_ND_RO = Muradem
+| srp_N_SORT_NAME_RG = MURADEM
+| srp_N_FULL_NAME_RG = Muradem
+| srp_N_FULL_NAME_ND_RG = Muradem
+| srp_NS_name = Мурадем
+| srp_NS_FULL_NAME_RO = Мурадем
+| srp_NS_FULL_NAME_ND_RO = Мурадем
+| srp_NS_SORT_NAME_RG = МУРАДЕМ
+| srp_NS_FULL_NAME_RG = Мурадем
+| srp_NS_FULL_NAME_ND_RG = Мурадем
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.641667
  | Lartësia            = 
 }}
-'''Muradem''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Muradem''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bakshi
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BAKSHI
- | FULL_NAME_RO = Bakshi
- | FULL_NAME_ND_RO=Bakshi
- | SORT_NAME_RG=BAKSHI
- | FULL_NAME_RG=Bakshi
- | FULL_NAME_ND_RG=Bakshi
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bakshi
+| sqi_N_FULL_NAME_RO = Bakshi
+| sqi_N_FULL_NAME_ND_RO = Bakshi
+| sqi_N_SORT_NAME_RG = BAKSHI
+| sqi_N_FULL_NAME_RG = Bakshi
+| sqi_N_FULL_NAME_ND_RG = Bakshi
+| srp_N_name = Bakšija
+| srp_N_FULL_NAME_RO = Bakšija
+| srp_N_FULL_NAME_ND_RO = Baksija
+| srp_N_SORT_NAME_RG = BAKSIJA
+| srp_N_FULL_NAME_RG = Bakšija
+| srp_N_FULL_NAME_ND_RG = Baksija
+| srp_NS_name = Бакшија
+| srp_NS_FULL_NAME_RO = Бакшија
+| srp_NS_FULL_NAME_ND_RO = Бакшија
+| srp_NS_SORT_NAME_RG = БАКШИЈА
+| srp_NS_FULL_NAME_RG = Бакшија
+| srp_NS_FULL_NAME_ND_RG = Бакшија
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.105352
  | Lartësia            = 
 }}
-'''Bakshi''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Bakshi''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vilanc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VILANC
- | FULL_NAME_RO = Vilanc
- | FULL_NAME_ND_RO=Vilanc
- | SORT_NAME_RG=VILANC
- | FULL_NAME_RG=Vilanc
- | FULL_NAME_ND_RG=Vilanc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vilanc
+| sqi_N_FULL_NAME_RO = Vilanc
+| sqi_N_FULL_NAME_ND_RO = Vilanc
+| sqi_N_SORT_NAME_RG = VILANC
+| sqi_N_FULL_NAME_RG = Vilanc
+| sqi_N_FULL_NAME_ND_RG = Vilanc
+| sqi_V_name = Viljancë
+| sqi_V_FULL_NAME_RO = Viljancë Viqancë Vilancë Vllanicë
+| sqi_V_FULL_NAME_ND_RO = Viljance Viqance Vilance Vllanice
+| sqi_V_SORT_NAME_RG = VILJANCE VIQANCE VILANCE VLLANICE
+| sqi_V_FULL_NAME_RG = Viljancë Viqancë Vilancë Vllanicë
+| sqi_V_FULL_NAME_ND_RG = Viljance Viqance Vilance Vllanice
+| srp_N_name = Viljance
+| srp_N_FULL_NAME_RO = Viljance
+| srp_N_FULL_NAME_ND_RO = Viljance
+| srp_N_SORT_NAME_RG = VILJANCE
+| srp_N_FULL_NAME_RG = Viljance
+| srp_N_FULL_NAME_ND_RG = Viljance
+| srp_NS_name = Виљанце
+| srp_NS_FULL_NAME_RO = Виљанце
+| srp_NS_FULL_NAME_ND_RO = Виљанце
+| srp_NS_SORT_NAME_RG = ВИЉАНЦЕ
+| srp_NS_FULL_NAME_RG = Виљанце
+| srp_NS_FULL_NAME_ND_RG = Виљанце
+| srp_V_name = Vićance
+| srp_V_FULL_NAME_RO = Vićance
+| srp_V_FULL_NAME_ND_RO = Vicance
+| srp_V_SORT_NAME_RG = VICANCE
+| srp_V_FULL_NAME_RG = Vićance
+| srp_V_FULL_NAME_ND_RG = Vicance
+| srp_VS_name = Вићанце
+| srp_VS_FULL_NAME_RO = Вићанце
+| srp_VS_FULL_NAME_ND_RO = Вићанце
+| srp_VS_SORT_NAME_RG = ВИЋАНЦЕ
+| srp_VS_FULL_NAME_RG = Вићанце
+| srp_VS_FULL_NAME_ND_RG = Вићанце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.029334
  | Lartësia            = 
 }}
-'''Vilanc''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Vilanc''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

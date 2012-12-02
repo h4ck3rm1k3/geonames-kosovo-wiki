@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kërpimeh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KERPIMEH
- | FULL_NAME_RO = Kërpimeh
- | FULL_NAME_ND_RO=Kerpimeh
- | SORT_NAME_RG=KERPIMEH
- | FULL_NAME_RG=Kërpimeh
- | FULL_NAME_ND_RG=Kerpimeh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kërpimeh
+| sqi_N_FULL_NAME_RO = Kërpimeh
+| sqi_N_FULL_NAME_ND_RO = Kerpimeh
+| sqi_N_SORT_NAME_RG = KERPIMEH
+| sqi_N_FULL_NAME_RG = Kërpimeh
+| sqi_N_FULL_NAME_ND_RG = Kerpimeh
+| sqi_V_name = Kërpimehu
+| sqi_V_FULL_NAME_RO = Kërpimehu Llapias Llapiasi
+| sqi_V_FULL_NAME_ND_RO = Kerpimehu Llapias Llapiasi
+| sqi_V_SORT_NAME_RG = KERPIMEHU LLAPIAS LLAPIASI
+| sqi_V_FULL_NAME_RG = Kërpimehu Llapias Llapiasi
+| sqi_V_FULL_NAME_ND_RG = Kerpimehu Llapias Llapiasi
+| srp_N_name = Krpimej
+| srp_N_FULL_NAME_RO = Krpimej
+| srp_N_FULL_NAME_ND_RO = Krpimej
+| srp_N_SORT_NAME_RG = KRPIMEJ
+| srp_N_FULL_NAME_RG = Krpimej
+| srp_N_FULL_NAME_ND_RG = Krpimej
+| srp_NS_name = Крпимеј
+| srp_NS_FULL_NAME_RO = Крпимеј
+| srp_NS_FULL_NAME_ND_RO = Крпимеј
+| srp_NS_SORT_NAME_RG = КРПИМЕЈ
+| srp_NS_FULL_NAME_RG = Крпимеј
+| srp_NS_FULL_NAME_ND_RG = Крпимеј
+| srp_V_name = Krpime
+| srp_V_FULL_NAME_RO = Krpime Krčime
+| srp_V_FULL_NAME_ND_RO = Krpime Krcime
+| srp_V_SORT_NAME_RG = KRPIME KRCIME
+| srp_V_FULL_NAME_RG = Krpime Krčime
+| srp_V_FULL_NAME_ND_RG = Krpime Krcime
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.14285
  | Lartësia            = 
 }}
-'''Kërpimeh''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Kërpimeh''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

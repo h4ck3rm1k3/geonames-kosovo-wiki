@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Muhaxherbabush
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MUHAXHERBABUSH
- | FULL_NAME_RO = Muhaxherbabush
- | FULL_NAME_ND_RO=Muhaxherbabush
- | SORT_NAME_RG=MUHAXHERBABUSH
- | FULL_NAME_RG=Muhaxherbabush
- | FULL_NAME_ND_RG=Muhaxherbabush
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Muhaxherbabush
+| sqi_D_FULL_NAME_RO = Muhaxherbabush
+| sqi_D_FULL_NAME_ND_RO = Muhaxherbabush
+| sqi_D_SORT_NAME_RG = MUHAXHERBABUSH
+| sqi_D_FULL_NAME_RG = Muhaxherbabush
+| sqi_D_FULL_NAME_ND_RG = Muhaxherbabush
+| sqi_V_name = Babushi i Muhaxherëve
+| sqi_V_FULL_NAME_RO = Babushi i Muhaxherëve Babush i Muhaxherëve Babush i Muhaxherve
+| sqi_V_FULL_NAME_ND_RO = Babushi i Muhaxhereve Babush i Muhaxhereve Babush i Muhaxherve
+| sqi_V_SORT_NAME_RG = BABUSHIIMUHAXHEREVE BABUSHIMUHAXHEREVE BABUSHIMUHAXHERVE
+| sqi_V_FULL_NAME_RG = Babushi i Muhaxherëve Babush i Muhaxherëve Babush i Muhaxherve
+| sqi_V_FULL_NAME_ND_RG = Babushi i Muhaxhereve Babush i Muhaxhereve Babush i Muhaxherve
+| srp_N_name = Muhadžer Babuš
+| srp_N_FULL_NAME_RO = Muhadžer Babuš
+| srp_N_FULL_NAME_ND_RO = Muhadzer Babus
+| srp_N_SORT_NAME_RG = MUHADZERBABUS
+| srp_N_FULL_NAME_RG = Muhadžer Babuš
+| srp_N_FULL_NAME_ND_RG = Muhadzer Babus
+| srp_NS_name = Мухаџер Бабуш
+| srp_NS_FULL_NAME_RO = Мухаџер Бабуш
+| srp_NS_FULL_NAME_ND_RO = Мухаџер Бабуш
+| srp_NS_SORT_NAME_RG = МУХАЏЕРБАБУШ
+| srp_NS_FULL_NAME_RG = Мухаџер Бабуш
+| srp_NS_FULL_NAME_ND_RG = Мухаџер Бабуш
+| srp_V_name = Muhađer Babuš
+| srp_V_FULL_NAME_RO = Muhađer Babuš
+| srp_V_FULL_NAME_ND_RO = Muhader Babus
+| srp_V_SORT_NAME_RG = MUHADERBABUS
+| srp_V_FULL_NAME_RG = Muhađer Babuš
+| srp_V_FULL_NAME_ND_RG = Muhader Babus
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.183611
  | Lartësia            = 
 }}
-'''Muhaxherbabush''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Muhaxherbabush''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

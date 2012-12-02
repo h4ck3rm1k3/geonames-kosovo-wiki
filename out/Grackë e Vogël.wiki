@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Grackë e Vogël
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GRACKEEVOGEL
- | FULL_NAME_RO = Grackë e Vogël
- | FULL_NAME_ND_RO=Gracke e Vogel
- | SORT_NAME_RG=GRACKEEVOGEL
- | FULL_NAME_RG=Grackë e Vogël
- | FULL_NAME_ND_RG=Gracke e Vogel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Grackë e Vogël
+| sqi_N_FULL_NAME_RO = Grackë e Vogël
+| sqi_N_FULL_NAME_ND_RO = Gracke e Vogel
+| sqi_N_SORT_NAME_RG = GRACKEEVOGEL
+| sqi_N_FULL_NAME_RG = Grackë e Vogël
+| sqi_N_FULL_NAME_ND_RG = Gracke e Vogel
+| sqi_V_name = Grackë
+| sqi_V_FULL_NAME_RO = Grackë Gracka i Vogël
+| sqi_V_FULL_NAME_ND_RO = Gracke Gracka i Vogel
+| sqi_V_SORT_NAME_RG = GRACKE GRACKAIVOGEL
+| sqi_V_FULL_NAME_RG = Grackë Gracka i Vogël
+| sqi_V_FULL_NAME_ND_RG = Gracke Gracka i Vogel
+| srp_N_name = Malo Gracko
+| srp_N_FULL_NAME_RO = Malo Gracko
+| srp_N_FULL_NAME_ND_RO = Malo Gracko
+| srp_N_SORT_NAME_RG = MALOGRACKO
+| srp_N_FULL_NAME_RG = Malo Gracko
+| srp_N_FULL_NAME_ND_RG = Malo Gracko
+| srp_NS_name = Мало Грацко
+| srp_NS_FULL_NAME_RO = Мало Грацко
+| srp_NS_FULL_NAME_ND_RO = Мало Грацко
+| srp_NS_SORT_NAME_RG = МАЛОГРАЦКО
+| srp_NS_FULL_NAME_RG = Мало Грацко
+| srp_NS_FULL_NAME_ND_RG = Мало Грацко
+| srp_V_name = Staro Gracko
+| srp_V_FULL_NAME_RO = Staro Gracko
+| srp_V_FULL_NAME_ND_RO = Staro Gracko
+| srp_V_SORT_NAME_RG = STAROGRACKO
+| srp_V_FULL_NAME_RG = Staro Gracko
+| srp_V_FULL_NAME_ND_RG = Staro Gracko
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.098333
  | Lartësia            = 
 }}
-'''Grackë e Vogël''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Grackë e Vogël''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

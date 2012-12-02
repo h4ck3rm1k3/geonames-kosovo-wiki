@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bresje
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BRESJE
- | FULL_NAME_RO = Bresje
- | FULL_NAME_ND_RO=Bresje
- | SORT_NAME_RG=BRESJE
- | FULL_NAME_RG=Bresje
- | FULL_NAME_ND_RG=Bresje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bresje
+| sqi_N_FULL_NAME_RO = Bresje
+| sqi_N_FULL_NAME_ND_RO = Bresje
+| sqi_N_SORT_NAME_RG = BRESJE
+| sqi_N_FULL_NAME_RG = Bresje
+| sqi_N_FULL_NAME_ND_RG = Bresje
+| sqi_V_name = Brecë
+| sqi_V_FULL_NAME_RO = Brecë Bresja
+| sqi_V_FULL_NAME_ND_RO = Brece Bresja
+| sqi_V_SORT_NAME_RG = BRECE BRESJA
+| sqi_V_FULL_NAME_RG = Brecë Bresja
+| sqi_V_FULL_NAME_ND_RG = Brece Bresja
+| srp_N_name = Bresje
+| srp_N_FULL_NAME_RO = Bresje
+| srp_N_FULL_NAME_ND_RO = Bresje
+| srp_N_SORT_NAME_RG = BRESJE
+| srp_N_FULL_NAME_RG = Bresje
+| srp_N_FULL_NAME_ND_RG = Bresje
+| srp_NS_name = Бресје
+| srp_NS_FULL_NAME_RO = Бресје
+| srp_NS_FULL_NAME_ND_RO = Бресје
+| srp_NS_SORT_NAME_RG = БРЕСЈЕ
+| srp_NS_FULL_NAME_RG = Бресје
+| srp_NS_FULL_NAME_ND_RG = Бресје
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.092222
  | Lartësia            = 
 }}
-'''Bresje''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
+'''Bresje''' është një [[Fshat]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

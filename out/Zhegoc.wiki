@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zhegoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZHEGOC
- | FULL_NAME_RO = Zhegoc
- | FULL_NAME_ND_RO=Zhegoc
- | SORT_NAME_RG=ZHEGOC
- | FULL_NAME_RG=Zhegoc
- | FULL_NAME_ND_RG=Zhegoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zhegoc
+| sqi_D_FULL_NAME_RO = Zhegoc
+| sqi_D_FULL_NAME_ND_RO = Zhegoc
+| sqi_D_SORT_NAME_RG = ZHEGOC
+| sqi_D_FULL_NAME_RG = Zhegoc
+| sqi_D_FULL_NAME_ND_RG = Zhegoc
+| sqi_V_name = Zhegovc
+| sqi_V_FULL_NAME_RO = Zhegovc
+| sqi_V_FULL_NAME_ND_RO = Zhegovc
+| sqi_V_SORT_NAME_RG = ZHEGOVC
+| sqi_V_FULL_NAME_RG = Zhegovc
+| sqi_V_FULL_NAME_ND_RG = Zhegovc
+| srp_N_name = Žegovac
+| srp_N_FULL_NAME_RO = Žegovac
+| srp_N_FULL_NAME_ND_RO = Zegovac
+| srp_N_SORT_NAME_RG = ZEGOVAC
+| srp_N_FULL_NAME_RG = Žegovac
+| srp_N_FULL_NAME_ND_RG = Zegovac
+| srp_NS_name = Жеговац
+| srp_NS_FULL_NAME_RO = Жеговац
+| srp_NS_FULL_NAME_ND_RO = Жеговац
+| srp_NS_SORT_NAME_RG = ЖЕГОВАЦ
+| srp_NS_FULL_NAME_RG = Жеговац
+| srp_NS_FULL_NAME_ND_RG = Жеговац
+| srp_V_name = Gornje Žegovce
+| srp_V_FULL_NAME_RO = Gornje Žegovce Žegovce
+| srp_V_FULL_NAME_ND_RO = Gornje Zegovce Zegovce
+| srp_V_SORT_NAME_RG = GORNJEZEGOVCE ZEGOVCE
+| srp_V_FULL_NAME_RG = Gornje Žegovce Žegovce
+| srp_V_FULL_NAME_ND_RG = Gornje Zegovce Zegovce
+| srp_VS_name = Жеговце
+| srp_VS_FULL_NAME_RO = Жеговце
+| srp_VS_FULL_NAME_ND_RO = Жеговце
+| srp_VS_SORT_NAME_RG = ЖЕГОВЦЕ
+| srp_VS_FULL_NAME_RG = Жеговце
+| srp_VS_FULL_NAME_ND_RG = Жеговце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.3431
  | Lartësia            = 
 }}
-'''Zhegoc''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Zhegoc''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

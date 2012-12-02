@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pustenik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PUSTENIK
- | FULL_NAME_RO = Pustenik
- | FULL_NAME_ND_RO=Pustenik
- | SORT_NAME_RG=PUSTENIK
- | FULL_NAME_RG=Pustenik
- | FULL_NAME_ND_RG=Pustenik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pustenik
+| sqi_N_FULL_NAME_RO = Pustenik
+| sqi_N_FULL_NAME_ND_RO = Pustenik
+| sqi_N_SORT_NAME_RG = PUSTENIK
+| sqi_N_FULL_NAME_RG = Pustenik
+| sqi_N_FULL_NAME_ND_RG = Pustenik
+| sqi_V_name = Bushalë
+| sqi_V_FULL_NAME_RO = Bushalë
+| sqi_V_FULL_NAME_ND_RO = Bushale
+| sqi_V_SORT_NAME_RG = BUSHALE
+| sqi_V_FULL_NAME_RG = Bushalë
+| sqi_V_FULL_NAME_ND_RG = Bushale
+| srp_N_name = Pustenik
+| srp_N_FULL_NAME_RO = Pustenik
+| srp_N_FULL_NAME_ND_RO = Pustenik
+| srp_N_SORT_NAME_RG = PUSTENIK
+| srp_N_FULL_NAME_RG = Pustenik
+| srp_N_FULL_NAME_ND_RG = Pustenik
+| srp_NS_name = Пустеник
+| srp_NS_FULL_NAME_RO = Пустеник
+| srp_NS_FULL_NAME_ND_RO = Пустеник
+| srp_NS_SORT_NAME_RG = ПУСТЕНИК
+| srp_NS_FULL_NAME_RG = Пустеник
+| srp_NS_FULL_NAME_ND_RG = Пустеник
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.263611
  | Lartësia            = 
 }}
-'''Pustenik''' është një [[]] në [[]] të [[Kosovës]].
+'''Pustenik''' është një [[Fshat Vogel]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

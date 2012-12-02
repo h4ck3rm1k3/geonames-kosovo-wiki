@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Jagodë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JAGODE
- | FULL_NAME_RO = Jagodë
- | FULL_NAME_ND_RO=Jagode
- | SORT_NAME_RG=JAGODE
- | FULL_NAME_RG=Jagodë
- | FULL_NAME_ND_RG=Jagode
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Jagodë
+| sqi_N_FULL_NAME_RO = Jagodë
+| sqi_N_FULL_NAME_ND_RO = Jagode
+| sqi_N_SORT_NAME_RG = JAGODE
+| sqi_N_FULL_NAME_RG = Jagodë
+| sqi_N_FULL_NAME_ND_RG = Jagode
+| sqi_V_name = Shëngjergj
+| sqi_V_FULL_NAME_RO = Shëngjergj Shëngjergji
+| sqi_V_FULL_NAME_ND_RO = Shengjergj Shengjergji
+| sqi_V_SORT_NAME_RG = SHENGJERGJ SHENGJERGJI
+| sqi_V_FULL_NAME_RG = Shëngjergj Shëngjergji
+| sqi_V_FULL_NAME_ND_RG = Shengjergj Shengjergji
+| srp_N_name = Jagoda
+| srp_N_FULL_NAME_RO = Jagoda
+| srp_N_FULL_NAME_ND_RO = Jagoda
+| srp_N_SORT_NAME_RG = JAGODA
+| srp_N_FULL_NAME_RG = Jagoda
+| srp_N_FULL_NAME_ND_RG = Jagoda
+| srp_NS_name = Јагода
+| srp_NS_FULL_NAME_RO = Јагода
+| srp_NS_FULL_NAME_ND_RO = Јагода
+| srp_NS_SORT_NAME_RG = ЈАГОДА
+| srp_NS_FULL_NAME_RG = Јагода
+| srp_NS_FULL_NAME_ND_RG = Јагода
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.534167
  | Lartësia            = 
 }}
-'''Jagodë''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Jagodë''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

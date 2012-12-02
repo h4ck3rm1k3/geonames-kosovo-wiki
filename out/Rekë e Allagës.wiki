@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rekë e Allagës
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      REKEEALLAGES
- | FULL_NAME_RO = Rekë e Allagës
- | FULL_NAME_ND_RO=Reke e Allages
- | SORT_NAME_RG=REKEEALLAGES
- | FULL_NAME_RG=Rekë e Allagës
- | FULL_NAME_ND_RG=Reke e Allages
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Rekë e Allagës
+| sqi_D_FULL_NAME_RO = Rekë e Allagës
+| sqi_D_FULL_NAME_ND_RO = Reke e Allages
+| sqi_D_SORT_NAME_RG = REKEEALLAGES
+| sqi_D_FULL_NAME_RG = Rekë e Allagës
+| sqi_D_FULL_NAME_ND_RG = Reke e Allages
+| sqi_V_name = Reka e Aliagës
+| sqi_V_FULL_NAME_RO = Reka e Aliagës Rekë e Aliagës Reka Allage Allaga
+| sqi_V_FULL_NAME_ND_RO = Reka e Aliages Reke e Aliages Reka Allage Allaga
+| sqi_V_SORT_NAME_RG = REKAEALIAGES REKEEALIAGES REKAALLAGE ALLAGA
+| sqi_V_FULL_NAME_RG = Reka e Aliagës Rekë e Aliagës Reka Allage Allaga
+| sqi_V_FULL_NAME_ND_RG = Reka e Aliages Reke e Aliages Reka Allage Allaga
+| srp_N_name = Alagina Reka
+| srp_N_FULL_NAME_RO = Alagina Reka
+| srp_N_FULL_NAME_ND_RO = Alagina Reka
+| srp_N_SORT_NAME_RG = ALAGINAREKA
+| srp_N_FULL_NAME_RG = Alagina Reka
+| srp_N_FULL_NAME_ND_RG = Alagina Reka
+| srp_NS_name = Алагина Река
+| srp_NS_FULL_NAME_RO = Алагина Река
+| srp_NS_FULL_NAME_ND_RO = Алагина Река
+| srp_NS_SORT_NAME_RG = АЛАГИНАРЕКА
+| srp_NS_FULL_NAME_RG = Алагина Река
+| srp_NS_FULL_NAME_ND_RG = Алагина Река
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.159444
  | Lartësia            = 
 }}
-'''Rekë e Allagës''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Rekë e Allagës''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stanoc i Poshtëm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STANOCIPOSHTEM
- | FULL_NAME_RO = Stanoc i Poshtëm
- | FULL_NAME_ND_RO=Stanoc i Poshtem
- | SORT_NAME_RG=STANOCIPOSHTEM
- | FULL_NAME_RG=Stanoc i Poshtëm
- | FULL_NAME_ND_RG=Stanoc i Poshtem
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Stanoc i Poshtëm
+| sqi_N_FULL_NAME_RO = Stanoc i Poshtëm
+| sqi_N_FULL_NAME_ND_RO = Stanoc i Poshtem
+| sqi_N_SORT_NAME_RG = STANOCIPOSHTEM
+| sqi_N_FULL_NAME_RG = Stanoc i Poshtëm
+| sqi_N_FULL_NAME_ND_RG = Stanoc i Poshtem
+| sqi_V_name = Stanofc i Poshtëm
+| sqi_V_FULL_NAME_RO = Stanofc i Poshtëm Stanovci i Poshtëm
+| sqi_V_FULL_NAME_ND_RO = Stanofc i Poshtem Stanovci i Poshtem
+| sqi_V_SORT_NAME_RG = STANOFCIPOSHTEM STANOVCIIPOSHTEM
+| sqi_V_FULL_NAME_RG = Stanofc i Poshtëm Stanovci i Poshtëm
+| sqi_V_FULL_NAME_ND_RG = Stanofc i Poshtem Stanovci i Poshtem
+| srp_N_name = Donje Stanovce
+| srp_N_FULL_NAME_RO = Donje Stanovce
+| srp_N_FULL_NAME_ND_RO = Donje Stanovce
+| srp_N_SORT_NAME_RG = DONJESTANOVCE
+| srp_N_FULL_NAME_RG = Donje Stanovce
+| srp_N_FULL_NAME_ND_RG = Donje Stanovce
+| srp_NS_name = Доње Становце
+| srp_NS_FULL_NAME_RO = Доње Становце
+| srp_NS_FULL_NAME_ND_RO = Доње Становце
+| srp_NS_SORT_NAME_RG = ДОЊЕСТАНОВЦЕ
+| srp_NS_FULL_NAME_RG = Доње Становце
+| srp_NS_FULL_NAME_ND_RG = Доње Становце
+| srp_V_name = Čerkez-kej
+| srp_V_FULL_NAME_RO = Čerkez-kej
+| srp_V_FULL_NAME_ND_RO = Cerkez-kej
+| srp_V_SORT_NAME_RG = CERKEZKEJ
+| srp_V_FULL_NAME_RG = Čerkez-kej
+| srp_V_FULL_NAME_ND_RG = Cerkez-kej
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.04077
  | Lartësia            = 
 }}
-'''Stanoc i Poshtëm''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Stanoc i Poshtëm''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

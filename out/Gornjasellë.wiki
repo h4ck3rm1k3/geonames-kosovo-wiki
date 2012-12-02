@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gornjasellë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GORNJASELLE
- | FULL_NAME_RO = Gornjasellë
- | FULL_NAME_ND_RO=Gornjaselle
- | SORT_NAME_RG=GORNJASELLE
- | FULL_NAME_RG=Gornjasellë
- | FULL_NAME_ND_RG=Gornjaselle
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gornjasellë
+| sqi_N_FULL_NAME_RO = Gornjasellë
+| sqi_N_FULL_NAME_ND_RO = Gornjaselle
+| sqi_N_SORT_NAME_RG = GORNJASELLE
+| sqi_N_FULL_NAME_RG = Gornjasellë
+| sqi_N_FULL_NAME_ND_RG = Gornjaselle
+| sqi_V_name = Gornja Sell
+| sqi_V_FULL_NAME_RO = Gornja Sell Gornasellë Gornjasella
+| sqi_V_FULL_NAME_ND_RO = Gornja Sell Gornaselle Gornjasella
+| sqi_V_SORT_NAME_RG = GORNJASELL GORNASELLE GORNJASELLA
+| sqi_V_FULL_NAME_RG = Gornja Sell Gornasellë Gornjasella
+| sqi_V_FULL_NAME_ND_RG = Gornja Sell Gornaselle Gornjasella
+| srp_N_name = Gornje Selo
+| srp_N_FULL_NAME_RO = Gornje Selo
+| srp_N_FULL_NAME_ND_RO = Gornje Selo
+| srp_N_SORT_NAME_RG = GORNJESELO
+| srp_N_FULL_NAME_RG = Gornje Selo
+| srp_N_FULL_NAME_ND_RG = Gornje Selo
+| srp_NS_name = Горње Село
+| srp_NS_FULL_NAME_RO = Горње Село
+| srp_NS_FULL_NAME_ND_RO = Горње Село
+| srp_NS_SORT_NAME_RG = ГОРЊЕСЕЛО
+| srp_NS_FULL_NAME_RG = Горње Село
+| srp_NS_FULL_NAME_ND_RG = Горње Село
+| srp_V_name = Sirvuć
+| srp_V_FULL_NAME_RO = Sirvuć
+| srp_V_FULL_NAME_ND_RO = Sirvuc
+| srp_V_SORT_NAME_RG = SIRVUC
+| srp_V_FULL_NAME_RG = Sirvuć
+| srp_V_FULL_NAME_ND_RG = Sirvuc
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.930833
  | Lartësia            = 
 }}
-'''Gornjasellë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Gornjasellë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

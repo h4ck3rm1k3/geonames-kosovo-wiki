@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Likoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LIKOC
- | FULL_NAME_RO = Likoc
- | FULL_NAME_ND_RO=Likoc
- | SORT_NAME_RG=LIKOC
- | FULL_NAME_RG=Likoc
- | FULL_NAME_ND_RG=Likoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Likoc
+| sqi_N_FULL_NAME_RO = Likoc
+| sqi_N_FULL_NAME_ND_RO = Likoc
+| sqi_N_SORT_NAME_RG = LIKOC
+| sqi_N_FULL_NAME_RG = Likoc
+| sqi_N_FULL_NAME_ND_RG = Likoc
+| sqi_V_name = Likovc
+| sqi_V_FULL_NAME_RO = Likovc Likofc
+| sqi_V_FULL_NAME_ND_RO = Likovc Likofc
+| sqi_V_SORT_NAME_RG = LIKOVC LIKOFC
+| sqi_V_FULL_NAME_RG = Likovc Likofc
+| sqi_V_FULL_NAME_ND_RG = Likovc Likofc
+| srp_N_name = Likovac
+| srp_N_FULL_NAME_RO = Likovac
+| srp_N_FULL_NAME_ND_RO = Likovac
+| srp_N_SORT_NAME_RG = LIKOVAC
+| srp_N_FULL_NAME_RG = Likovac
+| srp_N_FULL_NAME_ND_RG = Likovac
+| srp_NS_name = Ликовац
+| srp_NS_FULL_NAME_RO = Ликовац
+| srp_NS_FULL_NAME_ND_RO = Ликовац
+| srp_NS_SORT_NAME_RG = ЛИКОВАЦ
+| srp_NS_FULL_NAME_RG = Ликовац
+| srp_NS_FULL_NAME_ND_RG = Ликовац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.770556
  | Lartësia            = 
 }}
-'''Likoc''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Likoc''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tushiqë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TUSHIQE
- | FULL_NAME_RO = Tushiqë
- | FULL_NAME_ND_RO=Tushiqe
- | SORT_NAME_RG=TUSHIQE
- | FULL_NAME_RG=Tushiqë
- | FULL_NAME_ND_RG=Tushiqe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Tushiqë
+| sqi_N_FULL_NAME_RO = Tushiqë
+| sqi_N_FULL_NAME_ND_RO = Tushiqe
+| sqi_N_SORT_NAME_RG = TUSHIQE
+| sqi_N_FULL_NAME_RG = Tushiqë
+| sqi_N_FULL_NAME_ND_RG = Tushiqe
+| sqi_V_name = Tushaj
+| sqi_V_FULL_NAME_RO = Tushaj
+| sqi_V_FULL_NAME_ND_RO = Tushaj
+| sqi_V_SORT_NAME_RG = TUSHAJ
+| sqi_V_FULL_NAME_RG = Tushaj
+| sqi_V_FULL_NAME_ND_RG = Tushaj
+| srp_N_name = Tušiće
+| srp_N_FULL_NAME_RO = Tušiće
+| srp_N_FULL_NAME_ND_RO = Tusice
+| srp_N_SORT_NAME_RG = TUSICE
+| srp_N_FULL_NAME_RG = Tušiće
+| srp_N_FULL_NAME_ND_RG = Tusice
+| srp_NS_name = Тушиће
+| srp_NS_FULL_NAME_RO = Тушиће
+| srp_NS_FULL_NAME_ND_RO = Тушиће
+| srp_NS_SORT_NAME_RG = ТУШИЋЕ
+| srp_NS_FULL_NAME_RG = Тушиће
+| srp_NS_FULL_NAME_ND_RG = Тушиће
+| srp_V_name = Tušići
+| srp_V_FULL_NAME_RO = Tušići
+| srp_V_FULL_NAME_ND_RO = Tusici
+| srp_V_SORT_NAME_RG = TUSICI
+| srp_V_FULL_NAME_RG = Tušići
+| srp_V_FULL_NAME_ND_RG = Tusici
+| srp_VS_name = Тушићи
+| srp_VS_FULL_NAME_RO = Тушићи
+| srp_VS_FULL_NAME_ND_RO = Тушићи
+| srp_VS_SORT_NAME_RG = ТУШИЋИ
+| srp_VS_FULL_NAME_RG = Тушићи
+| srp_VS_FULL_NAME_ND_RG = Тушићи
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.584444
  | Lartësia            = 
 }}
-'''Tushiqë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Tushiqë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

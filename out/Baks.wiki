@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Baks
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BAKS
- | FULL_NAME_RO = Baks
- | FULL_NAME_ND_RO=Baks
- | SORT_NAME_RG=BAKS
- | FULL_NAME_RG=Baks
- | FULL_NAME_ND_RG=Baks
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Baks
+| sqi_N_FULL_NAME_RO = Baks
+| sqi_N_FULL_NAME_ND_RO = Baks
+| sqi_N_SORT_NAME_RG = BAKS
+| sqi_N_FULL_NAME_RG = Baks
+| sqi_N_FULL_NAME_ND_RG = Baks
+| srp_N_name = Baks
+| srp_N_FULL_NAME_RO = Baks
+| srp_N_FULL_NAME_ND_RO = Baks
+| srp_N_SORT_NAME_RG = BAKS
+| srp_N_FULL_NAME_RG = Baks
+| srp_N_FULL_NAME_ND_RG = Baks
+| srp_NS_name = Бакс
+| srp_NS_FULL_NAME_RO = Бакс
+| srp_NS_FULL_NAME_ND_RO = Бакс
+| srp_NS_SORT_NAME_RG = БАКС
+| srp_NS_FULL_NAME_RG = Бакс
+| srp_NS_FULL_NAME_ND_RG = Бакс
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.876667
  | Lartësia            = 
 }}
-'''Baks''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Baks''' është një [[Fshat Vogel]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Milloshevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MILLOSHEVE
- | FULL_NAME_RO = Milloshevë
- | FULL_NAME_ND_RO=Millosheve
- | SORT_NAME_RG=MILLOSHEVE
- | FULL_NAME_RG=Milloshevë
- | FULL_NAME_ND_RG=Millosheve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Milloshevë
+| sqi_N_FULL_NAME_RO = Milloshevë
+| sqi_N_FULL_NAME_ND_RO = Millosheve
+| sqi_N_SORT_NAME_RG = MILLOSHEVE
+| sqi_N_FULL_NAME_RG = Milloshevë
+| sqi_N_FULL_NAME_ND_RG = Millosheve
+| sqi_V_name = Miloshevë
+| sqi_V_FULL_NAME_RO = Miloshevë
+| sqi_V_FULL_NAME_ND_RO = Milosheve
+| sqi_V_SORT_NAME_RG = MILOSHEVE
+| sqi_V_FULL_NAME_RG = Miloshevë
+| sqi_V_FULL_NAME_ND_RG = Milosheve
+| srp_N_name = Miloševo
+| srp_N_FULL_NAME_RO = Miloševo
+| srp_N_FULL_NAME_ND_RO = Milosevo
+| srp_N_SORT_NAME_RG = MILOSEVO
+| srp_N_FULL_NAME_RG = Miloševo
+| srp_N_FULL_NAME_ND_RG = Milosevo
+| srp_NS_name = Милошево
+| srp_NS_FULL_NAME_RO = Милошево
+| srp_NS_FULL_NAME_ND_RO = Милошево
+| srp_NS_SORT_NAME_RG = МИЛОШЕВО
+| srp_NS_FULL_NAME_RG = Милошево
+| srp_NS_FULL_NAME_ND_RG = Милошево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.081987
  | Lartësia            = 
 }}
-'''Milloshevë''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Milloshevë''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kijeviçiqë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KIJEVICIQE
- | FULL_NAME_RO = Kijeviçiqë
- | FULL_NAME_ND_RO=Kijeviciqe
- | SORT_NAME_RG=KIJEVICIQE
- | FULL_NAME_RG=Kijeviçiqë
- | FULL_NAME_ND_RG=Kijeviciqe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kijeviçiqë
+| sqi_N_FULL_NAME_RO = Kijeviçiqë
+| sqi_N_FULL_NAME_ND_RO = Kijeviciqe
+| sqi_N_SORT_NAME_RG = KIJEVICIQE
+| sqi_N_FULL_NAME_RG = Kijeviçiqë
+| sqi_N_FULL_NAME_ND_RG = Kijeviciqe
+| sqi_V_name = Kijevčiq
+| sqi_V_FULL_NAME_RO = Kijevčiq
+| sqi_V_FULL_NAME_ND_RO = Kijevciq
+| sqi_V_SORT_NAME_RG = KIJEVCIQ
+| sqi_V_FULL_NAME_RG = Kijevčiq
+| sqi_V_FULL_NAME_ND_RG = Kijevciq
+| srp_N_name = Kijevčiće
+| srp_N_FULL_NAME_RO = Kijevčiće
+| srp_N_FULL_NAME_ND_RO = Kijevcice
+| srp_N_SORT_NAME_RG = KIJEVCICE
+| srp_N_FULL_NAME_RG = Kijevčiće
+| srp_N_FULL_NAME_ND_RG = Kijevcice
+| srp_NS_name = Кијевчиће
+| srp_NS_FULL_NAME_RO = Кијевчиће
+| srp_NS_FULL_NAME_ND_RO = Кијевчиће
+| srp_NS_SORT_NAME_RG = КИЈЕВЧИЋЕ
+| srp_NS_FULL_NAME_RG = Кијевчиће
+| srp_NS_FULL_NAME_ND_RG = Кијевчиће
+| srp_V_name = Kijevčić
+| srp_V_FULL_NAME_RO = Kijevčić
+| srp_V_FULL_NAME_ND_RO = Kijevcic
+| srp_V_SORT_NAME_RG = KIJEVCIC
+| srp_V_FULL_NAME_RG = Kijevčić
+| srp_V_FULL_NAME_ND_RG = Kijevcic
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.841389
  | Lartësia            = 
 }}
-'''Kijeviçiqë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Kijeviçiqë''' është një [[Fshat Vogel]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

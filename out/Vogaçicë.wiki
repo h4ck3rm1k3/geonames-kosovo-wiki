@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vogaçicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VOGACICE
- | FULL_NAME_RO = Vogaçicë
- | FULL_NAME_ND_RO=Vogacice
- | SORT_NAME_RG=VOGACICE
- | FULL_NAME_RG=Vogaçicë
- | FULL_NAME_ND_RG=Vogacice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vogaçicë
+| sqi_N_FULL_NAME_RO = Vogaçicë
+| sqi_N_FULL_NAME_ND_RO = Vogacice
+| sqi_N_SORT_NAME_RG = VOGACICE
+| sqi_N_FULL_NAME_RG = Vogaçicë
+| sqi_N_FULL_NAME_ND_RG = Vogacice
+| sqi_V_name = Vogaçiçë
+| sqi_V_FULL_NAME_RO = Vogaçiçë
+| sqi_V_FULL_NAME_ND_RO = Vogacice
+| sqi_V_SORT_NAME_RG = VOGACICE
+| sqi_V_FULL_NAME_RG = Vogaçiçë
+| sqi_V_FULL_NAME_ND_RG = Vogacice
+| srp_N_name = Vogačica
+| srp_N_FULL_NAME_RO = Vogačica
+| srp_N_FULL_NAME_ND_RO = Vogacica
+| srp_N_SORT_NAME_RG = VOGACICA
+| srp_N_FULL_NAME_RG = Vogačica
+| srp_N_FULL_NAME_ND_RG = Vogacica
+| srp_NS_name = Вогачица
+| srp_NS_FULL_NAME_RO = Вогачица
+| srp_NS_FULL_NAME_ND_RO = Вогачица
+| srp_NS_SORT_NAME_RG = ВОГАЧИЦА
+| srp_NS_FULL_NAME_RG = Вогачица
+| srp_NS_FULL_NAME_ND_RG = Вогачица
+| srp_V_name = Vukadince
+| srp_V_FULL_NAME_RO = Vukadince Vugoštica Vogačice
+| srp_V_FULL_NAME_ND_RO = Vukadince Vugostica Vogacice
+| srp_V_SORT_NAME_RG = VUKADINCE VUGOSTICA VOGACICE
+| srp_V_FULL_NAME_RG = Vukadince Vugoštica Vogačice
+| srp_V_FULL_NAME_ND_RG = Vukadince Vugostica Vogacice
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.278166
  | Lartësia            = 
 }}
-'''Vogaçicë''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Vogaçicë''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

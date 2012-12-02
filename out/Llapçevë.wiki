@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llapçevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLAPCEVE
- | FULL_NAME_RO = Llapçevë
- | FULL_NAME_ND_RO=Llapceve
- | SORT_NAME_RG=LLAPCEVE
- | FULL_NAME_RG=Llapçevë
- | FULL_NAME_ND_RG=Llapceve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Llapçevë
+| sqi_D_FULL_NAME_RO = Llapçevë
+| sqi_D_FULL_NAME_ND_RO = Llapceve
+| sqi_D_SORT_NAME_RG = LLAPCEVE
+| sqi_D_FULL_NAME_RG = Llapçevë
+| sqi_D_FULL_NAME_ND_RG = Llapceve
+| sqi_V_name = Labiçeva
+| sqi_V_FULL_NAME_RO = Labiçeva Labuqevë Llapqevë
+| sqi_V_FULL_NAME_ND_RO = Labiceva Labuqeve Llapqeve
+| sqi_V_SORT_NAME_RG = LABICEVA LABUQEVE LLAPQEVE
+| sqi_V_FULL_NAME_RG = Labiçeva Labuqevë Llapqevë
+| sqi_V_FULL_NAME_ND_RG = Labiceva Labuqeve Llapqeve
+| srp_N_name = Labučevo
+| srp_N_FULL_NAME_RO = Labučevo
+| srp_N_FULL_NAME_ND_RO = Labucevo
+| srp_N_SORT_NAME_RG = LABUCEVO
+| srp_N_FULL_NAME_RG = Labučevo
+| srp_N_FULL_NAME_ND_RG = Labucevo
+| srp_NS_name = Лабучево
+| srp_NS_FULL_NAME_RO = Лабучево
+| srp_NS_FULL_NAME_ND_RO = Лабучево
+| srp_NS_SORT_NAME_RG = ЛАБУЧЕВО
+| srp_NS_FULL_NAME_RG = Лабучево
+| srp_NS_FULL_NAME_ND_RG = Лабучево
+| srp_VS_name = Лабућево
+| srp_VS_FULL_NAME_RO = Лабућево
+| srp_VS_FULL_NAME_ND_RO = Лабућево
+| srp_VS_SORT_NAME_RG = ЛАБУЋЕВО
+| srp_VS_FULL_NAME_RG = Лабућево
+| srp_VS_FULL_NAME_ND_RG = Лабућево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.584444
  | Lartësia            = 
 }}
-'''Llapçevë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Llapçevë''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

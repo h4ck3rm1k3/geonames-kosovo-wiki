@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Beçiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BECIQ
- | FULL_NAME_RO = Beçiq
- | FULL_NAME_ND_RO=Beciq
- | SORT_NAME_RG=BECIQ
- | FULL_NAME_RG=Beçiq
- | FULL_NAME_ND_RG=Beciq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Beçiq
+| sqi_D_FULL_NAME_RO = Beçiq
+| sqi_D_FULL_NAME_ND_RO = Beciq
+| sqi_D_SORT_NAME_RG = BECIQ
+| sqi_D_FULL_NAME_RG = Beçiq
+| sqi_D_FULL_NAME_ND_RG = Beciq
+| sqi_V_name = Beqiq
+| sqi_V_FULL_NAME_RO = Beqiq
+| sqi_V_FULL_NAME_ND_RO = Beqiq
+| sqi_V_SORT_NAME_RG = BEQIQ 
+| sqi_V_FULL_NAME_RG = Beqiq,
+| sqi_V_FULL_NAME_ND_RG = Beqiq,
+| srp_N_name = Bečić
+| srp_N_FULL_NAME_RO = Bečić
+| srp_N_FULL_NAME_ND_RO = Becic
+| srp_N_SORT_NAME_RG = BECIC
+| srp_N_FULL_NAME_RG = Bečić
+| srp_N_FULL_NAME_ND_RG = Becic
+| srp_NS_name = Бечић
+| srp_NS_FULL_NAME_RO = Бечић
+| srp_NS_FULL_NAME_ND_RO = Бечић
+| srp_NS_SORT_NAME_RG = БЕЧИЋ
+| srp_NS_FULL_NAME_RG = Бечић
+| srp_NS_FULL_NAME_ND_RG = Бечић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.890556
  | Lartësia            = 
 }}
-'''Beçiq''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Beçiq''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

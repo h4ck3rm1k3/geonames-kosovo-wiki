@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mahalla e Hoxhajve
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAHALLAEHOXHAJVE
- | FULL_NAME_RO = Mahalla e Hoxhajve
- | FULL_NAME_ND_RO=Mahalla e Hoxhajve
- | SORT_NAME_RG=MAHALLAEHOXHAJVE
- | FULL_NAME_RG=Mahalla e Hoxhajve
- | FULL_NAME_ND_RG=Mahalla e Hoxhajve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Mahalla e Hoxhajve
+| sqi_N_FULL_NAME_RO = Mahalla e Hoxhajve
+| sqi_N_FULL_NAME_ND_RO = Mahalla e Hoxhajve
+| sqi_N_SORT_NAME_RG = MAHALLAEHOXHAJVE
+| sqi_N_FULL_NAME_RG = Mahalla e Hoxhajve
+| sqi_N_FULL_NAME_ND_RG = Mahalla e Hoxhajve
+| sqi_V_name = Gabricë e Epërme
+| sqi_V_FULL_NAME_RO = Gabricë e Epërme
+| sqi_V_FULL_NAME_ND_RO = Gabrice e Eperme
+| sqi_V_SORT_NAME_RG = GABRICEEEPERME
+| sqi_V_FULL_NAME_RG = Gabricë e Epërme
+| sqi_V_FULL_NAME_ND_RG = Gabrice e Eperme
+| srp_N_name = Kođ Mahala
+| srp_N_FULL_NAME_RO = Kođ Mahala
+| srp_N_FULL_NAME_ND_RO = Kod Mahala
+| srp_N_SORT_NAME_RG = KODMAHALA
+| srp_N_FULL_NAME_RG = Kođ Mahala
+| srp_N_FULL_NAME_ND_RG = Kod Mahala
+| srp_NS_name = Кођ Махала
+| srp_NS_FULL_NAME_RO = Кођ Махала
+| srp_NS_FULL_NAME_ND_RO = Кођ Махала
+| srp_NS_SORT_NAME_RG = КОЂМАХАЛА
+| srp_NS_FULL_NAME_RG = Кођ Махала
+| srp_NS_FULL_NAME_ND_RG = Кођ Махала
+| srp_V_name = Hodža Mahala
+| srp_V_FULL_NAME_RO = Hodža Mahala Gornja Gabrica
+| srp_V_FULL_NAME_ND_RO = Hodza Mahala Gornja Gabrica
+| srp_V_SORT_NAME_RG = HODZAMAHALA GORNJAGABRICA
+| srp_V_FULL_NAME_RG = Hodža Mahala Gornja Gabrica
+| srp_V_FULL_NAME_ND_RG = Hodza Mahala Gornja Gabrica
+| srp_VS_name = Хоџа Махала
+| srp_VS_FULL_NAME_RO = Хоџа Махала Горња Габрица
+| srp_VS_FULL_NAME_ND_RO = Хоџа Махала Горња Габрица
+| srp_VS_SORT_NAME_RG = ХОЏАМАХАЛА ГОРЊАГАБРИЦА
+| srp_VS_FULL_NAME_RG = Хоџа Махала Горња Габрица
+| srp_VS_FULL_NAME_ND_RG = Хоџа Махала Горња Габрица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.1975
  | Lartësia            = 
 }}
-'''Mahalla e Hoxhajve''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Mahalla e Hoxhajve''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

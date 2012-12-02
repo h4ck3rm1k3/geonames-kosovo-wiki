@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Uçë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      UCE
- | FULL_NAME_RO = Uçë
- | FULL_NAME_ND_RO=Uce
- | SORT_NAME_RG=UCE
- | FULL_NAME_RG=Uçë
- | FULL_NAME_ND_RG=Uce
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Uçë
+| sqi_D_FULL_NAME_RO = Uçë
+| sqi_D_FULL_NAME_ND_RO = Uce
+| sqi_D_SORT_NAME_RG = UCE
+| sqi_D_FULL_NAME_RG = Uçë
+| sqi_D_FULL_NAME_ND_RG = Uce
+| sqi_V_name = Uça
+| sqi_V_FULL_NAME_RO = Uça Ukqë
+| sqi_V_FULL_NAME_ND_RO = Uca Ukqe
+| sqi_V_SORT_NAME_RG = UCA UKQE
+| sqi_V_FULL_NAME_RG = Uça Ukqë
+| sqi_V_FULL_NAME_ND_RG = Uca Ukqe
+| srp_N_name = Ukča
+| srp_N_FULL_NAME_RO = Ukča
+| srp_N_FULL_NAME_ND_RO = Ukca
+| srp_N_SORT_NAME_RG = UKCA
+| srp_N_FULL_NAME_RG = Ukča
+| srp_N_FULL_NAME_ND_RG = Ukca
+| srp_NS_name = Укча
+| srp_NS_FULL_NAME_RO = Укча
+| srp_NS_FULL_NAME_ND_RO = Укча
+| srp_NS_SORT_NAME_RG = УКЧА
+| srp_NS_FULL_NAME_RG = Укча
+| srp_NS_FULL_NAME_ND_RG = Укча
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.608333
  | Lartësia            = 
 }}
-'''Uçë''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Uçë''' është një [[Fshat Vogel]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

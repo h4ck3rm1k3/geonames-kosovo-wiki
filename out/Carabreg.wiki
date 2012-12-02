@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Carabreg
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CARABREG
- | FULL_NAME_RO = Carabreg
- | FULL_NAME_ND_RO=Carabreg
- | SORT_NAME_RG=CARABREG
- | FULL_NAME_RG=Carabreg
- | FULL_NAME_ND_RG=Carabreg
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Carabreg
+| sqi_D_FULL_NAME_RO = Carabreg
+| sqi_D_FULL_NAME_ND_RO = Carabreg
+| sqi_D_SORT_NAME_RG = CARABREG
+| sqi_D_FULL_NAME_RG = Carabreg
+| sqi_D_FULL_NAME_ND_RG = Carabreg
+| sqi_V_name = Breg i Zi
+| sqi_V_FULL_NAME_RO = Breg i Zi
+| sqi_V_FULL_NAME_ND_RO = Breg i Zi
+| sqi_V_SORT_NAME_RG = BREGIZI
+| sqi_V_FULL_NAME_RG = Breg i Zi
+| sqi_V_FULL_NAME_ND_RG = Breg i Zi
+| srp_N_name = Crni Breg
+| srp_N_FULL_NAME_RO = Crni Breg
+| srp_N_FULL_NAME_ND_RO = Crni Breg
+| srp_N_SORT_NAME_RG = CRNIBREG
+| srp_N_FULL_NAME_RG = Crni Breg
+| srp_N_FULL_NAME_ND_RG = Crni Breg
+| srp_NS_name = Црни Брег
+| srp_NS_FULL_NAME_RO = Црни Брег
+| srp_NS_FULL_NAME_ND_RO = Црни Брег
+| srp_NS_SORT_NAME_RG = ЦРНИБРЕГ
+| srp_NS_FULL_NAME_RG = Црни Брег
+| srp_NS_FULL_NAME_ND_RG = Црни Брег
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.055833
  | Lartësia            = 
 }}
-'''Carabreg''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Carabreg''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

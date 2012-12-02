@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rodel
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RODEL
- | FULL_NAME_RO = Rodel
- | FULL_NAME_ND_RO=Rodel
- | SORT_NAME_RG=RODEL
- | FULL_NAME_RG=Rodel
- | FULL_NAME_ND_RG=Rodel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Rodel
+| sqi_D_FULL_NAME_RO = Rodel
+| sqi_D_FULL_NAME_ND_RO = Rodel
+| sqi_D_SORT_NAME_RG = RODEL
+| sqi_D_FULL_NAME_RG = Rodel
+| sqi_D_FULL_NAME_ND_RG = Rodel
+| srp_N_name = Rodelj
+| srp_N_FULL_NAME_RO = Rodelj
+| srp_N_FULL_NAME_ND_RO = Rodelj
+| srp_N_SORT_NAME_RG = RODELJ
+| srp_N_FULL_NAME_RG = Rodelj
+| srp_N_FULL_NAME_ND_RG = Rodelj
+| srp_NS_name = Родељ
+| srp_NS_FULL_NAME_RO = Родељ
+| srp_NS_FULL_NAME_ND_RO = Родељ
+| srp_NS_SORT_NAME_RG = РОДЕЉ
+| srp_NS_FULL_NAME_RG = Родељ
+| srp_NS_FULL_NAME_ND_RG = Родељ
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.815278
  | Lartësia            = 
 }}
-'''Rodel''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Rodel''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

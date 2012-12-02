@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Budrigë e Poshtme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BUDRIGEEPOSHTME
- | FULL_NAME_RO = Budrigë e Poshtme
- | FULL_NAME_ND_RO=Budrige e Poshtme
- | SORT_NAME_RG=BUDRIGEEPOSHTME
- | FULL_NAME_RG=Budrigë e Poshtme
- | FULL_NAME_ND_RG=Budrige e Poshtme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Budrigë e Poshtme
+| sqi_D_FULL_NAME_RO = Budrigë e Poshtme
+| sqi_D_FULL_NAME_ND_RO = Budrige e Poshtme
+| sqi_D_SORT_NAME_RG = BUDRIGEEPOSHTME
+| sqi_D_FULL_NAME_RG = Budrigë e Poshtme
+| sqi_D_FULL_NAME_ND_RG = Budrige e Poshtme
+| sqi_V_name = Budrikë e Poshtme
+| sqi_V_FULL_NAME_RO = Budrikë e Poshtme Budriga e Poshtëme Budriga e Sipërme Budriga e Ultë Butrikë e Poshtëme
+| sqi_V_FULL_NAME_ND_RO = Budrike e Poshtme Budriga e Poshteme Budriga e Siperme Budriga e Ulte Butrike e Poshteme
+| sqi_V_SORT_NAME_RG = BUDRIKEEPOSHTME BUDRIGAEPOSHTEME BUDRIGAESIPERME BUDRIGAEULTE BUTRIKEEPOSHTEME
+| sqi_V_FULL_NAME_RG = Budrikë e Poshtme Budriga e Poshtëme Budriga e Sipërme Budriga e Ultë Butrikë e Poshtëme
+| sqi_V_FULL_NAME_ND_RG = Budrike e Poshtme Budriga e Poshteme Budriga e Siperme Budriga e Ulte Butrike e Poshteme
+| srp_N_name = Donja Budriga
+| srp_N_FULL_NAME_RO = Donja Budriga
+| srp_N_FULL_NAME_ND_RO = Donja Budriga
+| srp_N_SORT_NAME_RG = DONJABUDRIGA
+| srp_N_FULL_NAME_RG = Donja Budriga
+| srp_N_FULL_NAME_ND_RG = Donja Budriga
+| srp_NS_name = Доња Будрига
+| srp_NS_FULL_NAME_RO = Доња Будрига
+| srp_NS_FULL_NAME_ND_RO = Доња Будрига
+| srp_NS_SORT_NAME_RG = ДОЊАБУДРИГА
+| srp_NS_FULL_NAME_RG = Доња Будрига
+| srp_NS_FULL_NAME_ND_RG = Доња Будрига
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.455
  | Lartësia            = 
 }}
-'''Budrigë e Poshtme''' është një [[]] në [[]] të [[Kosovës]].
+'''Budrigë e Poshtme''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

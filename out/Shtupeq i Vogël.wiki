@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shtupeq i Vogël
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHTUPEQIVOGEL
- | FULL_NAME_RO = Shtupeq i Vogël
- | FULL_NAME_ND_RO=Shtupeq i Vogel
- | SORT_NAME_RG=SHTUPEQIVOGEL
- | FULL_NAME_RG=Shtupeq i Vogël
- | FULL_NAME_ND_RG=Shtupeq i Vogel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shtupeq i Vogël
+| sqi_N_FULL_NAME_RO = Shtupeq i Vogël
+| sqi_N_FULL_NAME_ND_RO = Shtupeq i Vogel
+| sqi_N_SORT_NAME_RG = SHTUPEQIVOGEL
+| sqi_N_FULL_NAME_RG = Shtupeq i Vogël
+| sqi_N_FULL_NAME_ND_RG = Shtupeq i Vogel
+| sqi_V_name = Shtupeli i Vogël
+| sqi_V_FULL_NAME_RO = Shtupeli i Vogël Shtuqepi i Vogël Shtuqep i Vogël
+| sqi_V_FULL_NAME_ND_RO = Shtupeli i Vogel Shtuqepi i Vogel Shtuqep i Vogel
+| sqi_V_SORT_NAME_RG = SHTUPELIIVOGEL SHTUQEPIIVOGEL SHTUQEPIVOGEL
+| sqi_V_FULL_NAME_RG = Shtupeli i Vogël Shtuqepi i Vogël Shtuqep i Vogël
+| sqi_V_FULL_NAME_ND_RG = Shtupeli i Vogel Shtuqepi i Vogel Shtuqep i Vogel
+| srp_N_name = Mali Štupelj
+| srp_N_FULL_NAME_RO = Mali Štupelj
+| srp_N_FULL_NAME_ND_RO = Mali Stupelj
+| srp_N_SORT_NAME_RG = MALISTUPELJ
+| srp_N_FULL_NAME_RG = Mali Štupelj
+| srp_N_FULL_NAME_ND_RG = Mali Stupelj
+| srp_NS_name = Мали Штупељ
+| srp_NS_FULL_NAME_RO = Мали Штупељ
+| srp_NS_FULL_NAME_ND_RO = Мали Штупељ
+| srp_NS_SORT_NAME_RG = МАЛИШТУПЕЉ
+| srp_NS_FULL_NAME_RG = Мали Штупељ
+| srp_NS_FULL_NAME_ND_RG = Мали Штупељ
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.207222
  | Lartësia            = 
 }}
-'''Shtupeq i Vogël''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Shtupeq i Vogël''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

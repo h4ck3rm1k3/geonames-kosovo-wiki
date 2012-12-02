@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Popovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POPOVE
- | FULL_NAME_RO = Popovë
- | FULL_NAME_ND_RO=Popove
- | SORT_NAME_RG=POPOVE
- | FULL_NAME_RG=Popovë
- | FULL_NAME_ND_RG=Popove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Popovë
+| sqi_N_FULL_NAME_RO = Popovë
+| sqi_N_FULL_NAME_ND_RO = Popove
+| sqi_N_SORT_NAME_RG = POPOVE
+| sqi_N_FULL_NAME_RG = Popovë
+| sqi_N_FULL_NAME_ND_RG = Popove
+| sqi_V_name = Kështjellas
+| sqi_V_FULL_NAME_RO = Kështjellas Kështjellasi Popova
+| sqi_V_FULL_NAME_ND_RO = Keshtjellas Keshtjellasi Popova
+| sqi_V_SORT_NAME_RG = KESHTJELLAS KESHTJELLASI POPOVA
+| sqi_V_FULL_NAME_RG = Kështjellas Kështjellasi Popova
+| sqi_V_FULL_NAME_ND_RG = Keshtjellas Keshtjellasi Popova
+| srp_N_name = Popovo
+| srp_N_FULL_NAME_RO = Popovo
+| srp_N_FULL_NAME_ND_RO = Popovo
+| srp_N_SORT_NAME_RG = POPOVO
+| srp_N_FULL_NAME_RG = Popovo
+| srp_N_FULL_NAME_ND_RG = Popovo
+| srp_NS_name = Попово
+| srp_NS_FULL_NAME_RO = Попово
+| srp_NS_FULL_NAME_ND_RO = Попово
+| srp_NS_SORT_NAME_RG = ПОПОВО
+| srp_NS_FULL_NAME_RG = Попово
+| srp_NS_FULL_NAME_ND_RG = Попово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.088402
  | Lartësia            = 
 }}
-'''Popovë''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Popovë''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

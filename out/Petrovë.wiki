@@ -1,26 +1,34 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Petrovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PETROVE
- | FULL_NAME_RO = Petrovë
- | FULL_NAME_ND_RO=Petrove
- | SORT_NAME_RG=PETROVE
- | FULL_NAME_RG=Petrovë
- | FULL_NAME_ND_RG=Petrove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Petrovë
+| sqi_N_FULL_NAME_RO = Petrovë
+| sqi_N_FULL_NAME_ND_RO = Petrove
+| sqi_N_SORT_NAME_RG = PETROVE
+| sqi_N_FULL_NAME_RG = Petrovë
+| sqi_N_FULL_NAME_ND_RG = Petrove
+| sqi_V_name = Petrovasellë
+| sqi_V_FULL_NAME_RO = Petrovasellë
+| sqi_V_FULL_NAME_ND_RO = Petrovaselle
+| sqi_V_SORT_NAME_RG = PETROVASELLE
+| sqi_V_FULL_NAME_RG = Petrovasellë
+| sqi_V_FULL_NAME_ND_RG = Petrovaselle
+| srp_N_name = Petrovo Selo
+| srp_N_FULL_NAME_RO = Petrovo Selo
+| srp_N_FULL_NAME_ND_RO = Petrovo Selo
+| srp_N_SORT_NAME_RG = PETROVOSELO
+| srp_N_FULL_NAME_RG = Petrovo Selo
+| srp_N_FULL_NAME_ND_RG = Petrovo Selo
+| srp_NS_name = Петрово Село
+| srp_NS_FULL_NAME_RO = Петрово Село
+| srp_NS_FULL_NAME_ND_RO = Петрово Село
+| srp_NS_SORT_NAME_RG = ПЕТРОВОСЕЛО
+| srp_NS_FULL_NAME_RG = Петрово Село
+| srp_NS_FULL_NAME_ND_RG = Петрово Село
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Shtime
+ | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +38,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.406667
- | Gjatësia            = 21.030556
+ | Gjerësia            = 42.245
+ | Gjatësia            = 20.736111
  | Lartësia            = 
 }}
-'''Petrovë''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Petrovë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Shtime}}
+{{Komuna Prizren}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Shtime]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
 [[Kategoria:Vendbanime në Kosovës]]

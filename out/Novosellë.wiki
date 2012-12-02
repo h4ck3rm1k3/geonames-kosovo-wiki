@@ -1,26 +1,28 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Novosellë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NOVOSELLE
- | FULL_NAME_RO = Novosellë
- | FULL_NAME_ND_RO=Novoselle
- | SORT_NAME_RG=NOVOSELLE
- | FULL_NAME_RG=Novosellë
- | FULL_NAME_ND_RG=Novoselle
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Novosellë
+| sqi_N_FULL_NAME_RO = Novosellë
+| sqi_N_FULL_NAME_ND_RO = Novoselle
+| sqi_N_SORT_NAME_RG = NOVOSELLE
+| sqi_N_FULL_NAME_RG = Novosellë
+| sqi_N_FULL_NAME_ND_RG = Novoselle
+| srp_N_name = Novo Selo
+| srp_N_FULL_NAME_RO = Novo Selo
+| srp_N_FULL_NAME_ND_RO = Novo Selo
+| srp_N_SORT_NAME_RG = NOVOSELO
+| srp_N_FULL_NAME_RG = Novo Selo
+| srp_N_FULL_NAME_ND_RG = Novo Selo
+| srp_NS_name = Ново Село
+| srp_NS_FULL_NAME_RO = Ново Село
+| srp_NS_FULL_NAME_ND_RO = Ново Село
+| srp_NS_SORT_NAME_RG = НОВОСЕЛО
+| srp_NS_FULL_NAME_RG = Ново Село
+| srp_NS_FULL_NAME_ND_RG = Ново Село
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Prishtinë
+ | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +32,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.64
- | Gjatësia            = 21.256667
+ | Gjerësia            = 42.386389
+ | Gjatësia            = 21.323056
  | Lartësia            = 
 }}
-'''Novosellë''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Novosellë''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Prishtinë}}
+{{Komuna Viti}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Prishtinë]]
+[[Kategoria:Fshatra në Kommunes Viti]]
 [[Kategoria:Vendbanime në Kosovës]]

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pozharan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POZHARAN
- | FULL_NAME_RO = Pozharan
- | FULL_NAME_ND_RO=Pozharan
- | SORT_NAME_RG=POZHARAN
- | FULL_NAME_RG=Pozharan
- | FULL_NAME_ND_RG=Pozharan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pozharan
+| sqi_N_FULL_NAME_RO = Pozharan
+| sqi_N_FULL_NAME_ND_RO = Pozharan
+| sqi_N_SORT_NAME_RG = POZHARAN
+| sqi_N_FULL_NAME_RG = Pozharan
+| sqi_N_FULL_NAME_ND_RG = Pozharan
+| sqi_V_name = Pozheran
+| sqi_V_FULL_NAME_RO = Pozheran
+| sqi_V_FULL_NAME_ND_RO = Pozheran
+| sqi_V_SORT_NAME_RG = POZHERAN
+| sqi_V_FULL_NAME_RG = Pozheran
+| sqi_V_FULL_NAME_ND_RG = Pozheran
+| srp_N_name = Požaranje
+| srp_N_FULL_NAME_RO = Požaranje
+| srp_N_FULL_NAME_ND_RO = Pozaranje
+| srp_N_SORT_NAME_RG = POZARANJE
+| srp_N_FULL_NAME_RG = Požaranje
+| srp_N_FULL_NAME_ND_RG = Pozaranje
+| srp_NS_name = Пожарање
+| srp_NS_FULL_NAME_RO = Пожарање
+| srp_NS_FULL_NAME_ND_RO = Пожарање
+| srp_NS_SORT_NAME_RG = ПОЖАРАЊЕ
+| srp_NS_FULL_NAME_RG = Пожарање
+| srp_NS_FULL_NAME_ND_RG = Пожарање
+| srp_V_name = Požarane
+| srp_V_FULL_NAME_RO = Požarane
+| srp_V_FULL_NAME_ND_RO = Pozarane
+| srp_V_SORT_NAME_RG = POZARANE
+| srp_V_FULL_NAME_RG = Požarane
+| srp_V_FULL_NAME_ND_RG = Pozarane
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.340278
  | Lartësia            = 
 }}
-'''Pozharan''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Pozharan''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

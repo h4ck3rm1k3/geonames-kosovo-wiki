@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Muhoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MUHOC
- | FULL_NAME_RO = Muhoc
- | FULL_NAME_ND_RO=Muhoc
- | SORT_NAME_RG=MUHOC
- | FULL_NAME_RG=Muhoc
- | FULL_NAME_ND_RG=Muhoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Muhoc
+| sqi_N_FULL_NAME_RO = Muhoc
+| sqi_N_FULL_NAME_ND_RO = Muhoc
+| sqi_N_SORT_NAME_RG = MUHOC
+| sqi_N_FULL_NAME_RG = Muhoc
+| sqi_N_FULL_NAME_ND_RG = Muhoc
+| srp_N_name = Muhovce
+| srp_N_FULL_NAME_RO = Muhovce
+| srp_N_FULL_NAME_ND_RO = Muhovce
+| srp_N_SORT_NAME_RG = MUHOVCE
+| srp_N_FULL_NAME_RG = Muhovce
+| srp_N_FULL_NAME_ND_RG = Muhovce
+| srp_NS_name = Муховце
+| srp_NS_FULL_NAME_RO = Муховце
+| srp_NS_FULL_NAME_ND_RO = Муховце
+| srp_NS_SORT_NAME_RG = МУХОВЦЕ
+| srp_NS_FULL_NAME_RG = Муховце
+| srp_NS_FULL_NAME_ND_RG = Муховце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.150278
  | Lartësia            = 
 }}
-'''Muhoc''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Muhoc''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

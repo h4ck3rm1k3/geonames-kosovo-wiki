@@ -1,26 +1,16 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mazrek
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAZREK
- | FULL_NAME_RO = Mazrek
- | FULL_NAME_ND_RO=Mazrek
- | SORT_NAME_RG=MAZREK
- | FULL_NAME_RG=Mazrek
- | FULL_NAME_ND_RG=Mazrek
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| srp_N_name = Mazrek
+| srp_N_FULL_NAME_RO = Mazrek
+| srp_N_FULL_NAME_ND_RO = Mazrek
+| srp_N_SORT_NAME_RG = MAZREK
+| srp_N_FULL_NAME_RG = Mazrek
+| srp_N_FULL_NAME_ND_RG = Mazrek
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Prizren
+ | Komuna              = Gjilan
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +20,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.234167
- | Gjatësia            = 20.613333
+ | Gjerësia            = 42.376944
+ | Gjatësia            = 20.302222
  | Lartësia            = 
 }}
-'''Mazrek''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Mazrek''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Prizren}}
+{{Komuna Gjilan}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
 [[Kategoria:Vendbanime në Kosovës]]

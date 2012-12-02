@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Joshevik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JOSHEVIK
- | FULL_NAME_RO = Joshevik
- | FULL_NAME_ND_RO=Joshevik
- | SORT_NAME_RG=JOSHEVIK
- | FULL_NAME_RG=Joshevik
- | FULL_NAME_ND_RG=Joshevik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Joshevik
+| sqi_N_FULL_NAME_RO = Joshevik
+| sqi_N_FULL_NAME_ND_RO = Joshevik
+| sqi_N_SORT_NAME_RG = JOSHEVIK
+| sqi_N_FULL_NAME_RG = Joshevik
+| sqi_N_FULL_NAME_ND_RG = Joshevik
+| sqi_V_name = Jeshevnik
+| sqi_V_FULL_NAME_RO = Jeshevnik
+| sqi_V_FULL_NAME_ND_RO = Jeshevnik
+| sqi_V_SORT_NAME_RG = JESHEVNIK
+| sqi_V_FULL_NAME_RG = Jeshevnik
+| sqi_V_FULL_NAME_ND_RG = Jeshevnik
+| srp_N_name = Joševik
+| srp_N_FULL_NAME_RO = Joševik
+| srp_N_FULL_NAME_ND_RO = Josevik
+| srp_N_SORT_NAME_RG = JOSEVIK
+| srp_N_FULL_NAME_RG = Joševik
+| srp_N_FULL_NAME_ND_RG = Josevik
+| srp_NS_name = Јошевик
+| srp_NS_FULL_NAME_RO = Јошевик
+| srp_NS_FULL_NAME_ND_RO = Јошевик
+| srp_NS_SORT_NAME_RG = ЈОШЕВИК
+| srp_NS_FULL_NAME_RG = Јошевик
+| srp_NS_FULL_NAME_ND_RG = Јошевик
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.809722
  | Lartësia            = 
 }}
-'''Joshevik''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Joshevik''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

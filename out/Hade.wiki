@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Hade
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      HADE
- | FULL_NAME_RO = Hade
- | FULL_NAME_ND_RO=Hade
- | SORT_NAME_RG=HADE
- | FULL_NAME_RG=Hade
- | FULL_NAME_ND_RG=Hade
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Hade
+| sqi_N_FULL_NAME_RO = Hade
+| sqi_N_FULL_NAME_ND_RO = Hade
+| sqi_N_SORT_NAME_RG = HADE
+| sqi_N_FULL_NAME_RG = Hade
+| sqi_N_FULL_NAME_ND_RG = Hade
+| srp_N_name = Ade
+| srp_N_FULL_NAME_RO = Ade
+| srp_N_FULL_NAME_ND_RO = Ade
+| srp_N_SORT_NAME_RG = ADE
+| srp_N_FULL_NAME_RG = Ade
+| srp_N_FULL_NAME_ND_RG = Ade
+| srp_NS_name = Аде
+| srp_NS_FULL_NAME_RO = Аде
+| srp_NS_FULL_NAME_ND_RO = Аде
+| srp_NS_SORT_NAME_RG = АДЕ
+| srp_NS_FULL_NAME_RG = Аде
+| srp_NS_FULL_NAME_ND_RG = Аде
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.032979
  | Lartësia            = 
 }}
-'''Hade''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Hade''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

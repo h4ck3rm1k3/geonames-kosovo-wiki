@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llanishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLANISHTE
- | FULL_NAME_RO = Llanishtë
- | FULL_NAME_ND_RO=Llanishte
- | SORT_NAME_RG=LLANISHTE
- | FULL_NAME_RG=Llanishtë
- | FULL_NAME_ND_RG=Llanishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Llanishtë
+| sqi_N_FULL_NAME_RO = Llanishtë
+| sqi_N_FULL_NAME_ND_RO = Llanishte
+| sqi_N_SORT_NAME_RG = LLANISHTE
+| sqi_N_FULL_NAME_RG = Llanishtë
+| sqi_N_FULL_NAME_ND_RG = Llanishte
+| sqi_V_name = Llanishte
+| sqi_V_FULL_NAME_RO = Llanishte Lanishtë
+| sqi_V_FULL_NAME_ND_RO = Llanishte Lanishte
+| sqi_V_SORT_NAME_RG = LLANISHTE LANISHTE
+| sqi_V_FULL_NAME_RG = Llanishte Lanishtë
+| sqi_V_FULL_NAME_ND_RG = Llanishte Lanishte
+| srp_N_name = Lanište
+| srp_N_FULL_NAME_RO = Lanište
+| srp_N_FULL_NAME_ND_RO = Laniste
+| srp_N_SORT_NAME_RG = LANISTE
+| srp_N_FULL_NAME_RG = Lanište
+| srp_N_FULL_NAME_ND_RG = Laniste
+| srp_NS_name = Ланиште
+| srp_NS_FULL_NAME_RO = Ланиште
+| srp_NS_FULL_NAME_ND_RO = Ланиште
+| srp_NS_SORT_NAME_RG = ЛАНИШТЕ
+| srp_NS_FULL_NAME_RG = Ланиште
+| srp_NS_FULL_NAME_ND_RG = Ланиште
+| srp_V_name = Lanjište
+| srp_V_FULL_NAME_RO = Lanjište
+| srp_V_FULL_NAME_ND_RO = Lanjiste
+| srp_V_SORT_NAME_RG = LANJISTE
+| srp_V_FULL_NAME_RG = Lanjište
+| srp_V_FULL_NAME_ND_RG = Lanjiste
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.946111
  | Lartësia            = 
 }}
-'''Llanishtë''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Llanishtë''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

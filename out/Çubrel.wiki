@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Çubrel
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CUBREL
- | FULL_NAME_RO = Çubrel
- | FULL_NAME_ND_RO=Cubrel
- | SORT_NAME_RG=CUBREL
- | FULL_NAME_RG=Çubrel
- | FULL_NAME_ND_RG=Cubrel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Çubrel
+| sqi_N_FULL_NAME_RO = Çubrel
+| sqi_N_FULL_NAME_ND_RO = Cubrel
+| sqi_N_SORT_NAME_RG = CUBREL
+| sqi_N_FULL_NAME_RG = Çubrel
+| sqi_N_FULL_NAME_ND_RG = Cubrel
+| srp_N_name = Čubrelj
+| srp_N_FULL_NAME_RO = Čubrelj
+| srp_N_FULL_NAME_ND_RO = Cubrelj
+| srp_N_SORT_NAME_RG = CUBRELJ
+| srp_N_FULL_NAME_RG = Čubrelj
+| srp_N_FULL_NAME_ND_RG = Cubrelj
+| srp_NS_name = Чубрељ
+| srp_NS_FULL_NAME_RO = Чубрељ
+| srp_NS_FULL_NAME_ND_RO = Чубрељ
+| srp_NS_SORT_NAME_RG = ЧУБРЕЉ
+| srp_NS_FULL_NAME_RG = Чубрељ
+| srp_NS_FULL_NAME_ND_RG = Чубрељ
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.739722
  | Lartësia            = 
 }}
-'''Çubrel''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Çubrel''' është një [[Fshat Vogel]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

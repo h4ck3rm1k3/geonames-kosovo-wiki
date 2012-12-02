@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Grabovci i Poshtëm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GRABOVCIIPOSHTEM
- | FULL_NAME_RO = Grabovci i Poshtëm
- | FULL_NAME_ND_RO=Grabovci i Poshtem
- | SORT_NAME_RG=GRABOVCIIPOSHTEM
- | FULL_NAME_RG=Grabovci i Poshtëm
- | FULL_NAME_ND_RG=Grabovci i Poshtem
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Grabovci i Poshtëm
+| sqi_N_FULL_NAME_RO = Grabovci i Poshtëm
+| sqi_N_FULL_NAME_ND_RO = Grabovci i Poshtem
+| sqi_N_SORT_NAME_RG = GRABOVCIIPOSHTEM
+| sqi_N_FULL_NAME_RG = Grabovci i Poshtëm
+| sqi_N_FULL_NAME_ND_RG = Grabovci i Poshtem
+| sqi_V_name = Gurshkabë
+| sqi_V_FULL_NAME_RO = Gurshkabë Gurshkaba Graboc i Poshtëm Grabovci i Ultë
+| sqi_V_FULL_NAME_ND_RO = Gurshkabe Gurshkaba Graboc i Poshtem Grabovci i Ulte
+| sqi_V_SORT_NAME_RG = GURSHKABE GURSHKABA GRABOCIPOSHTEM GRABOVCIIULTE
+| sqi_V_FULL_NAME_RG = Gurshkabë Gurshkaba Graboc i Poshtëm Grabovci i Ultë
+| sqi_V_FULL_NAME_ND_RG = Gurshkabe Gurshkaba Graboc i Poshtem Grabovci i Ulte
+| srp_N_name = Donji Grabovac
+| srp_N_FULL_NAME_RO = Donji Grabovac
+| srp_N_FULL_NAME_ND_RO = Donji Grabovac
+| srp_N_SORT_NAME_RG = DONJIGRABOVAC
+| srp_N_FULL_NAME_RG = Donji Grabovac
+| srp_N_FULL_NAME_ND_RG = Donji Grabovac
+| srp_NS_name = Доњи Грабовац
+| srp_NS_FULL_NAME_RO = Доњи Грабовац
+| srp_NS_FULL_NAME_ND_RO = Доњи Грабовац
+| srp_NS_SORT_NAME_RG = ДОЊИГРАБОВАЦ
+| srp_NS_FULL_NAME_RG = Доњи Грабовац
+| srp_NS_FULL_NAME_ND_RG = Доњи Грабовац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.010294
  | Lartësia            = 
 }}
-'''Grabovci i Poshtëm''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
+'''Grabovci i Poshtëm''' është një [[Fshat]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

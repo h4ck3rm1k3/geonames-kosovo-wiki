@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Greme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GREME
- | FULL_NAME_RO = Greme
- | FULL_NAME_ND_RO=Greme
- | SORT_NAME_RG=GREME
- | FULL_NAME_RG=Greme
- | FULL_NAME_ND_RG=Greme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Greme
+| sqi_N_FULL_NAME_RO = Greme
+| sqi_N_FULL_NAME_ND_RO = Greme
+| sqi_N_SORT_NAME_RG = GREME
+| sqi_N_FULL_NAME_RG = Greme
+| sqi_N_FULL_NAME_ND_RG = Greme
+| sqi_V_name = Gremë
+| sqi_V_FULL_NAME_RO = Gremë
+| sqi_V_FULL_NAME_ND_RO = Greme
+| sqi_V_SORT_NAME_RG = GREME
+| sqi_V_FULL_NAME_RG = Gremë
+| sqi_V_FULL_NAME_ND_RG = Greme
+| srp_N_name = Grebno
+| srp_N_FULL_NAME_RO = Grebno
+| srp_N_FULL_NAME_ND_RO = Grebno
+| srp_N_SORT_NAME_RG = GREBNO
+| srp_N_FULL_NAME_RG = Grebno
+| srp_N_FULL_NAME_ND_RG = Grebno
+| srp_NS_name = Гребно
+| srp_NS_FULL_NAME_RO = Гребно
+| srp_NS_FULL_NAME_ND_RO = Гребно
+| srp_NS_SORT_NAME_RG = ГРЕБНО
+| srp_NS_FULL_NAME_RG = Гребно
+| srp_NS_FULL_NAME_ND_RG = Гребно
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.157222
  | Lartësia            = 
 }}
-'''Greme''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Greme''' është një [[Fshat Vogel]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

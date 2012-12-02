@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rimanishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RIMANISHTE
- | FULL_NAME_RO = Rimanishtë
- | FULL_NAME_ND_RO=Rimanishte
- | SORT_NAME_RG=RIMANISHTE
- | FULL_NAME_RG=Rimanishtë
- | FULL_NAME_ND_RG=Rimanishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rimanishtë
+| sqi_N_FULL_NAME_RO = Rimanishtë
+| sqi_N_FULL_NAME_ND_RO = Rimanishte
+| sqi_N_SORT_NAME_RG = RIMANISHTE
+| sqi_N_FULL_NAME_RG = Rimanishtë
+| sqi_N_FULL_NAME_ND_RG = Rimanishte
+| srp_N_name = Rimanište
+| srp_N_FULL_NAME_RO = Rimanište
+| srp_N_FULL_NAME_ND_RO = Rimaniste
+| srp_N_SORT_NAME_RG = RIMANISTE
+| srp_N_FULL_NAME_RG = Rimanište
+| srp_N_FULL_NAME_ND_RG = Rimaniste
+| srp_NS_name = Риманиште
+| srp_NS_FULL_NAME_RO = Риманиште
+| srp_NS_FULL_NAME_ND_RO = Риманиште
+| srp_NS_SORT_NAME_RG = РИМАНИШТЕ
+| srp_NS_FULL_NAME_RG = Риманиште
+| srp_NS_FULL_NAME_ND_RG = Риманиште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.198333
  | Lartësia            = 
 }}
-'''Rimanishtë''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Rimanishtë''' është një [[Fshat Vogel]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

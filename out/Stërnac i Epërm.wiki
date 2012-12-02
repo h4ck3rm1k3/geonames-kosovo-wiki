@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stërnac i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STERNACIEPERM
- | FULL_NAME_RO = Stërnac i Epërm
- | FULL_NAME_ND_RO=Sternac i Eperm
- | SORT_NAME_RG=STERNACIEPERM
- | FULL_NAME_RG=Stërnac i Epërm
- | FULL_NAME_ND_RG=Sternac i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Stërnac i Epërm
+| sqi_N_FULL_NAME_RO = Stërnac i Epërm
+| sqi_N_FULL_NAME_ND_RO = Sternac i Eperm
+| sqi_N_SORT_NAME_RG = STERNACIEPERM
+| sqi_N_FULL_NAME_RG = Stërnac i Epërm
+| sqi_N_FULL_NAME_ND_RG = Sternac i Eperm
+| sqi_V_name = Stramci i Epërm
+| sqi_V_FULL_NAME_RO = Stramci i Epërm Sternac i Epërm
+| sqi_V_FULL_NAME_ND_RO = Stramci i Eperm Sternac i Eperm
+| sqi_V_SORT_NAME_RG = STRAMCIIEPERM STERNACIEPERM
+| sqi_V_FULL_NAME_RG = Stramci i Epërm Sternac i Epërm
+| sqi_V_FULL_NAME_ND_RG = Stramci i Eperm Sternac i Eperm
+| srp_N_name = Gornji Strmac
+| srp_N_FULL_NAME_RO = Gornji Strmac
+| srp_N_FULL_NAME_ND_RO = Gornji Strmac
+| srp_N_SORT_NAME_RG = GORNJISTRMAC
+| srp_N_FULL_NAME_RG = Gornji Strmac
+| srp_N_FULL_NAME_ND_RG = Gornji Strmac
+| srp_NS_name = Горњи Стрмац
+| srp_NS_FULL_NAME_RO = Горњи Стрмац
+| srp_NS_FULL_NAME_ND_RO = Горњи Стрмац
+| srp_NS_SORT_NAME_RG = ГОРЊИСТРМАЦ
+| srp_NS_FULL_NAME_RG = Горњи Стрмац
+| srp_NS_FULL_NAME_ND_RG = Горњи Стрмац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.723611
  | Lartësia            = 
 }}
-'''Stërnac i Epërm''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Stërnac i Epërm''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

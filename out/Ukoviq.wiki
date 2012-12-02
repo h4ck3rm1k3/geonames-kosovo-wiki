@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ukoviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      UKOVIQ
- | FULL_NAME_RO = Ukoviq
- | FULL_NAME_ND_RO=Ukoviq
- | SORT_NAME_RG=UKOVIQ
- | FULL_NAME_RG=Ukoviq
- | FULL_NAME_ND_RG=Ukoviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Ukoviq
+| sqi_D_FULL_NAME_RO = Ukoviq
+| sqi_D_FULL_NAME_ND_RO = Ukoviq
+| sqi_D_SORT_NAME_RG = UKOVIQ
+| sqi_D_FULL_NAME_RG = Ukoviq
+| sqi_D_FULL_NAME_ND_RG = Ukoviq
+| srp_N_name = Ukovići
+| srp_N_FULL_NAME_RO = Ukovići
+| srp_N_FULL_NAME_ND_RO = Ukovici
+| srp_N_SORT_NAME_RG = UKOVICI
+| srp_N_FULL_NAME_RG = Ukovići
+| srp_N_FULL_NAME_ND_RG = Ukovici
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 21.214426
  | Lartësia            = 
 }}
-'''Ukoviq''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Ukoviq''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

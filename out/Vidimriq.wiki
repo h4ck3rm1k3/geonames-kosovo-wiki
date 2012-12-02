@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vidimriq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VIDIMRIQ
- | FULL_NAME_RO = Vidimriq
- | FULL_NAME_ND_RO=Vidimriq
- | SORT_NAME_RG=VIDIMRIQ
- | FULL_NAME_RG=Vidimriq
- | FULL_NAME_ND_RG=Vidimriq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vidimriq
+| sqi_N_FULL_NAME_RO = Vidimriq
+| sqi_N_FULL_NAME_ND_RO = Vidimriq
+| sqi_N_SORT_NAME_RG = VIDIMRIQ
+| sqi_N_FULL_NAME_RG = Vidimriq
+| sqi_N_FULL_NAME_ND_RG = Vidimriq
+| sqi_V_name = Vidomiriq
+| sqi_V_FULL_NAME_RO = Vidomiriq Vitmoriq
+| sqi_V_FULL_NAME_ND_RO = Vidomiriq Vitmoriq
+| sqi_V_SORT_NAME_RG = VIDOMIRIQ VITMORIQ
+| sqi_V_FULL_NAME_RG = Vidomiriq Vitmoriq
+| sqi_V_FULL_NAME_ND_RG = Vidomiriq Vitmoriq
+| srp_N_name = Vidomirić
+| srp_N_FULL_NAME_RO = Vidomirić
+| srp_N_FULL_NAME_ND_RO = Vidomiric
+| srp_N_SORT_NAME_RG = VIDOMIRIC
+| srp_N_FULL_NAME_RG = Vidomirić
+| srp_N_FULL_NAME_ND_RG = Vidomiric
+| srp_NS_name = Видомирић
+| srp_NS_FULL_NAME_RO = Видомирић
+| srp_NS_FULL_NAME_ND_RO = Видомирић
+| srp_NS_SORT_NAME_RG = ВИДОМИРИЋ
+| srp_NS_FULL_NAME_RG = Видомирић
+| srp_NS_FULL_NAME_ND_RG = Видомирић
+| srp_V_name = Vidomiriće
+| srp_V_FULL_NAME_RO = Vidomiriće
+| srp_V_FULL_NAME_ND_RO = Vidomirice
+| srp_V_SORT_NAME_RG = VIDOMIRICE
+| srp_V_FULL_NAME_RG = Vidomiriće
+| srp_V_FULL_NAME_ND_RG = Vidomirice
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.809722
  | Lartësia            = 
 }}
-'''Vidimriq''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Vidimriq''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

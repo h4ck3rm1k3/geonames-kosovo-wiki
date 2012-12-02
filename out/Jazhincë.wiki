@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Jazhincë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JAZHINCE
- | FULL_NAME_RO = Jazhincë
- | FULL_NAME_ND_RO=Jazhince
- | SORT_NAME_RG=JAZHINCE
- | FULL_NAME_RG=Jazhincë
- | FULL_NAME_ND_RG=Jazhince
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Jazhincë
+| sqi_N_FULL_NAME_RO = Jazhincë
+| sqi_N_FULL_NAME_ND_RO = Jazhince
+| sqi_N_SORT_NAME_RG = JAZHINCE
+| sqi_N_FULL_NAME_RG = Jazhincë
+| sqi_N_FULL_NAME_ND_RG = Jazhince
+| sqi_V_name = Jazhicë
+| sqi_V_FULL_NAME_RO = Jazhicë Jazhince
+| sqi_V_FULL_NAME_ND_RO = Jazhice Jazhince
+| sqi_V_SORT_NAME_RG = JAZHICE JAZHINCE
+| sqi_V_FULL_NAME_RG = Jazhicë Jazhince
+| sqi_V_FULL_NAME_ND_RG = Jazhice Jazhince
+| srp_N_name = Jažince
+| srp_N_FULL_NAME_RO = Jažince
+| srp_N_FULL_NAME_ND_RO = Jazince
+| srp_N_SORT_NAME_RG = JAZINCE
+| srp_N_FULL_NAME_RG = Jažince
+| srp_N_FULL_NAME_ND_RG = Jazince
+| srp_NS_name = Јажинце
+| srp_NS_FULL_NAME_RO = Јажинце
+| srp_NS_FULL_NAME_ND_RO = Јажинце
+| srp_NS_SORT_NAME_RG = ЈАЖИНЦЕ
+| srp_NS_FULL_NAME_RG = Јажинце
+| srp_NS_FULL_NAME_ND_RG = Јажинце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.988611
  | Lartësia            = 
 }}
-'''Jazhincë''' është një [[]] në [[Shtërpcë]] të [[Kosovës]].
+'''Jazhincë''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

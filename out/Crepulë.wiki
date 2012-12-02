@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Crepulë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CREPULE
- | FULL_NAME_RO = Crepulë
- | FULL_NAME_ND_RO=Crepule
- | SORT_NAME_RG=CREPULE
- | FULL_NAME_RG=Crepulë
- | FULL_NAME_ND_RG=Crepule
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Crepulë
+| sqi_N_FULL_NAME_RO = Crepulë
+| sqi_N_FULL_NAME_ND_RO = Crepule
+| sqi_N_SORT_NAME_RG = CREPULE
+| sqi_N_FULL_NAME_RG = Crepulë
+| sqi_N_FULL_NAME_ND_RG = Crepule
+| sqi_V_name = Cropulë
+| sqi_V_FULL_NAME_RO = Cropulë
+| sqi_V_FULL_NAME_ND_RO = Cropule
+| sqi_V_SORT_NAME_RG = CROPULE
+| sqi_V_FULL_NAME_RG = Cropulë
+| sqi_V_FULL_NAME_ND_RG = Cropule
+| srp_N_name = Crepulja
+| srp_N_FULL_NAME_RO = Crepulja
+| srp_N_FULL_NAME_ND_RO = Crepulja
+| srp_N_SORT_NAME_RG = CREPULJA
+| srp_N_FULL_NAME_RG = Crepulja
+| srp_N_FULL_NAME_ND_RG = Crepulja
+| srp_NS_name = Црепуља
+| srp_NS_FULL_NAME_RO = Црепуља
+| srp_NS_FULL_NAME_ND_RO = Црепуља
+| srp_NS_SORT_NAME_RG = ЦРЕПУЉА
+| srp_NS_FULL_NAME_RG = Црепуља
+| srp_NS_FULL_NAME_ND_RG = Црепуља
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.677778
  | Lartësia            = 
 }}
-'''Crepulë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Crepulë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

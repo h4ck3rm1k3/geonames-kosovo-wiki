@@ -1,26 +1,40 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bellopojë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BELLOPOJE
- | FULL_NAME_RO = Bellopojë
- | FULL_NAME_ND_RO=Bellopoje
- | SORT_NAME_RG=BELLOPOJE
- | FULL_NAME_RG=Bellopojë
- | FULL_NAME_ND_RG=Bellopoje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bellopojë
+| sqi_N_FULL_NAME_RO = Bellopojë
+| sqi_N_FULL_NAME_ND_RO = Bellopoje
+| sqi_N_SORT_NAME_RG = BELLOPOJE
+| sqi_N_FULL_NAME_RG = Bellopojë
+| sqi_N_FULL_NAME_ND_RG = Bellopoje
+| sqi_V_name = Bellopoja
+| sqi_V_FULL_NAME_RO = Bellopoja Bellopole Rranza
+| sqi_V_FULL_NAME_ND_RO = Bellopoja Bellopole Rranza
+| sqi_V_SORT_NAME_RG = BELLOPOJA BELLOPOLE RRANZA
+| sqi_V_FULL_NAME_RG = Bellopoja Bellopole Rranza
+| sqi_V_FULL_NAME_ND_RG = Bellopoja Bellopole Rranza
+| srp_N_name = Belo Polje
+| srp_N_FULL_NAME_RO = Belo Polje
+| srp_N_FULL_NAME_ND_RO = Belo Polje
+| srp_N_SORT_NAME_RG = BELOPOLJE
+| srp_N_FULL_NAME_RG = Belo Polje
+| srp_N_FULL_NAME_ND_RG = Belo Polje
+| srp_NS_name = Бело Поље
+| srp_NS_FULL_NAME_RO = Бело Поље
+| srp_NS_FULL_NAME_ND_RO = Бело Поље
+| srp_NS_SORT_NAME_RG = БЕЛОПОЉЕ
+| srp_NS_FULL_NAME_RG = Бело Поље
+| srp_NS_FULL_NAME_ND_RG = Бело Поље
+| srp_V_name = Bjelo Polje
+| srp_V_FULL_NAME_RO = Bjelo Polje
+| srp_V_FULL_NAME_ND_RO = Bjelo Polje
+| srp_V_SORT_NAME_RG = BJELOPOLJE
+| srp_V_FULL_NAME_RG = Bjelo Polje
+| srp_V_FULL_NAME_ND_RG = Bjelo Polje
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Kamenicë
+ | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +44,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.773889
- | Gjatësia            = 20.565556
+ | Gjerësia            = 42.641111
+ | Gjatësia            = 20.285556
  | Lartësia            = 
 }}
-'''Bellopojë''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Bellopojë''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Kamenicë}}
+{{Komuna Pejë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Kamenicë]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
 [[Kategoria:Vendbanime në Kosovës]]

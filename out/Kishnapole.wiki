@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kishnapole
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KISHNAPOLE
- | FULL_NAME_RO = Kishnapole
- | FULL_NAME_ND_RO=Kishnapole
- | SORT_NAME_RG=KISHNAPOLE
- | FULL_NAME_RG=Kishnapole
- | FULL_NAME_ND_RG=Kishnapole
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Kishnapole
+| sqi_D_FULL_NAME_RO = Kishnapole
+| sqi_D_FULL_NAME_ND_RO = Kishnapole
+| sqi_D_SORT_NAME_RG = KISHNAPOLE
+| sqi_D_FULL_NAME_RG = Kishnapole
+| sqi_D_FULL_NAME_ND_RG = Kishnapole
+| sqi_V_name = Kishnapolë
+| sqi_V_FULL_NAME_RO = Kishnapolë
+| sqi_V_FULL_NAME_ND_RO = Kishnapole
+| sqi_V_SORT_NAME_RG = KISHNAPOLE
+| sqi_V_FULL_NAME_RG = Kishnapolë
+| sqi_V_FULL_NAME_ND_RG = Kishnapole
+| srp_N_name = Kišno Polje
+| srp_N_FULL_NAME_RO = Kišno Polje
+| srp_N_FULL_NAME_ND_RO = Kisno Polje
+| srp_N_SORT_NAME_RG = KISNOPOLJE
+| srp_N_FULL_NAME_RG = Kišno Polje
+| srp_N_FULL_NAME_ND_RG = Kisno Polje
+| srp_NS_name = Кишно Поље
+| srp_NS_FULL_NAME_RO = Кишно Поље
+| srp_NS_FULL_NAME_ND_RO = Кишно Поље
+| srp_NS_SORT_NAME_RG = КИШНОПОЉЕ
+| srp_NS_FULL_NAME_RG = Кишно Поље
+| srp_NS_FULL_NAME_ND_RG = Кишно Поље
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.301667
  | Lartësia            = 
 }}
-'''Kishnapole''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Kishnapole''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

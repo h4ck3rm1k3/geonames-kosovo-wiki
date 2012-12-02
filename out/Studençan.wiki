@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Studençan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STUDENCAN
- | FULL_NAME_RO = Studençan
- | FULL_NAME_ND_RO=Studencan
- | SORT_NAME_RG=STUDENCAN
- | FULL_NAME_RG=Studençan
- | FULL_NAME_ND_RG=Studencan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Studençan
+| sqi_N_FULL_NAME_RO = Studençan
+| sqi_N_FULL_NAME_ND_RO = Studencan
+| sqi_N_SORT_NAME_RG = STUDENCAN
+| sqi_N_FULL_NAME_RG = Studençan
+| sqi_N_FULL_NAME_ND_RG = Studencan
+| sqi_V_name = Strudeçane
+| sqi_V_FULL_NAME_RO = Strudeçane Studenqan
+| sqi_V_FULL_NAME_ND_RO = Strudecane Studenqan
+| sqi_V_SORT_NAME_RG = STRUDECANE STUDENQAN
+| sqi_V_FULL_NAME_RG = Strudeçane Studenqan
+| sqi_V_FULL_NAME_ND_RG = Strudecane Studenqan
+| srp_N_name = Studenčane
+| srp_N_FULL_NAME_RO = Studenčane
+| srp_N_FULL_NAME_ND_RO = Studencane
+| srp_N_SORT_NAME_RG = STUDENCANE
+| srp_N_FULL_NAME_RG = Studenčane
+| srp_N_FULL_NAME_ND_RG = Studencane
+| srp_NS_name = Студенчане
+| srp_NS_FULL_NAME_RO = Студенчане
+| srp_NS_FULL_NAME_ND_RO = Студенчане
+| srp_NS_SORT_NAME_RG = СТУДЕНЧАНЕ
+| srp_NS_FULL_NAME_RG = Студенчане
+| srp_NS_FULL_NAME_ND_RG = Студенчане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.758611
  | Lartësia            = 
 }}
-'''Studençan''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Studençan''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

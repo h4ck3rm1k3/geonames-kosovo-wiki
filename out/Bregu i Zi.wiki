@@ -1,26 +1,34 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bregu i Zi
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      Bregu
- | NAME_SORT_NAME_RO=      BREGUIZI
- | FULL_NAME_RO = Bregu i Zi
- | FULL_NAME_ND_RO=Bregu i Zi
- | SORT_NAME_RG=ZI BREGUI
- | FULL_NAME_RG=Zi, Bregu i
- | FULL_NAME_ND_RG=Zi, Bregu i
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Bregu i Zi
+| sqi_D_FULL_NAME_RO = Bregu i Zi
+| sqi_D_FULL_NAME_ND_RO = Bregu i Zi
+| sqi_D_SORT_NAME_RG = BREGUIZI
+| sqi_D_FULL_NAME_RG = Bregu i Zi
+| sqi_D_FULL_NAME_ND_RG = Bregu i Zi
+| sqi_V_name = Cerovërha
+| sqi_V_FULL_NAME_RO = Cerovërha Cërovërhi Cerovërhë Breg i Zi Carravrr
+| sqi_V_FULL_NAME_ND_RO = Ceroverha Ceroverhi Ceroverhe Breg i Zi Carravrr
+| sqi_V_SORT_NAME_RG = CEROVERHA CEROVERHI CEROVERHE BREGIZI CARRAVRR
+| sqi_V_FULL_NAME_RG = Cerovërha Cërovërhi Cerovërhë Breg i Zi Carravrr
+| sqi_V_FULL_NAME_ND_RG = Ceroverha Ceroverhi Ceroverhe Breg i Zi Carravrr
+| srp_N_name = Crni Vrh
+| srp_N_FULL_NAME_RO = Crni Vrh
+| srp_N_FULL_NAME_ND_RO = Crni Vrh
+| srp_N_SORT_NAME_RG = CRNIVRH
+| srp_N_FULL_NAME_RG = Crni Vrh
+| srp_N_FULL_NAME_ND_RG = Crni Vrh
+| srp_NS_name = Црни Врх
+| srp_NS_FULL_NAME_RO = Црни Врх
+| srp_NS_FULL_NAME_ND_RO = Црни Врх
+| srp_NS_SORT_NAME_RG = ЦРНИВРХ
+| srp_NS_FULL_NAME_RG = Црни Врх
+| srp_NS_FULL_NAME_ND_RG = Црни Врх
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Vushtrri
+ | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +38,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.886598
- | Gjatësia            = 21.010194
+ | Gjerësia            = 42.678333
+ | Gjatësia            = 20.277778
  | Lartësia            = 
 }}
-'''Bregu i Zi''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Bregu i Zi''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Vushtrri}}
+{{Komuna Pejë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
 [[Kategoria:Vendbanime në Kosovës]]

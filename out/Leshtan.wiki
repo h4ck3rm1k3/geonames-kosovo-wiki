@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Leshtan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LESHTAN
- | FULL_NAME_RO = Leshtan
- | FULL_NAME_ND_RO=Leshtan
- | SORT_NAME_RG=LESHTAN
- | FULL_NAME_RG=Leshtan
- | FULL_NAME_ND_RG=Leshtan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Leshtan
+| sqi_N_FULL_NAME_RO = Leshtan
+| sqi_N_FULL_NAME_ND_RO = Leshtan
+| sqi_N_SORT_NAME_RG = LESHTAN
+| sqi_N_FULL_NAME_RG = Leshtan
+| sqi_N_FULL_NAME_ND_RG = Leshtan
+| sqi_V_name = Lleshtan
+| sqi_V_FULL_NAME_RO = Lleshtan Leshtan Leshtane Leshtani
+| sqi_V_FULL_NAME_ND_RO = Lleshtan Leshtan Leshtane Leshtani
+| sqi_V_SORT_NAME_RG = LLESHTAN LESHTAN LESHTANE LESHTANI
+| sqi_V_FULL_NAME_RG = Lleshtan Leshtan Leshtane Leshtani
+| sqi_V_FULL_NAME_ND_RG = Lleshtan Leshtan Leshtane Leshtani
+| srp_N_name = Leštane
+| srp_N_FULL_NAME_RO = Leštane
+| srp_N_FULL_NAME_ND_RO = Lestane
+| srp_N_SORT_NAME_RG = LESTANE
+| srp_N_FULL_NAME_RG = Leštane
+| srp_N_FULL_NAME_ND_RG = Lestane
+| srp_NS_name = Лештане
+| srp_NS_FULL_NAME_RO = Лештане
+| srp_NS_FULL_NAME_ND_RO = Лештане
+| srp_NS_SORT_NAME_RG = ЛЕШТАНЕ
+| srp_NS_FULL_NAME_RG = Лештане
+| srp_NS_FULL_NAME_ND_RG = Лештане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.684722
  | Lartësia            = 
 }}
-'''Leshtan''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Leshtan''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

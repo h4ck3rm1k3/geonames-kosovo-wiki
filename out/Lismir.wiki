@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lismir
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LISMIR
- | FULL_NAME_RO = Lismir
- | FULL_NAME_ND_RO=Lismir
- | SORT_NAME_RG=LISMIR
- | FULL_NAME_RG=Lismir
- | FULL_NAME_ND_RG=Lismir
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lismir
+| sqi_N_FULL_NAME_RO = Lismir
+| sqi_N_FULL_NAME_ND_RO = Lismir
+| sqi_N_SORT_NAME_RG = LISMIR
+| sqi_N_FULL_NAME_RG = Lismir
+| sqi_N_FULL_NAME_ND_RG = Lismir
+| sqi_V_name = Dobër Dub
+| sqi_V_FULL_NAME_RO = Dobër Dub Dobër Dup Dobërdupi Lismiri
+| sqi_V_FULL_NAME_ND_RO = Dober Dub Dober Dup Doberdupi Lismiri
+| sqi_V_SORT_NAME_RG = DOBERDUB DOBERDUP DOBERDUPI LISMIRI
+| sqi_V_FULL_NAME_RG = Dobër Dub Dobër Dup Dobërdupi Lismiri
+| sqi_V_FULL_NAME_ND_RG = Dober Dub Dober Dup Doberdupi Lismiri
+| srp_N_name = Dobri Dub
+| srp_N_FULL_NAME_RO = Dobri Dub
+| srp_N_FULL_NAME_ND_RO = Dobri Dub
+| srp_N_SORT_NAME_RG = DOBRIDUB
+| srp_N_FULL_NAME_RG = Dobri Dub
+| srp_N_FULL_NAME_ND_RG = Dobri Dub
+| srp_NS_name = Добри Дуб
+| srp_NS_FULL_NAME_RO = Добри Дуб
+| srp_NS_FULL_NAME_ND_RO = Добри Дуб
+| srp_NS_SORT_NAME_RG = ДОБРИДУБ
+| srp_NS_FULL_NAME_RG = Добри Дуб
+| srp_NS_FULL_NAME_ND_RG = Добри Дуб
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.061976
  | Lartësia            = 
 }}
-'''Lismir''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
+'''Lismir''' është një [[Fshat]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

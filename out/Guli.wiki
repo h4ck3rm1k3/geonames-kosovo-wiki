@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Guli
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GULI
- | FULL_NAME_RO = Guli
- | FULL_NAME_ND_RO=Guli
- | SORT_NAME_RG=GULI
- | FULL_NAME_RG=Guli
- | FULL_NAME_ND_RG=Guli
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Guli
+| sqi_D_FULL_NAME_RO = Guli
+| sqi_D_FULL_NAME_ND_RO = Guli
+| sqi_D_SORT_NAME_RG = GULI
+| sqi_D_FULL_NAME_RG = Guli
+| sqi_D_FULL_NAME_ND_RG = Guli
+| srp_N_name = Gulije
+| srp_N_FULL_NAME_RO = Gulije
+| srp_N_FULL_NAME_ND_RO = Gulije
+| srp_N_SORT_NAME_RG = GULIJE
+| srp_N_FULL_NAME_RG = Gulije
+| srp_N_FULL_NAME_ND_RG = Gulije
+| srp_NS_name = Гулије
+| srp_NS_FULL_NAME_RO = Гулије
+| srp_NS_FULL_NAME_ND_RO = Гулије
+| srp_NS_SORT_NAME_RG = ГУЛИЈЕ
+| srp_NS_FULL_NAME_RG = Гулије
+| srp_NS_FULL_NAME_ND_RG = Гулије
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.718889
  | Lartësia            = 
 }}
-'''Guli''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Guli''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

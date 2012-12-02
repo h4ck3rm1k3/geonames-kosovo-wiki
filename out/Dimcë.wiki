@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dimcë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DIMCE
- | FULL_NAME_RO = Dimcë
- | FULL_NAME_ND_RO=Dimce
- | SORT_NAME_RG=DIMCE
- | FULL_NAME_RG=Dimcë
- | FULL_NAME_ND_RG=Dimce
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dimcë
+| sqi_N_FULL_NAME_RO = Dimcë
+| sqi_N_FULL_NAME_ND_RO = Dimce
+| sqi_N_SORT_NAME_RG = DIMCE
+| sqi_N_FULL_NAME_RG = Dimcë
+| sqi_N_FULL_NAME_ND_RG = Dimce
+| srp_N_name = Dimce
+| srp_N_FULL_NAME_RO = Dimce
+| srp_N_FULL_NAME_ND_RO = Dimce
+| srp_N_SORT_NAME_RG = DIMCE
+| srp_N_FULL_NAME_RG = Dimce
+| srp_N_FULL_NAME_ND_RG = Dimce
+| srp_NS_name = Димце
+| srp_NS_FULL_NAME_RO = Димце
+| srp_NS_FULL_NAME_ND_RO = Димце
+| srp_NS_SORT_NAME_RG = ДИМЦЕ
+| srp_NS_FULL_NAME_RG = Димце
+| srp_NS_FULL_NAME_ND_RG = Димце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.308056
  | Lartësia            = 
 }}
-'''Dimcë''' është një [[]] në [[]] të [[Kosovës]].
+'''Dimcë''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

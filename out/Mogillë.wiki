@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mogillë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MOGILLE
- | FULL_NAME_RO = Mogillë
- | FULL_NAME_ND_RO=Mogille
- | SORT_NAME_RG=MOGILLE
- | FULL_NAME_RG=Mogillë
- | FULL_NAME_ND_RG=Mogille
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Mogillë
+| sqi_N_FULL_NAME_RO = Mogillë
+| sqi_N_FULL_NAME_ND_RO = Mogille
+| sqi_N_SORT_NAME_RG = MOGILLE
+| sqi_N_FULL_NAME_RG = Mogillë
+| sqi_N_FULL_NAME_ND_RG = Mogille
+| sqi_V_name = Mogila
+| sqi_V_FULL_NAME_RO = Mogila
+| sqi_V_FULL_NAME_ND_RO = Mogila
+| sqi_V_SORT_NAME_RG = MOGILA
+| sqi_V_FULL_NAME_RG = Mogila
+| sqi_V_FULL_NAME_ND_RG = Mogila
+| srp_N_name = Mogila
+| srp_N_FULL_NAME_RO = Mogila
+| srp_N_FULL_NAME_ND_RO = Mogila
+| srp_N_SORT_NAME_RG = MOGILA
+| srp_N_FULL_NAME_RG = Mogila
+| srp_N_FULL_NAME_ND_RG = Mogila
+| srp_NS_name = Могила
+| srp_NS_FULL_NAME_RO = Могила
+| srp_NS_FULL_NAME_ND_RO = Могила
+| srp_NS_SORT_NAME_RG = МОГИЛА
+| srp_NS_FULL_NAME_RG = Могила
+| srp_NS_FULL_NAME_ND_RG = Могила
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.392222
  | Lartësia            = 
 }}
-'''Mogillë''' është një [[]] në [[]] të [[Kosovës]].
+'''Mogillë''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

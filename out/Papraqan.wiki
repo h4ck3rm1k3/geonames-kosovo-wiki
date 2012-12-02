@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Papraqan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PAPRAQAN
- | FULL_NAME_RO = Papraqan
- | FULL_NAME_ND_RO=Papraqan
- | SORT_NAME_RG=PAPRAQAN
- | FULL_NAME_RG=Papraqan
- | FULL_NAME_ND_RG=Papraqan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Papraqan
+| sqi_D_FULL_NAME_RO = Papraqan
+| sqi_D_FULL_NAME_ND_RO = Papraqan
+| sqi_D_SORT_NAME_RG = PAPRAQAN
+| sqi_D_FULL_NAME_RG = Papraqan
+| sqi_D_FULL_NAME_ND_RG = Papraqan
+| sqi_V_name = Prapaçan
+| sqi_V_FULL_NAME_RO = Prapaçan Prapaçani Prapaqani Prapaqan
+| sqi_V_FULL_NAME_ND_RO = Prapacan Prapacani Prapaqani Prapaqan
+| sqi_V_SORT_NAME_RG = PRAPACAN PRAPACANI PRAPAQANI PRAPAQAN
+| sqi_V_FULL_NAME_RG = Prapaçan Prapaçani Prapaqani Prapaqan
+| sqi_V_FULL_NAME_ND_RG = Prapacan Prapacani Prapaqani Prapaqan
+| srp_D_name = Papračane
+| srp_D_FULL_NAME_RO = Papračane
+| srp_D_FULL_NAME_ND_RO = Papracane
+| srp_D_SORT_NAME_RG = PAPRACANE
+| srp_D_FULL_NAME_RG = Papračane
+| srp_D_FULL_NAME_ND_RG = Papracane
+| srp_DS_name = Папраћане
+| srp_DS_FULL_NAME_RO = Папраћане
+| srp_DS_FULL_NAME_ND_RO = Папраћане
+| srp_DS_SORT_NAME_RG = ПАПРАЋАНЕ
+| srp_DS_FULL_NAME_RG = Папраћане
+| srp_DS_FULL_NAME_ND_RG = Папраћане
+| srp_V_name = Prapaćan
+| srp_V_FULL_NAME_RO = Prapaćan Prapaćane Papraćane Prapacane
+| srp_V_FULL_NAME_ND_RO = Prapacan Prapacane Papracane Prapacane
+| srp_V_SORT_NAME_RG = PRAPACAN PRAPACANE PAPRACANE PRAPACANE
+| srp_V_FULL_NAME_RG = Prapaćan Prapaćane Papraćane Prapacane
+| srp_V_FULL_NAME_ND_RG = Prapacan Prapacane Papracane Prapacane
+| srp_VS_name = Прапаћане
+| srp_VS_FULL_NAME_RO = Прапаћане
+| srp_VS_FULL_NAME_ND_RO = Прапаћане
+| srp_VS_SORT_NAME_RG = ПРАПАЋАНЕ
+| srp_VS_FULL_NAME_RG = Прапаћане
+| srp_VS_FULL_NAME_ND_RG = Прапаћане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.331111
  | Lartësia            = 
 }}
-'''Papraqan''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Papraqan''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

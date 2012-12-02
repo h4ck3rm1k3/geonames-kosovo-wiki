@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Qerim
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      QERIM
- | FULL_NAME_RO = Qerim
- | FULL_NAME_ND_RO=Qerim
- | SORT_NAME_RG=QERIM
- | FULL_NAME_RG=Qerim
- | FULL_NAME_ND_RG=Qerim
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Qerim
+| sqi_N_FULL_NAME_RO = Qerim
+| sqi_N_FULL_NAME_ND_RO = Qerim
+| sqi_N_SORT_NAME_RG = QERIM
+| sqi_N_FULL_NAME_RG = Qerim
+| sqi_N_FULL_NAME_ND_RG = Qerim
+| srp_N_name = Ćerim
+| srp_N_FULL_NAME_RO = Ćerim
+| srp_N_FULL_NAME_ND_RO = Cerim
+| srp_N_SORT_NAME_RG = CERIM
+| srp_N_FULL_NAME_RG = Ćerim
+| srp_N_FULL_NAME_ND_RG = Cerim
+| srp_NS_name = Ћерим
+| srp_NS_FULL_NAME_RO = Ћерим
+| srp_NS_FULL_NAME_ND_RO = Ћерим
+| srp_NS_SORT_NAME_RG = ЋЕРИМ
+| srp_NS_FULL_NAME_RG = Ћерим
+| srp_NS_FULL_NAME_ND_RG = Ћерим
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.435833
  | Lartësia            = 
 }}
-'''Qerim''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Qerim''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

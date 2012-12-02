@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Letnicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LETNICE
- | FULL_NAME_RO = Letnicë
- | FULL_NAME_ND_RO=Letnice
- | SORT_NAME_RG=LETNICE
- | FULL_NAME_RG=Letnicë
- | FULL_NAME_ND_RG=Letnice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Letnicë
+| sqi_N_FULL_NAME_RO = Letnicë
+| sqi_N_FULL_NAME_ND_RO = Letnice
+| sqi_N_SORT_NAME_RG = LETNICE
+| sqi_N_FULL_NAME_RG = Letnicë
+| sqi_N_FULL_NAME_ND_RG = Letnice
+| srp_N_name = Letnica
+| srp_N_FULL_NAME_RO = Letnica
+| srp_N_FULL_NAME_ND_RO = Letnica
+| srp_N_SORT_NAME_RG = LETNICA
+| srp_N_FULL_NAME_RG = Letnica
+| srp_N_FULL_NAME_ND_RG = Letnica
+| srp_NS_name = Летница
+| srp_NS_FULL_NAME_RO = Летница
+| srp_NS_FULL_NAME_ND_RO = Летница
+| srp_NS_SORT_NAME_RG = ЛЕТНИЦА
+| srp_NS_FULL_NAME_RG = Летница
+| srp_NS_FULL_NAME_ND_RG = Летница
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.451944
  | Lartësia            = 
 }}
-'''Letnicë''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Letnicë''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

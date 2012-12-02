@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Potok i Jankut
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POTOKIJANKUT
- | FULL_NAME_RO = Potok i Jankut
- | FULL_NAME_ND_RO=Potok i Jankut
- | SORT_NAME_RG=POTOKIJANKUT
- | FULL_NAME_RG=Potok i Jankut
- | FULL_NAME_ND_RG=Potok i Jankut
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Potok i Jankut
+| sqi_N_FULL_NAME_RO = Potok i Jankut
+| sqi_N_FULL_NAME_ND_RO = Potok i Jankut
+| sqi_N_SORT_NAME_RG = POTOKIJANKUT
+| sqi_N_FULL_NAME_RG = Potok i Jankut
+| sqi_N_FULL_NAME_ND_RG = Potok i Jankut
+| sqi_V_name = Potoku i Jankut
+| sqi_V_FULL_NAME_RO = Potoku i Jankut
+| sqi_V_FULL_NAME_ND_RO = Potoku i Jankut
+| sqi_V_SORT_NAME_RG = POTOKUIJANKUT
+| sqi_V_FULL_NAME_RG = Potoku i Jankut
+| sqi_V_FULL_NAME_ND_RG = Potoku i Jankut
+| srp_N_name = Jankov Potok
+| srp_N_FULL_NAME_RO = Jankov Potok
+| srp_N_FULL_NAME_ND_RO = Jankov Potok
+| srp_N_SORT_NAME_RG = JANKOVPOTOK
+| srp_N_FULL_NAME_RG = Jankov Potok
+| srp_N_FULL_NAME_ND_RG = Jankov Potok
+| srp_NS_name = Јанков Поток
+| srp_NS_FULL_NAME_RO = Јанков Поток
+| srp_NS_FULL_NAME_ND_RO = Јанков Поток
+| srp_NS_SORT_NAME_RG = ЈАНКОВПОТОК
+| srp_NS_FULL_NAME_RG = Јанков Поток
+| srp_NS_FULL_NAME_ND_RG = Јанков Поток
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -30,11 +38,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.994444
- | Gjatësia            = 20.759722
+ | Gjerësia            = 43.008611
+ | Gjatësia            = 20.778333
  | Lartësia            = 
 }}
-'''Potok i Jankut''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Potok i Jankut''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

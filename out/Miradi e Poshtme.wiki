@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Miradi e Poshtme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MIRADIEPOSHTME
- | FULL_NAME_RO = Miradi e Poshtme
- | FULL_NAME_ND_RO=Miradi e Poshtme
- | SORT_NAME_RG=MIRADIEPOSHTME
- | FULL_NAME_RG=Miradi e Poshtme
- | FULL_NAME_ND_RG=Miradi e Poshtme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Miradi e Poshtme
+| sqi_N_FULL_NAME_RO = Miradi e Poshtme
+| sqi_N_FULL_NAME_ND_RO = Miradi e Poshtme
+| sqi_N_SORT_NAME_RG = MIRADIEPOSHTME
+| sqi_N_FULL_NAME_RG = Miradi e Poshtme
+| sqi_N_FULL_NAME_ND_RG = Miradi e Poshtme
+| sqi_V_name = Miradie e Poshtëme
+| sqi_V_FULL_NAME_RO = Miradie e Poshtëme Dobreva i Ultë Dobreva e Ulët
+| sqi_V_FULL_NAME_ND_RO = Miradie e Poshteme Dobreva i Ulte Dobreva e Ulet
+| sqi_V_SORT_NAME_RG = MIRADIEEPOSHTEME DOBREVAIULTE DOBREVAEULET
+| sqi_V_FULL_NAME_RG = Miradie e Poshtëme Dobreva i Ultë Dobreva e Ulët
+| sqi_V_FULL_NAME_ND_RG = Miradie e Poshteme Dobreva i Ulte Dobreva e Ulet
+| srp_N_name = Donje Dobrevo
+| srp_N_FULL_NAME_RO = Donje Dobrevo
+| srp_N_FULL_NAME_ND_RO = Donje Dobrevo
+| srp_N_SORT_NAME_RG = DONJEDOBREVO
+| srp_N_FULL_NAME_RG = Donje Dobrevo
+| srp_N_FULL_NAME_ND_RG = Donje Dobrevo
+| srp_NS_name = Доње Добрево
+| srp_NS_FULL_NAME_RO = Доње Добрево
+| srp_NS_FULL_NAME_ND_RO = Доње Добрево
+| srp_NS_SORT_NAME_RG = ДОЊЕДОБРЕВО
+| srp_NS_FULL_NAME_RG = Доње Добрево
+| srp_NS_FULL_NAME_ND_RG = Доње Добрево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.069444
  | Lartësia            = 
 }}
-'''Miradi e Poshtme''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
+'''Miradi e Poshtme''' është një [[Fshat]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vuçak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VUCAK
- | FULL_NAME_RO = Vuçak
- | FULL_NAME_ND_RO=Vucak
- | SORT_NAME_RG=VUCAK
- | FULL_NAME_RG=Vuçak
- | FULL_NAME_ND_RG=Vucak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vuçak
+| sqi_N_FULL_NAME_RO = Vuçak
+| sqi_N_FULL_NAME_ND_RO = Vucak
+| sqi_N_SORT_NAME_RG = VUCAK
+| sqi_N_FULL_NAME_RG = Vuçak
+| sqi_N_FULL_NAME_ND_RG = Vucak
+| sqi_V_name = Vuçaku
+| sqi_V_FULL_NAME_RO = Vuçaku Nënkala Nënkalaja
+| sqi_V_FULL_NAME_ND_RO = Vucaku Nenkala Nenkalaja
+| sqi_V_SORT_NAME_RG = VUCAKU NENKALA NENKALAJA
+| sqi_V_FULL_NAME_RG = Vuçaku Nënkala Nënkalaja
+| sqi_V_FULL_NAME_ND_RG = Vucaku Nenkala Nenkalaja
+| srp_N_name = Vučak
+| srp_N_FULL_NAME_RO = Vučak
+| srp_N_FULL_NAME_ND_RO = Vucak
+| srp_N_SORT_NAME_RG = VUCAK
+| srp_N_FULL_NAME_RG = Vučak
+| srp_N_FULL_NAME_ND_RG = Vucak
+| srp_NS_name = Вучак
+| srp_NS_FULL_NAME_RO = Вучак
+| srp_NS_FULL_NAME_ND_RO = Вучак
+| srp_NS_SORT_NAME_RG = ВУЧАК
+| srp_NS_FULL_NAME_RG = Вучак
+| srp_NS_FULL_NAME_ND_RG = Вучак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.820556
  | Lartësia            = 
 }}
-'''Vuçak''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Vuçak''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

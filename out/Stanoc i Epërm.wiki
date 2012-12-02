@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stanoc i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STANOCIEPERM
- | FULL_NAME_RO = Stanoc i Epërm
- | FULL_NAME_ND_RO=Stanoc i Eperm
- | SORT_NAME_RG=STANOCIEPERM
- | FULL_NAME_RG=Stanoc i Epërm
- | FULL_NAME_ND_RG=Stanoc i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Stanoc i Epërm
+| sqi_N_FULL_NAME_RO = Stanoc i Epërm
+| sqi_N_FULL_NAME_ND_RO = Stanoc i Eperm
+| sqi_N_SORT_NAME_RG = STANOCIEPERM
+| sqi_N_FULL_NAME_RG = Stanoc i Epërm
+| sqi_N_FULL_NAME_ND_RG = Stanoc i Eperm
+| sqi_V_name = Stanovci i Epërm
+| sqi_V_FULL_NAME_RO = Stanovci i Epërm Statofc i Epërm Stanovc i Epërm
+| sqi_V_FULL_NAME_ND_RO = Stanovci i Eperm Statofc i Eperm Stanovc i Eperm
+| sqi_V_SORT_NAME_RG = STANOVCIIEPERM STATOFCIEPERM STANOVCIEPERM
+| sqi_V_FULL_NAME_RG = Stanovci i Epërm Statofc i Epërm Stanovc i Epërm
+| sqi_V_FULL_NAME_ND_RG = Stanovci i Eperm Statofc i Eperm Stanovc i Eperm
+| srp_N_name = Gornje Stanovce
+| srp_N_FULL_NAME_RO = Gornje Stanovce
+| srp_N_FULL_NAME_ND_RO = Gornje Stanovce
+| srp_N_SORT_NAME_RG = GORNJESTANOVCE
+| srp_N_FULL_NAME_RG = Gornje Stanovce
+| srp_N_FULL_NAME_ND_RG = Gornje Stanovce
+| srp_NS_name = Горње Становце
+| srp_NS_FULL_NAME_RO = Горње Становце
+| srp_NS_FULL_NAME_ND_RO = Горње Становце
+| srp_NS_SORT_NAME_RG = ГОРЊЕСТАНОВЦЕ
+| srp_NS_FULL_NAME_RG = Горње Становце
+| srp_NS_FULL_NAME_ND_RG = Горње Становце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.043963
  | Lartësia            = 
 }}
-'''Stanoc i Epërm''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Stanoc i Epërm''' është një [[Fshat Vogel]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

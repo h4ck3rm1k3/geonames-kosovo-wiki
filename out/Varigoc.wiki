@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Varigoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VARIGOC
- | FULL_NAME_RO = Varigoc
- | FULL_NAME_ND_RO=Varigoc
- | SORT_NAME_RG=VARIGOC
- | FULL_NAME_RG=Varigoc
- | FULL_NAME_ND_RG=Varigoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Varigoc
+| sqi_N_FULL_NAME_RO = Varigoc
+| sqi_N_FULL_NAME_ND_RO = Varigoc
+| sqi_N_SORT_NAME_RG = VARIGOC
+| sqi_N_FULL_NAME_RG = Varigoc
+| sqi_N_FULL_NAME_ND_RG = Varigoc
+| sqi_V_name = Varigovë
+| sqi_V_FULL_NAME_RO = Varigovë Varigovc
+| sqi_V_FULL_NAME_ND_RO = Varigove Varigovc
+| sqi_V_SORT_NAME_RG = VARIGOVE VARIGOVC
+| sqi_V_FULL_NAME_RG = Varigovë Varigovc
+| sqi_V_FULL_NAME_ND_RG = Varigove Varigovc
+| srp_N_name = Varigovce
+| srp_N_FULL_NAME_RO = Varigovce
+| srp_N_FULL_NAME_ND_RO = Varigovce
+| srp_N_SORT_NAME_RG = VARIGOVCE
+| srp_N_FULL_NAME_RG = Varigovce
+| srp_N_FULL_NAME_ND_RG = Varigovce
+| srp_NS_name = Вариговце
+| srp_NS_FULL_NAME_RO = Вариговце
+| srp_NS_FULL_NAME_ND_RO = Вариговце
+| srp_NS_SORT_NAME_RG = ВАРИГОВЦЕ
+| srp_NS_FULL_NAME_RG = Вариговце
+| srp_NS_FULL_NAME_ND_RG = Вариговце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.021389
  | Lartësia            = 
 }}
-'''Varigoc''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Varigoc''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

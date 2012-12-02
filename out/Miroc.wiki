@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Miroc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MIROC
- | FULL_NAME_RO = Miroc
- | FULL_NAME_ND_RO=Miroc
- | SORT_NAME_RG=MIROC
- | FULL_NAME_RG=Miroc
- | FULL_NAME_ND_RG=Miroc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Miroc
+| sqi_N_FULL_NAME_RO = Miroc
+| sqi_N_FULL_NAME_ND_RO = Miroc
+| sqi_N_SORT_NAME_RG = MIROC
+| sqi_N_FULL_NAME_RG = Miroc
+| sqi_N_FULL_NAME_ND_RG = Miroc
+| sqi_V_name = Mirofc
+| sqi_V_FULL_NAME_RO = Mirofc Mirovc Mirosh Miroshi Mirofci
+| sqi_V_FULL_NAME_ND_RO = Mirofc Mirovc Mirosh Miroshi Mirofci
+| sqi_V_SORT_NAME_RG = MIROFC MIROVC MIROSH MIROSHI MIROFCI
+| sqi_V_FULL_NAME_RG = Mirofc Mirovc Mirosh Miroshi Mirofci
+| sqi_V_FULL_NAME_ND_RG = Mirofc Mirovc Mirosh Miroshi Mirofci
+| srp_N_name = Mirovac
+| srp_N_FULL_NAME_RO = Mirovac
+| srp_N_FULL_NAME_ND_RO = Mirovac
+| srp_N_SORT_NAME_RG = MIROVAC
+| srp_N_FULL_NAME_RG = Mirovac
+| srp_N_FULL_NAME_ND_RG = Mirovac
+| srp_NS_name = Мировац
+| srp_NS_FULL_NAME_RO = Мировац
+| srp_NS_FULL_NAME_ND_RO = Мировац
+| srp_NS_SORT_NAME_RG = МИРОВАЦ
+| srp_NS_FULL_NAME_RG = Мировац
+| srp_NS_FULL_NAME_ND_RG = Мировац
+| srp_V_name = Mirovce
+| srp_V_FULL_NAME_RO = Mirovce
+| srp_V_FULL_NAME_ND_RO = Mirovce
+| srp_V_SORT_NAME_RG = MIROVCE
+| srp_V_FULL_NAME_RG = Mirovce
+| srp_V_FULL_NAME_ND_RG = Mirovce
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.259118
  | Lartësia            = 
 }}
-'''Miroc''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Miroc''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

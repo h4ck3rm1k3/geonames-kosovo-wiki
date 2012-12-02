@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Grazhdanik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GRAZHDANIK
- | FULL_NAME_RO = Grazhdanik
- | FULL_NAME_ND_RO=Grazhdanik
- | SORT_NAME_RG=GRAZHDANIK
- | FULL_NAME_RG=Grazhdanik
- | FULL_NAME_ND_RG=Grazhdanik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Grazhdanik
+| sqi_D_FULL_NAME_RO = Grazhdanik
+| sqi_D_FULL_NAME_ND_RO = Grazhdanik
+| sqi_D_SORT_NAME_RG = GRAZHDANIK
+| sqi_D_FULL_NAME_RG = Grazhdanik
+| sqi_D_FULL_NAME_ND_RG = Grazhdanik
+| sqi_V_name = Grozhdanik
+| sqi_V_FULL_NAME_RO = Grozhdanik Grazhdenik Grazhdaniku Grazhdenk Vneshtaje
+| sqi_V_FULL_NAME_ND_RO = Grozhdanik Grazhdenik Grazhdaniku Grazhdenk Vneshtaje
+| sqi_V_SORT_NAME_RG = GROZHDANIK GRAZHDENIK GRAZHDANIKU GRAZHDENK VNESHTAJE
+| sqi_V_FULL_NAME_RG = Grozhdanik Grazhdenik Grazhdaniku Grazhdenk Vneshtaje
+| sqi_V_FULL_NAME_ND_RG = Grozhdanik Grazhdenik Grazhdaniku Grazhdenk Vneshtaje
+| srp_N_name = Graždanik
+| srp_N_FULL_NAME_RO = Graždanik
+| srp_N_FULL_NAME_ND_RO = Grazdanik
+| srp_N_SORT_NAME_RG = GRAZDANIK
+| srp_N_FULL_NAME_RG = Graždanik
+| srp_N_FULL_NAME_ND_RG = Grazdanik
+| srp_NS_name = Гражданик
+| srp_NS_FULL_NAME_RO = Гражданик
+| srp_NS_FULL_NAME_ND_RO = Гражданик
+| srp_NS_SORT_NAME_RG = ГРАЖДАНИК
+| srp_NS_FULL_NAME_RG = Гражданик
+| srp_NS_FULL_NAME_ND_RG = Гражданик
+| srp_V_name = Groždanik
+| srp_V_FULL_NAME_RO = Groždanik
+| srp_V_FULL_NAME_ND_RO = Grozdanik
+| srp_V_SORT_NAME_RG = GROZDANIK
+| srp_V_FULL_NAME_RG = Groždanik
+| srp_V_FULL_NAME_ND_RG = Grozdanik
+| srp_VS_name = Грожданик
+| srp_VS_FULL_NAME_RO = Грожданик
+| srp_VS_FULL_NAME_ND_RO = Грожданик
+| srp_VS_SORT_NAME_RG = ГРОЖДАНИК
+| srp_VS_FULL_NAME_RG = Грожданик
+| srp_VS_FULL_NAME_ND_RG = Грожданик
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.661389
  | Lartësia            = 
 }}
-'''Grazhdanik''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Grazhdanik''' është një [[Fshat Vogel]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

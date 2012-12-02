@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pataçan i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PATACANIEPERM
- | FULL_NAME_RO = Pataçan i Epërm
- | FULL_NAME_ND_RO=Patacan i Eperm
- | SORT_NAME_RG=PATACANIEPERM
- | FULL_NAME_RG=Pataçan i Epërm
- | FULL_NAME_ND_RG=Patacan i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Pataçan i Epërm
+| sqi_D_FULL_NAME_RO = Pataçan i Epërm
+| sqi_D_FULL_NAME_ND_RO = Patacan i Eperm
+| sqi_D_SORT_NAME_RG = PATACANIEPERM
+| sqi_D_FULL_NAME_RG = Pataçan i Epërm
+| sqi_D_FULL_NAME_ND_RG = Patacan i Eperm
+| sqi_V_name = Pataqan i Epërm
+| sqi_V_FULL_NAME_RO = Pataqan i Epërm Potoqan i Epërm
+| sqi_V_FULL_NAME_ND_RO = Pataqan i Eperm Potoqan i Eperm
+| sqi_V_SORT_NAME_RG = PATAQANIEPERM POTOQANIEPERM
+| sqi_V_FULL_NAME_RG = Pataqan i Epërm Potoqan i Epërm
+| sqi_V_FULL_NAME_ND_RG = Pataqan i Eperm Potoqan i Eperm
+| srp_N_name = Gornje Potočane
+| srp_N_FULL_NAME_RO = Gornje Potočane
+| srp_N_FULL_NAME_ND_RO = Gornje Potocane
+| srp_N_SORT_NAME_RG = GORNJEPOTOCANE
+| srp_N_FULL_NAME_RG = Gornje Potočane
+| srp_N_FULL_NAME_ND_RG = Gornje Potocane
+| srp_NS_name = Горње Поточане
+| srp_NS_FULL_NAME_RO = Горње Поточане
+| srp_NS_FULL_NAME_ND_RO = Горње Поточане
+| srp_NS_SORT_NAME_RG = ГОРЊЕПОТОЧАНЕ
+| srp_NS_FULL_NAME_RG = Горње Поточане
+| srp_NS_FULL_NAME_ND_RG = Горње Поточане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.619722
  | Lartësia            = 
 }}
-'''Pataçan i Epërm''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Pataçan i Epërm''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

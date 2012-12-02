@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llapashticë e Poshtme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLAPASHTICEEPOSHTME
- | FULL_NAME_RO = Llapashticë e Poshtme
- | FULL_NAME_ND_RO=Llapashtice e Poshtme
- | SORT_NAME_RG=LLAPASHTICEEPOSHTME
- | FULL_NAME_RG=Llapashticë e Poshtme
- | FULL_NAME_ND_RG=Llapashtice e Poshtme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Llapashticë e Poshtme
+| sqi_N_FULL_NAME_RO = Llapashticë e Poshtme
+| sqi_N_FULL_NAME_ND_RO = Llapashtice e Poshtme
+| sqi_N_SORT_NAME_RG = LLAPASHTICEEPOSHTME
+| sqi_N_FULL_NAME_RG = Llapashticë e Poshtme
+| sqi_N_FULL_NAME_ND_RG = Llapashtice e Poshtme
+| sqi_V_name = Llapashtice e Poshtëme
+| sqi_V_FULL_NAME_RO = Llapashtice e Poshtëme Llapashtica e Poshtme
+| sqi_V_FULL_NAME_ND_RO = Llapashtice e Poshteme Llapashtica e Poshtme
+| sqi_V_SORT_NAME_RG = LLAPASHTICEEPOSHTEME LLAPASHTICAEPOSHTME
+| sqi_V_FULL_NAME_RG = Llapashtice e Poshtëme Llapashtica e Poshtme
+| sqi_V_FULL_NAME_ND_RG = Llapashtice e Poshteme Llapashtica e Poshtme
+| srp_N_name = Donja Lapaštica
+| srp_N_FULL_NAME_RO = Donja Lapaštica
+| srp_N_FULL_NAME_ND_RO = Donja Lapastica
+| srp_N_SORT_NAME_RG = DONJALAPASTICA
+| srp_N_FULL_NAME_RG = Donja Lapaštica
+| srp_N_FULL_NAME_ND_RG = Donja Lapastica
+| srp_NS_name = Доња Лапаштица
+| srp_NS_FULL_NAME_RO = Доња Лапаштица
+| srp_NS_FULL_NAME_ND_RO = Доња Лапаштица
+| srp_NS_SORT_NAME_RG = ДОЊАЛАПАШТИЦА
+| srp_NS_FULL_NAME_RG = Доња Лапаштица
+| srp_NS_FULL_NAME_ND_RG = Доња Лапаштица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.168694
  | Lartësia            = 
 }}
-'''Llapashticë e Poshtme''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Llapashticë e Poshtme''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

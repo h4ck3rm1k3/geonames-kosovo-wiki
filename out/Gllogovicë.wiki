@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gllogovicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GLLOGOVICE
- | FULL_NAME_RO = Gllogovicë
- | FULL_NAME_ND_RO=Gllogovice
- | SORT_NAME_RG=GLLOGOVICE
- | FULL_NAME_RG=Gllogovicë
- | FULL_NAME_ND_RG=Gllogovice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gllogovicë
+| sqi_N_FULL_NAME_RO = Gllogovicë
+| sqi_N_FULL_NAME_ND_RO = Gllogovice
+| sqi_N_SORT_NAME_RG = GLLOGOVICE
+| sqi_N_FULL_NAME_RG = Gllogovicë
+| sqi_N_FULL_NAME_ND_RG = Gllogovice
+| srp_N_name = Glogovica
+| srp_N_FULL_NAME_RO = Glogovica
+| srp_N_FULL_NAME_ND_RO = Glogovica
+| srp_N_SORT_NAME_RG = GLOGOVICA
+| srp_N_FULL_NAME_RG = Glogovica
+| srp_N_FULL_NAME_ND_RG = Glogovica
+| srp_NS_name = Глоговица
+| srp_NS_FULL_NAME_RO = Глоговица
+| srp_NS_FULL_NAME_ND_RO = Глоговица
+| srp_NS_SORT_NAME_RG = ГЛОГОВИЦА
+| srp_NS_FULL_NAME_RG = Глоговица
+| srp_NS_FULL_NAME_ND_RG = Глоговица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.45
  | Lartësia            = 
 }}
-'''Gllogovicë''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Gllogovicë''' është një [[Fshat Vogel]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

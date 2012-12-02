@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Studime e Poshtme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STUDIMEEPOSHTME
- | FULL_NAME_RO = Studime e Poshtme
- | FULL_NAME_ND_RO=Studime e Poshtme
- | SORT_NAME_RG=STUDIMEEPOSHTME
- | FULL_NAME_RG=Studime e Poshtme
- | FULL_NAME_ND_RG=Studime e Poshtme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Studime e Poshtme
+| sqi_N_FULL_NAME_RO = Studime e Poshtme
+| sqi_N_FULL_NAME_ND_RO = Studime e Poshtme
+| sqi_N_SORT_NAME_RG = STUDIMEEPOSHTME
+| sqi_N_FULL_NAME_RG = Studime e Poshtme
+| sqi_N_FULL_NAME_ND_RG = Studime e Poshtme
+| sqi_V_name = Studime e Poshtëme
+| sqi_V_FULL_NAME_RO = Studime e Poshtëme Studimla e Poshtmë
+| sqi_V_FULL_NAME_ND_RO = Studime e Poshteme Studimla e Poshtme
+| sqi_V_SORT_NAME_RG = STUDIMEEPOSHTEME STUDIMLAEPOSHTME
+| sqi_V_FULL_NAME_RG = Studime e Poshtëme Studimla e Poshtmë
+| sqi_V_FULL_NAME_ND_RG = Studime e Poshteme Studimla e Poshtme
+| srp_N_name = Donja Sudimlja
+| srp_N_FULL_NAME_RO = Donja Sudimlja
+| srp_N_FULL_NAME_ND_RO = Donja Sudimlja
+| srp_N_SORT_NAME_RG = DONJASUDIMLJA
+| srp_N_FULL_NAME_RG = Donja Sudimlja
+| srp_N_FULL_NAME_ND_RG = Donja Sudimlja
+| srp_NS_name = Доња Судимља
+| srp_NS_FULL_NAME_RO = Доња Судимља
+| srp_NS_FULL_NAME_ND_RO = Доња Судимља
+| srp_NS_SORT_NAME_RG = ДОЊАСУДИМЉА
+| srp_NS_FULL_NAME_RG = Доња Судимља
+| srp_NS_FULL_NAME_ND_RG = Доња Судимља
+| srp_V_name = Donja Studimlja
+| srp_V_FULL_NAME_RO = Donja Studimlja
+| srp_V_FULL_NAME_ND_RO = Donja Studimlja
+| srp_V_SORT_NAME_RG = DONJASTUDIMLJA
+| srp_V_FULL_NAME_RG = Donja Studimlja
+| srp_V_FULL_NAME_ND_RG = Donja Studimlja
+| srp_VS_name = Доња Студимља
+| srp_VS_FULL_NAME_RO = Доња Студимља
+| srp_VS_FULL_NAME_ND_RO = Доња Студимља
+| srp_VS_SORT_NAME_RG = ДОЊАСТУДИМЉА
+| srp_VS_FULL_NAME_RG = Доња Студимља
+| srp_VS_FULL_NAME_ND_RG = Доња Студимља
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.004142
  | Lartësia            = 
 }}
-'''Studime e Poshtme''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Studime e Poshtme''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

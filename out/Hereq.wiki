@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Hereq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      HEREQ
- | FULL_NAME_RO = Hereq
- | FULL_NAME_ND_RO=Hereq
- | SORT_NAME_RG=HEREQ
- | FULL_NAME_RG=Hereq
- | FULL_NAME_ND_RG=Hereq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Hereq
+| sqi_D_FULL_NAME_RO = Hereq
+| sqi_D_FULL_NAME_ND_RO = Hereq
+| sqi_D_SORT_NAME_RG = HEREQ
+| sqi_D_FULL_NAME_RG = Hereq
+| sqi_D_FULL_NAME_ND_RG = Hereq
+| sqi_V_name = Hereç
+| sqi_V_FULL_NAME_RO = Hereç
+| sqi_V_FULL_NAME_ND_RO = Herec
+| sqi_V_SORT_NAME_RG = HEREC
+| sqi_V_FULL_NAME_RG = Hereç
+| sqi_V_FULL_NAME_ND_RG = Herec
+| srp_DS_name = Ерећ
+| srp_DS_FULL_NAME_RO = Ерећ
+| srp_DS_FULL_NAME_ND_RO = Ерећ
+| srp_DS_SORT_NAME_RG = ЕРЕЋ
+| srp_DS_FULL_NAME_RG = Ерећ
+| srp_DS_FULL_NAME_ND_RG = Ерећ
+| srp_N_name = Ereč
+| srp_N_FULL_NAME_RO = Ereč
+| srp_N_FULL_NAME_ND_RO = Erec
+| srp_N_SORT_NAME_RG = EREC
+| srp_N_FULL_NAME_RG = Ereč
+| srp_N_FULL_NAME_ND_RG = Erec
+| srp_NS_name = Ереч
+| srp_NS_FULL_NAME_RO = Ереч
+| srp_NS_FULL_NAME_ND_RO = Ереч
+| srp_NS_SORT_NAME_RG = ЕРЕЧ
+| srp_NS_FULL_NAME_RG = Ереч
+| srp_NS_FULL_NAME_ND_RG = Ереч
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.3575
  | Lartësia            = 
 }}
-'''Hereq''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Hereq''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

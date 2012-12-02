@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Glloboqicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GLLOBOQICE
- | FULL_NAME_RO = Glloboqicë
- | FULL_NAME_ND_RO=Glloboqice
- | SORT_NAME_RG=GLLOBOQICE
- | FULL_NAME_RG=Glloboqicë
- | FULL_NAME_ND_RG=Glloboqice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Glloboqicë
+| sqi_D_FULL_NAME_RO = Glloboqicë
+| sqi_D_FULL_NAME_ND_RO = Glloboqice
+| sqi_D_SORT_NAME_RG = GLLOBOQICE
+| sqi_D_FULL_NAME_RG = Glloboqicë
+| sqi_D_FULL_NAME_ND_RG = Glloboqice
+| sqi_V_name = Glloboçiçë Parë
+| sqi_V_FULL_NAME_RO = Glloboçiçë Parë Globoçicë Gllabonica Glloboçica
+| sqi_V_FULL_NAME_ND_RO = Gllobocice Pare Globocice Gllabonica Gllobocica
+| sqi_V_SORT_NAME_RG = GLLOBOCICEPARE GLOBOCICE GLLABONICA GLLOBOCICA
+| sqi_V_FULL_NAME_RG = Glloboçiçë Parë Globoçicë Gllabonica Glloboçica
+| sqi_V_FULL_NAME_ND_RG = Gllobocice Pare Globocice Gllabonica Gllobocica
+| srp_N_name = Globočica
+| srp_N_FULL_NAME_RO = Globočica
+| srp_N_FULL_NAME_ND_RO = Globocica
+| srp_N_SORT_NAME_RG = GLOBOCICA
+| srp_N_FULL_NAME_RG = Globočica
+| srp_N_FULL_NAME_ND_RG = Globocica
+| srp_NS_name = Глобочица
+| srp_NS_FULL_NAME_RO = Глобочица
+| srp_NS_FULL_NAME_ND_RO = Глобочица
+| srp_NS_SORT_NAME_RG = ГЛОБОЧИЦА
+| srp_NS_FULL_NAME_RG = Глобочица
+| srp_NS_FULL_NAME_ND_RG = Глобочица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.626944
  | Lartësia            = 
 }}
-'''Glloboqicë''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Glloboqicë''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

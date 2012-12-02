@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llazet e Haxhajve
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLAZETEHAXHAJVE
- | FULL_NAME_RO = Llazet e Haxhajve
- | FULL_NAME_ND_RO=Llazet e Haxhajve
- | SORT_NAME_RG=LLAZETEHAXHAJVE
- | FULL_NAME_RG=Llazet e Haxhajve
- | FULL_NAME_ND_RG=Llazet e Haxhajve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Llazet e Haxhajve
+| sqi_D_FULL_NAME_RO = Llazet e Haxhajve
+| sqi_D_FULL_NAME_ND_RO = Llazet e Haxhajve
+| sqi_D_SORT_NAME_RG = LLAZETEHAXHAJVE
+| sqi_D_FULL_NAME_RG = Llazet e Haxhajve
+| sqi_D_FULL_NAME_ND_RG = Llazet e Haxhajve
+| srp_N_name = Adžići
+| srp_N_FULL_NAME_RO = Adžići
+| srp_N_FULL_NAME_ND_RO = Adzici
+| srp_N_SORT_NAME_RG = ADZICI
+| srp_N_FULL_NAME_RG = Adžići
+| srp_N_FULL_NAME_ND_RG = Adzici
+| srp_NS_name = Хаџићи
+| srp_NS_FULL_NAME_RO = Хаџићи
+| srp_NS_FULL_NAME_ND_RO = Хаџићи
+| srp_NS_SORT_NAME_RG = ХАЏИЋИ
+| srp_NS_FULL_NAME_RG = Хаџићи
+| srp_NS_FULL_NAME_ND_RG = Хаџићи
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.046389
  | Lartësia            = 
 }}
-'''Llazet e Haxhajve''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Llazet e Haxhajve''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

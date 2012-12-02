@@ -1,26 +1,40 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Çifllak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CIFLLAK
- | FULL_NAME_RO = Çifllak
- | FULL_NAME_ND_RO=Cifllak
- | SORT_NAME_RG=CIFLLAK
- | FULL_NAME_RG=Çifllak
- | FULL_NAME_ND_RG=Cifllak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Çifllak
+| sqi_N_FULL_NAME_RO = Çifllak
+| sqi_N_FULL_NAME_ND_RO = Cifllak
+| sqi_N_SORT_NAME_RG = CIFLLAK
+| sqi_N_FULL_NAME_RG = Çifllak
+| sqi_N_FULL_NAME_ND_RG = Cifllak
+| sqi_V_name = Çifllëk
+| sqi_V_FULL_NAME_RO = Çifllëk Qifllak
+| sqi_V_FULL_NAME_ND_RO = Cifllek Qifllak
+| sqi_V_SORT_NAME_RG = CIFLLEK QIFLLAK
+| sqi_V_FULL_NAME_RG = Çifllëk Qifllak
+| sqi_V_FULL_NAME_ND_RG = Cifllek Qifllak
+| srp_N_name = Čiflak
+| srp_N_FULL_NAME_RO = Čiflak
+| srp_N_FULL_NAME_ND_RO = Ciflak
+| srp_N_SORT_NAME_RG = CIFLAK
+| srp_N_FULL_NAME_RG = Čiflak
+| srp_N_FULL_NAME_ND_RG = Ciflak
+| srp_NS_name = Чифлак
+| srp_NS_FULL_NAME_RO = Чифлак
+| srp_NS_FULL_NAME_ND_RO = Чифлак
+| srp_NS_SORT_NAME_RG = ЧИФЛАК
+| srp_NS_FULL_NAME_RG = Чифлак
+| srp_NS_FULL_NAME_ND_RG = Чифлак
+| srp_V_name = Čiflik
+| srp_V_FULL_NAME_RO = Čiflik
+| srp_V_FULL_NAME_ND_RO = Ciflik
+| srp_V_SORT_NAME_RG = CIFLIK
+| srp_V_FULL_NAME_RG = Čiflik
+| srp_V_FULL_NAME_ND_RG = Ciflik
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Viti
+ | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +44,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.377778
- | Gjatësia            = 21.346111
+ | Gjerësia            = 42.461389
+ | Gjatësia            = 20.5225
  | Lartësia            = 
 }}
-'''Çifllak''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Çifllak''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Viti}}
+{{Komuna Skënderaj}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Viti]]
+[[Kategoria:Fshatra në Kommunes Skënderaj]]
 [[Kategoria:Vendbanime në Kosovës]]

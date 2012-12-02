@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tushilë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TUSHILE
- | FULL_NAME_RO = Tushilë
- | FULL_NAME_ND_RO=Tushile
- | SORT_NAME_RG=TUSHILE
- | FULL_NAME_RG=Tushilë
- | FULL_NAME_ND_RG=Tushile
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Tushilë
+| sqi_N_FULL_NAME_RO = Tushilë
+| sqi_N_FULL_NAME_ND_RO = Tushile
+| sqi_N_SORT_NAME_RG = TUSHILE
+| sqi_N_FULL_NAME_RG = Tushilë
+| sqi_N_FULL_NAME_ND_RG = Tushile
+| sqi_V_name = Tushil
+| sqi_V_FULL_NAME_RO = Tushil Tushilla
+| sqi_V_FULL_NAME_ND_RO = Tushil Tushilla
+| sqi_V_SORT_NAME_RG = TUSHIL TUSHILLA
+| sqi_V_FULL_NAME_RG = Tushil Tushilla
+| sqi_V_FULL_NAME_ND_RG = Tushil Tushilla
+| srp_N_name = Tušilje
+| srp_N_FULL_NAME_RO = Tušilje
+| srp_N_FULL_NAME_ND_RO = Tusilje
+| srp_N_SORT_NAME_RG = TUSILJE
+| srp_N_FULL_NAME_RG = Tušilje
+| srp_N_FULL_NAME_ND_RG = Tusilje
+| srp_NS_name = Тушиље
+| srp_NS_FULL_NAME_RO = Тушиље
+| srp_NS_FULL_NAME_ND_RO = Тушиље
+| srp_NS_SORT_NAME_RG = ТУШИЉЕ
+| srp_NS_FULL_NAME_RG = Тушиље
+| srp_NS_FULL_NAME_ND_RG = Тушиље
+| srp_V_name = Tušilja
+| srp_V_FULL_NAME_RO = Tušilja
+| srp_V_FULL_NAME_ND_RO = Tusilja
+| srp_V_SORT_NAME_RG = TUSILJA
+| srp_V_FULL_NAME_RG = Tušilja
+| srp_V_FULL_NAME_ND_RG = Tusilja
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.7425
  | Lartësia            = 
 }}
-'''Tushilë''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Tushilë''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

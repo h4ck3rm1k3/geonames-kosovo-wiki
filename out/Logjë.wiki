@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Logjë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LOGJE
- | FULL_NAME_RO = Logjë
- | FULL_NAME_ND_RO=Logje
- | SORT_NAME_RG=LOGJE
- | FULL_NAME_RG=Logjë
- | FULL_NAME_ND_RG=Logje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Logjë
+| sqi_N_FULL_NAME_RO = Logjë
+| sqi_N_FULL_NAME_ND_RO = Logje
+| sqi_N_SORT_NAME_RG = LOGJE
+| sqi_N_FULL_NAME_RG = Logjë
+| sqi_N_FULL_NAME_ND_RG = Logje
+| sqi_V_name = Loxhë
+| sqi_V_FULL_NAME_RO = Loxhë Loxha
+| sqi_V_FULL_NAME_ND_RO = Loxhe Loxha
+| sqi_V_SORT_NAME_RG = LOXHE LOXHA
+| sqi_V_FULL_NAME_RG = Loxhë Loxha
+| sqi_V_FULL_NAME_ND_RG = Loxhe Loxha
+| srp_N_name = Lođa
+| srp_N_FULL_NAME_RO = Lođa
+| srp_N_FULL_NAME_ND_RO = Loda
+| srp_N_SORT_NAME_RG = LODA
+| srp_N_FULL_NAME_RG = Lođa
+| srp_N_FULL_NAME_ND_RG = Loda
+| srp_NS_name = Лођа
+| srp_NS_FULL_NAME_RO = Лођа
+| srp_NS_FULL_NAME_ND_RO = Лођа
+| srp_NS_SORT_NAME_RG = ЛОЂА
+| srp_NS_FULL_NAME_RG = Лођа
+| srp_NS_FULL_NAME_ND_RG = Лођа
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.325
  | Lartësia            = 
 }}
-'''Logjë''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Logjë''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

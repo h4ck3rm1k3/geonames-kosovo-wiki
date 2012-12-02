@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Miokoviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MIOKOVIQ
- | FULL_NAME_RO = Miokoviq
- | FULL_NAME_ND_RO=Miokoviq
- | SORT_NAME_RG=MIOKOVIQ
- | FULL_NAME_RG=Miokoviq
- | FULL_NAME_ND_RG=Miokoviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Miokoviq
+| sqi_N_FULL_NAME_RO = Miokoviq
+| sqi_N_FULL_NAME_ND_RO = Miokoviq
+| sqi_N_SORT_NAME_RG = MIOKOVIQ
+| sqi_N_FULL_NAME_RG = Miokoviq
+| sqi_N_FULL_NAME_ND_RG = Miokoviq
+| sqi_V_name = Miçkoviq
+| sqi_V_FULL_NAME_RO = Miçkoviq
+| sqi_V_FULL_NAME_ND_RO = Mickoviq
+| sqi_V_SORT_NAME_RG = MICKOVIQ
+| sqi_V_FULL_NAME_RG = Miçkoviq
+| sqi_V_FULL_NAME_ND_RG = Mickoviq
+| srp_N_name = Miokoviće
+| srp_N_FULL_NAME_RO = Miokoviće
+| srp_N_FULL_NAME_ND_RO = Miokovice
+| srp_N_SORT_NAME_RG = MIOKOVICE
+| srp_N_FULL_NAME_RG = Miokoviće
+| srp_N_FULL_NAME_ND_RG = Miokovice
+| srp_NS_name = Миоковиће
+| srp_NS_FULL_NAME_RO = Миоковиће
+| srp_NS_FULL_NAME_ND_RO = Миоковиће
+| srp_NS_SORT_NAME_RG = МИОКОВИЋЕ
+| srp_NS_FULL_NAME_RG = Миоковиће
+| srp_NS_FULL_NAME_ND_RG = Миоковиће
+| srp_V_name = Miokovići
+| srp_V_FULL_NAME_RO = Miokovići
+| srp_V_FULL_NAME_ND_RO = Miokovici
+| srp_V_SORT_NAME_RG = MIOKOVICI
+| srp_V_FULL_NAME_RG = Miokovići
+| srp_V_FULL_NAME_ND_RG = Miokovici
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.832222
  | Lartësia            = 
 }}
-'''Miokoviq''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Miokoviq''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

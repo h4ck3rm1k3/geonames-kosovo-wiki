@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dobrushtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DOBRUSHTE
- | FULL_NAME_RO = Dobrushtë
- | FULL_NAME_ND_RO=Dobrushte
- | SORT_NAME_RG=DOBRUSHTE
- | FULL_NAME_RG=Dobrushtë
- | FULL_NAME_ND_RG=Dobrushte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Dobrushtë
+| sqi_D_FULL_NAME_RO = Dobrushtë
+| sqi_D_FULL_NAME_ND_RO = Dobrushte
+| sqi_D_SORT_NAME_RG = DOBRUSHTE
+| sqi_D_FULL_NAME_RG = Dobrushtë
+| sqi_D_FULL_NAME_ND_RG = Dobrushte
+| sqi_V_name = Dobruzhë
+| sqi_V_FULL_NAME_RO = Dobruzhë Mirëz Mirëza Dobruzhda Dobrushtja
+| sqi_V_FULL_NAME_ND_RO = Dobruzhe Mirez Mireza Dobruzhda Dobrushtja
+| sqi_V_SORT_NAME_RG = DOBRUZHE MIREZ MIREZA DOBRUZHDA DOBRUSHTJA
+| sqi_V_FULL_NAME_RG = Dobruzhë Mirëz Mirëza Dobruzhda Dobrushtja
+| sqi_V_FULL_NAME_ND_RG = Dobruzhe Mirez Mireza Dobruzhda Dobrushtja
+| srp_N_name = Dobrušte
+| srp_N_FULL_NAME_RO = Dobrušte
+| srp_N_FULL_NAME_ND_RO = Dobruste
+| srp_N_SORT_NAME_RG = DOBRUSTE
+| srp_N_FULL_NAME_RG = Dobrušte
+| srp_N_FULL_NAME_ND_RG = Dobruste
+| srp_NS_name = Добруште
+| srp_NS_FULL_NAME_RO = Добруште
+| srp_NS_FULL_NAME_ND_RO = Добруште
+| srp_NS_SORT_NAME_RG = ДОБРУШТЕ
+| srp_NS_FULL_NAME_RG = Добруште
+| srp_NS_FULL_NAME_ND_RG = Добруште
+| srp_V_name = Dobružda
+| srp_V_FULL_NAME_RO = Dobružda
+| srp_V_FULL_NAME_ND_RO = Dobruzda
+| srp_V_SORT_NAME_RG = DOBRUZDA
+| srp_V_FULL_NAME_RG = Dobružda
+| srp_V_FULL_NAME_ND_RG = Dobruzda
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.590278
  | Lartësia            = 
 }}
-'''Dobrushtë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Dobrushtë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

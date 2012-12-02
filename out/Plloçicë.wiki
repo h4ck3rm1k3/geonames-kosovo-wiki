@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Plloçicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PLLOCICE
- | FULL_NAME_RO = Plloçicë
- | FULL_NAME_ND_RO=Pllocice
- | SORT_NAME_RG=PLLOCICE
- | FULL_NAME_RG=Plloçicë
- | FULL_NAME_ND_RG=Pllocice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Plloçicë
+| sqi_D_FULL_NAME_RO = Plloçicë
+| sqi_D_FULL_NAME_ND_RO = Pllocice
+| sqi_D_SORT_NAME_RG = PLLOCICE
+| sqi_D_FULL_NAME_RG = Plloçicë
+| sqi_D_FULL_NAME_ND_RG = Pllocice
+| sqi_V_name = Pllaqicë
+| sqi_V_FULL_NAME_RO = Pllaqicë
+| sqi_V_FULL_NAME_ND_RO = Pllaqice
+| sqi_V_SORT_NAME_RG = PLLAQICE
+| sqi_V_FULL_NAME_RG = Pllaqicë
+| sqi_V_FULL_NAME_ND_RG = Pllaqice
+| srp_N_name = Pločica
+| srp_N_FULL_NAME_RO = Pločica
+| srp_N_FULL_NAME_ND_RO = Plocica
+| srp_N_SORT_NAME_RG = PLOCICA
+| srp_N_FULL_NAME_RG = Pločica
+| srp_N_FULL_NAME_ND_RG = Plocica
+| srp_V_name = Pločice
+| srp_V_FULL_NAME_RO = Pločice
+| srp_V_FULL_NAME_ND_RO = Plocice
+| srp_V_SORT_NAME_RG = PLOCICE
+| srp_V_FULL_NAME_RG = Pločice
+| srp_V_FULL_NAME_ND_RG = Plocice
+| srp_VS_name = Плочице
+| srp_VS_FULL_NAME_RO = Плочице
+| srp_VS_FULL_NAME_ND_RO = Плочице
+| srp_VS_SORT_NAME_RG = ПЛОЧИЦЕ
+| srp_VS_FULL_NAME_RG = Плочице
+| srp_VS_FULL_NAME_ND_RG = Плочице
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.7625
  | Lartësia            = 
 }}
-'''Plloçicë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Plloçicë''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Presekë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PRESEKE
- | FULL_NAME_RO = Presekë
- | FULL_NAME_ND_RO=Preseke
- | SORT_NAME_RG=PRESEKE
- | FULL_NAME_RG=Presekë
- | FULL_NAME_ND_RG=Preseke
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Presekë
+| sqi_N_FULL_NAME_RO = Presekë
+| sqi_N_FULL_NAME_ND_RO = Preseke
+| sqi_N_SORT_NAME_RG = PRESEKE
+| sqi_N_FULL_NAME_RG = Presekë
+| sqi_N_FULL_NAME_ND_RG = Preseke
+| srp_N_name = Preseka
+| srp_N_FULL_NAME_RO = Preseka
+| srp_N_FULL_NAME_ND_RO = Preseka
+| srp_N_SORT_NAME_RG = PRESEKA
+| srp_N_FULL_NAME_RG = Preseka
+| srp_N_FULL_NAME_ND_RG = Preseka
+| srp_NS_name = Пресека
+| srp_NS_FULL_NAME_RO = Пресека
+| srp_NS_FULL_NAME_ND_RO = Пресека
+| srp_NS_SORT_NAME_RG = ПРЕСЕКА
+| srp_NS_FULL_NAME_RG = Пресека
+| srp_NS_FULL_NAME_ND_RG = Пресека
+| srp_V_name = Presjeka
+| srp_V_FULL_NAME_RO = Presjeka
+| srp_V_FULL_NAME_ND_RO = Presjeka
+| srp_V_SORT_NAME_RG = PRESJEKA
+| srp_V_FULL_NAME_RG = Presjeka
+| srp_V_FULL_NAME_ND_RG = Presjeka
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.571389
  | Lartësia            = 
 }}
-'''Presekë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Presekë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

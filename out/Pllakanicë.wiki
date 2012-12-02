@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pllakanicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PLLAKANICE
- | FULL_NAME_RO = Pllakanicë
- | FULL_NAME_ND_RO=Pllakanice
- | SORT_NAME_RG=PLLAKANICE
- | FULL_NAME_RG=Pllakanicë
- | FULL_NAME_ND_RG=Pllakanice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pllakanicë
+| sqi_N_FULL_NAME_RO = Pllakanicë
+| sqi_N_FULL_NAME_ND_RO = Pllakanice
+| sqi_N_SORT_NAME_RG = PLLAKANICE
+| sqi_N_FULL_NAME_RG = Pllakanicë
+| sqi_N_FULL_NAME_ND_RG = Pllakanice
+| sqi_V_name = Plakanicë
+| sqi_V_FULL_NAME_RO = Plakanicë Pllakanikë
+| sqi_V_FULL_NAME_ND_RO = Plakanice Pllakanike
+| sqi_V_SORT_NAME_RG = PLAKANICE PLLAKANIKE
+| sqi_V_FULL_NAME_RG = Plakanicë Pllakanikë
+| sqi_V_FULL_NAME_ND_RG = Plakanice Pllakanike
+| srp_N_name = Plakaonica
+| srp_N_FULL_NAME_RO = Plakaonica
+| srp_N_FULL_NAME_ND_RO = Plakaonica
+| srp_N_SORT_NAME_RG = PLAKAONICA
+| srp_N_FULL_NAME_RG = Plakaonica
+| srp_N_FULL_NAME_ND_RG = Plakaonica
+| srp_NS_name = Плакаоница
+| srp_NS_FULL_NAME_RO = Плакаоница
+| srp_NS_FULL_NAME_ND_RO = Плакаоница
+| srp_NS_SORT_NAME_RG = ПЛАКАОНИЦА
+| srp_NS_FULL_NAME_RG = Плакаоница
+| srp_NS_FULL_NAME_ND_RG = Плакаоница
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.710833
  | Lartësia            = 
 }}
-'''Pllakanicë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Pllakanicë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

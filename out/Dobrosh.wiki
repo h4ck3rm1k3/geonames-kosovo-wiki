@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dobrosh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DOBROSH
- | FULL_NAME_RO = Dobrosh
- | FULL_NAME_ND_RO=Dobrosh
- | SORT_NAME_RG=DOBROSH
- | FULL_NAME_RG=Dobrosh
- | FULL_NAME_ND_RG=Dobrosh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dobrosh
+| sqi_N_FULL_NAME_RO = Dobrosh
+| sqi_N_FULL_NAME_ND_RO = Dobrosh
+| sqi_N_SORT_NAME_RG = DOBROSH
+| sqi_N_FULL_NAME_RG = Dobrosh
+| sqi_N_FULL_NAME_ND_RG = Dobrosh
+| sqi_V_name = Dobrash
+| sqi_V_FULL_NAME_RO = Dobrash
+| sqi_V_FULL_NAME_ND_RO = Dobrash
+| sqi_V_SORT_NAME_RG = DOBRASH
+| sqi_V_FULL_NAME_RG = Dobrash
+| sqi_V_FULL_NAME_ND_RG = Dobrash
+| srp_N_name = Dobroš
+| srp_N_FULL_NAME_RO = Dobroš
+| srp_N_FULL_NAME_ND_RO = Dobros
+| srp_N_SORT_NAME_RG = DOBROS
+| srp_N_FULL_NAME_RG = Dobroš
+| srp_N_FULL_NAME_ND_RG = Dobros
+| srp_NS_name = Доброш
+| srp_NS_FULL_NAME_RO = Доброш
+| srp_NS_FULL_NAME_ND_RO = Доброш
+| srp_NS_SORT_NAME_RG = ДОБРОШ
+| srp_NS_FULL_NAME_RG = Доброш
+| srp_NS_FULL_NAME_ND_RG = Доброш
+| srp_V_name = Dobraš
+| srp_V_FULL_NAME_RO = Dobraš
+| srp_V_FULL_NAME_ND_RO = Dobras
+| srp_V_SORT_NAME_RG = DOBRAS
+| srp_V_FULL_NAME_RG = Dobraš
+| srp_V_FULL_NAME_ND_RG = Dobras
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.312222
  | Lartësia            = 
 }}
-'''Dobrosh''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Dobrosh''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

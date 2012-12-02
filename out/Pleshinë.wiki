@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pleshinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PLESHINE
- | FULL_NAME_RO = Pleshinë
- | FULL_NAME_ND_RO=Pleshine
- | SORT_NAME_RG=PLESHINE
- | FULL_NAME_RG=Pleshinë
- | FULL_NAME_ND_RG=Pleshine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pleshinë
+| sqi_N_FULL_NAME_RO = Pleshinë
+| sqi_N_FULL_NAME_ND_RO = Pleshine
+| sqi_N_SORT_NAME_RG = PLESHINE
+| sqi_N_FULL_NAME_RG = Pleshinë
+| sqi_N_FULL_NAME_ND_RG = Pleshine
+| sqi_V_name = Pleshtinë
+| sqi_V_FULL_NAME_RO = Pleshtinë
+| sqi_V_FULL_NAME_ND_RO = Pleshtine
+| sqi_V_SORT_NAME_RG = PLESHTINE
+| sqi_V_FULL_NAME_RG = Pleshtinë
+| sqi_V_FULL_NAME_ND_RG = Pleshtine
+| srp_N_name = Plešina
+| srp_N_FULL_NAME_RO = Plešina
+| srp_N_FULL_NAME_ND_RO = Plesina
+| srp_N_SORT_NAME_RG = PLESINA
+| srp_N_FULL_NAME_RG = Plešina
+| srp_N_FULL_NAME_ND_RG = Plesina
+| srp_NS_name = Плешина
+| srp_NS_FULL_NAME_RO = Плешина
+| srp_NS_FULL_NAME_ND_RO = Плешина
+| srp_NS_SORT_NAME_RG = ПЛЕШИНА
+| srp_NS_FULL_NAME_RG = Плешина
+| srp_NS_FULL_NAME_ND_RG = Плешина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.102778
  | Lartësia            = 
 }}
-'''Pleshinë''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Pleshinë''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

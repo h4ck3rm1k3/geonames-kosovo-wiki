@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Badoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BADOC
- | FULL_NAME_RO = Badoc
- | FULL_NAME_ND_RO=Badoc
- | SORT_NAME_RG=BADOC
- | FULL_NAME_RG=Badoc
- | FULL_NAME_ND_RG=Badoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Badoc
+| sqi_N_FULL_NAME_RO = Badoc
+| sqi_N_FULL_NAME_ND_RO = Badoc
+| sqi_N_SORT_NAME_RG = BADOC
+| sqi_N_FULL_NAME_RG = Badoc
+| sqi_N_FULL_NAME_ND_RG = Badoc
+| sqi_V_name = Badofc
+| sqi_V_FULL_NAME_RO = Badofc Badovc
+| sqi_V_FULL_NAME_ND_RO = Badofc Badovc
+| sqi_V_SORT_NAME_RG = BADOFC BADOVC
+| sqi_V_FULL_NAME_RG = Badofc Badovc
+| sqi_V_FULL_NAME_ND_RG = Badofc Badovc
+| srp_N_name = Badovac
+| srp_N_FULL_NAME_RO = Badovac
+| srp_N_FULL_NAME_ND_RO = Badovac
+| srp_N_SORT_NAME_RG = BADOVAC
+| srp_N_FULL_NAME_RG = Badovac
+| srp_N_FULL_NAME_ND_RG = Badovac
+| srp_NS_name = Бадовац
+| srp_NS_FULL_NAME_RO = Бадовац
+| srp_NS_FULL_NAME_ND_RO = Бадовац
+| srp_NS_SORT_NAME_RG = БАДОВАЦ
+| srp_NS_FULL_NAME_RG = Бадовац
+| srp_NS_FULL_NAME_ND_RG = Бадовац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.2225
  | Lartësia            = 
 }}
-'''Badoc''' është një [[]] në [[]] të [[Kosovës]].
+'''Badoc''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

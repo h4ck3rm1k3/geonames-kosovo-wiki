@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lëvoshë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LEVOSHE
- | FULL_NAME_RO = Lëvoshë
- | FULL_NAME_ND_RO=Levoshe
- | SORT_NAME_RG=LEVOSHE
- | FULL_NAME_RG=Lëvoshë
- | FULL_NAME_ND_RG=Levoshe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Lëvoshë
+| sqi_D_FULL_NAME_RO = Lëvoshë
+| sqi_D_FULL_NAME_ND_RO = Levoshe
+| sqi_D_SORT_NAME_RG = LEVOSHE
+| sqi_D_FULL_NAME_RG = Lëvoshë
+| sqi_D_FULL_NAME_ND_RG = Levoshe
+| sqi_V_name = Lëvosha
+| sqi_V_FULL_NAME_RO = Lëvosha Levosha Ljevosha Ljevoshe
+| sqi_V_FULL_NAME_ND_RO = Levosha Levosha Ljevosha Ljevoshe
+| sqi_V_SORT_NAME_RG = LEVOSHA LEVOSHA LJEVOSHA LJEVOSHE
+| sqi_V_FULL_NAME_RG = Lëvosha Levosha Ljevosha Ljevoshe
+| sqi_V_FULL_NAME_ND_RG = Levosha Levosha Ljevosha Ljevoshe
+| srp_N_name = Ljevoša
+| srp_N_FULL_NAME_RO = Ljevoša
+| srp_N_FULL_NAME_ND_RO = Ljevosa
+| srp_N_SORT_NAME_RG = LJEVOSA
+| srp_N_FULL_NAME_RG = Ljevoša
+| srp_N_FULL_NAME_ND_RG = Ljevosa
+| srp_NS_name = Љевоша
+| srp_NS_FULL_NAME_RO = Љевоша
+| srp_NS_FULL_NAME_ND_RO = Љевоша
+| srp_NS_SORT_NAME_RG = ЉЕВОША
+| srp_NS_FULL_NAME_RG = Љевоша
+| srp_NS_FULL_NAME_ND_RG = Љевоша
+| srp_V_name = Lavoša
+| srp_V_FULL_NAME_RO = Lavoša Levoša
+| srp_V_FULL_NAME_ND_RO = Lavosa Levosa
+| srp_V_SORT_NAME_RG = LAVOSA LEVOSA
+| srp_V_FULL_NAME_RG = Lavoša Levoša
+| srp_V_FULL_NAME_ND_RG = Lavosa Levosa
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.256667
  | Lartësia            = 
 }}
-'''Lëvoshë''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Lëvoshë''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

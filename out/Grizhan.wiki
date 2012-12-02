@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Grizhan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GRIZHAN
- | FULL_NAME_RO = Grizhan
- | FULL_NAME_ND_RO=Grizhan
- | SORT_NAME_RG=GRIZHAN
- | FULL_NAME_RG=Grizhan
- | FULL_NAME_ND_RG=Grizhan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Grizhan
+| sqi_N_FULL_NAME_RO = Grizhan
+| sqi_N_FULL_NAME_ND_RO = Grizhan
+| sqi_N_SORT_NAME_RG = GRIZHAN
+| sqi_N_FULL_NAME_RG = Grizhan
+| sqi_N_FULL_NAME_ND_RG = Grizhan
+| srp_N_name = Grižani
+| srp_N_FULL_NAME_RO = Grižani
+| srp_N_FULL_NAME_ND_RO = Grizani
+| srp_N_SORT_NAME_RG = GRIZANI
+| srp_N_FULL_NAME_RG = Grižani
+| srp_N_FULL_NAME_ND_RG = Grizani
+| srp_NS_name = Грижани
+| srp_NS_FULL_NAME_RO = Грижани
+| srp_NS_FULL_NAME_ND_RO = Грижани
+| srp_NS_SORT_NAME_RG = ГРИЖАНИ
+| srp_NS_FULL_NAME_RG = Грижани
+| srp_NS_FULL_NAME_ND_RG = Грижани
+| srp_V_name = Grižane
+| srp_V_FULL_NAME_RO = Grižane
+| srp_V_FULL_NAME_ND_RO = Grizane
+| srp_V_SORT_NAME_RG = GRIZANE
+| srp_V_FULL_NAME_RG = Grižane
+| srp_V_FULL_NAME_ND_RG = Grizane
+| srp_VS_name = Грижане
+| srp_VS_FULL_NAME_RO = Грижане
+| srp_VS_FULL_NAME_ND_RO = Грижане
+| srp_VS_SORT_NAME_RG = ГРИЖАНЕ
+| srp_VS_FULL_NAME_RG = Грижане
+| srp_VS_FULL_NAME_ND_RG = Грижане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.706389
  | Lartësia            = 
 }}
-'''Grizhan''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Grizhan''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

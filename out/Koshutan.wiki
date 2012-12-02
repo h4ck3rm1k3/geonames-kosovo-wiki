@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Koshutan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOSHUTAN
- | FULL_NAME_RO = Koshutan
- | FULL_NAME_ND_RO=Koshutan
- | SORT_NAME_RG=KOSHUTAN
- | FULL_NAME_RG=Koshutan
- | FULL_NAME_ND_RG=Koshutan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Koshutan
+| sqi_N_FULL_NAME_RO = Koshutan
+| sqi_N_FULL_NAME_ND_RO = Koshutan
+| sqi_N_SORT_NAME_RG = KOSHUTAN
+| sqi_N_FULL_NAME_RG = Koshutan
+| sqi_N_FULL_NAME_ND_RG = Koshutan
+| sqi_V_name = Koshutancë
+| sqi_V_FULL_NAME_RO = Koshutancë Gjekajt Koshutani
+| sqi_V_FULL_NAME_ND_RO = Koshutance Gjekajt Koshutani
+| sqi_V_SORT_NAME_RG = KOSHUTANCE GJEKAJT KOSHUTANI
+| sqi_V_FULL_NAME_RG = Koshutancë Gjekajt Koshutani
+| sqi_V_FULL_NAME_ND_RG = Koshutance Gjekajt Koshutani
+| srp_N_name = Košutane
+| srp_N_FULL_NAME_RO = Košutane
+| srp_N_FULL_NAME_ND_RO = Kosutane
+| srp_N_SORT_NAME_RG = KOSUTANE
+| srp_N_FULL_NAME_RG = Košutane
+| srp_N_FULL_NAME_ND_RG = Kosutane
+| srp_NS_name = Кошутане
+| srp_NS_FULL_NAME_RO = Кошутане
+| srp_NS_FULL_NAME_ND_RO = Кошутане
+| srp_NS_SORT_NAME_RG = КОШУТАНЕ
+| srp_NS_FULL_NAME_RG = Кошутане
+| srp_NS_FULL_NAME_ND_RG = Кошутане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.101111
  | Lartësia            = 
 }}
-'''Koshutan''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Koshutan''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

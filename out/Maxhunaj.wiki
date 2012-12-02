@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Maxhunaj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAXHUNAJ
- | FULL_NAME_RO = Maxhunaj
- | FULL_NAME_ND_RO=Maxhunaj
- | SORT_NAME_RG=MAXHUNAJ
- | FULL_NAME_RG=Maxhunaj
- | FULL_NAME_ND_RG=Maxhunaj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Maxhunaj
+| sqi_N_FULL_NAME_RO = Maxhunaj
+| sqi_N_FULL_NAME_ND_RO = Maxhunaj
+| sqi_N_SORT_NAME_RG = MAXHUNAJ
+| sqi_N_FULL_NAME_RG = Maxhunaj
+| sqi_N_FULL_NAME_ND_RG = Maxhunaj
+| sqi_V_name = Novosellë Magjun
+| sqi_V_FULL_NAME_RO = Novosellë Magjun Novosellë e Magjunit
+| sqi_V_FULL_NAME_ND_RO = Novoselle Magjun Novoselle e Magjunit
+| sqi_V_SORT_NAME_RG = NOVOSELLEMAGJUN NOVOSELLEEMAGJUNIT
+| sqi_V_FULL_NAME_RG = Novosellë Magjun Novosellë e Magjunit
+| sqi_V_FULL_NAME_ND_RG = Novoselle Magjun Novoselle e Magjunit
+| srp_N_name = Novo Selo
+| srp_N_FULL_NAME_RO = Novo Selo
+| srp_N_FULL_NAME_ND_RO = Novo Selo
+| srp_N_SORT_NAME_RG = NOVOSELO
+| srp_N_FULL_NAME_RG = Novo Selo
+| srp_N_FULL_NAME_ND_RG = Novo Selo
+| srp_NS_name = Ново Село Мађунско
+| srp_NS_FULL_NAME_RO = Ново Село Мађунско
+| srp_NS_FULL_NAME_ND_RO = Ново Село Мађунско
+| srp_NS_SORT_NAME_RG = НОВОСЕЛОМАЂУНСКО
+| srp_NS_FULL_NAME_RG = Ново Село Мађунско
+| srp_NS_FULL_NAME_ND_RG = Ново Село Мађунско
+| srp_V_name = Madžun
+| srp_V_FULL_NAME_RO = Madžun Novo Selo Madjunsko Novo Selo Madžunsko Novo Selo Mađunsko
+| srp_V_FULL_NAME_ND_RO = Madzun Novo Selo Madjunsko Novo Selo Madzunsko Novo Selo Madunsko
+| srp_V_SORT_NAME_RG = MADZUN NOVOSELOMADJUNSKO NOVOSELOMADZUNSKO NOVOSELOMADUNSKO
+| srp_V_FULL_NAME_RG = Madžun Novo Selo Madjunsko Novo Selo Madžunsko Novo Selo Mađunsko
+| srp_V_FULL_NAME_ND_RG = Madzun Novo Selo Madjunsko Novo Selo Madzunsko Novo Selo Madunsko
+| srp_VS_name = Ново Село Маџунско
+| srp_VS_FULL_NAME_RO = Ново Село Маџунско
+| srp_VS_FULL_NAME_ND_RO = Ново Село Маџунско
+| srp_VS_SORT_NAME_RG = НОВОСЕЛОМАЏУНСКО
+| srp_VS_FULL_NAME_RG = Ново Село Маџунско
+| srp_VS_FULL_NAME_ND_RG = Ново Село Маџунско
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.020278
  | Lartësia            = 
 }}
-'''Maxhunaj''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Maxhunaj''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

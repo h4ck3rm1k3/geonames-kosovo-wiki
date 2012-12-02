@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Janosh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JANOSH
- | FULL_NAME_RO = Janosh
- | FULL_NAME_ND_RO=Janosh
- | SORT_NAME_RG=JANOSH
- | FULL_NAME_RG=Janosh
- | FULL_NAME_ND_RG=Janosh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Janosh
+| sqi_N_FULL_NAME_RO = Janosh
+| sqi_N_FULL_NAME_ND_RO = Janosh
+| sqi_N_SORT_NAME_RG = JANOSH
+| sqi_N_FULL_NAME_RG = Janosh
+| sqi_N_FULL_NAME_ND_RG = Janosh
+| srp_N_name = Janoš
+| srp_N_FULL_NAME_RO = Janoš
+| srp_N_FULL_NAME_ND_RO = Janos
+| srp_N_SORT_NAME_RG = JANOS
+| srp_N_FULL_NAME_RG = Janoš
+| srp_N_FULL_NAME_ND_RG = Janos
+| srp_NS_name = Јанош
+| srp_NS_FULL_NAME_RO = Јанош
+| srp_NS_FULL_NAME_ND_RO = Јанош
+| srp_NS_SORT_NAME_RG = ЈАНОШ
+| srp_NS_FULL_NAME_RG = Јанош
+| srp_NS_FULL_NAME_ND_RG = Јанош
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.416944
  | Lartësia            = 
 }}
-'''Janosh''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Janosh''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

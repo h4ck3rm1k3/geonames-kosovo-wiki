@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Siboc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SIBOC
- | FULL_NAME_RO = Siboc
- | FULL_NAME_ND_RO=Siboc
- | SORT_NAME_RG=SIBOC
- | FULL_NAME_RG=Siboc
- | FULL_NAME_ND_RG=Siboc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Siboc
+| sqi_N_FULL_NAME_RO = Siboc
+| sqi_N_FULL_NAME_ND_RO = Siboc
+| sqi_N_SORT_NAME_RG = SIBOC
+| sqi_N_FULL_NAME_RG = Siboc
+| sqi_N_FULL_NAME_ND_RG = Siboc
+| sqi_V_name = Sibovc
+| sqi_V_FULL_NAME_RO = Sibovc
+| sqi_V_FULL_NAME_ND_RO = Sibovc
+| sqi_V_SORT_NAME_RG = SIBOVC
+| sqi_V_FULL_NAME_RG = Sibovc
+| sqi_V_FULL_NAME_ND_RG = Sibovc
+| srp_N_name = Sibovac
+| srp_N_FULL_NAME_RO = Sibovac
+| srp_N_FULL_NAME_ND_RO = Sibovac
+| srp_N_SORT_NAME_RG = SIBOVAC
+| srp_N_FULL_NAME_RG = Sibovac
+| srp_N_FULL_NAME_ND_RG = Sibovac
+| srp_NS_name = Сибовац
+| srp_NS_FULL_NAME_RO = Сибовац
+| srp_NS_FULL_NAME_ND_RO = Сибовац
+| srp_NS_SORT_NAME_RG = СИБОВАЦ
+| srp_NS_FULL_NAME_RG = Сибовац
+| srp_NS_FULL_NAME_ND_RG = Сибовац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.008989
  | Lartësia            = 
 }}
-'''Siboc''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Siboc''' është një [[Fshat Vogel]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

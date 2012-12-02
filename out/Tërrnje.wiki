@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tërrnje
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TERRNJE
- | FULL_NAME_RO = Tërrnje
- | FULL_NAME_ND_RO=Terrnje
- | SORT_NAME_RG=TERRNJE
- | FULL_NAME_RG=Tërrnje
- | FULL_NAME_ND_RG=Terrnje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Tërrnje
+| sqi_D_FULL_NAME_RO = Tërrnje
+| sqi_D_FULL_NAME_ND_RO = Terrnje
+| sqi_D_SORT_NAME_RG = TERRNJE
+| sqi_D_FULL_NAME_RG = Tërrnje
+| sqi_D_FULL_NAME_ND_RG = Terrnje
+| sqi_V_name = Tërnjë
+| sqi_V_FULL_NAME_RO = Tërnjë Tërm
+| sqi_V_FULL_NAME_ND_RO = Ternje Term
+| sqi_V_SORT_NAME_RG = TERNJE TERM
+| sqi_V_FULL_NAME_RG = Tërnjë Tërm
+| sqi_V_FULL_NAME_ND_RG = Ternje Term
+| srp_N_name = Trnje
+| srp_N_FULL_NAME_RO = Trnje
+| srp_N_FULL_NAME_ND_RO = Trnje
+| srp_N_SORT_NAME_RG = TRNJE
+| srp_N_FULL_NAME_RG = Trnje
+| srp_N_FULL_NAME_ND_RG = Trnje
+| srp_NS_name = Трње
+| srp_NS_FULL_NAME_RO = Трње
+| srp_NS_FULL_NAME_ND_RO = Трње
+| srp_NS_SORT_NAME_RG = ТРЊЕ
+| srp_NS_FULL_NAME_RG = Трње
+| srp_NS_FULL_NAME_ND_RG = Трње
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.765556
  | Lartësia            = 
 }}
-'''Tërrnje''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Tërrnje''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Carravranë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CARRAVRANE
- | FULL_NAME_RO = Carravranë
- | FULL_NAME_ND_RO=Carravrane
- | SORT_NAME_RG=CARRAVRANE
- | FULL_NAME_RG=Carravranë
- | FULL_NAME_ND_RG=Carravrane
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Carravranë
+| sqi_N_FULL_NAME_RO = Carravranë
+| sqi_N_FULL_NAME_ND_RO = Carravrane
+| sqi_N_SORT_NAME_RG = CARRAVRANE
+| sqi_N_FULL_NAME_RG = Carravranë
+| sqi_N_FULL_NAME_ND_RG = Carravrane
+| sqi_V_name = Caravranë
+| sqi_V_FULL_NAME_RO = Caravranë Cërnovran
+| sqi_V_FULL_NAME_ND_RO = Caravrane Cernovran
+| sqi_V_SORT_NAME_RG = CARAVRANE CERNOVRAN
+| sqi_V_FULL_NAME_RG = Caravranë Cërnovran
+| sqi_V_FULL_NAME_ND_RG = Caravrane Cernovran
+| srp_N_name = Crnovrane
+| srp_N_FULL_NAME_RO = Crnovrane
+| srp_N_FULL_NAME_ND_RO = Crnovrane
+| srp_N_SORT_NAME_RG = CRNOVRANE
+| srp_N_FULL_NAME_RG = Crnovrane
+| srp_N_FULL_NAME_ND_RG = Crnovrane
+| srp_NS_name = Црновране
+| srp_NS_FULL_NAME_RO = Црновране
+| srp_NS_FULL_NAME_ND_RO = Црновране
+| srp_NS_SORT_NAME_RG = ЦРНОВРАНЕ
+| srp_NS_FULL_NAME_RG = Црновране
+| srp_NS_FULL_NAME_ND_RG = Црновране
+| srp_V_name = Crnovrana
+| srp_V_FULL_NAME_RO = Crnovrana
+| srp_V_FULL_NAME_ND_RO = Crnovrana
+| srp_V_SORT_NAME_RG = CRNOVRANA
+| srp_V_FULL_NAME_RG = Crnovrana
+| srp_V_FULL_NAME_ND_RG = Crnovrana
+| srp_VS_name = Црноврана
+| srp_VS_FULL_NAME_RO = Црноврана
+| srp_VS_FULL_NAME_ND_RO = Црноврана
+| srp_VS_SORT_NAME_RG = ЦРНОВРАНА
+| srp_VS_FULL_NAME_RG = Црноврана
+| srp_VS_FULL_NAME_ND_RG = Црноврана
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.688611
  | Lartësia            = 
 }}
-'''Carravranë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Carravranë''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

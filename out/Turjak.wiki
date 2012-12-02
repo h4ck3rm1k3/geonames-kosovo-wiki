@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Turjak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TURJAK
- | FULL_NAME_RO = Turjak
- | FULL_NAME_ND_RO=Turjak
- | SORT_NAME_RG=TURJAK
- | FULL_NAME_RG=Turjak
- | FULL_NAME_ND_RG=Turjak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Turjak
+| sqi_N_FULL_NAME_RO = Turjak
+| sqi_N_FULL_NAME_ND_RO = Turjak
+| sqi_N_SORT_NAME_RG = TURJAK
+| sqi_N_FULL_NAME_RG = Turjak
+| sqi_N_FULL_NAME_ND_RG = Turjak
+| sqi_V_name = Turjakë
+| sqi_V_FULL_NAME_RO = Turjakë
+| sqi_V_FULL_NAME_ND_RO = Turjake
+| sqi_V_SORT_NAME_RG = TURJAKE
+| sqi_V_FULL_NAME_RG = Turjakë
+| sqi_V_FULL_NAME_ND_RG = Turjake
+| srp_N_name = Turjak
+| srp_N_FULL_NAME_RO = Turjak
+| srp_N_FULL_NAME_ND_RO = Turjak
+| srp_N_SORT_NAME_RG = TURJAK
+| srp_N_FULL_NAME_RG = Turjak
+| srp_N_FULL_NAME_ND_RG = Turjak
+| srp_NS_name = Турјак
+| srp_NS_FULL_NAME_RO = Турјак
+| srp_NS_FULL_NAME_ND_RO = Турјак
+| srp_NS_SORT_NAME_RG = ТУРЈАК
+| srp_NS_FULL_NAME_RG = Турјак
+| srp_NS_FULL_NAME_ND_RG = Турјак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.4125
  | Lartësia            = 
 }}
-'''Turjak''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Turjak''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

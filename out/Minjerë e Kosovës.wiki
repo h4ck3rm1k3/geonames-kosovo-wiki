@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Minjerë e Kosovës
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MINJEREEKOSOVES
- | FULL_NAME_RO = Minjerë e Kosovës
- | FULL_NAME_ND_RO=Minjere e Kosoves
- | SORT_NAME_RG=MINJEREEKOSOVES
- | FULL_NAME_RG=Minjerë e Kosovës
- | FULL_NAME_ND_RG=Minjere e Kosoves
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Minjerë e Kosovës
+| sqi_D_FULL_NAME_RO = Minjerë e Kosovës
+| sqi_D_FULL_NAME_ND_RO = Minjere e Kosoves
+| sqi_D_SORT_NAME_RG = MINJEREEKOSOVES
+| sqi_D_FULL_NAME_RG = Minjerë e Kosovës
+| sqi_D_FULL_NAME_ND_RG = Minjere e Kosoves
+| srp_N_name = Rudnik Kosovo
+| srp_N_FULL_NAME_RO = Rudnik Kosovo
+| srp_N_FULL_NAME_ND_RO = Rudnik Kosovo
+| srp_N_SORT_NAME_RG = RUDNIKKOSOVO
+| srp_N_FULL_NAME_RG = Rudnik Kosovo
+| srp_N_FULL_NAME_ND_RG = Rudnik Kosovo
+| srp_NS_name = Рудник Косово
+| srp_NS_FULL_NAME_RO = Рудник Косово
+| srp_NS_FULL_NAME_ND_RO = Рудник Косово
+| srp_NS_SORT_NAME_RG = РУДНИККОСОВО
+| srp_NS_FULL_NAME_RG = Рудник Косово
+| srp_NS_FULL_NAME_ND_RG = Рудник Косово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.049904
  | Lartësia            = 
 }}
-'''Minjerë e Kosovës''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Minjerë e Kosovës''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

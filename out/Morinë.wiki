@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Morinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MORINE
- | FULL_NAME_RO = Morinë
- | FULL_NAME_ND_RO=Morine
- | SORT_NAME_RG=MORINE
- | FULL_NAME_RG=Morinë
- | FULL_NAME_ND_RG=Morine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Morinë
+| sqi_N_FULL_NAME_RO = Morinë
+| sqi_N_FULL_NAME_ND_RO = Morine
+| sqi_N_SORT_NAME_RG = MORINE
+| sqi_N_FULL_NAME_RG = Morinë
+| sqi_N_FULL_NAME_ND_RG = Morine
+| srp_N_name = Morina
+| srp_N_FULL_NAME_RO = Morina
+| srp_N_FULL_NAME_ND_RO = Morina
+| srp_N_SORT_NAME_RG = MORINA
+| srp_N_FULL_NAME_RG = Morina
+| srp_N_FULL_NAME_ND_RG = Morina
+| srp_NS_name = Морина
+| srp_NS_FULL_NAME_RO = Морина
+| srp_NS_FULL_NAME_ND_RO = Морина
+| srp_NS_SORT_NAME_RG = МОРИНА
+| srp_NS_FULL_NAME_RG = Морина
+| srp_NS_FULL_NAME_ND_RG = Морина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.235
  | Lartësia            = 
 }}
-'''Morinë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Morinë''' është një [[Fshat Vogel]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

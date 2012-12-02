@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mirushë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MIRUSHE
- | FULL_NAME_RO = Mirushë
- | FULL_NAME_ND_RO=Mirushe
- | SORT_NAME_RG=MIRUSHE
- | FULL_NAME_RG=Mirushë
- | FULL_NAME_ND_RG=Mirushe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Mirushë
+| sqi_N_FULL_NAME_RO = Mirushë
+| sqi_N_FULL_NAME_ND_RO = Mirushe
+| sqi_N_SORT_NAME_RG = MIRUSHE
+| sqi_N_FULL_NAME_RG = Mirushë
+| sqi_N_FULL_NAME_ND_RG = Mirushe
+| sqi_V_name = Mirusha
+| sqi_V_FULL_NAME_RO = Mirusha
+| sqi_V_FULL_NAME_ND_RO = Mirusha
+| sqi_V_SORT_NAME_RG = MIRUSHA
+| sqi_V_FULL_NAME_RG = Mirusha
+| sqi_V_FULL_NAME_ND_RG = Mirusha
+| srp_N_name = Miruša
+| srp_N_FULL_NAME_RO = Miruša
+| srp_N_FULL_NAME_ND_RO = Mirusa
+| srp_N_SORT_NAME_RG = MIRUSA
+| srp_N_FULL_NAME_RG = Miruša
+| srp_N_FULL_NAME_ND_RG = Mirusa
+| srp_NS_name = Мируша
+| srp_NS_FULL_NAME_RO = Мируша
+| srp_NS_FULL_NAME_ND_RO = Мируша
+| srp_NS_SORT_NAME_RG = МИРУША
+| srp_NS_FULL_NAME_RG = Мируша
+| srp_NS_FULL_NAME_ND_RG = Мируша
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.713889
  | Lartësia            = 
 }}
-'''Mirushë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Mirushë''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

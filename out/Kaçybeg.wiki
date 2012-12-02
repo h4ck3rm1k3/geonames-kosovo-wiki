@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kaçybeg
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KACYBEG
- | FULL_NAME_RO = Kaçybeg
- | FULL_NAME_ND_RO=Kacybeg
- | SORT_NAME_RG=KACYBEG
- | FULL_NAME_RG=Kaçybeg
- | FULL_NAME_ND_RG=Kacybeg
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kaçybeg
+| sqi_N_FULL_NAME_RO = Kaçybeg
+| sqi_N_FULL_NAME_ND_RO = Kacybeg
+| sqi_N_SORT_NAME_RG = KACYBEG
+| sqi_N_FULL_NAME_RG = Kaçybeg
+| sqi_N_FULL_NAME_ND_RG = Kacybeg
+| sqi_V_name = Kaçibegu
+| sqi_V_FULL_NAME_RO = Kaçibegu Kaçubeg Kaçubegu Kaqibeg Kaçibeg
+| sqi_V_FULL_NAME_ND_RO = Kacibegu Kacubeg Kacubegu Kaqibeg Kacibeg
+| sqi_V_SORT_NAME_RG = KACIBEGU KACUBEG KACUBEGU KAQIBEG KACIBEG
+| sqi_V_FULL_NAME_RG = Kaçibegu Kaçubeg Kaçubegu Kaqibeg Kaçibeg
+| sqi_V_FULL_NAME_ND_RG = Kacibegu Kacubeg Kacubegu Kaqibeg Kacibeg
+| srp_N_name = Kačibeg
+| srp_N_FULL_NAME_RO = Kačibeg
+| srp_N_FULL_NAME_ND_RO = Kacibeg
+| srp_N_SORT_NAME_RG = KACIBEG
+| srp_N_FULL_NAME_RG = Kačibeg
+| srp_N_FULL_NAME_ND_RG = Kacibeg
+| srp_NS_name = Качибег
+| srp_NS_FULL_NAME_RO = Качибег
+| srp_NS_FULL_NAME_ND_RO = Качибег
+| srp_NS_SORT_NAME_RG = КАЧИБЕГ
+| srp_NS_FULL_NAME_RG = Качибег
+| srp_NS_FULL_NAME_ND_RG = Качибег
+| srp_V_name = Kačibek
+| srp_V_FULL_NAME_RO = Kačibek
+| srp_V_FULL_NAME_ND_RO = Kacibek
+| srp_V_SORT_NAME_RG = KACIBEK
+| srp_V_FULL_NAME_RG = Kačibek
+| srp_V_FULL_NAME_ND_RG = Kacibek
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.205833
  | Lartësia            = 
 }}
-'''Kaçybeg''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Kaçybeg''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

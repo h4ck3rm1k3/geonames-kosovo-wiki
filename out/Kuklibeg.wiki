@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kuklibeg
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KUKLIBEG
- | FULL_NAME_RO = Kuklibeg
- | FULL_NAME_ND_RO=Kuklibeg
- | SORT_NAME_RG=KUKLIBEG
- | FULL_NAME_RG=Kuklibeg
- | FULL_NAME_ND_RG=Kuklibeg
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kuklibeg
+| sqi_N_FULL_NAME_RO = Kuklibeg
+| sqi_N_FULL_NAME_ND_RO = Kuklibeg
+| sqi_N_SORT_NAME_RG = KUKLIBEG
+| sqi_N_FULL_NAME_RG = Kuklibeg
+| sqi_N_FULL_NAME_ND_RG = Kuklibeg
+| srp_N_name = Kuklibeg
+| srp_N_FULL_NAME_RO = Kuklibeg
+| srp_N_FULL_NAME_ND_RO = Kuklibeg
+| srp_N_SORT_NAME_RG = KUKLIBEG
+| srp_N_FULL_NAME_RG = Kuklibeg
+| srp_N_FULL_NAME_ND_RG = Kuklibeg
+| srp_NS_name = Куклибег
+| srp_NS_FULL_NAME_RO = Куклибег
+| srp_NS_FULL_NAME_ND_RO = Куклибег
+| srp_NS_SORT_NAME_RG = КУКЛИБЕГ
+| srp_NS_FULL_NAME_RG = Куклибег
+| srp_NS_FULL_NAME_ND_RG = Куклибег
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.723056
  | Lartësia            = 
 }}
-'''Kuklibeg''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Kuklibeg''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

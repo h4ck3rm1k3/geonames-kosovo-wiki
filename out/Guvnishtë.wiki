@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Guvnishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GUVNISHTE
- | FULL_NAME_RO = Guvnishtë
- | FULL_NAME_ND_RO=Guvnishte
- | SORT_NAME_RG=GUVNISHTE
- | FULL_NAME_RG=Guvnishtë
- | FULL_NAME_ND_RG=Guvnishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Guvnishtë
+| sqi_N_FULL_NAME_RO = Guvnishtë
+| sqi_N_FULL_NAME_ND_RO = Guvnishte
+| sqi_N_SORT_NAME_RG = GUVNISHTE
+| sqi_N_FULL_NAME_RG = Guvnishtë
+| sqi_N_FULL_NAME_ND_RG = Guvnishte
+| sqi_V_name = Guvrrisht
+| sqi_V_FULL_NAME_RO = Guvrrisht
+| sqi_V_FULL_NAME_ND_RO = Guvrrisht
+| sqi_V_SORT_NAME_RG = GUVRRISHT
+| sqi_V_FULL_NAME_RG = Guvrrisht
+| sqi_V_FULL_NAME_ND_RG = Guvrrisht
+| srp_N_name = Guvnište
+| srp_N_FULL_NAME_RO = Guvnište
+| srp_N_FULL_NAME_ND_RO = Guvniste
+| srp_N_SORT_NAME_RG = GUVNISTE
+| srp_N_FULL_NAME_RG = Guvnište
+| srp_N_FULL_NAME_ND_RG = Guvniste
+| srp_NS_name = Гувниште
+| srp_NS_FULL_NAME_RO = Гувниште
+| srp_NS_FULL_NAME_ND_RO = Гувниште
+| srp_NS_SORT_NAME_RG = ГУВНИШТЕ
+| srp_NS_FULL_NAME_RG = Гувниште
+| srp_NS_FULL_NAME_ND_RG = Гувниште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.787222
  | Lartësia            = 
 }}
-'''Guvnishtë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Guvnishtë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

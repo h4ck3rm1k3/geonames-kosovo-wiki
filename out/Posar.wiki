@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Posar
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POSAR
- | FULL_NAME_RO = Posar
- | FULL_NAME_ND_RO=Posar
- | SORT_NAME_RG=POSAR
- | FULL_NAME_RG=Posar
- | FULL_NAME_ND_RG=Posar
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Posar
+| sqi_N_FULL_NAME_RO = Posar
+| sqi_N_FULL_NAME_ND_RO = Posar
+| sqi_N_SORT_NAME_RG = POSAR
+| sqi_N_FULL_NAME_RG = Posar
+| sqi_N_FULL_NAME_ND_RG = Posar
+| sqi_V_name = Pozhari
+| sqi_V_FULL_NAME_RO = Pozhari Pozhar
+| sqi_V_FULL_NAME_ND_RO = Pozhari Pozhar
+| sqi_V_SORT_NAME_RG = POZHARI POZHAR
+| sqi_V_FULL_NAME_RG = Pozhari Pozhar
+| sqi_V_FULL_NAME_ND_RG = Pozhari Pozhar
+| srp_N_name = Požar
+| srp_N_FULL_NAME_RO = Požar
+| srp_N_FULL_NAME_ND_RO = Pozar
+| srp_N_SORT_NAME_RG = POZAR
+| srp_N_FULL_NAME_RG = Požar
+| srp_N_FULL_NAME_ND_RG = Pozar
+| srp_NS_name = Пожар
+| srp_NS_FULL_NAME_RO = Пожар
+| srp_NS_FULL_NAME_ND_RO = Пожар
+| srp_NS_SORT_NAME_RG = ПОЖАР
+| srp_NS_FULL_NAME_RG = Пожар
+| srp_NS_FULL_NAME_ND_RG = Пожар
+| srp_V_name = Požare
+| srp_V_FULL_NAME_RO = Požare
+| srp_V_FULL_NAME_ND_RO = Pozare
+| srp_V_SORT_NAME_RG = POZARE
+| srp_V_FULL_NAME_RG = Požare
+| srp_V_FULL_NAME_ND_RG = Pozare
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.351111
  | Lartësia            = 
 }}
-'''Posar''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Posar''' është një [[Fshat Vogel]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

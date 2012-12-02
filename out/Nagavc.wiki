@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nagavc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NAGAVC
- | FULL_NAME_RO = Nagavc
- | FULL_NAME_ND_RO=Nagavc
- | SORT_NAME_RG=NAGAVC
- | FULL_NAME_RG=Nagavc
- | FULL_NAME_ND_RG=Nagavc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Nagavc
+| sqi_D_FULL_NAME_RO = Nagavc
+| sqi_D_FULL_NAME_ND_RO = Nagavc
+| sqi_D_SORT_NAME_RG = NAGAVC
+| sqi_D_FULL_NAME_RG = Nagavc
+| sqi_D_FULL_NAME_ND_RG = Nagavc
+| sqi_V_name = Nogavc
+| sqi_V_FULL_NAME_RO = Nogavc Nagafc
+| sqi_V_FULL_NAME_ND_RO = Nogavc Nagafc
+| sqi_V_SORT_NAME_RG = NOGAVC NAGAFC
+| sqi_V_FULL_NAME_RG = Nogavc Nagafc
+| sqi_V_FULL_NAME_ND_RG = Nogavc Nagafc
+| srp_N_name = Nogavac
+| srp_N_FULL_NAME_RO = Nogavac
+| srp_N_FULL_NAME_ND_RO = Nogavac
+| srp_N_SORT_NAME_RG = NOGAVAC
+| srp_N_FULL_NAME_RG = Nogavac
+| srp_N_FULL_NAME_ND_RG = Nogavac
+| srp_NS_name = Ногавац
+| srp_NS_FULL_NAME_RO = Ногавац
+| srp_NS_FULL_NAME_ND_RO = Ногавац
+| srp_NS_SORT_NAME_RG = НОГАВАЦ
+| srp_NS_FULL_NAME_RG = Ногавац
+| srp_NS_FULL_NAME_ND_RG = Ногавац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.642222
  | Lartësia            = 
 }}
-'''Nagavc''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Nagavc''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stagovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STAGOVE
- | FULL_NAME_RO = Stagovë
- | FULL_NAME_ND_RO=Stagove
- | SORT_NAME_RG=STAGOVE
- | FULL_NAME_RG=Stagovë
- | FULL_NAME_ND_RG=Stagove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Stagovë
+| sqi_N_FULL_NAME_RO = Stagovë
+| sqi_N_FULL_NAME_ND_RO = Stagove
+| sqi_N_SORT_NAME_RG = STAGOVE
+| sqi_N_FULL_NAME_RG = Stagovë
+| sqi_N_FULL_NAME_ND_RG = Stagove
+| srp_N_name = Stagovo
+| srp_N_FULL_NAME_RO = Stagovo
+| srp_N_FULL_NAME_ND_RO = Stagovo
+| srp_N_SORT_NAME_RG = STAGOVO
+| srp_N_FULL_NAME_RG = Stagovo
+| srp_N_FULL_NAME_ND_RG = Stagovo
+| srp_NS_name = Стагово
+| srp_NS_FULL_NAME_RO = Стагово
+| srp_NS_FULL_NAME_ND_RO = Стагово
+| srp_NS_SORT_NAME_RG = СТАГОВО
+| srp_NS_FULL_NAME_RG = Стагово
+| srp_NS_FULL_NAME_ND_RG = Стагово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.250833
  | Lartësia            = 
 }}
-'''Stagovë''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Stagovë''' është një [[Fshat Vogel]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

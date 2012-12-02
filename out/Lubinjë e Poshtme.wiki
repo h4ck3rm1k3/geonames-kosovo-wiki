@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lubinjë e Poshtme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LUBINJEEPOSHTME
- | FULL_NAME_RO = Lubinjë e Poshtme
- | FULL_NAME_ND_RO=Lubinje e Poshtme
- | SORT_NAME_RG=LUBINJEEPOSHTME
- | FULL_NAME_RG=Lubinjë e Poshtme
- | FULL_NAME_ND_RG=Lubinje e Poshtme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lubinjë e Poshtme
+| sqi_N_FULL_NAME_RO = Lubinjë e Poshtme
+| sqi_N_FULL_NAME_ND_RO = Lubinje e Poshtme
+| sqi_N_SORT_NAME_RG = LUBINJEEPOSHTME
+| sqi_N_FULL_NAME_RG = Lubinjë e Poshtme
+| sqi_N_FULL_NAME_ND_RG = Lubinje e Poshtme
+| sqi_V_name = Lubi e Poshtëme
+| sqi_V_FULL_NAME_RO = Lubi e Poshtëme Lubinja e Ultë
+| sqi_V_FULL_NAME_ND_RO = Lubi e Poshteme Lubinja e Ulte
+| sqi_V_SORT_NAME_RG = LUBIEPOSHTEME LUBINJAEULTE
+| sqi_V_FULL_NAME_RG = Lubi e Poshtëme Lubinja e Ultë
+| sqi_V_FULL_NAME_ND_RG = Lubi e Poshteme Lubinja e Ulte
+| srp_N_name = Donje Ljubinje
+| srp_N_FULL_NAME_RO = Donje Ljubinje
+| srp_N_FULL_NAME_ND_RO = Donje Ljubinje
+| srp_N_SORT_NAME_RG = DONJELJUBINJE
+| srp_N_FULL_NAME_RG = Donje Ljubinje
+| srp_N_FULL_NAME_ND_RG = Donje Ljubinje
+| srp_NS_name = Доње Љубиње
+| srp_NS_FULL_NAME_RO = Доње Љубиње
+| srp_NS_FULL_NAME_ND_RO = Доње Љубиње
+| srp_NS_SORT_NAME_RG = ДОЊЕЉУБИЊЕ
+| srp_NS_FULL_NAME_RG = Доње Љубиње
+| srp_NS_FULL_NAME_ND_RG = Доње Љубиње
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.857222
  | Lartësia            = 
 }}
-'''Lubinjë e Poshtme''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Lubinjë e Poshtme''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

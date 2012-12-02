@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Breshanc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BRESHANC
- | FULL_NAME_RO = Breshanc
- | FULL_NAME_ND_RO=Breshanc
- | SORT_NAME_RG=BRESHANC
- | FULL_NAME_RG=Breshanc
- | FULL_NAME_ND_RG=Breshanc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Breshanc
+| sqi_D_FULL_NAME_RO = Breshanc
+| sqi_D_FULL_NAME_ND_RO = Breshanc
+| sqi_D_SORT_NAME_RG = BRESHANC
+| sqi_D_FULL_NAME_RG = Breshanc
+| sqi_D_FULL_NAME_ND_RG = Breshanc
+| sqi_V_name = Bresenë
+| sqi_V_FULL_NAME_RO = Bresenë
+| sqi_V_FULL_NAME_ND_RO = Bresene
+| sqi_V_SORT_NAME_RG = BRESENE
+| sqi_V_FULL_NAME_RG = Bresenë
+| sqi_V_FULL_NAME_ND_RG = Bresene
+| srp_N_name = Brešance
+| srp_N_FULL_NAME_RO = Brešance
+| srp_N_FULL_NAME_ND_RO = Bresance
+| srp_N_SORT_NAME_RG = BRESANCE
+| srp_N_FULL_NAME_RG = Brešance
+| srp_N_FULL_NAME_ND_RG = Bresance
+| srp_NS_name = Брешанце
+| srp_NS_FULL_NAME_RO = Брешанце
+| srp_NS_FULL_NAME_ND_RO = Брешанце
+| srp_NS_SORT_NAME_RG = БРЕШАНЦЕ
+| srp_NS_FULL_NAME_RG = Брешанце
+| srp_NS_FULL_NAME_ND_RG = Брешанце
+| srp_V_name = Brešance Mehana
+| srp_V_FULL_NAME_RO = Brešance Mehana
+| srp_V_FULL_NAME_ND_RO = Bresance Mehana
+| srp_V_SORT_NAME_RG = BRESANCEMEHANA
+| srp_V_FULL_NAME_RG = Brešance Mehana
+| srp_V_FULL_NAME_ND_RG = Bresance Mehana
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.778889
  | Lartësia            = 
 }}
-'''Breshanc''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Breshanc''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

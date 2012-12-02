@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mahalla Kapidoll
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAHALLAKAPIDOLL
- | FULL_NAME_RO = Mahalla Kapidoll
- | FULL_NAME_ND_RO=Mahalla Kapidoll
- | SORT_NAME_RG=MAHALLAKAPIDOLL
- | FULL_NAME_RG=Mahalla Kapidoll
- | FULL_NAME_ND_RG=Mahalla Kapidoll
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Mahalla Kapidoll
+| sqi_D_FULL_NAME_RO = Mahalla Kapidoll
+| sqi_D_FULL_NAME_ND_RO = Mahalla Kapidoll
+| sqi_D_SORT_NAME_RG = MAHALLAKAPIDOLL
+| sqi_D_FULL_NAME_RG = Mahalla Kapidoll
+| sqi_D_FULL_NAME_ND_RG = Mahalla Kapidoll
+| srp_N_name = Kapidol Mahala
+| srp_N_FULL_NAME_RO = Kapidol Mahala
+| srp_N_FULL_NAME_ND_RO = Kapidol Mahala
+| srp_N_SORT_NAME_RG = KAPIDOLMAHALA
+| srp_N_FULL_NAME_RG = Kapidol Mahala
+| srp_N_FULL_NAME_ND_RG = Kapidol Mahala
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 21.151377
  | Lartësia            = 
 }}
-'''Mahalla Kapidoll''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Mahalla Kapidoll''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

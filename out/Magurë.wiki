@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Magurë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAGURE
- | FULL_NAME_RO = Magurë
- | FULL_NAME_ND_RO=Magure
- | SORT_NAME_RG=MAGURE
- | FULL_NAME_RG=Magurë
- | FULL_NAME_ND_RG=Magure
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Magurë
+| sqi_N_FULL_NAME_RO = Magurë
+| sqi_N_FULL_NAME_ND_RO = Magure
+| sqi_N_SORT_NAME_RG = MAGURE
+| sqi_N_FULL_NAME_RG = Magurë
+| sqi_N_FULL_NAME_ND_RG = Magure
+| srp_N_name = Magura
+| srp_N_FULL_NAME_RO = Magura
+| srp_N_FULL_NAME_ND_RO = Magura
+| srp_N_SORT_NAME_RG = MAGURA
+| srp_N_FULL_NAME_RG = Magura
+| srp_N_FULL_NAME_ND_RG = Magura
+| srp_NS_name = Магура
+| srp_NS_FULL_NAME_RO = Магура
+| srp_NS_FULL_NAME_ND_RO = Магура
+| srp_NS_SORT_NAME_RG = МАГУРА
+| srp_NS_FULL_NAME_RG = Магура
+| srp_NS_FULL_NAME_ND_RG = Магура
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.010228
  | Lartësia            = 
 }}
-'''Magurë''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Magurë''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

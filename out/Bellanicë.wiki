@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bellanicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BELLANICE
- | FULL_NAME_RO = Bellanicë
- | FULL_NAME_ND_RO=Bellanice
- | SORT_NAME_RG=BELLANICE
- | FULL_NAME_RG=Bellanicë
- | FULL_NAME_ND_RG=Bellanice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bellanicë
+| sqi_N_FULL_NAME_RO = Bellanicë
+| sqi_N_FULL_NAME_ND_RO = Bellanice
+| sqi_N_SORT_NAME_RG = BELLANICE
+| sqi_N_FULL_NAME_RG = Bellanicë
+| sqi_N_FULL_NAME_ND_RG = Bellanice
+| srp_N_name = Belanica
+| srp_N_FULL_NAME_RO = Belanica
+| srp_N_FULL_NAME_ND_RO = Belanica
+| srp_N_SORT_NAME_RG = BELANICA
+| srp_N_FULL_NAME_RG = Belanica
+| srp_N_FULL_NAME_ND_RG = Belanica
+| srp_NS_name = Беланица
+| srp_NS_FULL_NAME_RO = Беланица
+| srp_NS_FULL_NAME_ND_RO = Беланица
+| srp_NS_SORT_NAME_RG = БЕЛАНИЦА
+| srp_NS_FULL_NAME_RG = Беланица
+| srp_NS_FULL_NAME_ND_RG = Беланица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.816944
  | Lartësia            = 
 }}
-'''Bellanicë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Bellanicë''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pomozotin
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POMOZOTIN
- | FULL_NAME_RO = Pomozotin
- | FULL_NAME_ND_RO=Pomozotin
- | SORT_NAME_RG=POMOZOTIN
- | FULL_NAME_RG=Pomozotin
- | FULL_NAME_ND_RG=Pomozotin
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pomozotin
+| sqi_N_FULL_NAME_RO = Pomozotin
+| sqi_N_FULL_NAME_ND_RO = Pomozotin
+| sqi_N_SORT_NAME_RG = POMOZOTIN
+| sqi_N_FULL_NAME_RG = Pomozotin
+| sqi_N_FULL_NAME_ND_RG = Pomozotin
+| sqi_V_name = Mesbardh
+| sqi_V_FULL_NAME_RO = Mesbardh Mesbardhi Pomozotini Pomazotin
+| sqi_V_FULL_NAME_ND_RO = Mesbardh Mesbardhi Pomozotini Pomazotin
+| sqi_V_SORT_NAME_RG = MESBARDH MESBARDHI POMOZOTINI POMAZOTIN
+| sqi_V_FULL_NAME_RG = Mesbardh Mesbardhi Pomozotini Pomazotin
+| sqi_V_FULL_NAME_ND_RG = Mesbardh Mesbardhi Pomozotini Pomazotin
+| srp_N_name = Pomazatin
+| srp_N_FULL_NAME_RO = Pomazatin
+| srp_N_FULL_NAME_ND_RO = Pomazatin
+| srp_N_SORT_NAME_RG = POMAZATIN
+| srp_N_FULL_NAME_RG = Pomazatin
+| srp_N_FULL_NAME_ND_RG = Pomazatin
+| srp_NS_name = Помазатин
+| srp_NS_FULL_NAME_RO = Помазатин
+| srp_NS_FULL_NAME_ND_RO = Помазатин
+| srp_NS_SORT_NAME_RG = ПОМАЗАТИН
+| srp_NS_FULL_NAME_RG = Помазатин
+| srp_NS_FULL_NAME_ND_RG = Помазатин
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.028568
  | Lartësia            = 
 }}
-'''Pomozotin''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
+'''Pomozotin''' është një [[Fshat]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

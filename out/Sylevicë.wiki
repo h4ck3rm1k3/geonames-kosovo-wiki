@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sylevicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SYLEVICE
- | FULL_NAME_RO = Sylevicë
- | FULL_NAME_ND_RO=Sylevice
- | SORT_NAME_RG=SYLEVICE
- | FULL_NAME_RG=Sylevicë
- | FULL_NAME_ND_RG=Sylevice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sylevicë
+| sqi_N_FULL_NAME_RO = Sylevicë
+| sqi_N_FULL_NAME_ND_RO = Sylevice
+| sqi_N_SORT_NAME_RG = SYLEVICE
+| sqi_N_FULL_NAME_RG = Sylevicë
+| sqi_N_FULL_NAME_ND_RG = Sylevice
+| sqi_V_name = Silevic
+| sqi_V_FULL_NAME_RO = Silevic Fierishtë Sllavicë Sylevica Fierishta Silefc
+| sqi_V_FULL_NAME_ND_RO = Silevic Fierishte Sllavice Sylevica Fierishta Silefc
+| sqi_V_SORT_NAME_RG = SILEVIC FIERISHTE SLLAVICE SYLEVICA FIERISHTA SILEFC
+| sqi_V_FULL_NAME_RG = Silevic Fierishtë Sllavicë Sylevica Fierishta Silefc
+| sqi_V_FULL_NAME_ND_RG = Silevic Fierishte Sllavice Sylevica Fierishta Silefc
+| srp_N_name = Siljevica
+| srp_N_FULL_NAME_RO = Siljevica
+| srp_N_FULL_NAME_ND_RO = Siljevica
+| srp_N_SORT_NAME_RG = SILJEVICA
+| srp_N_FULL_NAME_RG = Siljevica
+| srp_N_FULL_NAME_ND_RG = Siljevica
+| srp_NS_name = Сиљевица
+| srp_NS_FULL_NAME_RO = Сиљевица
+| srp_NS_FULL_NAME_ND_RO = Сиљевица
+| srp_NS_SORT_NAME_RG = СИЉЕВИЦА
+| srp_NS_FULL_NAME_RG = Сиљевица
+| srp_NS_FULL_NAME_ND_RG = Сиљевица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.081111
  | Lartësia            = 
 }}
-'''Sylevicë''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Sylevicë''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

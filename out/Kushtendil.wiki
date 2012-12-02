@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kushtendil
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KUSHTENDIL
- | FULL_NAME_RO = Kushtendil
- | FULL_NAME_ND_RO=Kushtendil
- | SORT_NAME_RG=KUSHTENDIL
- | FULL_NAME_RG=Kushtendil
- | FULL_NAME_ND_RG=Kushtendil
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kushtendil
+| sqi_N_FULL_NAME_RO = Kushtendil
+| sqi_N_FULL_NAME_ND_RO = Kushtendil
+| sqi_N_SORT_NAME_RG = KUSHTENDIL
+| sqi_N_FULL_NAME_RG = Kushtendil
+| sqi_N_FULL_NAME_ND_RG = Kushtendil
+| sqi_V_name = Kustendil
+| sqi_V_FULL_NAME_RO = Kustendil
+| sqi_V_FULL_NAME_ND_RO = Kustendil
+| sqi_V_SORT_NAME_RG = KUSTENDIL
+| sqi_V_FULL_NAME_RG = Kustendil
+| sqi_V_FULL_NAME_ND_RG = Kustendil
+| srp_N_name = Kuštendil
+| srp_N_FULL_NAME_RO = Kuštendil
+| srp_N_FULL_NAME_ND_RO = Kustendil
+| srp_N_SORT_NAME_RG = KUSTENDIL
+| srp_N_FULL_NAME_RG = Kuštendil
+| srp_N_FULL_NAME_ND_RG = Kustendil
+| srp_NS_name = Куштендил
+| srp_NS_FULL_NAME_RO = Куштендил
+| srp_NS_FULL_NAME_ND_RO = Куштендил
+| srp_NS_SORT_NAME_RG = КУШТЕНДИЛ
+| srp_NS_FULL_NAME_RG = Куштендил
+| srp_NS_FULL_NAME_ND_RG = Куштендил
+| srp_V_name = Kuštendilj
+| srp_V_FULL_NAME_RO = Kuštendilj
+| srp_V_FULL_NAME_ND_RO = Kustendilj
+| srp_V_SORT_NAME_RG = KUSTENDILJ
+| srp_V_FULL_NAME_RG = Kuštendilj
+| srp_V_FULL_NAME_ND_RG = Kustendilj
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.753333
  | Lartësia            = 
 }}
-'''Kushtendil''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Kushtendil''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

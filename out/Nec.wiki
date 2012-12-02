@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NEC
- | FULL_NAME_RO = Nec
- | FULL_NAME_ND_RO=Nec
- | SORT_NAME_RG=NEC
- | FULL_NAME_RG=Nec
- | FULL_NAME_ND_RG=Nec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Nec
+| sqi_N_FULL_NAME_RO = Nec
+| sqi_N_FULL_NAME_ND_RO = Nec
+| sqi_N_SORT_NAME_RG = NEC
+| sqi_N_FULL_NAME_RG = Nec
+| sqi_N_FULL_NAME_ND_RG = Nec
+| srp_N_name = Nec
+| srp_N_FULL_NAME_RO = Nec
+| srp_N_FULL_NAME_ND_RO = Nec
+| srp_N_SORT_NAME_RG = NEC
+| srp_N_FULL_NAME_RG = Nec
+| srp_N_FULL_NAME_ND_RG = Nec
+| srp_NS_name = Нец
+| srp_NS_FULL_NAME_RO = Нец
+| srp_NS_FULL_NAME_ND_RO = Нец
+| srp_NS_SORT_NAME_RG = НЕЦ
+| srp_NS_FULL_NAME_RG = Нец
+| srp_NS_FULL_NAME_ND_RG = Нец
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.323611
  | Lartësia            = 
 }}
-'''Nec''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Nec''' është një [[Fshat Vogel]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

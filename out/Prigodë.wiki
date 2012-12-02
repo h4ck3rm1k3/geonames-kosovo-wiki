@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prigodë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PRIGODE
- | FULL_NAME_RO = Prigodë
- | FULL_NAME_ND_RO=Prigode
- | SORT_NAME_RG=PRIGODE
- | FULL_NAME_RG=Prigodë
- | FULL_NAME_ND_RG=Prigode
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Prigodë
+| sqi_N_FULL_NAME_RO = Prigodë
+| sqi_N_FULL_NAME_ND_RO = Prigode
+| sqi_N_SORT_NAME_RG = PRIGODE
+| sqi_N_FULL_NAME_RG = Prigodë
+| sqi_N_FULL_NAME_ND_RG = Prigode
+| sqi_V_name = Godeni
+| sqi_V_FULL_NAME_RO = Godeni
+| sqi_V_FULL_NAME_ND_RO = Godeni
+| sqi_V_SORT_NAME_RG = GODENI
+| sqi_V_FULL_NAME_RG = Godeni
+| sqi_V_FULL_NAME_ND_RG = Godeni
+| srp_N_name = Prigoda
+| srp_N_FULL_NAME_RO = Prigoda
+| srp_N_FULL_NAME_ND_RO = Prigoda
+| srp_N_SORT_NAME_RG = PRIGODA
+| srp_N_FULL_NAME_RG = Prigoda
+| srp_N_FULL_NAME_ND_RG = Prigoda
+| srp_NS_name = Пригода
+| srp_NS_FULL_NAME_RO = Пригода
+| srp_NS_FULL_NAME_ND_RO = Пригода
+| srp_NS_SORT_NAME_RG = ПРИГОДА
+| srp_NS_FULL_NAME_RG = Пригода
+| srp_NS_FULL_NAME_ND_RG = Пригода
+| std_V_name = Goden
+| std_V_FULL_NAME_RO = Goden
+| std_V_FULL_NAME_ND_RO = Goden
+| std_V_SORT_NAME_RG = GODEN
+| std_V_FULL_NAME_RG = Goden
+| std_V_FULL_NAME_ND_RG = Goden
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.429444
  | Lartësia            = 
 }}
-'''Prigodë''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Prigodë''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

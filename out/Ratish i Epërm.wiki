@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ratish i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RATISHIEPERM
- | FULL_NAME_RO = Ratish i Epërm
- | FULL_NAME_ND_RO=Ratish i Eperm
- | SORT_NAME_RG=RATISHIEPERM
- | FULL_NAME_RG=Ratish i Epërm
- | FULL_NAME_ND_RG=Ratish i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Ratish i Epërm
+| sqi_N_FULL_NAME_RO = Ratish i Epërm
+| sqi_N_FULL_NAME_ND_RO = Ratish i Eperm
+| sqi_N_SORT_NAME_RG = RATISHIEPERM
+| sqi_N_FULL_NAME_RG = Ratish i Epërm
+| sqi_N_FULL_NAME_ND_RG = Ratish i Eperm
+| sqi_V_name = Ratish
+| sqi_V_FULL_NAME_RO = Ratish Ratisi i Epërme Ratisha i Epërme Qëndresa e Epërme
+| sqi_V_FULL_NAME_ND_RO = Ratish Ratisi i Eperme Ratisha i Eperme Qendresa e Eperme
+| sqi_V_SORT_NAME_RG = RATISH RATISIIEPERME RATISHAIEPERME QENDRESAEEPERME
+| sqi_V_FULL_NAME_RG = Ratish Ratisi i Epërme Ratisha i Epërme Qëndresa e Epërme
+| sqi_V_FULL_NAME_ND_RG = Ratish Ratisi i Eperme Ratisha i Eperme Qendresa e Eperme
+| srp_N_name = Gornji Ratiš
+| srp_N_FULL_NAME_RO = Gornji Ratiš
+| srp_N_FULL_NAME_ND_RO = Gornji Ratis
+| srp_N_SORT_NAME_RG = GORNJIRATIS
+| srp_N_FULL_NAME_RG = Gornji Ratiš
+| srp_N_FULL_NAME_ND_RG = Gornji Ratis
+| srp_NS_name = Горњи Ратиш
+| srp_NS_FULL_NAME_RO = Горњи Ратиш
+| srp_NS_FULL_NAME_ND_RO = Горњи Ратиш
+| srp_NS_SORT_NAME_RG = ГОРЊИРАТИШ
+| srp_NS_FULL_NAME_RG = Горњи Ратиш
+| srp_NS_FULL_NAME_ND_RG = Горњи Ратиш
+| srp_V_name = Ratiš
+| srp_V_FULL_NAME_RO = Ratiš
+| srp_V_FULL_NAME_ND_RO = Ratis
+| srp_V_SORT_NAME_RG = RATIS
+| srp_V_FULL_NAME_RG = Ratiš
+| srp_V_FULL_NAME_ND_RG = Ratis
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.370556
  | Lartësia            = 
 }}
-'''Ratish i Epërm''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Ratish i Epërm''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

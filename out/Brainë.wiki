@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Brainë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BRAINE
- | FULL_NAME_RO = Brainë
- | FULL_NAME_ND_RO=Braine
- | SORT_NAME_RG=BRAINE
- | FULL_NAME_RG=Brainë
- | FULL_NAME_ND_RG=Braine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Brainë
+| sqi_N_FULL_NAME_RO = Brainë
+| sqi_N_FULL_NAME_ND_RO = Braine
+| sqi_N_SORT_NAME_RG = BRAINE
+| sqi_N_FULL_NAME_RG = Brainë
+| sqi_N_FULL_NAME_ND_RG = Braine
+| sqi_V_name = Gjytet
+| sqi_V_FULL_NAME_RO = Gjytet Gjyteti Brajina
+| sqi_V_FULL_NAME_ND_RO = Gjytet Gjyteti Brajina
+| sqi_V_SORT_NAME_RG = GJYTET GJYTETI BRAJINA
+| sqi_V_FULL_NAME_RG = Gjytet Gjyteti Brajina
+| sqi_V_FULL_NAME_ND_RG = Gjytet Gjyteti Brajina
+| srp_N_name = Braina
+| srp_N_FULL_NAME_RO = Braina
+| srp_N_FULL_NAME_ND_RO = Braina
+| srp_N_SORT_NAME_RG = BRAINA
+| srp_N_FULL_NAME_RG = Braina
+| srp_N_FULL_NAME_ND_RG = Braina
+| srp_NS_name = Браина
+| srp_NS_FULL_NAME_RO = Браина
+| srp_NS_FULL_NAME_ND_RO = Браина
+| srp_NS_SORT_NAME_RG = БРАИНА
+| srp_NS_FULL_NAME_RG = Браина
+| srp_NS_FULL_NAME_ND_RG = Браина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.385
  | Lartësia            = 
 }}
-'''Brainë''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Brainë''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

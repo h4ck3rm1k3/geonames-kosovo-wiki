@@ -1,26 +1,16 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Guri i Keć
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      Guri
- | NAME_SORT_NAME_RO=      GURIIKEC
- | FULL_NAME_RO = Guri i Keć
- | FULL_NAME_ND_RO=Guri i Kec
- | SORT_NAME_RG=KEC GURII
- | FULL_NAME_RG=Keć, Guri i
- | FULL_NAME_ND_RG=Kec, Guri i
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| srp_N_name = Guri i Keć
+| srp_N_FULL_NAME_RO = Guri i Keć
+| srp_N_FULL_NAME_ND_RO = Guri i Kec
+| srp_N_SORT_NAME_RG = KEC GURII
+| srp_N_FULL_NAME_RG = Keć, Guri i
+| srp_N_FULL_NAME_ND_RG = Kec, Guri i
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Podujevë
+ | Komuna              = 
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +20,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.809868
- | Gjatësia            = 21.2611
+ | Gjerësia            = 42.081389
+ | Gjatësia            = 20.733056
  | Lartësia            = 
 }}
-'''Guri i Keć''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Guri i Keć''' është një [[]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Podujevë}}
+{{Komuna }}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Fshatra në Kommunes ]]
 [[Kategoria:Vendbanime në Kosovës]]

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Struzhë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STRUZHE
- | FULL_NAME_RO = Struzhë
- | FULL_NAME_ND_RO=Struzhe
- | SORT_NAME_RG=STRUZHE
- | FULL_NAME_RG=Struzhë
- | FULL_NAME_ND_RG=Struzhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Struzhë
+| sqi_N_FULL_NAME_RO = Struzhë
+| sqi_N_FULL_NAME_ND_RO = Struzhe
+| sqi_N_SORT_NAME_RG = STRUZHE
+| sqi_N_FULL_NAME_RG = Struzhë
+| sqi_N_FULL_NAME_ND_RG = Struzhe
+| sqi_V_name = Strukë
+| sqi_V_FULL_NAME_RO = Strukë Struzha
+| sqi_V_FULL_NAME_ND_RO = Struke Struzha
+| sqi_V_SORT_NAME_RG = STRUKE STRUZHA
+| sqi_V_FULL_NAME_RG = Strukë Struzha
+| sqi_V_FULL_NAME_ND_RG = Struke Struzha
+| srp_N_name = Stružje
+| srp_N_FULL_NAME_RO = Stružje
+| srp_N_FULL_NAME_ND_RO = Struzje
+| srp_N_SORT_NAME_RG = STRUZJE
+| srp_N_FULL_NAME_RG = Stružje
+| srp_N_FULL_NAME_ND_RG = Struzje
+| srp_NS_name = Стружје
+| srp_NS_FULL_NAME_RO = Стружје
+| srp_NS_FULL_NAME_ND_RO = Стружје
+| srp_NS_SORT_NAME_RG = СТРУЖЈЕ
+| srp_NS_FULL_NAME_RG = Стружје
+| srp_NS_FULL_NAME_ND_RG = Стружје
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.794167
  | Lartësia            = 
 }}
-'''Struzhë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Struzhë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

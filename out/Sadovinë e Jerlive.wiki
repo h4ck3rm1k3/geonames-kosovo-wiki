@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sadovinë e Jerlive
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SADOVINEEJERLIVE
- | FULL_NAME_RO = Sadovinë e Jerlive
- | FULL_NAME_ND_RO=Sadovine e Jerlive
- | SORT_NAME_RG=SADOVINEEJERLIVE
- | FULL_NAME_RG=Sadovinë e Jerlive
- | FULL_NAME_ND_RG=Sadovine e Jerlive
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Sadovinë e Jerlive
+| sqi_D_FULL_NAME_RO = Sadovinë e Jerlive
+| sqi_D_FULL_NAME_ND_RO = Sadovine e Jerlive
+| sqi_D_SORT_NAME_RG = SADOVINEEJERLIVE
+| sqi_D_FULL_NAME_RG = Sadovinë e Jerlive
+| sqi_D_FULL_NAME_ND_RG = Sadovine e Jerlive
+| sqi_V_name = Sadovina e Jerlive
+| sqi_V_FULL_NAME_RO = Sadovina e Jerlive Sadovinë e Jerl
+| sqi_V_FULL_NAME_ND_RO = Sadovina e Jerlive Sadovine e Jerl
+| sqi_V_SORT_NAME_RG = SADOVINAEJERLIVE SADOVINEEJERL
+| sqi_V_FULL_NAME_RG = Sadovina e Jerlive Sadovinë e Jerl
+| sqi_V_FULL_NAME_ND_RG = Sadovina e Jerlive Sadovine e Jerl
+| srp_N_name = Jerli Sadovina
+| srp_N_FULL_NAME_RO = Jerli Sadovina
+| srp_N_FULL_NAME_ND_RO = Jerli Sadovina
+| srp_N_SORT_NAME_RG = JERLISADOVINA
+| srp_N_FULL_NAME_RG = Jerli Sadovina
+| srp_N_FULL_NAME_ND_RG = Jerli Sadovina
+| srp_NS_name = Јерли Садовина
+| srp_NS_FULL_NAME_RO = Јерли Садовина
+| srp_NS_FULL_NAME_ND_RO = Јерли Садовина
+| srp_NS_SORT_NAME_RG = ЈЕРЛИСАДОВИНА
+| srp_NS_FULL_NAME_RG = Јерли Садовина
+| srp_NS_FULL_NAME_ND_RG = Јерли Садовина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.295278
  | Lartësia            = 
 }}
-'''Sadovinë e Jerlive''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Sadovinë e Jerlive''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kojushë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOJUSHE
- | FULL_NAME_RO = Kojushë
- | FULL_NAME_ND_RO=Kojushe
- | SORT_NAME_RG=KOJUSHE
- | FULL_NAME_RG=Kojushë
- | FULL_NAME_ND_RG=Kojushe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kojushë
+| sqi_N_FULL_NAME_RO = Kojushë
+| sqi_N_FULL_NAME_ND_RO = Kojushe
+| sqi_N_SORT_NAME_RG = KOJUSHE
+| sqi_N_FULL_NAME_RG = Kojushë
+| sqi_N_FULL_NAME_ND_RG = Kojushe
+| sqi_V_name = Koujsha
+| sqi_V_FULL_NAME_RO = Koujsha Kojush Konjusha Kajush
+| sqi_V_FULL_NAME_ND_RO = Koujsha Kojush Konjusha Kajush
+| sqi_V_SORT_NAME_RG = KOUJSHA KOJUSH KONJUSHA KAJUSH
+| sqi_V_FULL_NAME_RG = Koujsha Kojush Konjusha Kajush
+| sqi_V_FULL_NAME_ND_RG = Koujsha Kojush Konjusha Kajush
+| srp_N_name = Kojuš
+| srp_N_FULL_NAME_RO = Kojuš
+| srp_N_FULL_NAME_ND_RO = Kojus
+| srp_N_SORT_NAME_RG = KOJUS
+| srp_N_FULL_NAME_RG = Kojuš
+| srp_N_FULL_NAME_ND_RG = Kojus
+| srp_NS_name = Којуш
+| srp_NS_FULL_NAME_RO = Којуш
+| srp_NS_FULL_NAME_ND_RO = Којуш
+| srp_NS_SORT_NAME_RG = КОЈУШ
+| srp_NS_FULL_NAME_RG = Којуш
+| srp_NS_FULL_NAME_ND_RG = Којуш
+| srp_V_name = Kojuša
+| srp_V_FULL_NAME_RO = Kojuša
+| srp_V_FULL_NAME_ND_RO = Kojusa
+| srp_V_SORT_NAME_RG = KOJUSA
+| srp_V_FULL_NAME_RG = Kojuša
+| srp_V_FULL_NAME_ND_RG = Kojusa
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.610556
  | Lartësia            = 
 }}
-'''Kojushë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Kojushë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

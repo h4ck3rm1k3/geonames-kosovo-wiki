@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Starograckë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STAROGRACKE
- | FULL_NAME_RO = Starograckë
- | FULL_NAME_ND_RO=Starogracke
- | SORT_NAME_RG=STAROGRACKE
- | FULL_NAME_RG=Starograckë
- | FULL_NAME_ND_RG=Starogracke
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Starograckë
+| sqi_D_FULL_NAME_RO = Starograckë
+| sqi_D_FULL_NAME_ND_RO = Starogracke
+| sqi_D_SORT_NAME_RG = STAROGRACKE
+| sqi_D_FULL_NAME_RG = Starograckë
+| sqi_D_FULL_NAME_ND_RG = Starogracke
+| sqi_V_name = Grackë
+| sqi_V_FULL_NAME_RO = Grackë Grackë e Vjetër
+| sqi_V_FULL_NAME_ND_RO = Gracke Gracke e Vjeter
+| sqi_V_SORT_NAME_RG = GRACKE GRACKEEVJETER
+| sqi_V_FULL_NAME_RG = Grackë Grackë e Vjetër
+| sqi_V_FULL_NAME_ND_RG = Gracke Gracke e Vjeter
+| srp_N_name = Staro Gracko
+| srp_N_FULL_NAME_RO = Staro Gracko
+| srp_N_FULL_NAME_ND_RO = Staro Gracko
+| srp_N_SORT_NAME_RG = STAROGRACKO
+| srp_N_FULL_NAME_RG = Staro Gracko
+| srp_N_FULL_NAME_ND_RG = Staro Gracko
+| srp_NS_name = Старо Грацко
+| srp_NS_FULL_NAME_RO = Старо Грацко
+| srp_NS_FULL_NAME_ND_RO = Старо Грацко
+| srp_NS_SORT_NAME_RG = СТАРОГРАЦКО
+| srp_NS_FULL_NAME_RG = Старо Грацко
+| srp_NS_FULL_NAME_ND_RG = Старо Грацко
+| srp_V_name = Gracko
+| srp_V_FULL_NAME_RO = Gracko
+| srp_V_FULL_NAME_ND_RO = Gracko
+| srp_V_SORT_NAME_RG = GRACKO
+| srp_V_FULL_NAME_RG = Gracko
+| srp_V_FULL_NAME_ND_RG = Gracko
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.103333
  | Lartësia            = 
 }}
-'''Starograckë''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Starograckë''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

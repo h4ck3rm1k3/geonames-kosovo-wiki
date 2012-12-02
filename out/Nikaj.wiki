@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nikaj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NIKAJ
- | FULL_NAME_RO = Nikaj
- | FULL_NAME_ND_RO=Nikaj
- | SORT_NAME_RG=NIKAJ
- | FULL_NAME_RG=Nikaj
- | FULL_NAME_ND_RG=Nikaj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Nikaj
+| sqi_D_FULL_NAME_RO = Nikaj
+| sqi_D_FULL_NAME_ND_RO = Nikaj
+| sqi_D_SORT_NAME_RG = NIKAJ
+| sqi_D_FULL_NAME_RG = Nikaj
+| sqi_D_FULL_NAME_ND_RG = Nikaj
+| sqi_V_name = Nikë
+| sqi_V_FULL_NAME_RO = Nikë
+| sqi_V_FULL_NAME_ND_RO = Nike
+| sqi_V_SORT_NAME_RG = NIKE
+| sqi_V_FULL_NAME_RG = Nikë
+| sqi_V_FULL_NAME_ND_RG = Nike
+| srp_N_name = Nika
+| srp_N_FULL_NAME_RO = Nika
+| srp_N_FULL_NAME_ND_RO = Nika
+| srp_N_SORT_NAME_RG = NIKA
+| srp_N_FULL_NAME_RG = Nika
+| srp_N_FULL_NAME_ND_RG = Nika
+| srp_NS_name = Ника
+| srp_NS_FULL_NAME_RO = Ника
+| srp_NS_FULL_NAME_ND_RO = Ника
+| srp_NS_SORT_NAME_RG = НИКА
+| srp_NS_FULL_NAME_RG = Ника
+| srp_NS_FULL_NAME_ND_RG = Ника
+| srp_V_name = Mahala
+| srp_V_FULL_NAME_RO = Mahala
+| srp_V_FULL_NAME_ND_RO = Mahala
+| srp_V_SORT_NAME_RG = MAHALA
+| srp_V_FULL_NAME_RG = Mahala
+| srp_V_FULL_NAME_ND_RG = Mahala
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.218056
  | Lartësia            = 
 }}
-'''Nikaj''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Nikaj''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

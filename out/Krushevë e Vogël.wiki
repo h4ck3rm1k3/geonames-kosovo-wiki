@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Krushevë e Vogël
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KRUSHEVEEVOGEL
- | FULL_NAME_RO = Krushevë e Vogël
- | FULL_NAME_ND_RO=Krusheve e Vogel
- | SORT_NAME_RG=KRUSHEVEEVOGEL
- | FULL_NAME_RG=Krushevë e Vogël
- | FULL_NAME_ND_RG=Krusheve e Vogel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Krushevë e Vogël
+| sqi_D_FULL_NAME_RO = Krushevë e Vogël
+| sqi_D_FULL_NAME_ND_RO = Krusheve e Vogel
+| sqi_D_SORT_NAME_RG = KRUSHEVEEVOGEL
+| sqi_D_FULL_NAME_RG = Krushevë e Vogël
+| sqi_D_FULL_NAME_ND_RG = Krusheve e Vogel
+| sqi_V_name = Drinishti i Vogël
+| sqi_V_FULL_NAME_RO = Drinishti i Vogël Krusheva e Vogël Kryshevë Krushevo
+| sqi_V_FULL_NAME_ND_RO = Drinishti i Vogel Krusheva e Vogel Krysheve Krushevo
+| sqi_V_SORT_NAME_RG = DRINISHTIIVOGEL KRUSHEVAEVOGEL KRYSHEVE KRUSHEVO
+| sqi_V_FULL_NAME_RG = Drinishti i Vogël Krusheva e Vogël Kryshevë Krushevo
+| sqi_V_FULL_NAME_ND_RG = Drinishti i Vogel Krusheva e Vogel Krysheve Krushevo
+| srp_N_name = Malo Kruševo
+| srp_N_FULL_NAME_RO = Malo Kruševo
+| srp_N_FULL_NAME_ND_RO = Malo Krusevo
+| srp_N_SORT_NAME_RG = MALOKRUSEVO
+| srp_N_FULL_NAME_RG = Malo Kruševo
+| srp_N_FULL_NAME_ND_RG = Malo Krusevo
+| srp_NS_name = Мало Крушево
+| srp_NS_FULL_NAME_RO = Мало Крушево
+| srp_NS_FULL_NAME_ND_RO = Мало Крушево
+| srp_NS_SORT_NAME_RG = МАЛОКРУШЕВО
+| srp_NS_FULL_NAME_RG = Мало Крушево
+| srp_NS_FULL_NAME_ND_RG = Мало Крушево
+| srp_V_name = Kruševo
+| srp_V_FULL_NAME_RO = Kruševo
+| srp_V_FULL_NAME_ND_RO = Krusevo
+| srp_V_SORT_NAME_RG = KRUSEVO
+| srp_V_FULL_NAME_RG = Kruševo
+| srp_V_FULL_NAME_ND_RG = Krusevo
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.563889
  | Lartësia            = 
 }}
-'''Krushevë e Vogël''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Krushevë e Vogël''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

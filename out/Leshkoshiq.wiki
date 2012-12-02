@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Leshkoshiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LESHKOSHIQ
- | FULL_NAME_RO = Leshkoshiq
- | FULL_NAME_ND_RO=Leshkoshiq
- | SORT_NAME_RG=LESHKOSHIQ
- | FULL_NAME_RG=Leshkoshiq
- | FULL_NAME_ND_RG=Leshkoshiq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Leshkoshiq
+| sqi_N_FULL_NAME_RO = Leshkoshiq
+| sqi_N_FULL_NAME_ND_RO = Leshkoshiq
+| sqi_N_SORT_NAME_RG = LESHKOSHIQ
+| sqi_N_FULL_NAME_RG = Leshkoshiq
+| sqi_N_FULL_NAME_ND_RG = Leshkoshiq
+| sqi_V_name = Leskovçic
+| sqi_V_FULL_NAME_RO = Leskovçic Lëskoshic
+| sqi_V_FULL_NAME_ND_RO = Leskovcic Leskoshic
+| sqi_V_SORT_NAME_RG = LESKOVCIC LESKOSHIC
+| sqi_V_FULL_NAME_RG = Leskovçic Lëskoshic
+| sqi_V_FULL_NAME_ND_RG = Leskovcic Leskoshic
+| srp_N_name = Leskovčić
+| srp_N_FULL_NAME_RO = Leskovčić
+| srp_N_FULL_NAME_ND_RO = Leskovcic
+| srp_N_SORT_NAME_RG = LESKOVCIC
+| srp_N_FULL_NAME_RG = Leskovčić
+| srp_N_FULL_NAME_ND_RG = Leskovcic
+| srp_NS_name = Лесковчић
+| srp_NS_FULL_NAME_RO = Лесковчић
+| srp_NS_FULL_NAME_ND_RO = Лесковчић
+| srp_NS_SORT_NAME_RG = ЛЕСКОВЧИЋ
+| srp_NS_FULL_NAME_RG = Лесковчић
+| srp_NS_FULL_NAME_ND_RG = Лесковчић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.035686
  | Lartësia            = 
 }}
-'''Leshkoshiq''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Leshkoshiq''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

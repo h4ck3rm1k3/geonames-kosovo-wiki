@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Svinjar
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SVINJAR
- | FULL_NAME_RO = Svinjar
- | FULL_NAME_ND_RO=Svinjar
- | SORT_NAME_RG=SVINJAR
- | FULL_NAME_RG=Svinjar
- | FULL_NAME_ND_RG=Svinjar
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Svinjar
+| sqi_D_FULL_NAME_RO = Svinjar
+| sqi_D_FULL_NAME_ND_RO = Svinjar
+| sqi_D_SORT_NAME_RG = SVINJAR
+| sqi_D_FULL_NAME_RG = Svinjar
+| sqi_D_FULL_NAME_ND_RG = Svinjar
+| sqi_V_name = Svinjarë
+| sqi_V_FULL_NAME_RO = Svinjarë Frashër
+| sqi_V_FULL_NAME_ND_RO = Svinjare Frasher
+| sqi_V_SORT_NAME_RG = SVINJARE FRASHER
+| sqi_V_FULL_NAME_RG = Svinjarë Frashër
+| sqi_V_FULL_NAME_ND_RG = Svinjare Frasher
+| srp_N_name = Svinjare
+| srp_N_FULL_NAME_RO = Svinjare
+| srp_N_FULL_NAME_ND_RO = Svinjare
+| srp_N_SORT_NAME_RG = SVINJARE
+| srp_N_FULL_NAME_RG = Svinjare
+| srp_N_FULL_NAME_ND_RG = Svinjare
+| srp_NS_name = Свињаре
+| srp_NS_FULL_NAME_RO = Свињаре
+| srp_NS_FULL_NAME_ND_RO = Свињаре
+| srp_NS_SORT_NAME_RG = СВИЊАРЕ
+| srp_NS_FULL_NAME_RG = Свињаре
+| srp_NS_FULL_NAME_ND_RG = Свињаре
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.889722
  | Lartësia            = 
 }}
-'''Svinjar''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Svinjar''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gabricë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GABRICE
- | FULL_NAME_RO = Gabricë
- | FULL_NAME_ND_RO=Gabrice
- | SORT_NAME_RG=GABRICE
- | FULL_NAME_RG=Gabricë
- | FULL_NAME_ND_RG=Gabrice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gabricë
+| sqi_N_FULL_NAME_RO = Gabricë
+| sqi_N_FULL_NAME_ND_RO = Gabrice
+| sqi_N_SORT_NAME_RG = GABRICE
+| sqi_N_FULL_NAME_RG = Gabricë
+| sqi_N_FULL_NAME_ND_RG = Gabrice
+| sqi_V_name = Dura - Gabricë
+| sqi_V_FULL_NAME_RO = Dura - Gabricë
+| sqi_V_FULL_NAME_ND_RO = Dura - Gabrice
+| sqi_V_SORT_NAME_RG = DURAGABRICE
+| sqi_V_FULL_NAME_RG = Dura - Gabricë
+| sqi_V_FULL_NAME_ND_RG = Dura - Gabrice
+| srp_N_name = Gabrica
+| srp_N_FULL_NAME_RO = Gabrica
+| srp_N_FULL_NAME_ND_RO = Gabrica
+| srp_N_SORT_NAME_RG = GABRICA
+| srp_N_FULL_NAME_RG = Gabrica
+| srp_N_FULL_NAME_ND_RG = Gabrica
+| srp_NS_name = Габрица
+| srp_NS_FULL_NAME_RO = Габрица
+| srp_NS_FULL_NAME_ND_RO = Габрица
+| srp_NS_SORT_NAME_RG = ГАБРИЦА
+| srp_NS_FULL_NAME_RG = Габрица
+| srp_NS_FULL_NAME_ND_RG = Габрица
+| srp_V_name = Dura - Gabrica
+| srp_V_FULL_NAME_RO = Dura - Gabrica
+| srp_V_FULL_NAME_ND_RO = Dura - Gabrica
+| srp_V_SORT_NAME_RG = DURAGABRICA
+| srp_V_FULL_NAME_RG = Dura - Gabrica
+| srp_V_FULL_NAME_ND_RG = Dura - Gabrica
+| srp_VS_name = Дура - Габрица
+| srp_VS_FULL_NAME_RO = Дура - Габрица
+| srp_VS_FULL_NAME_ND_RO = Дура - Габрица
+| srp_VS_SORT_NAME_RG = ДУРАГАБРИЦА
+| srp_VS_FULL_NAME_RG = Дура - Габрица
+| srp_VS_FULL_NAME_ND_RG = Дура - Габрица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.175278
  | Lartësia            = 
 }}
-'''Gabricë''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Gabricë''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vojnoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VOJNOC
- | FULL_NAME_RO = Vojnoc
- | FULL_NAME_ND_RO=Vojnoc
- | SORT_NAME_RG=VOJNOC
- | FULL_NAME_RG=Vojnoc
- | FULL_NAME_ND_RG=Vojnoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vojnoc
+| sqi_N_FULL_NAME_RO = Vojnoc
+| sqi_N_FULL_NAME_ND_RO = Vojnoc
+| sqi_N_SORT_NAME_RG = VOJNOC
+| sqi_N_FULL_NAME_RG = Vojnoc
+| sqi_N_FULL_NAME_ND_RG = Vojnoc
+| sqi_V_name = Vojnovc
+| sqi_V_FULL_NAME_RO = Vojnovc
+| sqi_V_FULL_NAME_ND_RO = Vojnovc
+| sqi_V_SORT_NAME_RG = VOJNOVC
+| sqi_V_FULL_NAME_RG = Vojnovc
+| sqi_V_FULL_NAME_ND_RG = Vojnovc
+| srp_N_name = Vojinovce
+| srp_N_FULL_NAME_RO = Vojinovce
+| srp_N_FULL_NAME_ND_RO = Vojinovce
+| srp_N_SORT_NAME_RG = VOJINOVCE
+| srp_N_FULL_NAME_RG = Vojinovce
+| srp_N_FULL_NAME_ND_RG = Vojinovce
+| srp_NS_name = Војиновце
+| srp_NS_FULL_NAME_RO = Војиновце
+| srp_NS_FULL_NAME_ND_RO = Војиновце
+| srp_NS_SORT_NAME_RG = ВОЈИНОВЦЕ
+| srp_NS_FULL_NAME_RG = Војиновце
+| srp_NS_FULL_NAME_ND_RG = Војиновце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.111944
  | Lartësia            = 
 }}
-'''Vojnoc''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Vojnoc''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

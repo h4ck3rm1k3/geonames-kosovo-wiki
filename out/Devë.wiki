@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Devë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DEVE
- | FULL_NAME_RO = Devë
- | FULL_NAME_ND_RO=Deve
- | SORT_NAME_RG=DEVE
- | FULL_NAME_RG=Devë
- | FULL_NAME_ND_RG=Deve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Devë
+| sqi_N_FULL_NAME_RO = Devë
+| sqi_N_FULL_NAME_ND_RO = Deve
+| sqi_N_SORT_NAME_RG = DEVE
+| sqi_N_FULL_NAME_RG = Devë
+| sqi_N_FULL_NAME_ND_RG = Deve
+| srp_N_name = Deva
+| srp_N_FULL_NAME_RO = Deva
+| srp_N_FULL_NAME_ND_RO = Deva
+| srp_N_SORT_NAME_RG = DEVA
+| srp_N_FULL_NAME_RG = Deva
+| srp_N_FULL_NAME_ND_RG = Deva
+| srp_NS_name = Дева
+| srp_NS_FULL_NAME_RO = Дева
+| srp_NS_FULL_NAME_ND_RO = Дева
+| srp_NS_SORT_NAME_RG = ДЕВА
+| srp_NS_FULL_NAME_RG = Дева
+| srp_NS_FULL_NAME_ND_RG = Дева
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.358056
  | Lartësia            = 
 }}
-'''Devë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Devë''' është një [[Fshat Vogel]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

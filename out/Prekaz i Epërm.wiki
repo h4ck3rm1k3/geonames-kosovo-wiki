@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prekaz i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PREKAZIEPERM
- | FULL_NAME_RO = Prekaz i Epërm
- | FULL_NAME_ND_RO=Prekaz i Eperm
- | SORT_NAME_RG=PREKAZIEPERM
- | FULL_NAME_RG=Prekaz i Epërm
- | FULL_NAME_ND_RG=Prekaz i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Prekaz i Epërm
+| sqi_N_FULL_NAME_RO = Prekaz i Epërm
+| sqi_N_FULL_NAME_ND_RO = Prekaz i Eperm
+| sqi_N_SORT_NAME_RG = PREKAZIEPERM
+| sqi_N_FULL_NAME_RG = Prekaz i Epërm
+| sqi_N_FULL_NAME_ND_RG = Prekaz i Eperm
+| sqi_V_name = Prekazi i Epërm
+| sqi_V_FULL_NAME_RO = Prekazi i Epërm
+| sqi_V_FULL_NAME_ND_RO = Prekazi i Eperm
+| sqi_V_SORT_NAME_RG = PREKAZIIEPERM
+| sqi_V_FULL_NAME_RG = Prekazi i Epërm
+| sqi_V_FULL_NAME_ND_RG = Prekazi i Eperm
+| srp_N_name = Gornje Prekaze
+| srp_N_FULL_NAME_RO = Gornje Prekaze
+| srp_N_FULL_NAME_ND_RO = Gornje Prekaze
+| srp_N_SORT_NAME_RG = GORNJEPREKAZE
+| srp_N_FULL_NAME_RG = Gornje Prekaze
+| srp_N_FULL_NAME_ND_RG = Gornje Prekaze
+| srp_NS_name = Горње Преказе
+| srp_NS_FULL_NAME_RO = Горње Преказе
+| srp_NS_FULL_NAME_ND_RO = Горње Преказе
+| srp_NS_SORT_NAME_RG = ГОРЊЕПРЕКАЗЕ
+| srp_NS_FULL_NAME_RG = Горње Преказе
+| srp_NS_FULL_NAME_ND_RG = Горње Преказе
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.829722
  | Lartësia            = 
 }}
-'''Prekaz i Epërm''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Prekaz i Epërm''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

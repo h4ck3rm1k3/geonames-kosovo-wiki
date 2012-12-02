@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Moglicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MOGLICE
- | FULL_NAME_RO = Moglicë
- | FULL_NAME_ND_RO=Moglice
- | SORT_NAME_RG=MOGLICE
- | FULL_NAME_RG=Moglicë
- | FULL_NAME_ND_RG=Moglice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Moglicë
+| sqi_N_FULL_NAME_RO = Moglicë
+| sqi_N_FULL_NAME_ND_RO = Moglice
+| sqi_N_SORT_NAME_RG = MOGLICE
+| sqi_N_FULL_NAME_RG = Moglicë
+| sqi_N_FULL_NAME_ND_RG = Moglice
+| sqi_V_name = Moglica
+| sqi_V_FULL_NAME_RO = Moglica
+| sqi_V_FULL_NAME_ND_RO = Moglica
+| sqi_V_SORT_NAME_RG = MOGLICA
+| sqi_V_FULL_NAME_RG = Moglica
+| sqi_V_FULL_NAME_ND_RG = Moglica
+| srp_N_name = Moglica
+| srp_N_FULL_NAME_RO = Moglica
+| srp_N_FULL_NAME_ND_RO = Moglica
+| srp_N_SORT_NAME_RG = MOGLICA
+| srp_N_FULL_NAME_RG = Moglica
+| srp_N_FULL_NAME_ND_RG = Moglica
+| srp_NS_name = Моглица
+| srp_NS_FULL_NAME_RO = Моглица
+| srp_NS_FULL_NAME_ND_RO = Моглица
+| srp_NS_SORT_NAME_RG = МОГЛИЦА
+| srp_NS_FULL_NAME_RG = Моглица
+| srp_NS_FULL_NAME_ND_RG = Моглица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.44
  | Lartësia            = 
 }}
-'''Moglicë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Moglicë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

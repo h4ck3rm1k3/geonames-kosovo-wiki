@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Varagë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VARAGE
- | FULL_NAME_RO = Varagë
- | FULL_NAME_ND_RO=Varage
- | SORT_NAME_RG=VARAGE
- | FULL_NAME_RG=Varagë
- | FULL_NAME_ND_RG=Varage
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Varagë
+| sqi_D_FULL_NAME_RO = Varagë
+| sqi_D_FULL_NAME_ND_RO = Varage
+| sqi_D_SORT_NAME_RG = VARAGE
+| sqi_D_FULL_NAME_RG = Varagë
+| sqi_D_FULL_NAME_ND_RG = Varage
+| sqi_V_name = Varragë e Poshtme
+| sqi_V_FULL_NAME_RO = Varragë e Poshtme
+| sqi_V_FULL_NAME_ND_RO = Varrage e Poshtme
+| sqi_V_SORT_NAME_RG = VARRAGEEPOSHTME
+| sqi_V_FULL_NAME_RG = Varragë e Poshtme
+| sqi_V_FULL_NAME_ND_RG = Varrage e Poshtme
+| srp_N_name = Varage
+| srp_N_FULL_NAME_RO = Varage
+| srp_N_FULL_NAME_ND_RO = Varage
+| srp_N_SORT_NAME_RG = VARAGE
+| srp_N_FULL_NAME_RG = Varage
+| srp_N_FULL_NAME_ND_RG = Varage
+| srp_NS_name = Вараге
+| srp_NS_FULL_NAME_RO = Вараге
+| srp_NS_FULL_NAME_ND_RO = Вараге
+| srp_NS_SORT_NAME_RG = ВАРАГЕ
+| srp_NS_FULL_NAME_RG = Вараге
+| srp_NS_FULL_NAME_ND_RG = Вараге
+| srp_V_name = Donje Varage
+| srp_V_FULL_NAME_RO = Donje Varage
+| srp_V_FULL_NAME_ND_RO = Donje Varage
+| srp_V_SORT_NAME_RG = DONJEVARAGE
+| srp_V_FULL_NAME_RG = Donje Varage
+| srp_V_FULL_NAME_ND_RG = Donje Varage
+| srp_VS_name = Доње Вараге
+| srp_VS_FULL_NAME_RO = Доње Вараге
+| srp_VS_FULL_NAME_ND_RO = Доње Вараге
+| srp_VS_SORT_NAME_RG = ДОЊЕВАРАГЕ
+| srp_VS_FULL_NAME_RG = Доње Вараге
+| srp_VS_FULL_NAME_ND_RG = Доње Вараге
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.735833
  | Lartësia            = 
 }}
-'''Varagë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Varagë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Guriq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GURIQ
- | FULL_NAME_RO = Guriq
- | FULL_NAME_ND_RO=Guriq
- | SORT_NAME_RG=GURIQ
- | FULL_NAME_RG=Guriq
- | FULL_NAME_ND_RG=Guriq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Guriq
+| sqi_N_FULL_NAME_RO = Guriq
+| sqi_N_FULL_NAME_ND_RO = Guriq
+| sqi_N_SORT_NAME_RG = GURIQ
+| sqi_N_FULL_NAME_RG = Guriq
+| sqi_N_FULL_NAME_ND_RG = Guriq
+| srp_N_name = Gorić
+| srp_N_FULL_NAME_RO = Gorić
+| srp_N_FULL_NAME_ND_RO = Goric
+| srp_N_SORT_NAME_RG = GORIC
+| srp_N_FULL_NAME_RG = Gorić
+| srp_N_FULL_NAME_ND_RG = Goric
+| srp_NS_name = Горић
+| srp_NS_FULL_NAME_RO = Горић
+| srp_NS_FULL_NAME_ND_RO = Горић
+| srp_NS_SORT_NAME_RG = ГОРИЋ
+| srp_NS_FULL_NAME_RG = Горић
+| srp_NS_FULL_NAME_ND_RG = Горић
+| srp_V_name = Goriće
+| srp_V_FULL_NAME_RO = Goriće
+| srp_V_FULL_NAME_ND_RO = Gorice
+| srp_V_SORT_NAME_RG = GORICE
+| srp_V_FULL_NAME_RG = Goriće
+| srp_V_FULL_NAME_ND_RG = Gorice
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.754167
  | Lartësia            = 
 }}
-'''Guriq''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Guriq''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

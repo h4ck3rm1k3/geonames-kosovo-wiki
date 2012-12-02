@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llazicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLAZICE
- | FULL_NAME_RO = Llazicë
- | FULL_NAME_ND_RO=Llazice
- | SORT_NAME_RG=LLAZICE
- | FULL_NAME_RG=Llazicë
- | FULL_NAME_ND_RG=Llazice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Llazicë
+| sqi_N_FULL_NAME_RO = Llazicë
+| sqi_N_FULL_NAME_ND_RO = Llazice
+| sqi_N_SORT_NAME_RG = LLAZICE
+| sqi_N_FULL_NAME_RG = Llazicë
+| sqi_N_FULL_NAME_ND_RG = Llazice
+| sqi_V_name = Llozicë
+| sqi_V_FULL_NAME_RO = Llozicë
+| sqi_V_FULL_NAME_ND_RO = Llozice
+| sqi_V_SORT_NAME_RG = LLOZICE
+| sqi_V_FULL_NAME_RG = Llozicë
+| sqi_V_FULL_NAME_ND_RG = Llozice
+| srp_N_name = Loznica
+| srp_N_FULL_NAME_RO = Loznica
+| srp_N_FULL_NAME_ND_RO = Loznica
+| srp_N_SORT_NAME_RG = LOZNICA
+| srp_N_FULL_NAME_RG = Loznica
+| srp_N_FULL_NAME_ND_RG = Loznica
+| srp_NS_name = Лозница
+| srp_NS_FULL_NAME_RO = Лозница
+| srp_NS_FULL_NAME_ND_RO = Лозница
+| srp_NS_SORT_NAME_RG = ЛОЗНИЦА
+| srp_NS_FULL_NAME_RG = Лозница
+| srp_NS_FULL_NAME_ND_RG = Лозница
+| srp_V_name = Lozica
+| srp_V_FULL_NAME_RO = Lozica
+| srp_V_FULL_NAME_ND_RO = Lozica
+| srp_V_SORT_NAME_RG = LOZICA
+| srp_V_FULL_NAME_RG = Lozica
+| srp_V_FULL_NAME_ND_RG = Lozica
+| srp_VS_name = Лозица
+| srp_VS_FULL_NAME_RO = Лозица
+| srp_VS_FULL_NAME_ND_RO = Лозица
+| srp_VS_SORT_NAME_RG = ЛОЗИЦА
+| srp_VS_FULL_NAME_RG = Лозица
+| srp_VS_FULL_NAME_ND_RG = Лозица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.763333
  | Lartësia            = 
 }}
-'''Llazicë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Llazicë''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

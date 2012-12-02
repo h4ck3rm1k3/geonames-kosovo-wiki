@@ -1,26 +1,28 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Brod
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BROD
- | FULL_NAME_RO = Brod
- | FULL_NAME_ND_RO=Brod
- | SORT_NAME_RG=BROD
- | FULL_NAME_RG=Brod
- | FULL_NAME_ND_RG=Brod
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Brod
+| sqi_N_FULL_NAME_RO = Brod
+| sqi_N_FULL_NAME_ND_RO = Brod
+| sqi_N_SORT_NAME_RG = BROD
+| sqi_N_FULL_NAME_RG = Brod
+| sqi_N_FULL_NAME_ND_RG = Brod
+| srp_N_name = Brod
+| srp_N_FULL_NAME_RO = Brod
+| srp_N_FULL_NAME_ND_RO = Brod
+| srp_N_SORT_NAME_RG = BROD
+| srp_N_FULL_NAME_RG = Brod
+| srp_N_FULL_NAME_ND_RG = Brod
+| srp_NS_name = Брод
+| srp_NS_FULL_NAME_RO = Брод
+| srp_NS_FULL_NAME_ND_RO = Брод
+| srp_NS_SORT_NAME_RG = БРОД
+| srp_NS_FULL_NAME_RG = Брод
+| srp_NS_FULL_NAME_ND_RG = Брод
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Dragash
+ | Komuna              = Shtërpcë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +32,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 41.991944
- | Gjatësia            = 20.706111
+ | Gjerësia            = 42.262778
+ | Gjatësia            = 21.124167
  | Lartësia            = 
 }}
-'''Brod''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Brod''' është një [[Fshat Vogel]] në [[Shtërpcë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Dragash}}
+{{Komuna Shtërpcë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Dragash]]
+[[Kategoria:Fshatra në Kommunes Shtërpcë]]
 [[Kategoria:Vendbanime në Kosovës]]

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gërlicë e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GERLICEEEPERME
- | FULL_NAME_RO = Gërlicë e Epërme
- | FULL_NAME_ND_RO=Gerlice e Eperme
- | SORT_NAME_RG=GERLICEEEPERME
- | FULL_NAME_RG=Gërlicë e Epërme
- | FULL_NAME_ND_RG=Gerlice e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gërlicë e Epërme
+| sqi_N_FULL_NAME_RO = Gërlicë e Epërme
+| sqi_N_FULL_NAME_ND_RO = Gerlice e Eperme
+| sqi_N_SORT_NAME_RG = GERLICEEEPERME
+| sqi_N_FULL_NAME_RG = Gërlicë e Epërme
+| sqi_N_FULL_NAME_ND_RG = Gerlice e Eperme
+| sqi_V_name = Gryka e Epërme
+| sqi_V_FULL_NAME_RO = Gryka e Epërme Gërlice e Epërme
+| sqi_V_FULL_NAME_ND_RO = Gryka e Eperme Gerlice e Eperme
+| sqi_V_SORT_NAME_RG = GRYKAEEPERME GERLICEEEPERME
+| sqi_V_FULL_NAME_RG = Gryka e Epërme Gërlice e Epërme
+| sqi_V_FULL_NAME_ND_RG = Gryka e Eperme Gerlice e Eperme
+| srp_N_name = Gornja Grlica
+| srp_N_FULL_NAME_RO = Gornja Grlica
+| srp_N_FULL_NAME_ND_RO = Gornja Grlica
+| srp_N_SORT_NAME_RG = GORNJAGRLICA
+| srp_N_FULL_NAME_RG = Gornja Grlica
+| srp_N_FULL_NAME_ND_RG = Gornja Grlica
+| srp_NS_name = Горња Грлица
+| srp_NS_FULL_NAME_RO = Горња Грлица
+| srp_NS_FULL_NAME_ND_RO = Горња Грлица
+| srp_NS_SORT_NAME_RG = ГОРЊАГРЛИЦА
+| srp_NS_FULL_NAME_RG = Горња Грлица
+| srp_NS_FULL_NAME_ND_RG = Горња Грлица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.165556
  | Lartësia            = 
 }}
-'''Gërlicë e Epërme''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Gërlicë e Epërme''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

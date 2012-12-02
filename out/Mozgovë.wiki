@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mozgovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MOZGOVE
- | FULL_NAME_RO = Mozgovë
- | FULL_NAME_ND_RO=Mozgove
- | SORT_NAME_RG=MOZGOVE
- | FULL_NAME_RG=Mozgovë
- | FULL_NAME_ND_RG=Mozgove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Mozgovë
+| sqi_N_FULL_NAME_RO = Mozgovë
+| sqi_N_FULL_NAME_ND_RO = Mozgove
+| sqi_N_SORT_NAME_RG = MOZGOVE
+| sqi_N_FULL_NAME_RG = Mozgovë
+| sqi_N_FULL_NAME_ND_RG = Mozgove
+| sqi_V_name = Mazgovë
+| sqi_V_FULL_NAME_RO = Mazgovë
+| sqi_V_FULL_NAME_ND_RO = Mazgove
+| sqi_V_SORT_NAME_RG = MAZGOVE
+| sqi_V_FULL_NAME_RG = Mazgovë
+| sqi_V_FULL_NAME_ND_RG = Mazgove
+| srp_N_name = Mozgovo
+| srp_N_FULL_NAME_RO = Mozgovo
+| srp_N_FULL_NAME_ND_RO = Mozgovo
+| srp_N_SORT_NAME_RG = MOZGOVO
+| srp_N_FULL_NAME_RG = Mozgovo
+| srp_N_FULL_NAME_ND_RG = Mozgovo
+| srp_NS_name = Мозгово
+| srp_NS_FULL_NAME_RO = Мозгово
+| srp_NS_FULL_NAME_ND_RO = Мозгово
+| srp_NS_SORT_NAME_RG = МОЗГОВО
+| srp_NS_FULL_NAME_RG = Мозгово
+| srp_NS_FULL_NAME_ND_RG = Мозгово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.501667
  | Lartësia            = 
 }}
-'''Mozgovë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Mozgovë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

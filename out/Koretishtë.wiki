@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Koretishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KORETISHTE
- | FULL_NAME_RO = Koretishtë
- | FULL_NAME_ND_RO=Koretishte
- | SORT_NAME_RG=KORETISHTE
- | FULL_NAME_RG=Koretishtë
- | FULL_NAME_ND_RG=Koretishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Koretishtë
+| sqi_N_FULL_NAME_RO = Koretishtë
+| sqi_N_FULL_NAME_ND_RO = Koretishte
+| sqi_N_SORT_NAME_RG = KORETISHTE
+| sqi_N_FULL_NAME_RG = Koretishtë
+| sqi_N_FULL_NAME_ND_RG = Koretishte
+| srp_N_name = Koretište
+| srp_N_FULL_NAME_RO = Koretište
+| srp_N_FULL_NAME_ND_RO = Koretiste
+| srp_N_SORT_NAME_RG = KORETISTE
+| srp_N_FULL_NAME_RG = Koretište
+| srp_N_FULL_NAME_ND_RG = Koretiste
+| srp_NS_name = Коретиште
+| srp_NS_FULL_NAME_RO = Коретиште
+| srp_NS_FULL_NAME_ND_RO = Коретиште
+| srp_NS_SORT_NAME_RG = КОРЕТИШТЕ
+| srp_NS_FULL_NAME_RG = Коретиште
+| srp_NS_FULL_NAME_ND_RG = Коретиште
+| srp_V_name = Koritište
+| srp_V_FULL_NAME_RO = Koritište
+| srp_V_FULL_NAME_ND_RO = Koritiste
+| srp_V_SORT_NAME_RG = KORITISTE
+| srp_V_FULL_NAME_RG = Koritište
+| srp_V_FULL_NAME_ND_RG = Koritiste
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.441667
  | Lartësia            = 
 }}
-'''Koretishtë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Koretishtë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

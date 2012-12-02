@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Oshlan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      OSHLAN
- | FULL_NAME_RO = Oshlan
- | FULL_NAME_ND_RO=Oshlan
- | SORT_NAME_RG=OSHLAN
- | FULL_NAME_RG=Oshlan
- | FULL_NAME_ND_RG=Oshlan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Oshlan
+| sqi_N_FULL_NAME_RO = Oshlan
+| sqi_N_FULL_NAME_ND_RO = Oshlan
+| sqi_N_SORT_NAME_RG = OSHLAN
+| sqi_N_FULL_NAME_RG = Oshlan
+| sqi_N_FULL_NAME_ND_RG = Oshlan
+| sqi_V_name = Ashlan
+| sqi_V_FULL_NAME_RO = Ashlan
+| sqi_V_FULL_NAME_ND_RO = Ashlan
+| sqi_V_SORT_NAME_RG = ASHLAN
+| sqi_V_FULL_NAME_RG = Ashlan
+| sqi_V_FULL_NAME_ND_RG = Ashlan
+| srp_N_name = Ošljane
+| srp_N_FULL_NAME_RO = Ošljane
+| srp_N_FULL_NAME_ND_RO = Osljane
+| srp_N_SORT_NAME_RG = OSLJANE
+| srp_N_FULL_NAME_RG = Ošljane
+| srp_N_FULL_NAME_ND_RG = Osljane
+| srp_NS_name = Ошљане
+| srp_NS_FULL_NAME_RO = Ошљане
+| srp_NS_FULL_NAME_ND_RO = Ошљане
+| srp_NS_SORT_NAME_RG = ОШЉАНЕ
+| srp_NS_FULL_NAME_RG = Ошљане
+| srp_NS_FULL_NAME_ND_RG = Ошљане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.873333
  | Lartësia            = 
 }}
-'''Oshlan''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Oshlan''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

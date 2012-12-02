@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rakinicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RAKINICE
- | FULL_NAME_RO = Rakinicë
- | FULL_NAME_ND_RO=Rakinice
- | SORT_NAME_RG=RAKINICE
- | FULL_NAME_RG=Rakinicë
- | FULL_NAME_ND_RG=Rakinice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rakinicë
+| sqi_N_FULL_NAME_RO = Rakinicë
+| sqi_N_FULL_NAME_ND_RO = Rakinice
+| sqi_N_SORT_NAME_RG = RAKINICE
+| sqi_N_FULL_NAME_RG = Rakinicë
+| sqi_N_FULL_NAME_ND_RG = Rakinice
+| sqi_V_name = Rakinc
+| sqi_V_FULL_NAME_RO = Rakinc Brezaj
+| sqi_V_FULL_NAME_ND_RO = Rakinc Brezaj
+| sqi_V_SORT_NAME_RG = RAKINC BREZAJ
+| sqi_V_FULL_NAME_RG = Rakinc Brezaj
+| sqi_V_FULL_NAME_ND_RG = Rakinc Brezaj
+| srp_N_name = Rakinica
+| srp_N_FULL_NAME_RO = Rakinica
+| srp_N_FULL_NAME_ND_RO = Rakinica
+| srp_N_SORT_NAME_RG = RAKINICA
+| srp_N_FULL_NAME_RG = Rakinica
+| srp_N_FULL_NAME_ND_RG = Rakinica
+| srp_NS_name = Ракиница
+| srp_NS_FULL_NAME_RO = Ракиница
+| srp_NS_FULL_NAME_ND_RO = Ракиница
+| srp_NS_SORT_NAME_RG = РАКИНИЦА
+| srp_NS_FULL_NAME_RG = Ракиница
+| srp_NS_FULL_NAME_ND_RG = Ракиница
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.351389
  | Lartësia            = 
 }}
-'''Rakinicë''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Rakinicë''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pouskë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POUSKE
- | FULL_NAME_RO = Pouskë
- | FULL_NAME_ND_RO=Pouske
- | SORT_NAME_RG=POUSKE
- | FULL_NAME_RG=Pouskë
- | FULL_NAME_ND_RG=Pouske
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pouskë
+| sqi_N_FULL_NAME_RO = Pouskë
+| sqi_N_FULL_NAME_ND_RO = Pouske
+| sqi_N_SORT_NAME_RG = POUSKE
+| sqi_N_FULL_NAME_RG = Pouskë
+| sqi_N_FULL_NAME_ND_RG = Pouske
+| srp_N_name = Pousko
+| srp_N_FULL_NAME_RO = Pousko
+| srp_N_FULL_NAME_ND_RO = Pousko
+| srp_N_SORT_NAME_RG = POUSKO
+| srp_N_FULL_NAME_RG = Pousko
+| srp_N_FULL_NAME_ND_RG = Pousko
+| srp_NS_name = Поуско
+| srp_NS_FULL_NAME_RO = Поуско
+| srp_NS_FULL_NAME_ND_RO = Поуско
+| srp_NS_SORT_NAME_RG = ПОУСКО
+| srp_NS_FULL_NAME_RG = Поуско
+| srp_NS_FULL_NAME_ND_RG = Поуско
+| std_V_name = Topusko
+| std_V_FULL_NAME_RO = Topusko
+| std_V_FULL_NAME_ND_RO = Topusko
+| std_V_SORT_NAME_RG = TOPUSKO
+| std_V_FULL_NAME_RG = Topusko
+| std_V_FULL_NAME_ND_RG = Topusko
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.766111
  | Lartësia            = 
 }}
-'''Pouskë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Pouskë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

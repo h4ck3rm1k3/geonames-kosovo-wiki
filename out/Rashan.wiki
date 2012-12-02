@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rashan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RASHAN
- | FULL_NAME_RO = Rashan
- | FULL_NAME_ND_RO=Rashan
- | SORT_NAME_RG=RASHAN
- | FULL_NAME_RG=Rashan
- | FULL_NAME_ND_RG=Rashan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rashan
+| sqi_N_FULL_NAME_RO = Rashan
+| sqi_N_FULL_NAME_ND_RO = Rashan
+| sqi_N_SORT_NAME_RG = RASHAN
+| sqi_N_FULL_NAME_RG = Rashan
+| sqi_N_FULL_NAME_ND_RG = Rashan
+| srp_N_name = Rašane
+| srp_N_FULL_NAME_RO = Rašane
+| srp_N_FULL_NAME_ND_RO = Rasane
+| srp_N_SORT_NAME_RG = RASANE
+| srp_N_FULL_NAME_RG = Rašane
+| srp_N_FULL_NAME_ND_RG = Rasane
+| srp_NS_name = Рашане
+| srp_NS_FULL_NAME_RO = Рашане
+| srp_NS_FULL_NAME_ND_RO = Рашане
+| srp_NS_SORT_NAME_RG = РАШАНЕ
+| srp_NS_FULL_NAME_RG = Рашане
+| srp_NS_FULL_NAME_ND_RG = Рашане
+| srp_V_name = Donje Rašane
+| srp_V_FULL_NAME_RO = Donje Rašane Gornje Rašane
+| srp_V_FULL_NAME_ND_RO = Donje Rasane Gornje Rasane
+| srp_V_SORT_NAME_RG = DONJERASANE GORNJERASANE
+| srp_V_FULL_NAME_RG = Donje Rašane Gornje Rašane
+| srp_V_FULL_NAME_ND_RG = Donje Rasane Gornje Rasane
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.942222
  | Lartësia            = 
 }}
-'''Rashan''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Rashan''' është një [[Fshat Vogel]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

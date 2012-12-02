@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Komogllavë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOMOGLLAVE
- | FULL_NAME_RO = Komogllavë
- | FULL_NAME_ND_RO=Komogllave
- | SORT_NAME_RG=KOMOGLLAVE
- | FULL_NAME_RG=Komogllavë
- | FULL_NAME_ND_RG=Komogllave
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Komogllavë
+| sqi_N_FULL_NAME_RO = Komogllavë
+| sqi_N_FULL_NAME_ND_RO = Komogllave
+| sqi_N_SORT_NAME_RG = KOMOGLLAVE
+| sqi_N_FULL_NAME_RG = Komogllavë
+| sqi_N_FULL_NAME_ND_RG = Komogllave
+| srp_N_name = Kamena Glava
+| srp_N_FULL_NAME_RO = Kamena Glava
+| srp_N_FULL_NAME_ND_RO = Kamena Glava
+| srp_N_SORT_NAME_RG = KAMENAGLAVA
+| srp_N_FULL_NAME_RG = Kamena Glava
+| srp_N_FULL_NAME_ND_RG = Kamena Glava
+| srp_NS_name = Камена Глава
+| srp_NS_FULL_NAME_RO = Камена Глава
+| srp_NS_FULL_NAME_ND_RO = Камена Глава
+| srp_NS_SORT_NAME_RG = КАМЕНАГЛАВА
+| srp_NS_FULL_NAME_RG = Камена Глава
+| srp_NS_FULL_NAME_ND_RG = Камена Глава
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.215833
  | Lartësia            = 
 }}
-'''Komogllavë''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Komogllavë''' është një [[Fshat Vogel]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

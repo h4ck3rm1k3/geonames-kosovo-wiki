@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Budzhak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BUDZHAK
- | FULL_NAME_RO = Budzhak
- | FULL_NAME_ND_RO=Budzhak
- | SORT_NAME_RG=BUDZHAK
- | FULL_NAME_RG=Budzhak
- | FULL_NAME_ND_RG=Budzhak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Budzhak
+| sqi_D_FULL_NAME_RO = Budzhak
+| sqi_D_FULL_NAME_ND_RO = Budzhak
+| sqi_D_SORT_NAME_RG = BUDZHAK
+| sqi_D_FULL_NAME_RG = Budzhak
+| sqi_D_FULL_NAME_ND_RG = Budzhak
+| srp_N_name = Budžak
+| srp_N_FULL_NAME_RO = Budžak
+| srp_N_FULL_NAME_ND_RO = Budzak
+| srp_N_SORT_NAME_RG = BUDZAK
+| srp_N_FULL_NAME_RG = Budžak
+| srp_N_FULL_NAME_ND_RG = Budzak
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 21.197182
  | Lartësia            = 
 }}
-'''Budzhak''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Budzhak''' është një [[Fshat Vogel]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Babimoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BABIMOC
- | FULL_NAME_RO = Babimoc
- | FULL_NAME_ND_RO=Babimoc
- | SORT_NAME_RG=BABIMOC
- | FULL_NAME_RG=Babimoc
- | FULL_NAME_ND_RG=Babimoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Babimoc
+| sqi_N_FULL_NAME_RO = Babimoc
+| sqi_N_FULL_NAME_ND_RO = Babimoc
+| sqi_N_SORT_NAME_RG = BABIMOC
+| sqi_N_FULL_NAME_RG = Babimoc
+| sqi_N_FULL_NAME_ND_RG = Babimoc
+| sqi_V_name = Babi Most
+| sqi_V_FULL_NAME_RO = Babi Most
+| sqi_V_FULL_NAME_ND_RO = Babi Most
+| sqi_V_SORT_NAME_RG = BABIMOST
+| sqi_V_FULL_NAME_RG = Babi Most
+| sqi_V_FULL_NAME_ND_RG = Babi Most
+| srp_N_name = Babin Most
+| srp_N_FULL_NAME_RO = Babin Most
+| srp_N_FULL_NAME_ND_RO = Babin Most
+| srp_N_SORT_NAME_RG = BABINMOST
+| srp_N_FULL_NAME_RG = Babin Most
+| srp_N_FULL_NAME_ND_RG = Babin Most
+| srp_NS_name = Бабин Мост
+| srp_NS_FULL_NAME_RO = Бабин Мост
+| srp_NS_FULL_NAME_ND_RO = Бабин Мост
+| srp_NS_SORT_NAME_RG = БАБИНМОСТ
+| srp_NS_FULL_NAME_RG = Бабин Мост
+| srp_NS_FULL_NAME_ND_RG = Бабин Мост
+| srp_V_name = Djabin Most
+| srp_V_FULL_NAME_RO = Djabin Most
+| srp_V_FULL_NAME_ND_RO = Djabin Most
+| srp_V_SORT_NAME_RG = DJABINMOST
+| srp_V_FULL_NAME_RG = Djabin Most
+| srp_V_FULL_NAME_ND_RG = Djabin Most
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.07747
  | Lartësia            = 
 }}
-'''Babimoc''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Babimoc''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

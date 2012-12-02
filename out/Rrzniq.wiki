@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rrzniq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RRZNIQ
- | FULL_NAME_RO = Rrzniq
- | FULL_NAME_ND_RO=Rrzniq
- | SORT_NAME_RG=RRZNIQ
- | FULL_NAME_RG=Rrzniq
- | FULL_NAME_ND_RG=Rrzniq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rrzniq
+| sqi_N_FULL_NAME_RO = Rrzniq
+| sqi_N_FULL_NAME_ND_RO = Rrzniq
+| sqi_N_SORT_NAME_RG = RRZNIQ
+| sqi_N_FULL_NAME_RG = Rrzniq
+| sqi_N_FULL_NAME_ND_RG = Rrzniq
+| sqi_V_name = Rrëzniq
+| sqi_V_FULL_NAME_RO = Rrëzniq Irzniqi Rrezar Rrezari Irzniq
+| sqi_V_FULL_NAME_ND_RO = Rrezniq Irzniqi Rrezar Rrezari Irzniq
+| sqi_V_SORT_NAME_RG = RREZNIQ IRZNIQI RREZAR RREZARI IRZNIQ
+| sqi_V_FULL_NAME_RG = Rrëzniq Irzniqi Rrezar Rrezari Irzniq
+| sqi_V_FULL_NAME_ND_RG = Rrezniq Irzniqi Rrezar Rrezari Irzniq
+| srp_N_name = Rznić
+| srp_N_FULL_NAME_RO = Rznić
+| srp_N_FULL_NAME_ND_RO = Rznic
+| srp_N_SORT_NAME_RG = RZNIC
+| srp_N_FULL_NAME_RG = Rznić
+| srp_N_FULL_NAME_ND_RG = Rznic
+| srp_NS_name = Рзнић
+| srp_NS_FULL_NAME_RO = Рзнић
+| srp_NS_FULL_NAME_ND_RO = Рзнић
+| srp_NS_SORT_NAME_RG = РЗНИЋ
+| srp_NS_FULL_NAME_RG = Рзнић
+| srp_NS_FULL_NAME_ND_RG = Рзнић
+| srp_V_name = Rrznić
+| srp_V_FULL_NAME_RO = Rrznić
+| srp_V_FULL_NAME_ND_RO = Rrznic
+| srp_V_SORT_NAME_RG = RRZNIC
+| srp_V_FULL_NAME_RG = Rrznić
+| srp_V_FULL_NAME_ND_RG = Rrznic
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.347222
  | Lartësia            = 
 }}
-'''Rrzniq''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Rrzniq''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

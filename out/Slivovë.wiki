@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Slivovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SLIVOVE
- | FULL_NAME_RO = Slivovë
- | FULL_NAME_ND_RO=Slivove
- | SORT_NAME_RG=SLIVOVE
- | FULL_NAME_RG=Slivovë
- | FULL_NAME_ND_RG=Slivove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Slivovë
+| sqi_N_FULL_NAME_RO = Slivovë
+| sqi_N_FULL_NAME_ND_RO = Slivove
+| sqi_N_SORT_NAME_RG = SLIVOVE
+| sqi_N_FULL_NAME_RG = Slivovë
+| sqi_N_FULL_NAME_ND_RG = Slivove
+| srp_N_name = Slivovo
+| srp_N_FULL_NAME_RO = Slivovo
+| srp_N_FULL_NAME_ND_RO = Slivovo
+| srp_N_SORT_NAME_RG = SLIVOVO
+| srp_N_FULL_NAME_RG = Slivovo
+| srp_N_FULL_NAME_ND_RG = Slivovo
+| srp_NS_name = Сливово
+| srp_NS_FULL_NAME_RO = Сливово
+| srp_NS_FULL_NAME_ND_RO = Сливово
+| srp_NS_SORT_NAME_RG = СЛИВОВО
+| srp_NS_FULL_NAME_RG = Сливово
+| srp_NS_FULL_NAME_ND_RG = Сливово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.334444
  | Lartësia            = 
 }}
-'''Slivovë''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Slivovë''' është një [[Fshat]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

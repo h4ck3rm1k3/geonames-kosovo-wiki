@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nebregosht
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NEBREGOSHT
- | FULL_NAME_RO = Nebregosht
- | FULL_NAME_ND_RO=Nebregosht
- | SORT_NAME_RG=NEBREGOSHT
- | FULL_NAME_RG=Nebregosht
- | FULL_NAME_ND_RG=Nebregosht
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Nebregosht
+| sqi_D_FULL_NAME_RO = Nebregosht
+| sqi_D_FULL_NAME_ND_RO = Nebregosht
+| sqi_D_SORT_NAME_RG = NEBREGOSHT
+| sqi_D_FULL_NAME_RG = Nebregosht
+| sqi_D_FULL_NAME_ND_RG = Nebregosht
+| sqi_V_name = Nepergosht
+| sqi_V_FULL_NAME_RO = Nepergosht Nebregoshtë Nepregoshtë Nebregoshi
+| sqi_V_FULL_NAME_ND_RO = Nepergosht Nebregoshte Nepregoshte Nebregoshi
+| sqi_V_SORT_NAME_RG = NEPERGOSHT NEBREGOSHTE NEPREGOSHTE NEBREGOSHI
+| sqi_V_FULL_NAME_RG = Nepergosht Nebregoshtë Nepregoshtë Nebregoshi
+| sqi_V_FULL_NAME_ND_RG = Nepergosht Nebregoshte Nepregoshte Nebregoshi
+| srp_N_name = Nebregošte
+| srp_N_FULL_NAME_RO = Nebregošte
+| srp_N_FULL_NAME_ND_RO = Nebregoste
+| srp_N_SORT_NAME_RG = NEBREGOSTE
+| srp_N_FULL_NAME_RG = Nebregošte
+| srp_N_FULL_NAME_ND_RG = Nebregoste
+| srp_NS_name = Небрегоште
+| srp_NS_FULL_NAME_RO = Небрегоште
+| srp_NS_FULL_NAME_ND_RO = Небрегоште
+| srp_NS_SORT_NAME_RG = НЕБРЕГОШТЕ
+| srp_NS_FULL_NAME_RG = Небрегоште
+| srp_NS_FULL_NAME_ND_RG = Небрегоште
+| srp_V_name = Nepregošte
+| srp_V_FULL_NAME_RO = Nepregošte
+| srp_V_FULL_NAME_ND_RO = Nepregoste
+| srp_V_SORT_NAME_RG = NEPREGOSTE
+| srp_V_FULL_NAME_RG = Nepregošte
+| srp_V_FULL_NAME_ND_RG = Nepregoste
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.823889
  | Lartësia            = 
 }}
-'''Nebregosht''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Nebregosht''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

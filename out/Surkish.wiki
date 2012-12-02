@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Surkish
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SURKISH
- | FULL_NAME_RO = Surkish
- | FULL_NAME_ND_RO=Surkish
- | SORT_NAME_RG=SURKISH
- | FULL_NAME_RG=Surkish
- | FULL_NAME_ND_RG=Surkish
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Surkish
+| sqi_N_FULL_NAME_RO = Surkish
+| sqi_N_FULL_NAME_ND_RO = Surkish
+| sqi_N_SORT_NAME_RG = SURKISH
+| sqi_N_FULL_NAME_RG = Surkish
+| sqi_N_FULL_NAME_ND_RG = Surkish
+| sqi_V_name = Surkishi
+| sqi_V_FULL_NAME_RO = Surkishi
+| sqi_V_FULL_NAME_ND_RO = Surkishi
+| sqi_V_SORT_NAME_RG = SURKISHI
+| sqi_V_FULL_NAME_RG = Surkishi
+| sqi_V_FULL_NAME_ND_RG = Surkishi
+| srp_N_name = Surkiš
+| srp_N_FULL_NAME_RO = Surkiš
+| srp_N_FULL_NAME_ND_RO = Surkis
+| srp_N_SORT_NAME_RG = SURKIS
+| srp_N_FULL_NAME_RG = Surkiš
+| srp_N_FULL_NAME_ND_RG = Surkis
+| srp_NS_name = Суркиш
+| srp_NS_FULL_NAME_RO = Суркиш
+| srp_NS_FULL_NAME_ND_RO = Суркиш
+| srp_NS_SORT_NAME_RG = СУРКИШ
+| srp_NS_FULL_NAME_RG = Суркиш
+| srp_NS_FULL_NAME_ND_RG = Суркиш
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.207667
  | Lartësia            = 
 }}
-'''Surkish''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Surkish''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

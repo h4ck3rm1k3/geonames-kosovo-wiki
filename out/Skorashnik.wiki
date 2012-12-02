@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Skorashnik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SKORASHNIK
- | FULL_NAME_RO = Skorashnik
- | FULL_NAME_ND_RO=Skorashnik
- | SORT_NAME_RG=SKORASHNIK
- | FULL_NAME_RG=Skorashnik
- | FULL_NAME_ND_RG=Skorashnik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Skorashnik
+| sqi_N_FULL_NAME_RO = Skorashnik
+| sqi_N_FULL_NAME_ND_RO = Skorashnik
+| sqi_N_SORT_NAME_RG = SKORASHNIK
+| sqi_N_FULL_NAME_RG = Skorashnik
+| sqi_N_FULL_NAME_ND_RG = Skorashnik
+| sqi_V_name = Shkorashnik
+| sqi_V_FULL_NAME_RO = Shkorashnik Skarashnik Shkarashnik
+| sqi_V_FULL_NAME_ND_RO = Shkorashnik Skarashnik Shkarashnik
+| sqi_V_SORT_NAME_RG = SHKORASHNIK SKARASHNIK SHKARASHNIK
+| sqi_V_FULL_NAME_RG = Shkorashnik Skarashnik Shkarashnik
+| sqi_V_FULL_NAME_ND_RG = Shkorashnik Skarashnik Shkarashnik
+| srp_N_name = Skorošnik
+| srp_N_FULL_NAME_RO = Skorošnik
+| srp_N_FULL_NAME_ND_RO = Skorosnik
+| srp_N_SORT_NAME_RG = SKOROSNIK
+| srp_N_FULL_NAME_RG = Skorošnik
+| srp_N_FULL_NAME_ND_RG = Skorosnik
+| srp_NS_name = Скорошник
+| srp_NS_FULL_NAME_RO = Скорошник
+| srp_NS_FULL_NAME_ND_RO = Скорошник
+| srp_NS_SORT_NAME_RG = СКОРОШНИК
+| srp_NS_FULL_NAME_RG = Скорошник
+| srp_NS_FULL_NAME_ND_RG = Скорошник
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.776944
  | Lartësia            = 
 }}
-'''Skorashnik''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Skorashnik''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

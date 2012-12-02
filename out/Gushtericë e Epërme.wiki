@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gushtericë e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GUSHTERICEEEPERME
- | FULL_NAME_RO = Gushtericë e Epërme
- | FULL_NAME_ND_RO=Gushterice e Eperme
- | SORT_NAME_RG=GUSHTERICEEEPERME
- | FULL_NAME_RG=Gushtericë e Epërme
- | FULL_NAME_ND_RG=Gushterice e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gushtericë e Epërme
+| sqi_N_FULL_NAME_RO = Gushtericë e Epërme
+| sqi_N_FULL_NAME_ND_RO = Gushterice e Eperme
+| sqi_N_SORT_NAME_RG = GUSHTERICEEEPERME
+| sqi_N_FULL_NAME_RG = Gushtericë e Epërme
+| sqi_N_FULL_NAME_ND_RG = Gushterice e Eperme
+| sqi_V_name = Shapc i Epërm
+| sqi_V_FULL_NAME_RO = Shapc i Epërm
+| sqi_V_FULL_NAME_ND_RO = Shapc i Eperm
+| sqi_V_SORT_NAME_RG = SHAPCIEPERM
+| sqi_V_FULL_NAME_RG = Shapc i Epërm
+| sqi_V_FULL_NAME_ND_RG = Shapc i Eperm
+| srp_N_name = Gornja Gušterica
+| srp_N_FULL_NAME_RO = Gornja Gušterica
+| srp_N_FULL_NAME_ND_RO = Gornja Gusterica
+| srp_N_SORT_NAME_RG = GORNJAGUSTERICA
+| srp_N_FULL_NAME_RG = Gornja Gušterica
+| srp_N_FULL_NAME_ND_RG = Gornja Gusterica
+| srp_NS_name = Горња Гуштерица
+| srp_NS_FULL_NAME_RO = Горња Гуштерица
+| srp_NS_FULL_NAME_ND_RO = Горња Гуштерица
+| srp_NS_SORT_NAME_RG = ГОРЊАГУШТЕРИЦА
+| srp_NS_FULL_NAME_RG = Горња Гуштерица
+| srp_NS_FULL_NAME_ND_RG = Горња Гуштерица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.208611
  | Lartësia            = 
 }}
-'''Gushtericë e Epërme''' është një [[]] në [[]] të [[Kosovës]].
+'''Gushtericë e Epërme''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

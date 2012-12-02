@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Peran
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PERAN
- | FULL_NAME_RO = Peran
- | FULL_NAME_ND_RO=Peran
- | SORT_NAME_RG=PERAN
- | FULL_NAME_RG=Peran
- | FULL_NAME_ND_RG=Peran
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Peran
+| sqi_N_FULL_NAME_RO = Peran
+| sqi_N_FULL_NAME_ND_RO = Peran
+| sqi_N_SORT_NAME_RG = PERAN
+| sqi_N_FULL_NAME_RG = Peran
+| sqi_N_FULL_NAME_ND_RG = Peran
+| sqi_V_name = Lkenasi
+| sqi_V_FULL_NAME_RO = Lkenasi Perani
+| sqi_V_FULL_NAME_ND_RO = Lkenasi Perani
+| sqi_V_SORT_NAME_RG = LKENASI PERANI
+| sqi_V_FULL_NAME_RG = Lkenasi Perani
+| sqi_V_FULL_NAME_ND_RG = Lkenasi Perani
+| srp_N_name = Perane
+| srp_N_FULL_NAME_RO = Perane
+| srp_N_FULL_NAME_ND_RO = Perane
+| srp_N_SORT_NAME_RG = PERANE
+| srp_N_FULL_NAME_RG = Perane
+| srp_N_FULL_NAME_ND_RG = Perane
+| srp_NS_name = Перане
+| srp_NS_FULL_NAME_RO = Перане
+| srp_NS_FULL_NAME_ND_RO = Перане
+| srp_NS_SORT_NAME_RG = ПЕРАНЕ
+| srp_NS_FULL_NAME_RG = Перане
+| srp_NS_FULL_NAME_ND_RG = Перане
+| srp_V_name = Lkenas
+| srp_V_FULL_NAME_RO = Lkenas
+| srp_V_FULL_NAME_ND_RO = Lkenas
+| srp_V_SORT_NAME_RG = LKENAS
+| srp_V_FULL_NAME_RG = Lkenas
+| srp_V_FULL_NAME_ND_RG = Lkenas
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.165153
  | Lartësia            = 
 }}
-'''Peran''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Peran''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

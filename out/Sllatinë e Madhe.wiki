@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sllatinë e Madhe
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SLLATINEEMADHE
- | FULL_NAME_RO = Sllatinë e Madhe
- | FULL_NAME_ND_RO=Sllatine e Madhe
- | SORT_NAME_RG=SLLATINEEMADHE
- | FULL_NAME_RG=Sllatinë e Madhe
- | FULL_NAME_ND_RG=Sllatine e Madhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sllatinë e Madhe
+| sqi_N_FULL_NAME_RO = Sllatinë e Madhe
+| sqi_N_FULL_NAME_ND_RO = Sllatine e Madhe
+| sqi_N_SORT_NAME_RG = SLLATINEEMADHE
+| sqi_N_FULL_NAME_RG = Sllatinë e Madhe
+| sqi_N_FULL_NAME_ND_RG = Sllatine e Madhe
+| sqi_V_name = Albana e Madhe
+| sqi_V_FULL_NAME_RO = Albana e Madhe Sllatina e Madhe
+| sqi_V_FULL_NAME_ND_RO = Albana e Madhe Sllatina e Madhe
+| sqi_V_SORT_NAME_RG = ALBANAEMADHE SLLATINAEMADHE
+| sqi_V_FULL_NAME_RG = Albana e Madhe Sllatina e Madhe
+| sqi_V_FULL_NAME_ND_RG = Albana e Madhe Sllatina e Madhe
+| srp_N_name = Velika Slatina
+| srp_N_FULL_NAME_RO = Velika Slatina
+| srp_N_FULL_NAME_ND_RO = Velika Slatina
+| srp_N_SORT_NAME_RG = VELIKASLATINA
+| srp_N_FULL_NAME_RG = Velika Slatina
+| srp_N_FULL_NAME_ND_RG = Velika Slatina
+| srp_NS_name = Велика Слатина
+| srp_NS_FULL_NAME_RO = Велика Слатина
+| srp_NS_FULL_NAME_ND_RO = Велика Слатина
+| srp_NS_SORT_NAME_RG = ВЕЛИКАСЛАТИНА
+| srp_NS_FULL_NAME_RG = Велика Слатина
+| srp_NS_FULL_NAME_ND_RG = Велика Слатина
+| srp_V_name = Slatina
+| srp_V_FULL_NAME_RO = Slatina Velika Sletina
+| srp_V_FULL_NAME_ND_RO = Slatina Velika Sletina
+| srp_V_SORT_NAME_RG = SLATINA VELIKASLETINA
+| srp_V_FULL_NAME_RG = Slatina Velika Sletina
+| srp_V_FULL_NAME_ND_RG = Slatina Velika Sletina
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.020366
  | Lartësia            = 
 }}
-'''Sllatinë e Madhe''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
+'''Sllatinë e Madhe''' është një [[Fshat]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

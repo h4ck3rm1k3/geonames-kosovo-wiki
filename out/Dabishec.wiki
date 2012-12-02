@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dabishec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DABISHEC
- | FULL_NAME_RO = Dabishec
- | FULL_NAME_ND_RO=Dabishec
- | SORT_NAME_RG=DABISHEC
- | FULL_NAME_RG=Dabishec
- | FULL_NAME_ND_RG=Dabishec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dabishec
+| sqi_N_FULL_NAME_RO = Dabishec
+| sqi_N_FULL_NAME_ND_RO = Dabishec
+| sqi_N_SORT_NAME_RG = DABISHEC
+| sqi_N_FULL_NAME_RG = Dabishec
+| sqi_N_FULL_NAME_ND_RG = Dabishec
+| sqi_V_name = Dabishefc
+| sqi_V_FULL_NAME_RO = Dabishefc
+| sqi_V_FULL_NAME_ND_RO = Dabishefc
+| sqi_V_SORT_NAME_RG = DABISHEFC
+| sqi_V_FULL_NAME_RG = Dabishefc
+| sqi_V_FULL_NAME_ND_RG = Dabishefc
+| srp_N_name = Dabiševac
+| srp_N_FULL_NAME_RO = Dabiševac
+| srp_N_FULL_NAME_ND_RO = Dabisevac
+| srp_N_SORT_NAME_RG = DABISEVAC
+| srp_N_FULL_NAME_RG = Dabiševac
+| srp_N_FULL_NAME_ND_RG = Dabisevac
+| srp_NS_name = Дабишевац
+| srp_NS_FULL_NAME_RO = Дабишевац
+| srp_NS_FULL_NAME_ND_RO = Дабишевац
+| srp_NS_SORT_NAME_RG = ДАБИШЕВАЦ
+| srp_NS_FULL_NAME_RG = Дабишевац
+| srp_NS_FULL_NAME_ND_RG = Дабишевац
+| srp_V_name = Dabiševci
+| srp_V_FULL_NAME_RO = Dabiševci Dobiševci
+| srp_V_FULL_NAME_ND_RO = Dabisevci Dobisevci
+| srp_V_SORT_NAME_RG = DABISEVCI DOBISEVCI
+| srp_V_FULL_NAME_RG = Dabiševci Dobiševci
+| srp_V_FULL_NAME_ND_RG = Dabisevci Dobisevci
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.433889
  | Lartësia            = 
 }}
-'''Dabishec''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Dabishec''' është një [[Fshat Vogel]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

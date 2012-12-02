@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kalludër e Madhe
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KALLUDEREMADHE
- | FULL_NAME_RO = Kalludër e Madhe
- | FULL_NAME_ND_RO=Kalluder e Madhe
- | SORT_NAME_RG=KALLUDEREMADHE
- | FULL_NAME_RG=Kalludër e Madhe
- | FULL_NAME_ND_RG=Kalluder e Madhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Kalludër e Madhe
+| sqi_D_FULL_NAME_RO = Kalludër e Madhe
+| sqi_D_FULL_NAME_ND_RO = Kalluder e Madhe
+| sqi_D_SORT_NAME_RG = KALLUDEREMADHE
+| sqi_D_FULL_NAME_RG = Kalludër e Madhe
+| sqi_D_FULL_NAME_ND_RG = Kalluder e Madhe
+| sqi_V_name = Kalludre e Madhe
+| sqi_V_FULL_NAME_RO = Kalludre e Madhe Kalludra e Madhe Kalludër i Madh
+| sqi_V_FULL_NAME_ND_RO = Kalludre e Madhe Kalludra e Madhe Kalluder i Madh
+| sqi_V_SORT_NAME_RG = KALLUDREEMADHE KALLUDRAEMADHE KALLUDERIMADH
+| sqi_V_FULL_NAME_RG = Kalludre e Madhe Kalludra e Madhe Kalludër i Madh
+| sqi_V_FULL_NAME_ND_RG = Kalludre e Madhe Kalludra e Madhe Kalluder i Madh
+| srp_N_name = Velika Kaludra
+| srp_N_FULL_NAME_RO = Velika Kaludra
+| srp_N_FULL_NAME_ND_RO = Velika Kaludra
+| srp_N_SORT_NAME_RG = VELIKAKALUDRA
+| srp_N_FULL_NAME_RG = Velika Kaludra
+| srp_N_FULL_NAME_ND_RG = Velika Kaludra
+| srp_NS_name = Велика Калудра
+| srp_NS_FULL_NAME_RO = Велика Калудра
+| srp_NS_FULL_NAME_ND_RO = Велика Калудра
+| srp_NS_SORT_NAME_RG = ВЕЛИКАКАЛУДРА
+| srp_NS_FULL_NAME_RG = Велика Калудра
+| srp_NS_FULL_NAME_ND_RG = Велика Калудра
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.628056
  | Lartësia            = 
 }}
-'''Kalludër e Madhe''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Kalludër e Madhe''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

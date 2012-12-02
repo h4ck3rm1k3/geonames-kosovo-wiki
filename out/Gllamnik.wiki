@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gllamnik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GLLAMNIK
- | FULL_NAME_RO = Gllamnik
- | FULL_NAME_ND_RO=Gllamnik
- | SORT_NAME_RG=GLLAMNIK
- | FULL_NAME_RG=Gllamnik
- | FULL_NAME_ND_RG=Gllamnik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gllamnik
+| sqi_N_FULL_NAME_RO = Gllamnik
+| sqi_N_FULL_NAME_ND_RO = Gllamnik
+| sqi_N_SORT_NAME_RG = GLLAMNIK
+| sqi_N_FULL_NAME_RG = Gllamnik
+| sqi_N_FULL_NAME_ND_RG = Gllamnik
+| sqi_V_name = Gllamniku
+| sqi_V_FULL_NAME_RO = Gllamniku Vendenisi Vendenis Gllavnik
+| sqi_V_FULL_NAME_ND_RO = Gllamniku Vendenisi Vendenis Gllavnik
+| sqi_V_SORT_NAME_RG = GLLAMNIKU VENDENISI VENDENIS GLLAVNIK
+| sqi_V_FULL_NAME_RG = Gllamniku Vendenisi Vendenis Gllavnik
+| sqi_V_FULL_NAME_ND_RG = Gllamniku Vendenisi Vendenis Gllavnik
+| srp_N_name = Glavnik
+| srp_N_FULL_NAME_RO = Glavnik
+| srp_N_FULL_NAME_ND_RO = Glavnik
+| srp_N_SORT_NAME_RG = GLAVNIK
+| srp_N_FULL_NAME_RG = Glavnik
+| srp_N_FULL_NAME_ND_RG = Glavnik
+| srp_NS_name = Главник
+| srp_NS_FULL_NAME_RO = Главник
+| srp_NS_FULL_NAME_ND_RO = Главник
+| srp_NS_SORT_NAME_RG = ГЛАВНИК
+| srp_NS_FULL_NAME_RG = Главник
+| srp_NS_FULL_NAME_ND_RG = Главник
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.185366
  | Lartësia            = 
 }}
-'''Gllamnik''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Gllamnik''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

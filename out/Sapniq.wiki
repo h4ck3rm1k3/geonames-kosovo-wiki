@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sapniq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SAPNIQ
- | FULL_NAME_RO = Sapniq
- | FULL_NAME_ND_RO=Sapniq
- | SORT_NAME_RG=SAPNIQ
- | FULL_NAME_RG=Sapniq
- | FULL_NAME_ND_RG=Sapniq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sapniq
+| sqi_N_FULL_NAME_RO = Sapniq
+| sqi_N_FULL_NAME_ND_RO = Sapniq
+| sqi_N_SORT_NAME_RG = SAPNIQ
+| sqi_N_FULL_NAME_RG = Sapniq
+| sqi_N_FULL_NAME_ND_RG = Sapniq
+| sqi_V_name = Sopaniq
+| sqi_V_FULL_NAME_RO = Sopaniq Sopniq
+| sqi_V_FULL_NAME_ND_RO = Sopaniq Sopniq
+| sqi_V_SORT_NAME_RG = SOPANIQ SOPNIQ
+| sqi_V_FULL_NAME_RG = Sopaniq Sopniq
+| sqi_V_FULL_NAME_ND_RG = Sopaniq Sopniq
+| srp_N_name = Sopnić
+| srp_N_FULL_NAME_RO = Sopnić
+| srp_N_FULL_NAME_ND_RO = Sopnic
+| srp_N_SORT_NAME_RG = SOPNIC
+| srp_N_FULL_NAME_RG = Sopnić
+| srp_N_FULL_NAME_ND_RG = Sopnic
+| srp_NS_name = Сопнић
+| srp_NS_FULL_NAME_RO = Сопнић
+| srp_NS_FULL_NAME_ND_RO = Сопнић
+| srp_NS_SORT_NAME_RG = СОПНИЋ
+| srp_NS_FULL_NAME_RG = Сопнић
+| srp_NS_FULL_NAME_ND_RG = Сопнић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.584722
  | Lartësia            = 
 }}
-'''Sapniq''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Sapniq''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

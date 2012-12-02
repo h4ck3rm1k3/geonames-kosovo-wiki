@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vraqevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VRAQEVE
- | FULL_NAME_RO = Vraqevë
- | FULL_NAME_ND_RO=Vraqeve
- | SORT_NAME_RG=VRAQEVE
- | FULL_NAME_RG=Vraqevë
- | FULL_NAME_ND_RG=Vraqeve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vraqevë
+| sqi_N_FULL_NAME_RO = Vraqevë
+| sqi_N_FULL_NAME_ND_RO = Vraqeve
+| sqi_N_SORT_NAME_RG = VRAQEVE
+| sqi_N_FULL_NAME_RG = Vraqevë
+| sqi_N_FULL_NAME_ND_RG = Vraqeve
+| sqi_V_name = Vraçevë
+| sqi_V_FULL_NAME_RO = Vraçevë
+| sqi_V_FULL_NAME_ND_RO = Vraceve
+| sqi_V_SORT_NAME_RG = VRACEVE
+| sqi_V_FULL_NAME_RG = Vraçevë
+| sqi_V_FULL_NAME_ND_RG = Vraceve
+| srp_N_name = Vračevo
+| srp_N_FULL_NAME_RO = Vračevo
+| srp_N_FULL_NAME_ND_RO = Vracevo
+| srp_N_SORT_NAME_RG = VRACEVO
+| srp_N_FULL_NAME_RG = Vračevo
+| srp_N_FULL_NAME_ND_RG = Vracevo
+| srp_NS_name = Врачево
+| srp_NS_FULL_NAME_RO = Врачево
+| srp_NS_FULL_NAME_ND_RO = Врачево
+| srp_NS_SORT_NAME_RG = ВРАЧЕВО
+| srp_NS_FULL_NAME_RG = Врачево
+| srp_NS_FULL_NAME_ND_RG = Врачево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.662222
  | Lartësia            = 
 }}
-'''Vraqevë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Vraqevë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

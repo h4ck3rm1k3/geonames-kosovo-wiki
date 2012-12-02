@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Koshare
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOSHARE
- | FULL_NAME_RO = Koshare
- | FULL_NAME_ND_RO=Koshare
- | SORT_NAME_RG=KOSHARE
- | FULL_NAME_RG=Koshare
- | FULL_NAME_ND_RG=Koshare
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Koshare
+| sqi_N_FULL_NAME_RO = Koshare
+| sqi_N_FULL_NAME_ND_RO = Koshare
+| sqi_N_SORT_NAME_RG = KOSHARE
+| sqi_N_FULL_NAME_RG = Koshare
+| sqi_N_FULL_NAME_ND_RG = Koshare
+| sqi_V_name = Koshajë
+| sqi_V_FULL_NAME_RO = Koshajë
+| sqi_V_FULL_NAME_ND_RO = Koshaje
+| sqi_V_SORT_NAME_RG = KOSHAJE
+| sqi_V_FULL_NAME_RG = Koshajë
+| sqi_V_FULL_NAME_ND_RG = Koshaje
+| srp_N_name = Košare
+| srp_N_FULL_NAME_RO = Košare
+| srp_N_FULL_NAME_ND_RO = Kosare
+| srp_N_SORT_NAME_RG = KOSARE
+| srp_N_FULL_NAME_RG = Košare
+| srp_N_FULL_NAME_ND_RG = Kosare
+| srp_NS_name = Кошаре
+| srp_NS_FULL_NAME_RO = Кошаре
+| srp_NS_FULL_NAME_ND_RO = Кошаре
+| srp_NS_SORT_NAME_RG = КОШАРЕ
+| srp_NS_FULL_NAME_RG = Кошаре
+| srp_NS_FULL_NAME_ND_RG = Кошаре
+| srp_V_name = Košara
+| srp_V_FULL_NAME_RO = Košara
+| srp_V_FULL_NAME_ND_RO = Kosara
+| srp_V_SORT_NAME_RG = KOSARA
+| srp_V_FULL_NAME_RG = Košara
+| srp_V_FULL_NAME_ND_RG = Kosara
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.238333
  | Lartësia            = 
 }}
-'''Koshare''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Koshare''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

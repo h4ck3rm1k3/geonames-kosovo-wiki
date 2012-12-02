@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Radivojc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RADIVOJC
- | FULL_NAME_RO = Radivojc
- | FULL_NAME_ND_RO=Radivojc
- | SORT_NAME_RG=RADIVOJC
- | FULL_NAME_RG=Radivojc
- | FULL_NAME_ND_RG=Radivojc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Radivojc
+| sqi_N_FULL_NAME_RO = Radivojc
+| sqi_N_FULL_NAME_ND_RO = Radivojc
+| sqi_N_SORT_NAME_RG = RADIVOJC
+| sqi_N_FULL_NAME_RG = Radivojc
+| sqi_N_FULL_NAME_ND_RG = Radivojc
+| sqi_V_name = Radivojcë
+| sqi_V_FULL_NAME_RO = Radivojcë
+| sqi_V_FULL_NAME_ND_RO = Radivojce
+| sqi_V_SORT_NAME_RG = RADIVOJCE
+| sqi_V_FULL_NAME_RG = Radivojcë
+| sqi_V_FULL_NAME_ND_RG = Radivojce
+| srp_N_name = Radivojce
+| srp_N_FULL_NAME_RO = Radivojce
+| srp_N_FULL_NAME_ND_RO = Radivojce
+| srp_N_SORT_NAME_RG = RADIVOJCE
+| srp_N_FULL_NAME_RG = Radivojce
+| srp_N_FULL_NAME_ND_RG = Radivojce
+| srp_NS_name = Радивојце
+| srp_NS_FULL_NAME_RO = Радивојце
+| srp_NS_FULL_NAME_ND_RO = Радивојце
+| srp_NS_SORT_NAME_RG = РАДИВОЈЦЕ
+| srp_NS_FULL_NAME_RG = Радивојце
+| srp_NS_FULL_NAME_ND_RG = Радивојце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.391944
  | Lartësia            = 
 }}
-'''Radivojc''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Radivojc''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

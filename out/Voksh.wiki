@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Voksh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VOKSH
- | FULL_NAME_RO = Voksh
- | FULL_NAME_ND_RO=Voksh
- | SORT_NAME_RG=VOKSH
- | FULL_NAME_RG=Voksh
- | FULL_NAME_ND_RG=Voksh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Voksh
+| sqi_N_FULL_NAME_RO = Voksh
+| sqi_N_FULL_NAME_ND_RO = Voksh
+| sqi_N_SORT_NAME_RG = VOKSH
+| sqi_N_FULL_NAME_RG = Voksh
+| sqi_N_FULL_NAME_ND_RG = Voksh
+| sqi_V_name = Voksha
+| sqi_V_FULL_NAME_RO = Voksha Vokshi
+| sqi_V_FULL_NAME_ND_RO = Voksha Vokshi
+| sqi_V_SORT_NAME_RG = VOKSHA VOKSHI
+| sqi_V_FULL_NAME_RG = Voksha Vokshi
+| sqi_V_FULL_NAME_ND_RG = Voksha Vokshi
+| srp_D_name = Vokša
+| srp_D_FULL_NAME_RO = Vokša
+| srp_D_FULL_NAME_ND_RO = Voksa
+| srp_D_SORT_NAME_RG = VOKSA
+| srp_D_FULL_NAME_RG = Vokša
+| srp_D_FULL_NAME_ND_RG = Voksa
+| srp_DS_name = Вокша
+| srp_DS_FULL_NAME_RO = Вокша
+| srp_DS_FULL_NAME_ND_RO = Вокша
+| srp_DS_SORT_NAME_RG = ВОКША
+| srp_DS_FULL_NAME_RG = Вокша
+| srp_DS_FULL_NAME_ND_RG = Вокша
+| srp_V_name = Vokš
+| srp_V_FULL_NAME_RO = Vokš
+| srp_V_FULL_NAME_ND_RO = Voks
+| srp_V_SORT_NAME_RG = VOKS
+| srp_V_FULL_NAME_RG = Vokš
+| srp_V_FULL_NAME_ND_RG = Voks
+| srp_VS_name = Вокш
+| srp_VS_FULL_NAME_RO = Вокш
+| srp_VS_FULL_NAME_ND_RO = Вокш
+| srp_VS_SORT_NAME_RG = ВОКШ
+| srp_VS_FULL_NAME_RG = Вокш
+| srp_VS_FULL_NAME_ND_RG = Вокш
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.272778
  | Lartësia            = 
 }}
-'''Voksh''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Voksh''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

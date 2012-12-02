@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gramaçel
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GRAMACEL
- | FULL_NAME_RO = Gramaçel
- | FULL_NAME_ND_RO=Gramacel
- | SORT_NAME_RG=GRAMACEL
- | FULL_NAME_RG=Gramaçel
- | FULL_NAME_ND_RG=Gramacel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gramaçel
+| sqi_N_FULL_NAME_RO = Gramaçel
+| sqi_N_FULL_NAME_ND_RO = Gramacel
+| sqi_N_SORT_NAME_RG = GRAMACEL
+| sqi_N_FULL_NAME_RG = Gramaçel
+| sqi_N_FULL_NAME_ND_RG = Gramacel
+| sqi_V_name = Gramaçe
+| sqi_V_FULL_NAME_RO = Gramaçe Gramaqel
+| sqi_V_FULL_NAME_ND_RO = Gramace Gramaqel
+| sqi_V_SORT_NAME_RG = GRAMACE GRAMAQEL
+| sqi_V_FULL_NAME_RG = Gramaçe Gramaqel
+| sqi_V_FULL_NAME_ND_RG = Gramace Gramaqel
+| srp_D_name = Gramočelj
+| srp_D_FULL_NAME_RO = Gramočelj
+| srp_D_FULL_NAME_ND_RO = Gramocelj
+| srp_D_SORT_NAME_RG = GRAMOCELJ
+| srp_D_FULL_NAME_RG = Gramočelj
+| srp_D_FULL_NAME_ND_RG = Gramocelj
+| srp_DS_name = Грамочељ
+| srp_DS_FULL_NAME_RO = Грамочељ
+| srp_DS_FULL_NAME_ND_RO = Грамочељ
+| srp_DS_SORT_NAME_RG = ГРАМОЧЕЉ
+| srp_DS_FULL_NAME_RG = Грамочељ
+| srp_DS_FULL_NAME_ND_RG = Грамочељ
+| srp_V_name = Gramočel
+| srp_V_FULL_NAME_RO = Gramočel Gramocelj
+| srp_V_FULL_NAME_ND_RO = Gramocel Gramocelj
+| srp_V_SORT_NAME_RG = GRAMOCEL GRAMOCELJ
+| srp_V_FULL_NAME_RG = Gramočel Gramocelj
+| srp_V_FULL_NAME_ND_RG = Gramocel Gramocelj
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.363611
  | Lartësia            = 
 }}
-'''Gramaçel''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Gramaçel''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

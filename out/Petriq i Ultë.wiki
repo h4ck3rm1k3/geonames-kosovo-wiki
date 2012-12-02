@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Petriq i Ultë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PETRIQIULTE
- | FULL_NAME_RO = Petriq i Ultë
- | FULL_NAME_ND_RO=Petriq i Ulte
- | SORT_NAME_RG=PETRIQIULTE
- | FULL_NAME_RG=Petriq i Ultë
- | FULL_NAME_ND_RG=Petriq i Ulte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Petriq i Ultë
+| sqi_D_FULL_NAME_RO = Petriq i Ultë
+| sqi_D_FULL_NAME_ND_RO = Petriq i Ulte
+| sqi_D_SORT_NAME_RG = PETRIQIULTE
+| sqi_D_FULL_NAME_RG = Petriq i Ultë
+| sqi_D_FULL_NAME_ND_RG = Petriq i Ulte
+| sqi_V_name = Pjetërq i Poshtëm
+| sqi_V_FULL_NAME_RO = Pjetërq i Poshtëm Potriq i Ulët
+| sqi_V_FULL_NAME_ND_RO = Pjeterq i Poshtem Potriq i Ulet
+| sqi_V_SORT_NAME_RG = PJETERQIPOSHTEM POTRIQIULET
+| sqi_V_FULL_NAME_RG = Pjetërq i Poshtëm Potriq i Ulët
+| sqi_V_FULL_NAME_ND_RG = Pjeterq i Poshtem Potriq i Ulet
+| srp_N_name = Donji Petrič
+| srp_N_FULL_NAME_RO = Donji Petrič
+| srp_N_FULL_NAME_ND_RO = Donji Petric
+| srp_N_SORT_NAME_RG = DONJIPETRIC
+| srp_N_FULL_NAME_RG = Donji Petrič
+| srp_N_FULL_NAME_ND_RG = Donji Petric
+| srp_NS_name = Доњи Петрич
+| srp_NS_FULL_NAME_RO = Доњи Петрич
+| srp_NS_FULL_NAME_ND_RO = Доњи Петрич
+| srp_NS_SORT_NAME_RG = ДОЊИПЕТРИЧ
+| srp_NS_FULL_NAME_RG = Доњи Петрич
+| srp_NS_FULL_NAME_ND_RG = Доњи Петрич
+| srp_V_name = Donji Poterč
+| srp_V_FULL_NAME_RO = Donji Poterč Donji Petrić
+| srp_V_FULL_NAME_ND_RO = Donji Poterc Donji Petric
+| srp_V_SORT_NAME_RG = DONJIPOTERC DONJIPETRIC
+| srp_V_FULL_NAME_RG = Donji Poterč Donji Petrić
+| srp_V_FULL_NAME_ND_RG = Donji Poterc Donji Petric
+| srp_VS_name = Доњи Петрић
+| srp_VS_FULL_NAME_RO = Доњи Петрић
+| srp_VS_FULL_NAME_ND_RO = Доњи Петрић
+| srp_VS_SORT_NAME_RG = ДОЊИПЕТРИЋ
+| srp_VS_FULL_NAME_RG = Доњи Петрић
+| srp_VS_FULL_NAME_ND_RG = Доњи Петрић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.502222
  | Lartësia            = 
 }}
-'''Petriq i Ultë''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Petriq i Ultë''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

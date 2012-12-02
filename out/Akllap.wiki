@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Akllap
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      AKLLAP
- | FULL_NAME_RO = Akllap
- | FULL_NAME_ND_RO=Akllap
- | SORT_NAME_RG=AKLLAP
- | FULL_NAME_RG=Akllap
- | FULL_NAME_ND_RG=Akllap
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Akllap
+| sqi_N_FULL_NAME_RO = Akllap
+| sqi_N_FULL_NAME_ND_RO = Akllap
+| sqi_N_SORT_NAME_RG = AKLLAP
+| sqi_N_FULL_NAME_RG = Akllap
+| sqi_N_FULL_NAME_ND_RG = Akllap
+| srp_N_name = Oklap
+| srp_N_FULL_NAME_RO = Oklap
+| srp_N_FULL_NAME_ND_RO = Oklap
+| srp_N_SORT_NAME_RG = OKLAP
+| srp_N_FULL_NAME_RG = Oklap
+| srp_N_FULL_NAME_ND_RG = Oklap
+| srp_NS_name = Оклап
+| srp_NS_FULL_NAME_RO = Оклап
+| srp_NS_FULL_NAME_ND_RO = Оклап
+| srp_NS_SORT_NAME_RG = ОКЛАП
+| srp_NS_FULL_NAME_RG = Оклап
+| srp_NS_FULL_NAME_ND_RG = Оклап
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.240907
  | Lartësia            = 
 }}
-'''Akllap''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Akllap''' është një [[Fshat Vogel]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

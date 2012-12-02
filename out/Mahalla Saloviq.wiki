@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mahalla Saloviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAHALLASALOVIQ
- | FULL_NAME_RO = Mahalla Saloviq
- | FULL_NAME_ND_RO=Mahalla Saloviq
- | SORT_NAME_RG=MAHALLASALOVIQ
- | FULL_NAME_RG=Mahalla Saloviq
- | FULL_NAME_ND_RG=Mahalla Saloviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Mahalla Saloviq
+| sqi_D_FULL_NAME_RO = Mahalla Saloviq
+| sqi_D_FULL_NAME_ND_RO = Mahalla Saloviq
+| sqi_D_SORT_NAME_RG = MAHALLASALOVIQ
+| sqi_D_FULL_NAME_RG = Mahalla Saloviq
+| sqi_D_FULL_NAME_ND_RG = Mahalla Saloviq
+| srp_N_name = Saalovič Mahala
+| srp_N_FULL_NAME_RO = Saalovič Mahala
+| srp_N_FULL_NAME_ND_RO = Saalovic Mahala
+| srp_N_SORT_NAME_RG = SAALOVICMAHALA
+| srp_N_FULL_NAME_RG = Saalovič Mahala
+| srp_N_FULL_NAME_ND_RG = Saalovic Mahala
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 21.200305
  | Lartësia            = 
 }}
-'''Mahalla Saloviq''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Mahalla Saloviq''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

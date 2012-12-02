@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Trakaniq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TRAKANIQ
- | FULL_NAME_RO = Trakaniq
- | FULL_NAME_ND_RO=Trakaniq
- | SORT_NAME_RG=TRAKANIQ
- | FULL_NAME_RG=Trakaniq
- | FULL_NAME_ND_RG=Trakaniq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Trakaniq
+| sqi_N_FULL_NAME_RO = Trakaniq
+| sqi_N_FULL_NAME_ND_RO = Trakaniq
+| sqi_N_SORT_NAME_RG = TRAKANIQ
+| sqi_N_FULL_NAME_RG = Trakaniq
+| sqi_N_FULL_NAME_ND_RG = Trakaniq
+| srp_N_name = Trakanić
+| srp_N_FULL_NAME_RO = Trakanić
+| srp_N_FULL_NAME_ND_RO = Trakanic
+| srp_N_SORT_NAME_RG = TRAKANIC
+| srp_N_FULL_NAME_RG = Trakanić
+| srp_N_FULL_NAME_ND_RG = Trakanic
+| srp_NS_name = Траканић
+| srp_NS_FULL_NAME_RO = Траканић
+| srp_NS_FULL_NAME_ND_RO = Траканић
+| srp_NS_SORT_NAME_RG = ТРАКАНИЋ
+| srp_NS_FULL_NAME_RG = Траканић
+| srp_NS_FULL_NAME_ND_RG = Траканић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.423056
  | Lartësia            = 
 }}
-'''Trakaniq''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Trakaniq''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

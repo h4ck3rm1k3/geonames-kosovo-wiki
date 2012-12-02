@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gojbulë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GOJBULE
- | FULL_NAME_RO = Gojbulë
- | FULL_NAME_ND_RO=Gojbule
- | SORT_NAME_RG=GOJBULE
- | FULL_NAME_RG=Gojbulë
- | FULL_NAME_ND_RG=Gojbule
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gojbulë
+| sqi_N_FULL_NAME_RO = Gojbulë
+| sqi_N_FULL_NAME_ND_RO = Gojbule
+| sqi_N_SORT_NAME_RG = GOJBULE
+| sqi_N_FULL_NAME_RG = Gojbulë
+| sqi_N_FULL_NAME_ND_RG = Gojbule
+| sqi_V_name = Gojbujë
+| sqi_V_FULL_NAME_RO = Gojbujë
+| sqi_V_FULL_NAME_ND_RO = Gojbuje
+| sqi_V_SORT_NAME_RG = GOJBUJE
+| sqi_V_FULL_NAME_RG = Gojbujë
+| sqi_V_FULL_NAME_ND_RG = Gojbuje
+| srp_N_name = Gojbulja
+| srp_N_FULL_NAME_RO = Gojbulja
+| srp_N_FULL_NAME_ND_RO = Gojbulja
+| srp_N_SORT_NAME_RG = GOJBULJA
+| srp_N_FULL_NAME_RG = Gojbulja
+| srp_N_FULL_NAME_ND_RG = Gojbulja
+| srp_NS_name = Гојбуља
+| srp_NS_FULL_NAME_RO = Гојбуља
+| srp_NS_FULL_NAME_ND_RO = Гојбуља
+| srp_NS_SORT_NAME_RG = ГОЈБУЉА
+| srp_NS_FULL_NAME_RG = Гојбуља
+| srp_NS_FULL_NAME_ND_RG = Гојбуља
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.991667
  | Lartësia            = 
 }}
-'''Gojbulë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Gojbulë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tvrgjan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TVRGJAN
- | FULL_NAME_RO = Tvrgjan
- | FULL_NAME_ND_RO=Tvrgjan
- | SORT_NAME_RG=TVRGJAN
- | FULL_NAME_RG=Tvrgjan
- | FULL_NAME_ND_RG=Tvrgjan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Tvrgjan
+| sqi_D_FULL_NAME_RO = Tvrgjan
+| sqi_D_FULL_NAME_ND_RO = Tvrgjan
+| sqi_D_SORT_NAME_RG = TVRGJAN
+| sqi_D_FULL_NAME_RG = Tvrgjan
+| sqi_D_FULL_NAME_ND_RG = Tvrgjan
+| sqi_V_name = Tvardzhan
+| sqi_V_FULL_NAME_RO = Tvardzhan
+| sqi_V_FULL_NAME_ND_RO = Tvardzhan
+| sqi_V_SORT_NAME_RG = TVARDZHAN
+| sqi_V_FULL_NAME_RG = Tvardzhan
+| sqi_V_FULL_NAME_ND_RG = Tvardzhan
+| srp_N_name = Tvrđan
+| srp_N_FULL_NAME_RO = Tvrđan
+| srp_N_FULL_NAME_ND_RO = Tvrdan
+| srp_N_SORT_NAME_RG = TVRDAN
+| srp_N_FULL_NAME_RG = Tvrđan
+| srp_N_FULL_NAME_ND_RG = Tvrdan
+| srp_NS_name = Тврђан
+| srp_NS_FULL_NAME_RO = Тврђан
+| srp_NS_FULL_NAME_ND_RO = Тврђан
+| srp_NS_SORT_NAME_RG = ТВРЂАН
+| srp_NS_FULL_NAME_RG = Тврђан
+| srp_NS_FULL_NAME_ND_RG = Тврђан
+| srp_V_name = Tvrđani
+| srp_V_FULL_NAME_RO = Tvrđani Tvrđane
+| srp_V_FULL_NAME_ND_RO = Tvrdani Tvrdane
+| srp_V_SORT_NAME_RG = TVRDANI TVRDANE
+| srp_V_FULL_NAME_RG = Tvrđani Tvrđane
+| srp_V_FULL_NAME_ND_RG = Tvrdani Tvrdane
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.803056
  | Lartësia            = 
 }}
-'''Tvrgjan''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Tvrgjan''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

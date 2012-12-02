@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bajçinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BAJCINE
- | FULL_NAME_RO = Bajçinë
- | FULL_NAME_ND_RO=Bajcine
- | SORT_NAME_RG=BAJCINE
- | FULL_NAME_RG=Bajçinë
- | FULL_NAME_ND_RG=Bajcine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bajçinë
+| sqi_N_FULL_NAME_RO = Bajçinë
+| sqi_N_FULL_NAME_ND_RO = Bajcine
+| sqi_N_SORT_NAME_RG = BAJCINE
+| sqi_N_FULL_NAME_RG = Bajçinë
+| sqi_N_FULL_NAME_ND_RG = Bajcine
+| sqi_V_name = Anallap
+| sqi_V_FULL_NAME_RO = Anallap Anallapi Bajqinë
+| sqi_V_FULL_NAME_ND_RO = Anallap Anallapi Bajqine
+| sqi_V_SORT_NAME_RG = ANALLAP ANALLAPI BAJQINE
+| sqi_V_FULL_NAME_RG = Anallap Anallapi Bajqinë
+| sqi_V_FULL_NAME_ND_RG = Anallap Anallapi Bajqine
+| srp_N_name = Bajčina
+| srp_N_FULL_NAME_RO = Bajčina
+| srp_N_FULL_NAME_ND_RO = Bajcina
+| srp_N_SORT_NAME_RG = BAJCINA
+| srp_N_FULL_NAME_RG = Bajčina
+| srp_N_FULL_NAME_ND_RG = Bajcina
+| srp_NS_name = Бајчина
+| srp_NS_FULL_NAME_RO = Бајчина
+| srp_NS_FULL_NAME_ND_RO = Бајчина
+| srp_NS_SORT_NAME_RG = БАЈЧИНА
+| srp_NS_FULL_NAME_RG = Бајчина
+| srp_NS_FULL_NAME_ND_RG = Бајчина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.156944
  | Lartësia            = 
 }}
-'''Bajçinë''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Bajçinë''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

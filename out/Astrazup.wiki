@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Astrazup
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ASTRAZUP
- | FULL_NAME_RO = Astrazup
- | FULL_NAME_ND_RO=Astrazup
- | SORT_NAME_RG=ASTRAZUP
- | FULL_NAME_RG=Astrazup
- | FULL_NAME_ND_RG=Astrazup
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Astrazup
+| sqi_N_FULL_NAME_RO = Astrazup
+| sqi_N_FULL_NAME_ND_RO = Astrazup
+| sqi_N_SORT_NAME_RG = ASTRAZUP
+| sqi_N_FULL_NAME_RG = Astrazup
+| sqi_N_FULL_NAME_ND_RG = Astrazup
+| srp_N_name = Ostrozub
+| srp_N_FULL_NAME_RO = Ostrozub
+| srp_N_FULL_NAME_ND_RO = Ostrozub
+| srp_N_SORT_NAME_RG = OSTROZUB
+| srp_N_FULL_NAME_RG = Ostrozub
+| srp_N_FULL_NAME_ND_RG = Ostrozub
+| srp_NS_name = Острозуб
+| srp_NS_FULL_NAME_RO = Острозуб
+| srp_NS_FULL_NAME_ND_RO = Острозуб
+| srp_NS_SORT_NAME_RG = ОСТРОЗУБ
+| srp_NS_FULL_NAME_RG = Острозуб
+| srp_NS_FULL_NAME_ND_RG = Острозуб
+| std_V_name = Astrazub
+| std_V_FULL_NAME_RO = Astrazub Astrozub
+| std_V_FULL_NAME_ND_RO = Astrazub Astrozub
+| std_V_SORT_NAME_RG = ASTRAZUB ASTROZUB
+| std_V_FULL_NAME_RG = Astrazub Astrozub
+| std_V_FULL_NAME_ND_RG = Astrazub Astrozub
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.7
  | Lartësia            = 
 }}
-'''Astrazup''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Astrazup''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

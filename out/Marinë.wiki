@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Marinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MARINE
- | FULL_NAME_RO = Marinë
- | FULL_NAME_ND_RO=Marine
- | SORT_NAME_RG=MARINE
- | FULL_NAME_RG=Marinë
- | FULL_NAME_ND_RG=Marine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Marinë
+| sqi_N_FULL_NAME_RO = Marinë
+| sqi_N_FULL_NAME_ND_RO = Marine
+| sqi_N_SORT_NAME_RG = MARINE
+| sqi_N_FULL_NAME_RG = Marinë
+| sqi_N_FULL_NAME_ND_RG = Marine
+| srp_N_name = Marina
+| srp_N_FULL_NAME_RO = Marina
+| srp_N_FULL_NAME_ND_RO = Marina
+| srp_N_SORT_NAME_RG = MARINA
+| srp_N_FULL_NAME_RG = Marina
+| srp_N_FULL_NAME_ND_RG = Marina
+| srp_NS_name = Марина
+| srp_NS_FULL_NAME_RO = Марина
+| srp_NS_FULL_NAME_ND_RO = Марина
+| srp_NS_SORT_NAME_RG = МАРИНА
+| srp_NS_FULL_NAME_RG = Марина
+| srp_NS_FULL_NAME_ND_RG = Марина
+| srp_V_name = Morina
+| srp_V_FULL_NAME_RO = Morina
+| srp_V_FULL_NAME_ND_RO = Morina
+| srp_V_SORT_NAME_RG = MORINA
+| srp_V_FULL_NAME_RG = Morina
+| srp_V_FULL_NAME_ND_RG = Morina
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.803611
  | Lartësia            = 
 }}
-'''Marinë''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Marinë''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

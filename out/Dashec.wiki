@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dashec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DASHEC
- | FULL_NAME_RO = Dashec
- | FULL_NAME_ND_RO=Dashec
- | SORT_NAME_RG=DASHEC
- | FULL_NAME_RG=Dashec
- | FULL_NAME_ND_RG=Dashec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dashec
+| sqi_N_FULL_NAME_RO = Dashec
+| sqi_N_FULL_NAME_ND_RO = Dashec
+| sqi_N_SORT_NAME_RG = DASHEC
+| sqi_N_FULL_NAME_RG = Dashec
+| sqi_N_FULL_NAME_ND_RG = Dashec
+| sqi_V_name = Doshevc
+| sqi_V_FULL_NAME_RO = Doshevc Dashefc
+| sqi_V_FULL_NAME_ND_RO = Doshevc Dashefc
+| sqi_V_SORT_NAME_RG = DOSHEVC DASHEFC
+| sqi_V_FULL_NAME_RG = Doshevc Dashefc
+| sqi_V_FULL_NAME_ND_RG = Doshevc Dashefc
+| srp_N_name = Doševac
+| srp_N_FULL_NAME_RO = Doševac
+| srp_N_FULL_NAME_ND_RO = Dosevac
+| srp_N_SORT_NAME_RG = DOSEVAC
+| srp_N_FULL_NAME_RG = Doševac
+| srp_N_FULL_NAME_ND_RG = Dosevac
+| srp_NS_name = Дошевац
+| srp_NS_FULL_NAME_RO = Дошевац
+| srp_NS_FULL_NAME_ND_RO = Дошевац
+| srp_NS_SORT_NAME_RG = ДОШЕВАЦ
+| srp_NS_FULL_NAME_RG = Дошевац
+| srp_NS_FULL_NAME_ND_RG = Дошевац
+| srp_V_name = Daševci
+| srp_V_FULL_NAME_RO = Daševci
+| srp_V_FULL_NAME_ND_RO = Dasevci
+| srp_V_SORT_NAME_RG = DASEVCI
+| srp_V_FULL_NAME_RG = Daševci
+| srp_V_FULL_NAME_ND_RG = Dasevci
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.861111
  | Lartësia            = 
 }}
-'''Dashec''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Dashec''' është një [[Fshat Vogel]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vaganesh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VAGANESH
- | FULL_NAME_RO = Vaganesh
- | FULL_NAME_ND_RO=Vaganesh
- | SORT_NAME_RG=VAGANESH
- | FULL_NAME_RG=Vaganesh
- | FULL_NAME_ND_RG=Vaganesh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vaganesh
+| sqi_N_FULL_NAME_RO = Vaganesh
+| sqi_N_FULL_NAME_ND_RO = Vaganesh
+| sqi_N_SORT_NAME_RG = VAGANESH
+| sqi_N_FULL_NAME_RG = Vaganesh
+| sqi_N_FULL_NAME_ND_RG = Vaganesh
+| sqi_V_name = Vakanesh
+| sqi_V_FULL_NAME_RO = Vakanesh Vaganeshi
+| sqi_V_FULL_NAME_ND_RO = Vakanesh Vaganeshi
+| sqi_V_SORT_NAME_RG = VAKANESH VAGANESHI
+| sqi_V_FULL_NAME_RG = Vakanesh Vaganeshi
+| sqi_V_FULL_NAME_ND_RG = Vakanesh Vaganeshi
+| srp_N_name = Vaganeš
+| srp_N_FULL_NAME_RO = Vaganeš
+| srp_N_FULL_NAME_ND_RO = Vaganes
+| srp_N_SORT_NAME_RG = VAGANES
+| srp_N_FULL_NAME_RG = Vaganeš
+| srp_N_FULL_NAME_ND_RG = Vaganes
+| srp_NS_name = Ваганеш
+| srp_NS_FULL_NAME_RO = Ваганеш
+| srp_NS_FULL_NAME_ND_RO = Ваганеш
+| srp_NS_SORT_NAME_RG = ВАГАНЕШ
+| srp_NS_FULL_NAME_RG = Ваганеш
+| srp_NS_FULL_NAME_ND_RG = Ваганеш
+| srp_V_name = Gaganeš
+| srp_V_FULL_NAME_RO = Gaganeš
+| srp_V_FULL_NAME_ND_RO = Gaganes
+| srp_V_SORT_NAME_RG = GAGANES
+| srp_V_FULL_NAME_RG = Gaganeš
+| srp_V_FULL_NAME_ND_RG = Gaganes
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.504722
  | Lartësia            = 
 }}
-'''Vaganesh''' është një [[]] në [[Fushë Kosovë]] të [[Kosovës]].
+'''Vaganesh''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

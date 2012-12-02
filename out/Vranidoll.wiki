@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vranidoll
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VRANIDOLL
- | FULL_NAME_RO = Vranidoll
- | FULL_NAME_ND_RO=Vranidoll
- | SORT_NAME_RG=VRANIDOLL
- | FULL_NAME_RG=Vranidoll
- | FULL_NAME_ND_RG=Vranidoll
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vranidoll
+| sqi_N_FULL_NAME_RO = Vranidoll
+| sqi_N_FULL_NAME_ND_RO = Vranidoll
+| sqi_N_SORT_NAME_RG = VRANIDOLL
+| sqi_N_FULL_NAME_RG = Vranidoll
+| sqi_N_FULL_NAME_ND_RG = Vranidoll
+| sqi_V_name = Vrani Dol
+| sqi_V_FULL_NAME_RO = Vrani Dol
+| sqi_V_FULL_NAME_ND_RO = Vrani Dol
+| sqi_V_SORT_NAME_RG = VRANIDOL
+| sqi_V_FULL_NAME_RG = Vrani Dol
+| sqi_V_FULL_NAME_ND_RG = Vrani Dol
+| srp_N_name = Vrani Do
+| srp_N_FULL_NAME_RO = Vrani Do
+| srp_N_FULL_NAME_ND_RO = Vrani Do
+| srp_N_SORT_NAME_RG = VRANIDO
+| srp_N_FULL_NAME_RG = Vrani Do
+| srp_N_FULL_NAME_ND_RG = Vrani Do
+| srp_NS_name = Врани До
+| srp_NS_FULL_NAME_RO = Врани До
+| srp_NS_FULL_NAME_ND_RO = Врани До
+| srp_NS_SORT_NAME_RG = ВРАНИДО
+| srp_NS_FULL_NAME_RG = Врани До
+| srp_NS_FULL_NAME_ND_RG = Врани До
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.152778
  | Lartësia            = 
 }}
-'''Vranidoll''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Vranidoll''' është një [[Fshat]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

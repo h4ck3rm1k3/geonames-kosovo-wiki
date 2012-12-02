@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pridvoricë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PRIDVORICE
- | FULL_NAME_RO = Pridvoricë
- | FULL_NAME_ND_RO=Pridvorice
- | SORT_NAME_RG=PRIDVORICE
- | FULL_NAME_RG=Pridvoricë
- | FULL_NAME_ND_RG=Pridvorice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pridvoricë
+| sqi_N_FULL_NAME_RO = Pridvoricë
+| sqi_N_FULL_NAME_ND_RO = Pridvorice
+| sqi_N_SORT_NAME_RG = PRIDVORICE
+| sqi_N_FULL_NAME_RG = Pridvoricë
+| sqi_N_FULL_NAME_ND_RG = Pridvorice
+| srp_N_name = Pridvorica
+| srp_N_FULL_NAME_RO = Pridvorica
+| srp_N_FULL_NAME_ND_RO = Pridvorica
+| srp_N_SORT_NAME_RG = PRIDVORICA
+| srp_N_FULL_NAME_RG = Pridvorica
+| srp_N_FULL_NAME_ND_RG = Pridvorica
+| srp_NS_name = Придворица
+| srp_NS_FULL_NAME_RO = Придворица
+| srp_NS_FULL_NAME_ND_RO = Придворица
+| srp_NS_SORT_NAME_RG = ПРИДВОРИЦА
+| srp_NS_FULL_NAME_RG = Придворица
+| srp_NS_FULL_NAME_ND_RG = Придворица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.799444
  | Lartësia            = 
 }}
-'''Pridvoricë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Pridvoricë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

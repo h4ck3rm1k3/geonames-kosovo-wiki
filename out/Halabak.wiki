@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Halabak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      HALABAK
- | FULL_NAME_RO = Halabak
- | FULL_NAME_ND_RO=Halabak
- | SORT_NAME_RG=HALABAK
- | FULL_NAME_RG=Halabak
- | FULL_NAME_ND_RG=Halabak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Halabak
+| sqi_N_FULL_NAME_RO = Halabak
+| sqi_N_FULL_NAME_ND_RO = Halabak
+| sqi_N_SORT_NAME_RG = HALABAK
+| sqi_N_FULL_NAME_RG = Halabak
+| sqi_N_FULL_NAME_ND_RG = Halabak
+| sqi_V_name = Halabaku
+| sqi_V_FULL_NAME_RO = Halabaku
+| sqi_V_FULL_NAME_ND_RO = Halabaku
+| sqi_V_SORT_NAME_RG = HALABAKU
+| sqi_V_FULL_NAME_RG = Halabaku
+| sqi_V_FULL_NAME_ND_RG = Halabaku
+| srp_N_name = Alabak
+| srp_N_FULL_NAME_RO = Alabak
+| srp_N_FULL_NAME_ND_RO = Alabak
+| srp_N_SORT_NAME_RG = ALABAK
+| srp_N_FULL_NAME_RG = Alabak
+| srp_N_FULL_NAME_ND_RG = Alabak
+| srp_NS_name = Алабак
+| srp_NS_FULL_NAME_RO = Алабак
+| srp_NS_FULL_NAME_ND_RO = Алабак
+| srp_NS_SORT_NAME_RG = АЛАБАК
+| srp_NS_FULL_NAME_RG = Алабак
+| srp_NS_FULL_NAME_ND_RG = Алабак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.220833
  | Lartësia            = 
 }}
-'''Halabak''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Halabak''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

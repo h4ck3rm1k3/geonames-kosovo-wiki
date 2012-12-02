@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lupç i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LUPCIEPERM
- | FULL_NAME_RO = Lupç i Epërm
- | FULL_NAME_ND_RO=Lupc i Eperm
- | SORT_NAME_RG=LUPCIEPERM
- | FULL_NAME_RG=Lupç i Epërm
- | FULL_NAME_ND_RG=Lupc i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lupç i Epërm
+| sqi_N_FULL_NAME_RO = Lupç i Epërm
+| sqi_N_FULL_NAME_ND_RO = Lupc i Eperm
+| sqi_N_SORT_NAME_RG = LUPCIEPERM
+| sqi_N_FULL_NAME_RG = Lupç i Epërm
+| sqi_N_FULL_NAME_ND_RG = Lupc i Eperm
+| sqi_V_name = Lupçi i Epërm
+| sqi_V_FULL_NAME_RO = Lupçi i Epërm Gurishtë Gurishta
+| sqi_V_FULL_NAME_ND_RO = Lupci i Eperm Gurishte Gurishta
+| sqi_V_SORT_NAME_RG = LUPCIIEPERM GURISHTE GURISHTA
+| sqi_V_FULL_NAME_RG = Lupçi i Epërm Gurishtë Gurishta
+| sqi_V_FULL_NAME_ND_RG = Lupci i Eperm Gurishte Gurishta
+| srp_N_name = Gornje Ljupče
+| srp_N_FULL_NAME_RO = Gornje Ljupče
+| srp_N_FULL_NAME_ND_RO = Gornje Ljupce
+| srp_N_SORT_NAME_RG = GORNJELJUPCE
+| srp_N_FULL_NAME_RG = Gornje Ljupče
+| srp_N_FULL_NAME_ND_RG = Gornje Ljupce
+| srp_NS_name = Горње Љупче
+| srp_NS_FULL_NAME_RO = Горње Љупче
+| srp_NS_FULL_NAME_ND_RO = Горње Љупче
+| srp_NS_SORT_NAME_RG = ГОРЊЕЉУПЧЕ
+| srp_NS_FULL_NAME_RG = Горње Љупче
+| srp_NS_FULL_NAME_ND_RG = Горње Љупче
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.094444
  | Lartësia            = 
 }}
-'''Lupç i Epërm''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Lupç i Epërm''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

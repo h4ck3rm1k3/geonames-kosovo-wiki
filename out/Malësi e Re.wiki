@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Malësi e Re
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MALESIERE
- | FULL_NAME_RO = Malësi e Re
- | FULL_NAME_ND_RO=Malesi e Re
- | SORT_NAME_RG=MALESIERE
- | FULL_NAME_RG=Malësi e Re
- | FULL_NAME_ND_RG=Malesi e Re
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Malësi e Re
+| sqi_D_FULL_NAME_RO = Malësi e Re
+| sqi_D_FULL_NAME_ND_RO = Malesi e Re
+| sqi_D_SORT_NAME_RG = MALESIERE
+| sqi_D_FULL_NAME_RG = Malësi e Re
+| sqi_D_FULL_NAME_ND_RG = Malesi e Re
+| srp_N_name = Nova Šumadija
+| srp_N_FULL_NAME_RO = Nova Šumadija
+| srp_N_FULL_NAME_ND_RO = Nova Sumadija
+| srp_N_SORT_NAME_RG = NOVASUMADIJA
+| srp_N_FULL_NAME_RG = Nova Šumadija
+| srp_N_FULL_NAME_ND_RG = Nova Sumadija
+| srp_NS_name = Нова Шумадија
+| srp_NS_FULL_NAME_RO = Нова Шумадија
+| srp_NS_FULL_NAME_ND_RO = Нова Шумадија
+| srp_NS_SORT_NAME_RG = НОВАШУМАДИЈА
+| srp_NS_FULL_NAME_RG = Нова Шумадија
+| srp_NS_FULL_NAME_ND_RG = Нова Шумадија
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.794722
  | Lartësia            = 
 }}
-'''Malësi e Re''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Malësi e Re''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

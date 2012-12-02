@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Blaç
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BLAC
- | FULL_NAME_RO = Blaç
- | FULL_NAME_ND_RO=Blac
- | SORT_NAME_RG=BLAC
- | FULL_NAME_RG=Blaç
- | FULL_NAME_ND_RG=Blac
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Blaç
+| sqi_D_FULL_NAME_RO = Blaç
+| sqi_D_FULL_NAME_ND_RO = Blac
+| sqi_D_SORT_NAME_RG = BLAC
+| sqi_D_FULL_NAME_RG = Blaç
+| sqi_D_FULL_NAME_ND_RG = Blac
+| sqi_V_name = Blaq
+| sqi_V_FULL_NAME_RO = Blaq Blas
+| sqi_V_FULL_NAME_ND_RO = Blaq Blas
+| sqi_V_SORT_NAME_RG = BLAQ BLAS
+| sqi_V_FULL_NAME_RG = Blaq Blas
+| sqi_V_FULL_NAME_ND_RG = Blaq Blas
+| srp_N_name = Bljač
+| srp_N_FULL_NAME_RO = Bljač
+| srp_N_FULL_NAME_ND_RO = Bljac
+| srp_N_SORT_NAME_RG = BLJAC
+| srp_N_FULL_NAME_RG = Bljač
+| srp_N_FULL_NAME_ND_RG = Bljac
+| srp_NS_name = Бљач
+| srp_NS_FULL_NAME_RO = Бљач
+| srp_NS_FULL_NAME_ND_RO = Бљач
+| srp_NS_SORT_NAME_RG = БЉАЧ
+| srp_NS_FULL_NAME_RG = Бљач
+| srp_NS_FULL_NAME_ND_RG = Бљач
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.735556
  | Lartësia            = 
 }}
-'''Blaç''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Blaç''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

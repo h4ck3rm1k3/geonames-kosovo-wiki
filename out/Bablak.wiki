@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bablak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BABLAK
- | FULL_NAME_RO = Bablak
- | FULL_NAME_ND_RO=Bablak
- | SORT_NAME_RG=BABLAK
- | FULL_NAME_RG=Bablak
- | FULL_NAME_ND_RG=Bablak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bablak
+| sqi_N_FULL_NAME_RO = Bablak
+| sqi_N_FULL_NAME_ND_RO = Bablak
+| sqi_N_SORT_NAME_RG = BABLAK
+| sqi_N_FULL_NAME_RG = Bablak
+| sqi_N_FULL_NAME_ND_RG = Bablak
+| srp_N_name = Babljak
+| srp_N_FULL_NAME_RO = Babljak
+| srp_N_FULL_NAME_ND_RO = Babljak
+| srp_N_SORT_NAME_RG = BABLJAK
+| srp_N_FULL_NAME_RG = Babljak
+| srp_N_FULL_NAME_ND_RG = Babljak
+| srp_NS_name = Бабљак
+| srp_NS_FULL_NAME_RO = Бабљак
+| srp_NS_FULL_NAME_ND_RO = Бабљак
+| srp_NS_SORT_NAME_RG = БАБЉАК
+| srp_NS_FULL_NAME_RG = Бабљак
+| srp_NS_FULL_NAME_ND_RG = Бабљак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.150556
  | Lartësia            = 
 }}
-'''Bablak''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Bablak''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

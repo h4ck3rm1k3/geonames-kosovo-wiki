@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rrezinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RREZINE
- | FULL_NAME_RO = Rrezinë
- | FULL_NAME_ND_RO=Rrezine
- | SORT_NAME_RG=RREZINE
- | FULL_NAME_RG=Rrezinë
- | FULL_NAME_ND_RG=Rrezine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Rrezinë
+| sqi_D_FULL_NAME_RO = Rrezinë
+| sqi_D_FULL_NAME_ND_RO = Rrezine
+| sqi_D_SORT_NAME_RG = RREZINE
+| sqi_D_FULL_NAME_RG = Rrezinë
+| sqi_D_FULL_NAME_ND_RG = Rrezine
+| sqi_V_name = Rezinë
+| sqi_V_FULL_NAME_RO = Rezinë
+| sqi_V_FULL_NAME_ND_RO = Rezine
+| sqi_V_SORT_NAME_RG = REZINE
+| sqi_V_FULL_NAME_RG = Rezinë
+| sqi_V_FULL_NAME_ND_RG = Rezine
+| srp_N_name = Rezina
+| srp_N_FULL_NAME_RO = Rezina
+| srp_N_FULL_NAME_ND_RO = Rezina
+| srp_N_SORT_NAME_RG = REZINA
+| srp_N_FULL_NAME_RG = Rezina
+| srp_N_FULL_NAME_ND_RG = Rezina
+| srp_NS_name = Резина
+| srp_NS_FULL_NAME_RO = Резина
+| srp_NS_FULL_NAME_ND_RO = Резина
+| srp_NS_SORT_NAME_RG = РЕЗИНА
+| srp_NS_FULL_NAME_RG = Резина
+| srp_NS_FULL_NAME_ND_RG = Резина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.494167
  | Lartësia            = 
 }}
-'''Rrezinë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Rrezinë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

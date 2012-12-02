@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Baçka
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BACKA
- | FULL_NAME_RO = Baçka
- | FULL_NAME_ND_RO=Backa
- | SORT_NAME_RG=BACKA
- | FULL_NAME_RG=Baçka
- | FULL_NAME_ND_RG=Backa
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Baçka
+| sqi_D_FULL_NAME_RO = Baçka
+| sqi_D_FULL_NAME_ND_RO = Backa
+| sqi_D_SORT_NAME_RG = BACKA
+| sqi_D_FULL_NAME_RG = Baçka
+| sqi_D_FULL_NAME_ND_RG = Backa
+| srp_N_name = Bačka
+| srp_N_FULL_NAME_RO = Bačka
+| srp_N_FULL_NAME_ND_RO = Backa
+| srp_N_SORT_NAME_RG = BACKA
+| srp_N_FULL_NAME_RG = Bačka
+| srp_N_FULL_NAME_ND_RG = Backa
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -30,11 +26,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.895037
- | Gjatësia            = 21.033781
+ | Gjerësia            = 42.914236
+ | Gjatësia            = 21.04553
  | Lartësia            = 
 }}
-'''Baçka''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Baçka''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

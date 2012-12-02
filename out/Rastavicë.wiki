@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rastavicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RASTAVICE
- | FULL_NAME_RO = Rastavicë
- | FULL_NAME_ND_RO=Rastavice
- | SORT_NAME_RG=RASTAVICE
- | FULL_NAME_RG=Rastavicë
- | FULL_NAME_ND_RG=Rastavice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Rastavicë
+| sqi_D_FULL_NAME_RO = Rastavicë
+| sqi_D_FULL_NAME_ND_RO = Rastavice
+| sqi_D_SORT_NAME_RG = RASTAVICE
+| sqi_D_FULL_NAME_RG = Rastavicë
+| sqi_D_FULL_NAME_ND_RG = Rastavice
+| sqi_V_name = Rastavcë
+| sqi_V_FULL_NAME_RO = Rastavcë Rastovicë
+| sqi_V_FULL_NAME_ND_RO = Rastavce Rastovice
+| sqi_V_SORT_NAME_RG = RASTAVCE RASTOVICE
+| sqi_V_FULL_NAME_RG = Rastavcë Rastovicë
+| sqi_V_FULL_NAME_ND_RG = Rastavce Rastovice
+| srp_D_name = Rastavica
+| srp_D_FULL_NAME_RO = Rastavica
+| srp_D_FULL_NAME_ND_RO = Rastavica
+| srp_D_SORT_NAME_RG = RASTAVICA
+| srp_D_FULL_NAME_RG = Rastavica
+| srp_D_FULL_NAME_ND_RG = Rastavica
+| srp_DS_name = Раставица
+| srp_DS_FULL_NAME_RO = Раставица
+| srp_DS_FULL_NAME_ND_RO = Раставица
+| srp_DS_SORT_NAME_RG = РАСТАВИЦА
+| srp_DS_FULL_NAME_RG = Раставица
+| srp_DS_FULL_NAME_ND_RG = Раставица
+| std_V_name = Rastavice
+| std_V_FULL_NAME_RO = Rastavice
+| std_V_FULL_NAME_ND_RO = Rastavice
+| std_V_SORT_NAME_RG = RASTAVICE
+| std_V_FULL_NAME_RG = Rastavice
+| std_V_FULL_NAME_ND_RG = Rastavice
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.327778
  | Lartësia            = 
 }}
-'''Rastavicë''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Rastavicë''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shajkoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHAJKOC
- | FULL_NAME_RO = Shajkoc
- | FULL_NAME_ND_RO=Shajkoc
- | SORT_NAME_RG=SHAJKOC
- | FULL_NAME_RG=Shajkoc
- | FULL_NAME_ND_RG=Shajkoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shajkoc
+| sqi_N_FULL_NAME_RO = Shajkoc
+| sqi_N_FULL_NAME_ND_RO = Shajkoc
+| sqi_N_SORT_NAME_RG = SHAJKOC
+| sqi_N_FULL_NAME_RG = Shajkoc
+| sqi_N_FULL_NAME_ND_RG = Shajkoc
+| sqi_V_name = Shajkofci
+| sqi_V_FULL_NAME_RO = Shajkofci Albaniku Shajkofc Shajkovc Albanik Sajkovc
+| sqi_V_FULL_NAME_ND_RO = Shajkofci Albaniku Shajkofc Shajkovc Albanik Sajkovc
+| sqi_V_SORT_NAME_RG = SHAJKOFCI ALBANIKU SHAJKOFC SHAJKOVC ALBANIK SAJKOVC
+| sqi_V_FULL_NAME_RG = Shajkofci Albaniku Shajkofc Shajkovc Albanik Sajkovc
+| sqi_V_FULL_NAME_ND_RG = Shajkofci Albaniku Shajkofc Shajkovc Albanik Sajkovc
+| srp_N_name = Šajkovac
+| srp_N_FULL_NAME_RO = Šajkovac
+| srp_N_FULL_NAME_ND_RO = Sajkovac
+| srp_N_SORT_NAME_RG = SAJKOVAC
+| srp_N_FULL_NAME_RG = Šajkovac
+| srp_N_FULL_NAME_ND_RG = Sajkovac
+| srp_NS_name = Шајковац
+| srp_NS_FULL_NAME_RO = Шајковац
+| srp_NS_FULL_NAME_ND_RO = Шајковац
+| srp_NS_SORT_NAME_RG = ШАЈКОВАЦ
+| srp_NS_FULL_NAME_RG = Шајковац
+| srp_NS_FULL_NAME_ND_RG = Шајковац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -30,11 +38,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.856563
- | Gjatësia            = 21.252534
+ | Gjerësia            = 42.863426
+ | Gjatësia            = 21.239013
  | Lartësia            = 
 }}
-'''Shajkoc''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Shajkoc''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

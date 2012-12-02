@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lladroviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLADROVIQ
- | FULL_NAME_RO = Lladroviq
- | FULL_NAME_ND_RO=Lladroviq
- | SORT_NAME_RG=LLADROVIQ
- | FULL_NAME_RG=Lladroviq
- | FULL_NAME_ND_RG=Lladroviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lladroviq
+| sqi_N_FULL_NAME_RO = Lladroviq
+| sqi_N_FULL_NAME_ND_RO = Lladroviq
+| sqi_N_SORT_NAME_RG = LLADROVIQ
+| sqi_N_FULL_NAME_RG = Lladroviq
+| sqi_N_FULL_NAME_ND_RG = Lladroviq
+| sqi_V_name = Ladroviq
+| sqi_V_FULL_NAME_RO = Ladroviq
+| sqi_V_FULL_NAME_ND_RO = Ladroviq
+| sqi_V_SORT_NAME_RG = LADROVIQ
+| sqi_V_FULL_NAME_RG = Ladroviq
+| sqi_V_FULL_NAME_ND_RG = Ladroviq
+| srp_N_name = Ladrović
+| srp_N_FULL_NAME_RO = Ladrović
+| srp_N_FULL_NAME_ND_RO = Ladrovic
+| srp_N_SORT_NAME_RG = LADROVIC
+| srp_N_FULL_NAME_RG = Ladrović
+| srp_N_FULL_NAME_ND_RG = Ladrovic
+| srp_NS_name = Ладровић
+| srp_NS_FULL_NAME_RO = Ладровић
+| srp_NS_FULL_NAME_ND_RO = Ладровић
+| srp_NS_SORT_NAME_RG = ЛАДРОВИЋ
+| srp_NS_FULL_NAME_RG = Ладровић
+| srp_NS_FULL_NAME_ND_RG = Ладровић
+| srp_VS_name = Ландровић
+| srp_VS_FULL_NAME_RO = Ландровић
+| srp_VS_FULL_NAME_ND_RO = Ландровић
+| srp_VS_SORT_NAME_RG = ЛАНДРОВИЋ
+| srp_VS_FULL_NAME_RG = Ландровић
+| srp_VS_FULL_NAME_ND_RG = Ландровић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.841667
  | Lartësia            = 
 }}
-'''Lladroviq''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Lladroviq''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

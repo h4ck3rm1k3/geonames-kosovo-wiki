@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Viçë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VICE
- | FULL_NAME_RO = Viçë
- | FULL_NAME_ND_RO=Vice
- | SORT_NAME_RG=VICE
- | FULL_NAME_RG=Viçë
- | FULL_NAME_ND_RG=Vice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Viçë
+| sqi_D_FULL_NAME_RO = Viçë
+| sqi_D_FULL_NAME_ND_RO = Vice
+| sqi_D_SORT_NAME_RG = VICE
+| sqi_D_FULL_NAME_RG = Viçë
+| sqi_D_FULL_NAME_ND_RG = Vice
+| sqi_V_name = Viqë
+| sqi_V_FULL_NAME_RO = Viqë
+| sqi_V_FULL_NAME_ND_RO = Viqe
+| sqi_V_SORT_NAME_RG = VIQE
+| sqi_V_FULL_NAME_RG = Viqë
+| sqi_V_FULL_NAME_ND_RG = Viqe
+| srp_N_name = Viča
+| srp_N_FULL_NAME_RO = Viča
+| srp_N_FULL_NAME_ND_RO = Vica
+| srp_N_SORT_NAME_RG = VICA
+| srp_N_FULL_NAME_RG = Viča
+| srp_N_FULL_NAME_ND_RG = Vica
+| srp_NS_name = Вича
+| srp_NS_FULL_NAME_RO = Вича
+| srp_NS_FULL_NAME_ND_RO = Вича
+| srp_NS_SORT_NAME_RG = ВИЧА
+| srp_NS_FULL_NAME_RG = Вича
+| srp_NS_FULL_NAME_ND_RG = Вича
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.080556
  | Lartësia            = 
 }}
-'''Viçë''' është një [[]] në [[Shtërpcë]] të [[Kosovës]].
+'''Viçë''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

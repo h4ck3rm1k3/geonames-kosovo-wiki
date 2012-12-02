@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kozhicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOZHICE
- | FULL_NAME_RO = Kozhicë
- | FULL_NAME_ND_RO=Kozhice
- | SORT_NAME_RG=KOZHICE
- | FULL_NAME_RG=Kozhicë
- | FULL_NAME_ND_RG=Kozhice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kozhicë
+| sqi_N_FULL_NAME_RO = Kozhicë
+| sqi_N_FULL_NAME_ND_RO = Kozhice
+| sqi_N_SORT_NAME_RG = KOZHICE
+| sqi_N_FULL_NAME_RG = Kozhicë
+| sqi_N_FULL_NAME_ND_RG = Kozhice
+| sqi_V_name = Kozhic
+| sqi_V_FULL_NAME_RO = Kozhic
+| sqi_V_FULL_NAME_ND_RO = Kozhic
+| sqi_V_SORT_NAME_RG = KOZHIC
+| sqi_V_FULL_NAME_RG = Kozhic
+| sqi_V_FULL_NAME_ND_RG = Kozhic
+| srp_N_name = Kožica
+| srp_N_FULL_NAME_RO = Kožica
+| srp_N_FULL_NAME_ND_RO = Kozica
+| srp_N_SORT_NAME_RG = KOZICA
+| srp_N_FULL_NAME_RG = Kožica
+| srp_N_FULL_NAME_ND_RG = Kozica
+| srp_NS_name = Кожица
+| srp_NS_FULL_NAME_RO = Кожица
+| srp_NS_FULL_NAME_ND_RO = Кожица
+| srp_NS_SORT_NAME_RG = КОЖИЦА
+| srp_NS_FULL_NAME_RG = Кожица
+| srp_NS_FULL_NAME_ND_RG = Кожица
+| srp_V_name = Kožince
+| srp_V_FULL_NAME_RO = Kožince
+| srp_V_FULL_NAME_ND_RO = Kozince
+| srp_V_SORT_NAME_RG = KOZINCE
+| srp_V_FULL_NAME_RG = Kožince
+| srp_V_FULL_NAME_ND_RG = Kozince
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.905833
  | Lartësia            = 
 }}
-'''Kozhicë''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Kozhicë''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

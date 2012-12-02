@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Meshinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MESHINE
- | FULL_NAME_RO = Meshinë
- | FULL_NAME_ND_RO=Meshine
- | SORT_NAME_RG=MESHINE
- | FULL_NAME_RG=Meshinë
- | FULL_NAME_ND_RG=Meshine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Meshinë
+| sqi_N_FULL_NAME_RO = Meshinë
+| sqi_N_FULL_NAME_ND_RO = Meshine
+| sqi_N_SORT_NAME_RG = MESHINE
+| sqi_N_FULL_NAME_RG = Meshinë
+| sqi_N_FULL_NAME_ND_RG = Meshine
+| sqi_V_name = Meshina
+| sqi_V_FULL_NAME_RO = Meshina
+| sqi_V_FULL_NAME_ND_RO = Meshina
+| sqi_V_SORT_NAME_RG = MESHINA
+| sqi_V_FULL_NAME_RG = Meshina
+| sqi_V_FULL_NAME_ND_RG = Meshina
+| srp_N_name = Mešina
+| srp_N_FULL_NAME_RO = Mešina
+| srp_N_FULL_NAME_ND_RO = Mesina
+| srp_N_SORT_NAME_RG = MESINA
+| srp_N_FULL_NAME_RG = Mešina
+| srp_N_FULL_NAME_ND_RG = Mesina
+| srp_NS_name = Мешина
+| srp_NS_FULL_NAME_RO = Мешина
+| srp_NS_FULL_NAME_ND_RO = Мешина
+| srp_NS_SORT_NAME_RG = МЕШИНА
+| srp_NS_FULL_NAME_RG = Мешина
+| srp_NS_FULL_NAME_ND_RG = Мешина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.545556
  | Lartësia            = 
 }}
-'''Meshinë''' është një [[]] në [[Fushë Kosovë]] të [[Kosovës]].
+'''Meshinë''' është një [[Fshat Vogel]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

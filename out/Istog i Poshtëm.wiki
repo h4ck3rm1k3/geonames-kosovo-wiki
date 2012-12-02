@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Istog i Poshtëm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ISTOGIPOSHTEM
- | FULL_NAME_RO = Istog i Poshtëm
- | FULL_NAME_ND_RO=Istog i Poshtem
- | SORT_NAME_RG=ISTOGIPOSHTEM
- | FULL_NAME_RG=Istog i Poshtëm
- | FULL_NAME_ND_RG=Istog i Poshtem
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Istog i Poshtëm
+| sqi_D_FULL_NAME_RO = Istog i Poshtëm
+| sqi_D_FULL_NAME_ND_RO = Istog i Poshtem
+| sqi_D_SORT_NAME_RG = ISTOGIPOSHTEM
+| sqi_D_FULL_NAME_RG = Istog i Poshtëm
+| sqi_D_FULL_NAME_ND_RG = Istog i Poshtem
+| sqi_V_name = Burimi i Poshtëm
+| sqi_V_FULL_NAME_RO = Burimi i Poshtëm Istogu i Poshtëm Istoku i Postëm
+| sqi_V_FULL_NAME_ND_RO = Burimi i Poshtem Istogu i Poshtem Istoku i Postem
+| sqi_V_SORT_NAME_RG = BURIMIIPOSHTEM ISTOGUIPOSHTEM ISTOKUIPOSTEM
+| sqi_V_FULL_NAME_RG = Burimi i Poshtëm Istogu i Poshtëm Istoku i Postëm
+| sqi_V_FULL_NAME_ND_RG = Burimi i Poshtem Istogu i Poshtem Istoku i Postem
+| srp_N_name = Donji Istok
+| srp_N_FULL_NAME_RO = Donji Istok
+| srp_N_FULL_NAME_ND_RO = Donji Istok
+| srp_N_SORT_NAME_RG = DONJIISTOK
+| srp_N_FULL_NAME_RG = Donji Istok
+| srp_N_FULL_NAME_ND_RG = Donji Istok
+| srp_NS_name = Доњи Исток
+| srp_NS_FULL_NAME_RO = Доњи Исток
+| srp_NS_FULL_NAME_ND_RO = Доњи Исток
+| srp_NS_SORT_NAME_RG = ДОЊИИСТОК
+| srp_NS_FULL_NAME_RG = Доњи Исток
+| srp_NS_FULL_NAME_ND_RG = Доњи Исток
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.498889
  | Lartësia            = 
 }}
-'''Istog i Poshtëm''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Istog i Poshtëm''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rakoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RAKOC
- | FULL_NAME_RO = Rakoc
- | FULL_NAME_ND_RO=Rakoc
- | SORT_NAME_RG=RAKOC
- | FULL_NAME_RG=Rakoc
- | FULL_NAME_ND_RG=Rakoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rakoc
+| sqi_N_FULL_NAME_RO = Rakoc
+| sqi_N_FULL_NAME_ND_RO = Rakoc
+| sqi_N_SORT_NAME_RG = RAKOC
+| sqi_N_FULL_NAME_RG = Rakoc
+| sqi_N_FULL_NAME_ND_RG = Rakoc
+| srp_N_name = Rakoc
+| srp_N_FULL_NAME_RO = Rakoc
+| srp_N_FULL_NAME_ND_RO = Rakoc
+| srp_N_SORT_NAME_RG = RAKOC
+| srp_N_FULL_NAME_RG = Rakoc
+| srp_N_FULL_NAME_ND_RG = Rakoc
+| srp_NS_name = Ракоц
+| srp_NS_FULL_NAME_RO = Ракоц
+| srp_NS_FULL_NAME_ND_RO = Ракоц
+| srp_NS_SORT_NAME_RG = РАКОЦ
+| srp_NS_FULL_NAME_RG = Ракоц
+| srp_NS_FULL_NAME_ND_RG = Ракоц
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.417222
  | Lartësia            = 
 }}
-'''Rakoc''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Rakoc''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

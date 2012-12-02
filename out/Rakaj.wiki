@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rakaj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RAKAJ
- | FULL_NAME_RO = Rakaj
- | FULL_NAME_ND_RO=Rakaj
- | SORT_NAME_RG=RAKAJ
- | FULL_NAME_RG=Rakaj
- | FULL_NAME_ND_RG=Rakaj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rakaj
+| sqi_N_FULL_NAME_RO = Rakaj
+| sqi_N_FULL_NAME_ND_RO = Rakaj
+| sqi_N_SORT_NAME_RG = RAKAJ
+| sqi_N_FULL_NAME_RG = Rakaj
+| sqi_N_FULL_NAME_ND_RG = Rakaj
+| sqi_V_name = Rakë
+| sqi_V_FULL_NAME_RO = Rakë Rekë
+| sqi_V_FULL_NAME_ND_RO = Rake Reke
+| sqi_V_SORT_NAME_RG = RAKE REKE
+| sqi_V_FULL_NAME_RG = Rakë Rekë
+| sqi_V_FULL_NAME_ND_RG = Rake Reke
+| srp_N_name = Raka
+| srp_N_FULL_NAME_RO = Raka
+| srp_N_FULL_NAME_ND_RO = Raka
+| srp_N_SORT_NAME_RG = RAKA
+| srp_N_FULL_NAME_RG = Raka
+| srp_N_FULL_NAME_ND_RG = Raka
+| srp_NS_name = Рака
+| srp_NS_FULL_NAME_RO = Рака
+| srp_NS_FULL_NAME_ND_RO = Рака
+| srp_NS_SORT_NAME_RG = РАКА
+| srp_NS_FULL_NAME_RG = Рака
+| srp_NS_FULL_NAME_ND_RG = Рака
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.19
  | Lartësia            = 
 }}
-'''Rakaj''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Rakaj''' është një [[Fshat Vogel]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

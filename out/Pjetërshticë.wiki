@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pjetërshticë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PJETERSHTICE
- | FULL_NAME_RO = Pjetërshticë
- | FULL_NAME_ND_RO=Pjetershtice
- | SORT_NAME_RG=PJETERSHTICE
- | FULL_NAME_RG=Pjetërshticë
- | FULL_NAME_ND_RG=Pjetershtice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pjetërshticë
+| sqi_N_FULL_NAME_RO = Pjetërshticë
+| sqi_N_FULL_NAME_ND_RO = Pjetershtice
+| sqi_N_SORT_NAME_RG = PJETERSHTICE
+| sqi_N_FULL_NAME_RG = Pjetërshticë
+| sqi_N_FULL_NAME_ND_RG = Pjetershtice
+| sqi_V_name = Petrashticë
+| sqi_V_FULL_NAME_RO = Petrashticë
+| sqi_V_FULL_NAME_ND_RO = Petrashtice
+| sqi_V_SORT_NAME_RG = PETRASHTICE
+| sqi_V_FULL_NAME_RG = Petrashticë
+| sqi_V_FULL_NAME_ND_RG = Petrashtice
+| srp_N_name = Petraštica
+| srp_N_FULL_NAME_RO = Petraštica
+| srp_N_FULL_NAME_ND_RO = Petrastica
+| srp_N_SORT_NAME_RG = PETRASTICA
+| srp_N_FULL_NAME_RG = Petraštica
+| srp_N_FULL_NAME_ND_RG = Petrastica
+| srp_NS_name = Петраштица
+| srp_NS_FULL_NAME_RO = Петраштица
+| srp_NS_FULL_NAME_ND_RO = Петраштица
+| srp_NS_SORT_NAME_RG = ПЕТРАШТИЦА
+| srp_NS_FULL_NAME_RG = Петраштица
+| srp_NS_FULL_NAME_ND_RG = Петраштица
+| srp_V_name = Petroštica
+| srp_V_FULL_NAME_RO = Petroštica
+| srp_V_FULL_NAME_ND_RO = Petrostica
+| srp_V_SORT_NAME_RG = PETROSTICA
+| srp_V_FULL_NAME_RG = Petroštica
+| srp_V_FULL_NAME_ND_RG = Petrostica
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.943611
  | Lartësia            = 
 }}
-'''Pjetërshticë''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Pjetërshticë''' është një [[Fshat Vogel]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

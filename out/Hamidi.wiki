@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Hamidi
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      HAMIDI
- | FULL_NAME_RO = Hamidi
- | FULL_NAME_ND_RO=Hamidi
- | SORT_NAME_RG=HAMIDI
- | FULL_NAME_RG=Hamidi
- | FULL_NAME_ND_RG=Hamidi
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Hamidi
+| sqi_N_FULL_NAME_RO = Hamidi
+| sqi_N_FULL_NAME_ND_RO = Hamidi
+| sqi_N_SORT_NAME_RG = HAMIDI
+| sqi_N_FULL_NAME_RG = Hamidi
+| sqi_N_FULL_NAME_ND_RG = Hamidi
+| srp_N_name = Hamidija
+| srp_N_FULL_NAME_RO = Hamidija
+| srp_N_FULL_NAME_ND_RO = Hamidija
+| srp_N_SORT_NAME_RG = HAMIDIJA
+| srp_N_FULL_NAME_RG = Hamidija
+| srp_N_FULL_NAME_ND_RG = Hamidija
+| srp_NS_name = Хамидија
+| srp_NS_FULL_NAME_RO = Хамидија
+| srp_NS_FULL_NAME_ND_RO = Хамидија
+| srp_NS_SORT_NAME_RG = ХАМИДИЈА
+| srp_NS_FULL_NAME_RG = Хамидија
+| srp_NS_FULL_NAME_ND_RG = Хамидија
+| srp_V_name = Mali Bivoljak
+| srp_V_FULL_NAME_RO = Mali Bivoljak
+| srp_V_FULL_NAME_ND_RO = Mali Bivoljak
+| srp_V_SORT_NAME_RG = MALIBIVOLJAK
+| srp_V_FULL_NAME_RG = Mali Bivoljak
+| srp_V_FULL_NAME_ND_RG = Mali Bivoljak
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.02624
  | Lartësia            = 
 }}
-'''Hamidi''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Hamidi''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

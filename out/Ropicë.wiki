@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ropicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ROPICE
- | FULL_NAME_RO = Ropicë
- | FULL_NAME_ND_RO=Ropice
- | SORT_NAME_RG=ROPICE
- | FULL_NAME_RG=Ropicë
- | FULL_NAME_ND_RG=Ropice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Ropicë
+| sqi_N_FULL_NAME_RO = Ropicë
+| sqi_N_FULL_NAME_ND_RO = Ropice
+| sqi_N_SORT_NAME_RG = ROPICE
+| sqi_N_FULL_NAME_RG = Ropicë
+| sqi_N_FULL_NAME_ND_RG = Ropice
+| srp_N_name = Ropica
+| srp_N_FULL_NAME_RO = Ropica
+| srp_N_FULL_NAME_ND_RO = Ropica
+| srp_N_SORT_NAME_RG = ROPICA
+| srp_N_FULL_NAME_RG = Ropica
+| srp_N_FULL_NAME_ND_RG = Ropica
+| srp_NS_name = Ропица
+| srp_NS_FULL_NAME_RO = Ропица
+| srp_NS_FULL_NAME_ND_RO = Ропица
+| srp_NS_SORT_NAME_RG = РОПИЦА
+| srp_NS_FULL_NAME_RG = Ропица
+| srp_NS_FULL_NAME_ND_RG = Ропица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.033494
  | Lartësia            = 
 }}
-'''Ropicë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Ropicë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

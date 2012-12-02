@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sërbicë e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SERBICEEEPERME
- | FULL_NAME_RO = Sërbicë e Epërme
- | FULL_NAME_ND_RO=Serbice e Eperme
- | SORT_NAME_RG=SERBICEEEPERME
- | FULL_NAME_RG=Sërbicë e Epërme
- | FULL_NAME_ND_RG=Serbice e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sërbicë e Epërme
+| sqi_N_FULL_NAME_RO = Sërbicë e Epërme
+| sqi_N_FULL_NAME_ND_RO = Serbice e Eperme
+| sqi_N_SORT_NAME_RG = SERBICEEEPERME
+| sqi_N_FULL_NAME_RG = Sërbicë e Epërme
+| sqi_N_FULL_NAME_ND_RG = Serbice e Eperme
+| sqi_V_name = Sërbica e Epërme
+| sqi_V_FULL_NAME_RO = Sërbica e Epërme Serbicë e Epërme
+| sqi_V_FULL_NAME_ND_RO = Serbica e Eperme Serbice e Eperme
+| sqi_V_SORT_NAME_RG = SERBICAEEPERME SERBICEEEPERME
+| sqi_V_FULL_NAME_RG = Sërbica e Epërme Serbicë e Epërme
+| sqi_V_FULL_NAME_ND_RG = Serbica e Eperme Serbice e Eperme
+| srp_N_name = Gornja Srbica
+| srp_N_FULL_NAME_RO = Gornja Srbica
+| srp_N_FULL_NAME_ND_RO = Gornja Srbica
+| srp_N_SORT_NAME_RG = GORNJASRBICA
+| srp_N_FULL_NAME_RG = Gornja Srbica
+| srp_N_FULL_NAME_ND_RG = Gornja Srbica
+| srp_NS_name = Горња Србица
+| srp_NS_FULL_NAME_RO = Горња Србица
+| srp_NS_FULL_NAME_ND_RO = Горња Србица
+| srp_NS_SORT_NAME_RG = ГОРЊАСРБИЦА
+| srp_NS_FULL_NAME_RG = Горња Србица
+| srp_NS_FULL_NAME_ND_RG = Горња Србица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.718611
  | Lartësia            = 
 }}
-'''Sërbicë e Epërme''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Sërbicë e Epërme''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

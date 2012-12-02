@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zoçishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZOCISHTE
- | FULL_NAME_RO = Zoçishtë
- | FULL_NAME_ND_RO=Zocishte
- | SORT_NAME_RG=ZOCISHTE
- | FULL_NAME_RG=Zoçishtë
- | FULL_NAME_ND_RG=Zocishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zoçishtë
+| sqi_D_FULL_NAME_RO = Zoçishtë
+| sqi_D_FULL_NAME_ND_RO = Zocishte
+| sqi_D_SORT_NAME_RG = ZOCISHTE
+| sqi_D_FULL_NAME_RG = Zoçishtë
+| sqi_D_FULL_NAME_ND_RG = Zocishte
+| srp_N_name = Zočište
+| srp_N_FULL_NAME_RO = Zočište
+| srp_N_FULL_NAME_ND_RO = Zociste
+| srp_N_SORT_NAME_RG = ZOCISTE
+| srp_N_FULL_NAME_RG = Zočište
+| srp_N_FULL_NAME_ND_RG = Zociste
+| srp_NS_name = Зочиште
+| srp_NS_FULL_NAME_RO = Зочиште
+| srp_NS_FULL_NAME_ND_RO = Зочиште
+| srp_NS_SORT_NAME_RG = ЗОЧИШТЕ
+| srp_NS_FULL_NAME_RG = Зочиште
+| srp_NS_FULL_NAME_ND_RG = Зочиште
+| srp_V_name = Zošište
+| srp_V_FULL_NAME_RO = Zošište
+| srp_V_FULL_NAME_ND_RO = Zosiste
+| srp_V_SORT_NAME_RG = ZOSISTE
+| srp_V_FULL_NAME_RG = Zošište
+| srp_V_FULL_NAME_ND_RG = Zosiste
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.702222
  | Lartësia            = 
 }}
-'''Zoçishtë''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Zoçishtë''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

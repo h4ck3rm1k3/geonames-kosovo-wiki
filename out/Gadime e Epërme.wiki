@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gadime e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GADIMEEEPERME
- | FULL_NAME_RO = Gadime e Epërme
- | FULL_NAME_ND_RO=Gadime e Eperme
- | SORT_NAME_RG=GADIMEEEPERME
- | FULL_NAME_RG=Gadime e Epërme
- | FULL_NAME_ND_RG=Gadime e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gadime e Epërme
+| sqi_N_FULL_NAME_RO = Gadime e Epërme
+| sqi_N_FULL_NAME_ND_RO = Gadime e Eperme
+| sqi_N_SORT_NAME_RG = GADIMEEEPERME
+| sqi_N_FULL_NAME_RG = Gadime e Epërme
+| sqi_N_FULL_NAME_ND_RG = Gadime e Eperme
+| sqi_V_name = Gadimla e Epërme
+| sqi_V_FULL_NAME_RO = Gadimla e Epërme
+| sqi_V_FULL_NAME_ND_RO = Gadimla e Eperme
+| sqi_V_SORT_NAME_RG = GADIMLAEEPERME
+| sqi_V_FULL_NAME_RG = Gadimla e Epërme
+| sqi_V_FULL_NAME_ND_RG = Gadimla e Eperme
+| srp_N_name = Gornje Gadimlje
+| srp_N_FULL_NAME_RO = Gornje Gadimlje
+| srp_N_FULL_NAME_ND_RO = Gornje Gadimlje
+| srp_N_SORT_NAME_RG = GORNJEGADIMLJE
+| srp_N_FULL_NAME_RG = Gornje Gadimlje
+| srp_N_FULL_NAME_ND_RG = Gornje Gadimlje
+| srp_NS_name = Горње Гадимље
+| srp_NS_FULL_NAME_RO = Горње Гадимље
+| srp_NS_FULL_NAME_ND_RO = Горње Гадимље
+| srp_NS_SORT_NAME_RG = ГОРЊЕГАДИМЉЕ
+| srp_NS_FULL_NAME_RG = Горње Гадимље
+| srp_NS_FULL_NAME_ND_RG = Горње Гадимље
+| srp_V_name = Gornja Grdimlja
+| srp_V_FULL_NAME_RO = Gornja Grdimlja Gornja Gadimija
+| srp_V_FULL_NAME_ND_RO = Gornja Grdimlja Gornja Gadimija
+| srp_V_SORT_NAME_RG = GORNJAGRDIMLJA GORNJAGADIMIJA
+| srp_V_FULL_NAME_RG = Gornja Grdimlja Gornja Gadimija
+| srp_V_FULL_NAME_ND_RG = Gornja Grdimlja Gornja Gadimija
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.222778
  | Lartësia            = 
 }}
-'''Gadime e Epërme''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Gadime e Epërme''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

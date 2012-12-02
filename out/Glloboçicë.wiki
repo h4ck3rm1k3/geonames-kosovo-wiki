@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Glloboçicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GLLOBOCICE
- | FULL_NAME_RO = Glloboçicë
- | FULL_NAME_ND_RO=Gllobocice
- | SORT_NAME_RG=GLLOBOCICE
- | FULL_NAME_RG=Glloboçicë
- | FULL_NAME_ND_RG=Gllobocice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Glloboçicë
+| sqi_N_FULL_NAME_RO = Glloboçicë
+| sqi_N_FULL_NAME_ND_RO = Gllobocice
+| sqi_N_SORT_NAME_RG = GLLOBOCICE
+| sqi_N_FULL_NAME_RG = Glloboçicë
+| sqi_N_FULL_NAME_ND_RG = Gllobocice
+| srp_N_name = Globočica
+| srp_N_FULL_NAME_RO = Globočica
+| srp_N_FULL_NAME_ND_RO = Globocica
+| srp_N_SORT_NAME_RG = GLOBOCICA
+| srp_N_FULL_NAME_RG = Globočica
+| srp_N_FULL_NAME_ND_RG = Globocica
+| srp_NS_name = Глобочица
+| srp_NS_FULL_NAME_RO = Глобочица
+| srp_NS_FULL_NAME_ND_RO = Глобочица
+| srp_NS_SORT_NAME_RG = ГЛОБОЧИЦА
+| srp_NS_FULL_NAME_RG = Глобочица
+| srp_NS_FULL_NAME_ND_RG = Глобочица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.182222
  | Lartësia            = 
 }}
-'''Glloboçicë''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Glloboçicë''' është një [[Fshat Vogel]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

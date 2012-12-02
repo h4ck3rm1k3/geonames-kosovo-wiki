@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zhub
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZHUB
- | FULL_NAME_RO = Zhub
- | FULL_NAME_ND_RO=Zhub
- | SORT_NAME_RG=ZHUB
- | FULL_NAME_RG=Zhub
- | FULL_NAME_ND_RG=Zhub
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zhub
+| sqi_N_FULL_NAME_RO = Zhub
+| sqi_N_FULL_NAME_ND_RO = Zhub
+| sqi_N_SORT_NAME_RG = ZHUB
+| sqi_N_FULL_NAME_RG = Zhub
+| sqi_N_FULL_NAME_ND_RG = Zhub
+| srp_N_name = Žub
+| srp_N_FULL_NAME_RO = Žub
+| srp_N_FULL_NAME_ND_RO = Zub
+| srp_N_SORT_NAME_RG = ZUB
+| srp_N_FULL_NAME_RG = Žub
+| srp_N_FULL_NAME_ND_RG = Zub
+| srp_NS_name = Жуб
+| srp_NS_FULL_NAME_RO = Жуб
+| srp_NS_FULL_NAME_ND_RO = Жуб
+| srp_NS_SORT_NAME_RG = ЖУБ
+| srp_NS_FULL_NAME_RG = Жуб
+| srp_NS_FULL_NAME_ND_RG = Жуб
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.39
  | Lartësia            = 
 }}
-'''Zhub''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Zhub''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

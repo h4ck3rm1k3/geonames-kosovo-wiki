@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Budakovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BUDAKOVE
- | FULL_NAME_RO = Budakovë
- | FULL_NAME_ND_RO=Budakove
- | SORT_NAME_RG=BUDAKOVE
- | FULL_NAME_RG=Budakovë
- | FULL_NAME_ND_RG=Budakove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Budakovë
+| sqi_N_FULL_NAME_RO = Budakovë
+| sqi_N_FULL_NAME_ND_RO = Budakove
+| sqi_N_SORT_NAME_RG = BUDAKOVE
+| sqi_N_FULL_NAME_RG = Budakovë
+| sqi_N_FULL_NAME_ND_RG = Budakove
+| sqi_V_name = Butakovë
+| sqi_V_FULL_NAME_RO = Butakovë
+| sqi_V_FULL_NAME_ND_RO = Butakove
+| sqi_V_SORT_NAME_RG = BUTAKOVE
+| sqi_V_FULL_NAME_RG = Butakovë
+| sqi_V_FULL_NAME_ND_RG = Butakove
+| srp_N_name = Budakovo
+| srp_N_FULL_NAME_RO = Budakovo
+| srp_N_FULL_NAME_ND_RO = Budakovo
+| srp_N_SORT_NAME_RG = BUDAKOVO
+| srp_N_FULL_NAME_RG = Budakovo
+| srp_N_FULL_NAME_ND_RG = Budakovo
+| srp_NS_name = Будаково
+| srp_NS_FULL_NAME_RO = Будаково
+| srp_NS_FULL_NAME_ND_RO = Будаково
+| srp_NS_SORT_NAME_RG = БУДАКОВО
+| srp_NS_FULL_NAME_RG = Будаково
+| srp_NS_FULL_NAME_ND_RG = Будаково
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.925
  | Lartësia            = 
 }}
-'''Budakovë''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Budakovë''' është një [[Fshat Vogel]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

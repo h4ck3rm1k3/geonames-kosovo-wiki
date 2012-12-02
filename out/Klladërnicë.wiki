@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Klladërnicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KLLADERNICE
- | FULL_NAME_RO = Klladërnicë
- | FULL_NAME_ND_RO=Klladernice
- | SORT_NAME_RG=KLLADERNICE
- | FULL_NAME_RG=Klladërnicë
- | FULL_NAME_ND_RG=Klladernice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Klladërnicë
+| sqi_N_FULL_NAME_RO = Klladërnicë
+| sqi_N_FULL_NAME_ND_RO = Klladernice
+| sqi_N_SORT_NAME_RG = KLLADERNICE
+| sqi_N_FULL_NAME_RG = Klladërnicë
+| sqi_N_FULL_NAME_ND_RG = Klladernice
+| sqi_V_name = Kllodemicë
+| sqi_V_FULL_NAME_RO = Kllodemicë Kalldernicë Klladernica
+| sqi_V_FULL_NAME_ND_RO = Kllodemice Kalldernice Klladernica
+| sqi_V_SORT_NAME_RG = KLLODEMICE KALLDERNICE KLLADERNICA
+| sqi_V_FULL_NAME_RG = Kllodemicë Kalldernicë Klladernica
+| sqi_V_FULL_NAME_ND_RG = Kllodemice Kalldernice Klladernica
+| srp_N_name = Kladernica
+| srp_N_FULL_NAME_RO = Kladernica
+| srp_N_FULL_NAME_ND_RO = Kladernica
+| srp_N_SORT_NAME_RG = KLADERNICA
+| srp_N_FULL_NAME_RG = Kladernica
+| srp_N_FULL_NAME_ND_RG = Kladernica
+| srp_NS_name = Кладерница
+| srp_NS_FULL_NAME_RO = Кладерница
+| srp_NS_FULL_NAME_ND_RO = Кладерница
+| srp_NS_SORT_NAME_RG = КЛАДЕРНИЦА
+| srp_NS_FULL_NAME_RG = Кладерница
+| srp_NS_FULL_NAME_ND_RG = Кладерница
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.694722
  | Lartësia            = 
 }}
-'''Klladërnicë''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Klladërnicë''' është një [[Fshat Vogel]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

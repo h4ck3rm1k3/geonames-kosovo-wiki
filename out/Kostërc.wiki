@@ -1,26 +1,28 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kostërc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOSTERC
- | FULL_NAME_RO = Kostërc
- | FULL_NAME_ND_RO=Kosterc
- | SORT_NAME_RG=KOSTERC
- | FULL_NAME_RG=Kostërc
- | FULL_NAME_ND_RG=Kosterc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kostërc
+| sqi_N_FULL_NAME_RO = Kostërc
+| sqi_N_FULL_NAME_ND_RO = Kosterc
+| sqi_N_SORT_NAME_RG = KOSTERC
+| sqi_N_FULL_NAME_RG = Kostërc
+| sqi_N_FULL_NAME_ND_RG = Kosterc
+| srp_N_name = Kostrc
+| srp_N_FULL_NAME_RO = Kostrc
+| srp_N_FULL_NAME_ND_RO = Kostrc
+| srp_N_SORT_NAME_RG = KOSTRC
+| srp_N_FULL_NAME_RG = Kostrc
+| srp_N_FULL_NAME_ND_RG = Kostrc
+| srp_NS_name = Кострц
+| srp_NS_FULL_NAME_RO = Кострц
+| srp_NS_FULL_NAME_ND_RO = Кострц
+| srp_NS_SORT_NAME_RG = КОСТРЦ
+| srp_NS_FULL_NAME_RG = Кострц
+| srp_NS_FULL_NAME_ND_RG = Кострц
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Ferizaj
+ | Komuna              = Suharekë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +32,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.413333
- | Gjatësia            = 20.7925
+ | Gjerësia            = 42.782778
+ | Gjatësia            = 20.688611
  | Lartësia            = 
 }}
-'''Kostërc''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Kostërc''' është një [[Fshat Vogel]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Ferizaj}}
+{{Komuna Suharekë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Fshatra në Kommunes Suharekë]]
 [[Kategoria:Vendbanime në Kosovës]]

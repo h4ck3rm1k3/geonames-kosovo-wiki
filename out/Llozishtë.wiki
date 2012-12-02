@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llozishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLOZISHTE
- | FULL_NAME_RO = Llozishtë
- | FULL_NAME_ND_RO=Llozishte
- | SORT_NAME_RG=LLOZISHTE
- | FULL_NAME_RG=Llozishtë
- | FULL_NAME_ND_RG=Llozishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Llozishtë
+| sqi_N_FULL_NAME_RO = Llozishtë
+| sqi_N_FULL_NAME_ND_RO = Llozishte
+| sqi_N_SORT_NAME_RG = LLOZISHTE
+| sqi_N_FULL_NAME_RG = Llozishtë
+| sqi_N_FULL_NAME_ND_RG = Llozishte
+| sqi_V_name = Lozishte
+| sqi_V_FULL_NAME_RO = Lozishte
+| sqi_V_FULL_NAME_ND_RO = Lozishte
+| sqi_V_SORT_NAME_RG = LOZISHTE
+| sqi_V_FULL_NAME_RG = Lozishte
+| sqi_V_FULL_NAME_ND_RG = Lozishte
+| srp_N_name = Lozište
+| srp_N_FULL_NAME_RO = Lozište
+| srp_N_FULL_NAME_ND_RO = Loziste
+| srp_N_SORT_NAME_RG = LOZISTE
+| srp_N_FULL_NAME_RG = Lozište
+| srp_N_FULL_NAME_ND_RG = Loziste
+| srp_NS_name = Лозиште
+| srp_NS_FULL_NAME_RO = Лозиште
+| srp_NS_FULL_NAME_ND_RO = Лозиште
+| srp_NS_SORT_NAME_RG = ЛОЗИШТЕ
+| srp_NS_FULL_NAME_RG = Лозиште
+| srp_NS_FULL_NAME_ND_RG = Лозиште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.818889
  | Lartësia            = 
 }}
-'''Llozishtë''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Llozishtë''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

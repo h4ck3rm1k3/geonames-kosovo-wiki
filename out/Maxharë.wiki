@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Maxharë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAXHARE
- | FULL_NAME_RO = Maxharë
- | FULL_NAME_ND_RO=Maxhare
- | SORT_NAME_RG=MAXHARE
- | FULL_NAME_RG=Maxharë
- | FULL_NAME_ND_RG=Maxhare
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Maxharë
+| sqi_N_FULL_NAME_RO = Maxharë
+| sqi_N_FULL_NAME_ND_RO = Maxhare
+| sqi_N_SORT_NAME_RG = MAXHARE
+| sqi_N_FULL_NAME_RG = Maxharë
+| sqi_N_FULL_NAME_ND_RG = Maxhare
+| sqi_V_name = Maxhar
+| sqi_V_FULL_NAME_RO = Maxhar Maxharre Madajrë
+| sqi_V_FULL_NAME_ND_RO = Maxhar Maxharre Madajre
+| sqi_V_SORT_NAME_RG = MAXHAR MAXHARRE MADAJRE
+| sqi_V_FULL_NAME_RG = Maxhar Maxharre Madajrë
+| sqi_V_FULL_NAME_ND_RG = Maxhar Maxharre Madajre
+| srp_N_name = Mađare
+| srp_N_FULL_NAME_RO = Mađare
+| srp_N_FULL_NAME_ND_RO = Madare
+| srp_N_SORT_NAME_RG = MADARE
+| srp_N_FULL_NAME_RG = Mađare
+| srp_N_FULL_NAME_ND_RG = Madare
+| srp_NS_name = Мађаре
+| srp_NS_FULL_NAME_RO = Мађаре
+| srp_NS_FULL_NAME_ND_RO = Мађаре
+| srp_NS_SORT_NAME_RG = МАЂАРЕ
+| srp_NS_FULL_NAME_RG = Мађаре
+| srp_NS_FULL_NAME_ND_RG = Мађаре
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.718889
  | Lartësia            = 
 }}
-'''Maxharë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Maxharë''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

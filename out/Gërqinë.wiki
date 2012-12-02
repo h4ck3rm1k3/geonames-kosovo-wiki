@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gërqinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GERQINE
- | FULL_NAME_RO = Gërqinë
- | FULL_NAME_ND_RO=Gerqine
- | SORT_NAME_RG=GERQINE
- | FULL_NAME_RG=Gërqinë
- | FULL_NAME_ND_RG=Gerqine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gërqinë
+| sqi_D_FULL_NAME_RO = Gërqinë
+| sqi_D_FULL_NAME_ND_RO = Gerqine
+| sqi_D_SORT_NAME_RG = GERQINE
+| sqi_D_FULL_NAME_RG = Gërqinë
+| sqi_D_FULL_NAME_ND_RG = Gerqine
+| sqi_V_name = Gërqin
+| sqi_V_FULL_NAME_RO = Gërqin Gërqina Gërçinë
+| sqi_V_FULL_NAME_ND_RO = Gerqin Gerqina Gercine
+| sqi_V_SORT_NAME_RG = GERQIN GERQINA GERCINE
+| sqi_V_FULL_NAME_RG = Gërqin Gërqina Gërçinë
+| sqi_V_FULL_NAME_ND_RG = Gerqin Gerqina Gercine
+| srp_N_name = Grčina
+| srp_N_FULL_NAME_RO = Grčina
+| srp_N_FULL_NAME_ND_RO = Grcina
+| srp_N_SORT_NAME_RG = GRCINA
+| srp_N_FULL_NAME_RG = Grčina
+| srp_N_FULL_NAME_ND_RG = Grcina
+| srp_NS_name = Грчина
+| srp_NS_FULL_NAME_RO = Грчина
+| srp_NS_FULL_NAME_ND_RO = Грчина
+| srp_NS_SORT_NAME_RG = ГРЧИНА
+| srp_NS_FULL_NAME_RG = Грчина
+| srp_NS_FULL_NAME_ND_RG = Грчина
+| srp_V_name = Grčin
+| srp_V_FULL_NAME_RO = Grčin
+| srp_V_FULL_NAME_ND_RO = Grcin
+| srp_V_SORT_NAME_RG = GRCIN
+| srp_V_FULL_NAME_RG = Grčin
+| srp_V_FULL_NAME_ND_RG = Grcin
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.484444
  | Lartësia            = 
 }}
-'''Gërqinë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Gërqinë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

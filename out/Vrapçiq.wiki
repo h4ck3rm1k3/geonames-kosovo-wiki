@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vrapçiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VRAPCIQ
- | FULL_NAME_RO = Vrapçiq
- | FULL_NAME_ND_RO=Vrapciq
- | SORT_NAME_RG=VRAPCIQ
- | FULL_NAME_RG=Vrapçiq
- | FULL_NAME_ND_RG=Vrapciq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vrapçiq
+| sqi_N_FULL_NAME_RO = Vrapçiq
+| sqi_N_FULL_NAME_ND_RO = Vrapciq
+| sqi_N_SORT_NAME_RG = VRAPCIQ
+| sqi_N_FULL_NAME_RG = Vrapçiq
+| sqi_N_FULL_NAME_ND_RG = Vrapciq
+| srp_N_name = Vrapčić
+| srp_N_FULL_NAME_RO = Vrapčić
+| srp_N_FULL_NAME_ND_RO = Vrapcic
+| srp_N_SORT_NAME_RG = VRAPCIC
+| srp_N_FULL_NAME_RG = Vrapčić
+| srp_N_FULL_NAME_ND_RG = Vrapcic
+| srp_NS_name = Врапчић
+| srp_NS_FULL_NAME_RO = Врапчић
+| srp_NS_FULL_NAME_ND_RO = Врапчић
+| srp_NS_SORT_NAME_RG = ВРАПЧИЋ
+| srp_NS_FULL_NAME_RG = Врапчић
+| srp_NS_FULL_NAME_ND_RG = Врапчић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.409167
  | Lartësia            = 
 }}
-'''Vrapçiq''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Vrapçiq''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

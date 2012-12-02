@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Plançor
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PLANCOR
- | FULL_NAME_RO = Plançor
- | FULL_NAME_ND_RO=Plancor
- | SORT_NAME_RG=PLANCOR
- | FULL_NAME_RG=Plançor
- | FULL_NAME_ND_RG=Plancor
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Plançor
+| sqi_N_FULL_NAME_RO = Plançor
+| sqi_N_FULL_NAME_ND_RO = Plancor
+| sqi_N_SORT_NAME_RG = PLANCOR
+| sqi_N_FULL_NAME_RG = Plançor
+| sqi_N_FULL_NAME_ND_RG = Plancor
+| sqi_V_name = Pliançar
+| sqi_V_FULL_NAME_RO = Pliançar
+| sqi_V_FULL_NAME_ND_RO = Pliancar
+| sqi_V_SORT_NAME_RG = PLIANCAR
+| sqi_V_FULL_NAME_RG = Pliançar
+| sqi_V_FULL_NAME_ND_RG = Pliancar
+| srp_N_name = Pljančor
+| srp_N_FULL_NAME_RO = Pljančor
+| srp_N_FULL_NAME_ND_RO = Pljancor
+| srp_N_SORT_NAME_RG = PLJANCOR
+| srp_N_FULL_NAME_RG = Pljančor
+| srp_N_FULL_NAME_ND_RG = Pljancor
+| srp_NS_name = Пљанћор
+| srp_NS_FULL_NAME_RO = Пљанћор
+| srp_NS_FULL_NAME_ND_RO = Пљанћор
+| srp_NS_SORT_NAME_RG = ПЉАНЋОР
+| srp_NS_FULL_NAME_RG = Пљанћор
+| srp_NS_FULL_NAME_ND_RG = Пљанћор
+| srp_V_name = Pjančor
+| srp_V_FULL_NAME_RO = Pjančor
+| srp_V_FULL_NAME_ND_RO = Pjancor
+| srp_V_SORT_NAME_RG = PJANCOR
+| srp_V_FULL_NAME_RG = Pjančor
+| srp_V_FULL_NAME_ND_RG = Pjancor
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.360833
  | Lartësia            = 
 }}
-'''Plançor''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Plançor''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

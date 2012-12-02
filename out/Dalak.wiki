@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dalak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DALAK
- | FULL_NAME_RO = Dalak
- | FULL_NAME_ND_RO=Dalak
- | SORT_NAME_RG=DALAK
- | FULL_NAME_RG=Dalak
- | FULL_NAME_ND_RG=Dalak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dalak
+| sqi_N_FULL_NAME_RO = Dalak
+| sqi_N_FULL_NAME_ND_RO = Dalak
+| sqi_N_SORT_NAME_RG = DALAK
+| sqi_N_FULL_NAME_RG = Dalak
+| sqi_N_FULL_NAME_ND_RG = Dalak
+| sqi_V_name = Dolak
+| sqi_V_FULL_NAME_RO = Dolak
+| sqi_V_FULL_NAME_ND_RO = Dolak
+| sqi_V_SORT_NAME_RG = DOLAK
+| sqi_V_FULL_NAME_RG = Dolak
+| sqi_V_FULL_NAME_ND_RG = Dolak
+| srp_N_name = Doljak
+| srp_N_FULL_NAME_RO = Doljak
+| srp_N_FULL_NAME_ND_RO = Doljak
+| srp_N_SORT_NAME_RG = DOLJAK
+| srp_N_FULL_NAME_RG = Doljak
+| srp_N_FULL_NAME_ND_RG = Doljak
+| srp_NS_name = Дољак
+| srp_NS_FULL_NAME_RO = Дољак
+| srp_NS_FULL_NAME_ND_RO = Дољак
+| srp_NS_SORT_NAME_RG = ДОЉАК
+| srp_NS_FULL_NAME_RG = Дољак
+| srp_NS_FULL_NAME_ND_RG = Дољак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.9275
  | Lartësia            = 
 }}
-'''Dalak''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Dalak''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

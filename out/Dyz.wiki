@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dyz
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DYZ
- | FULL_NAME_RO = Dyz
- | FULL_NAME_ND_RO=Dyz
- | SORT_NAME_RG=DYZ
- | FULL_NAME_RG=Dyz
- | FULL_NAME_ND_RG=Dyz
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dyz
+| sqi_N_FULL_NAME_RO = Dyz
+| sqi_N_FULL_NAME_ND_RO = Dyz
+| sqi_N_SORT_NAME_RG = DYZ
+| sqi_N_FULL_NAME_RG = Dyz
+| sqi_N_FULL_NAME_ND_RG = Dyz
+| sqi_V_name = Dyzi
+| sqi_V_FULL_NAME_RO = Dyzi
+| sqi_V_FULL_NAME_ND_RO = Dyzi
+| sqi_V_SORT_NAME_RG = DYZI
+| sqi_V_FULL_NAME_RG = Dyzi
+| sqi_V_FULL_NAME_ND_RG = Dyzi
+| srp_N_name = Duz
+| srp_N_FULL_NAME_RO = Duz
+| srp_N_FULL_NAME_ND_RO = Duz
+| srp_N_SORT_NAME_RG = DUZ
+| srp_N_FULL_NAME_RG = Duz
+| srp_N_FULL_NAME_ND_RG = Duz
+| srp_NS_name = Дуз
+| srp_NS_FULL_NAME_RO = Дуз
+| srp_NS_FULL_NAME_ND_RO = Дуз
+| srp_NS_SORT_NAME_RG = ДУЗ
+| srp_NS_FULL_NAME_RG = Дуз
+| srp_NS_FULL_NAME_ND_RG = Дуз
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.2475
  | Lartësia            = 
 }}
-'''Dyz''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Dyz''' është një [[Fshat Vogel]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

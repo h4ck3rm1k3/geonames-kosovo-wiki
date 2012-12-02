@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kovaçë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOVACE
- | FULL_NAME_RO = Kovaçë
- | FULL_NAME_ND_RO=Kovace
- | SORT_NAME_RG=KOVACE
- | FULL_NAME_RG=Kovaçë
- | FULL_NAME_ND_RG=Kovace
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kovaçë
+| sqi_N_FULL_NAME_RO = Kovaçë
+| sqi_N_FULL_NAME_ND_RO = Kovace
+| sqi_N_SORT_NAME_RG = KOVACE
+| sqi_N_FULL_NAME_RG = Kovaçë
+| sqi_N_FULL_NAME_ND_RG = Kovace
+| srp_N_name = Kovače
+| srp_N_FULL_NAME_RO = Kovače
+| srp_N_FULL_NAME_ND_RO = Kovace
+| srp_N_SORT_NAME_RG = KOVACE
+| srp_N_FULL_NAME_RG = Kovače
+| srp_N_FULL_NAME_ND_RG = Kovace
+| srp_NS_name = Коваче
+| srp_NS_FULL_NAME_RO = Коваче
+| srp_NS_FULL_NAME_ND_RO = Коваче
+| srp_NS_SORT_NAME_RG = КОВАЧЕ
+| srp_NS_FULL_NAME_RG = Коваче
+| srp_NS_FULL_NAME_ND_RG = Коваче
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.645
  | Lartësia            = 
 }}
-'''Kovaçë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Kovaçë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

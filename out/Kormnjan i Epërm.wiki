@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kormnjan i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KORMNJANIEPERM
- | FULL_NAME_RO = Kormnjan i Epërm
- | FULL_NAME_ND_RO=Kormnjan i Eperm
- | SORT_NAME_RG=KORMNJANIEPERM
- | FULL_NAME_RG=Kormnjan i Epërm
- | FULL_NAME_ND_RG=Kormnjan i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kormnjan i Epërm
+| sqi_N_FULL_NAME_RO = Kormnjan i Epërm
+| sqi_N_FULL_NAME_ND_RO = Kormnjan i Eperm
+| sqi_N_SORT_NAME_RG = KORMNJANIEPERM
+| sqi_N_FULL_NAME_RG = Kormnjan i Epërm
+| sqi_N_FULL_NAME_ND_RG = Kormnjan i Eperm
+| sqi_V_name = Kormnjani i Epërm
+| sqi_V_FULL_NAME_RO = Kormnjani i Epërm Kormiani i Epërm
+| sqi_V_FULL_NAME_ND_RO = Kormnjani i Eperm Kormiani i Eperm
+| sqi_V_SORT_NAME_RG = KORMNJANIIEPERM KORMIANIIEPERM
+| sqi_V_FULL_NAME_RG = Kormnjani i Epërm Kormiani i Epërm
+| sqi_V_FULL_NAME_ND_RG = Kormnjani i Eperm Kormiani i Eperm
+| srp_N_name = Gornje Korminjane
+| srp_N_FULL_NAME_RO = Gornje Korminjane
+| srp_N_FULL_NAME_ND_RO = Gornje Korminjane
+| srp_N_SORT_NAME_RG = GORNJEKORMINJANE
+| srp_N_FULL_NAME_RG = Gornje Korminjane
+| srp_N_FULL_NAME_ND_RG = Gornje Korminjane
+| srp_NS_name = Горње Кормињане
+| srp_NS_FULL_NAME_RO = Горње Кормињане
+| srp_NS_FULL_NAME_ND_RO = Горње Кормињане
+| srp_NS_SORT_NAME_RG = ГОРЊЕКОРМИЊАНЕ
+| srp_NS_FULL_NAME_RG = Горње Кормињане
+| srp_NS_FULL_NAME_ND_RG = Горње Кормињане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.613889
  | Lartësia            = 
 }}
-'''Kormnjan i Epërm''' është një [[]] në [[]] të [[Kosovës]].
+'''Kormnjan i Epërm''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Moshincë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MOSHINCE
- | FULL_NAME_RO = Moshincë
- | FULL_NAME_ND_RO=Moshince
- | SORT_NAME_RG=MOSHINCE
- | FULL_NAME_RG=Moshincë
- | FULL_NAME_ND_RG=Moshince
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Moshincë
+| sqi_N_FULL_NAME_RO = Moshincë
+| sqi_N_FULL_NAME_ND_RO = Moshince
+| sqi_N_SORT_NAME_RG = MOSHINCE
+| sqi_N_FULL_NAME_RG = Moshincë
+| sqi_N_FULL_NAME_ND_RG = Moshince
+| sqi_V_name = Mashnicë
+| sqi_V_FULL_NAME_RO = Mashnicë
+| sqi_V_FULL_NAME_ND_RO = Mashnice
+| sqi_V_SORT_NAME_RG = MASHNICE
+| sqi_V_FULL_NAME_RG = Mashnicë
+| sqi_V_FULL_NAME_ND_RG = Mashnice
+| srp_N_name = Mošnica
+| srp_N_FULL_NAME_RO = Mošnica
+| srp_N_FULL_NAME_ND_RO = Mosnica
+| srp_N_SORT_NAME_RG = MOSNICA
+| srp_N_FULL_NAME_RG = Mošnica
+| srp_N_FULL_NAME_ND_RG = Mosnica
+| srp_NS_name = Мошница
+| srp_NS_FULL_NAME_RO = Мошница
+| srp_NS_FULL_NAME_ND_RO = Мошница
+| srp_NS_SORT_NAME_RG = МОШНИЦА
+| srp_NS_FULL_NAME_RG = Мошница
+| srp_NS_FULL_NAME_ND_RG = Мошница
+| srp_V_name = Mošnice
+| srp_V_FULL_NAME_RO = Mošnice
+| srp_V_FULL_NAME_ND_RO = Mosnice
+| srp_V_SORT_NAME_RG = MOSNICE
+| srp_V_FULL_NAME_RG = Mošnice
+| srp_V_FULL_NAME_ND_RG = Mosnice
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.850278
  | Lartësia            = 
 }}
-'''Moshincë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Moshincë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

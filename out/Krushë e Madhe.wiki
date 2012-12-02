@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Krushë e Madhe
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KRUSHEEMADHE
- | FULL_NAME_RO = Krushë e Madhe
- | FULL_NAME_ND_RO=Krushe e Madhe
- | SORT_NAME_RG=KRUSHEEMADHE
- | FULL_NAME_RG=Krushë e Madhe
- | FULL_NAME_ND_RG=Krushe e Madhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Krushë e Madhe
+| sqi_N_FULL_NAME_RO = Krushë e Madhe
+| sqi_N_FULL_NAME_ND_RO = Krushe e Madhe
+| sqi_N_SORT_NAME_RG = KRUSHEEMADHE
+| sqi_N_FULL_NAME_RG = Krushë e Madhe
+| sqi_N_FULL_NAME_ND_RG = Krushe e Madhe
+| sqi_V_name = Krusha e Madhe
+| sqi_V_FULL_NAME_RO = Krusha e Madhe Krushë
+| sqi_V_FULL_NAME_ND_RO = Krusha e Madhe Krushe
+| sqi_V_SORT_NAME_RG = KRUSHAEMADHE KRUSHE
+| sqi_V_FULL_NAME_RG = Krusha e Madhe Krushë
+| sqi_V_FULL_NAME_ND_RG = Krusha e Madhe Krushe
+| srp_N_name = Velika Kruša
+| srp_N_FULL_NAME_RO = Velika Kruša
+| srp_N_FULL_NAME_ND_RO = Velika Krusa
+| srp_N_SORT_NAME_RG = VELIKAKRUSA
+| srp_N_FULL_NAME_RG = Velika Kruša
+| srp_N_FULL_NAME_ND_RG = Velika Krusa
+| srp_NS_name = Велика Круша
+| srp_NS_FULL_NAME_RO = Велика Круша
+| srp_NS_FULL_NAME_ND_RO = Велика Круша
+| srp_NS_SORT_NAME_RG = ВЕЛИКАКРУША
+| srp_NS_FULL_NAME_RG = Велика Круша
+| srp_NS_FULL_NAME_ND_RG = Велика Круша
+| srp_V_name = Kruša-Vogele
+| srp_V_FULL_NAME_RO = Kruša-Vogele
+| srp_V_FULL_NAME_ND_RO = Krusa-Vogele
+| srp_V_SORT_NAME_RG = KRUSAVOGELE
+| srp_V_FULL_NAME_RG = Kruša-Vogele
+| srp_V_FULL_NAME_ND_RG = Krusa-Vogele
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.636111
  | Lartësia            = 
 }}
-'''Krushë e Madhe''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Krushë e Madhe''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

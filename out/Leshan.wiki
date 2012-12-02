@@ -1,26 +1,28 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Leshan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LESHAN
- | FULL_NAME_RO = Leshan
- | FULL_NAME_ND_RO=Leshan
- | SORT_NAME_RG=LESHAN
- | FULL_NAME_RG=Leshan
- | FULL_NAME_ND_RG=Leshan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Leshan
+| sqi_N_FULL_NAME_RO = Leshan
+| sqi_N_FULL_NAME_ND_RO = Leshan
+| sqi_N_SORT_NAME_RG = LESHAN
+| sqi_N_FULL_NAME_RG = Leshan
+| sqi_N_FULL_NAME_ND_RG = Leshan
+| srp_N_name = Lješane
+| srp_N_FULL_NAME_RO = Lješane
+| srp_N_FULL_NAME_ND_RO = Ljesane
+| srp_N_SORT_NAME_RG = LJESANE
+| srp_N_FULL_NAME_RG = Lješane
+| srp_N_FULL_NAME_ND_RG = Ljesane
+| srp_NS_name = Љешане
+| srp_NS_FULL_NAME_RO = Љешане
+| srp_NS_FULL_NAME_ND_RO = Љешане
+| srp_NS_SORT_NAME_RG = ЉЕШАНЕ
+| srp_NS_FULL_NAME_RG = Љешане
+| srp_NS_FULL_NAME_ND_RG = Љешане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Ferizaj
+ | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +32,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.327778
- | Gjatësia            = 20.781111
+ | Gjerësia            = 42.63
+ | Gjatësia            = 20.446389
  | Lartësia            = 
 }}
-'''Leshan''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Leshan''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Ferizaj}}
+{{Komuna Pejë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
 [[Kategoria:Vendbanime në Kosovës]]

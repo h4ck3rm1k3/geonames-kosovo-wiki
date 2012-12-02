@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Livoç i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LIVOCIEPERM
- | FULL_NAME_RO = Livoç i Epërm
- | FULL_NAME_ND_RO=Livoc i Eperm
- | SORT_NAME_RG=LIVOCIEPERM
- | FULL_NAME_RG=Livoç i Epërm
- | FULL_NAME_ND_RG=Livoc i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Livoç i Epërm
+| sqi_D_FULL_NAME_RO = Livoç i Epërm
+| sqi_D_FULL_NAME_ND_RO = Livoc i Eperm
+| sqi_D_SORT_NAME_RG = LIVOCIEPERM
+| sqi_D_FULL_NAME_RG = Livoç i Epërm
+| sqi_D_FULL_NAME_ND_RG = Livoc i Eperm
+| sqi_V_name = Livoq i Epërm
+| sqi_V_FULL_NAME_RO = Livoq i Epërm Livoçi i Epërm
+| sqi_V_FULL_NAME_ND_RO = Livoq i Eperm Livoci i Eperm
+| sqi_V_SORT_NAME_RG = LIVOQIEPERM LIVOCIIEPERM
+| sqi_V_FULL_NAME_RG = Livoq i Epërm Livoçi i Epërm
+| sqi_V_FULL_NAME_ND_RG = Livoq i Eperm Livoci i Eperm
+| srp_N_name = Gornji Livoč
+| srp_N_FULL_NAME_RO = Gornji Livoč
+| srp_N_FULL_NAME_ND_RO = Gornji Livoc
+| srp_N_SORT_NAME_RG = GORNJILIVOC
+| srp_N_FULL_NAME_RG = Gornji Livoč
+| srp_N_FULL_NAME_ND_RG = Gornji Livoc
+| srp_NS_name = Горњи Ливоц
+| srp_NS_FULL_NAME_RO = Горњи Ливоц
+| srp_NS_FULL_NAME_ND_RO = Горњи Ливоц
+| srp_NS_SORT_NAME_RG = ГОРЊИЛИВОЦ
+| srp_NS_FULL_NAME_RG = Горњи Ливоц
+| srp_NS_FULL_NAME_ND_RG = Горњи Ливоц
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.431111
  | Lartësia            = 
 }}
-'''Livoç i Epërm''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Livoç i Epërm''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zhabari i Ultë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZHABARIIULTE
- | FULL_NAME_RO = Zhabari i Ultë
- | FULL_NAME_ND_RO=Zhabari i Ulte
- | SORT_NAME_RG=ZHABARIIULTE
- | FULL_NAME_RG=Zhabari i Ultë
- | FULL_NAME_ND_RG=Zhabari i Ulte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zhabari i Ultë
+| sqi_D_FULL_NAME_RO = Zhabari i Ultë
+| sqi_D_FULL_NAME_ND_RO = Zhabari i Ulte
+| sqi_D_SORT_NAME_RG = ZHABARIIULTE
+| sqi_D_FULL_NAME_RG = Zhabari i Ultë
+| sqi_D_FULL_NAME_ND_RG = Zhabari i Ulte
+| sqi_V_name = Zhabarë
+| sqi_V_FULL_NAME_RO = Zhabarë Zabari i Ultë Zhabar i Poshtëm
+| sqi_V_FULL_NAME_ND_RO = Zhabare Zabari i Ulte Zhabar i Poshtem
+| sqi_V_SORT_NAME_RG = ZHABARE ZABARIIULTE ZHABARIPOSHTEM
+| sqi_V_FULL_NAME_RG = Zhabarë Zabari i Ultë Zhabar i Poshtëm
+| sqi_V_FULL_NAME_ND_RG = Zhabare Zabari i Ulte Zhabar i Poshtem
+| srp_N_name = Donje Žabare
+| srp_N_FULL_NAME_RO = Donje Žabare
+| srp_N_FULL_NAME_ND_RO = Donje Zabare
+| srp_N_SORT_NAME_RG = DONJEZABARE
+| srp_N_FULL_NAME_RG = Donje Žabare
+| srp_N_FULL_NAME_ND_RG = Donje Zabare
+| srp_NS_name = Доње Жабаре
+| srp_NS_FULL_NAME_RO = Доње Жабаре
+| srp_NS_FULL_NAME_ND_RO = Доње Жабаре
+| srp_NS_SORT_NAME_RG = ДОЊЕЖАБАРЕ
+| srp_NS_FULL_NAME_RG = Доње Жабаре
+| srp_NS_FULL_NAME_ND_RG = Доње Жабаре
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.841111
  | Lartësia            = 
 }}
-'''Zhabari i Ultë''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Zhabari i Ultë''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

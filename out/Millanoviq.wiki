@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Millanoviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MILLANOVIQ
- | FULL_NAME_RO = Millanoviq
- | FULL_NAME_ND_RO=Millanoviq
- | SORT_NAME_RG=MILLANOVIQ
- | FULL_NAME_RG=Millanoviq
- | FULL_NAME_ND_RG=Millanoviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Millanoviq
+| sqi_N_FULL_NAME_RO = Millanoviq
+| sqi_N_FULL_NAME_ND_RO = Millanoviq
+| sqi_N_SORT_NAME_RG = MILLANOVIQ
+| sqi_N_FULL_NAME_RG = Millanoviq
+| sqi_N_FULL_NAME_ND_RG = Millanoviq
+| sqi_V_name = Shkozë
+| sqi_V_FULL_NAME_RO = Shkozë
+| sqi_V_FULL_NAME_ND_RO = Shkoze
+| sqi_V_SORT_NAME_RG = SHKOZE
+| sqi_V_FULL_NAME_RG = Shkozë
+| sqi_V_FULL_NAME_ND_RG = Shkoze
+| srp_N_name = Milanović
+| srp_N_FULL_NAME_RO = Milanović
+| srp_N_FULL_NAME_ND_RO = Milanovic
+| srp_N_SORT_NAME_RG = MILANOVIC
+| srp_N_FULL_NAME_RG = Milanović
+| srp_N_FULL_NAME_ND_RG = Milanovic
+| srp_NS_name = Милановић
+| srp_NS_FULL_NAME_RO = Милановић
+| srp_NS_FULL_NAME_ND_RO = Милановић
+| srp_NS_SORT_NAME_RG = МИЛАНОВИЋ
+| srp_NS_FULL_NAME_RG = Милановић
+| srp_NS_FULL_NAME_ND_RG = Милановић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.712778
  | Lartësia            = 
 }}
-'''Millanoviq''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Millanoviq''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

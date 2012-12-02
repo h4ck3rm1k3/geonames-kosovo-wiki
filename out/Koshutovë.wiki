@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Koshutovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOSHUTOVE
- | FULL_NAME_RO = Koshutovë
- | FULL_NAME_ND_RO=Koshutove
- | SORT_NAME_RG=KOSHUTOVE
- | FULL_NAME_RG=Koshutovë
- | FULL_NAME_ND_RG=Koshutove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Koshutovë
+| sqi_N_FULL_NAME_RO = Koshutovë
+| sqi_N_FULL_NAME_ND_RO = Koshutove
+| sqi_N_SORT_NAME_RG = KOSHUTOVE
+| sqi_N_FULL_NAME_RG = Koshutovë
+| sqi_N_FULL_NAME_ND_RG = Koshutove
+| sqi_V_name = Koshtovë
+| sqi_V_FULL_NAME_RO = Koshtovë
+| sqi_V_FULL_NAME_ND_RO = Koshtove
+| sqi_V_SORT_NAME_RG = KOSHTOVE
+| sqi_V_FULL_NAME_RG = Koshtovë
+| sqi_V_FULL_NAME_ND_RG = Koshtove
+| srp_N_name = Košutovo
+| srp_N_FULL_NAME_RO = Košutovo
+| srp_N_FULL_NAME_ND_RO = Kosutovo
+| srp_N_SORT_NAME_RG = KOSUTOVO
+| srp_N_FULL_NAME_RG = Košutovo
+| srp_N_FULL_NAME_ND_RG = Kosutovo
+| srp_NS_name = Кошутово
+| srp_NS_FULL_NAME_RO = Кошутово
+| srp_NS_FULL_NAME_ND_RO = Кошутово
+| srp_NS_SORT_NAME_RG = КОШУТОВО
+| srp_NS_FULL_NAME_RG = Кошутово
+| srp_NS_FULL_NAME_ND_RG = Кошутово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.843611
  | Lartësia            = 
 }}
-'''Koshutovë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Koshutovë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

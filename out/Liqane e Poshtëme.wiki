@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Liqane e Poshtëme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LIQANEEPOSHTEME
- | FULL_NAME_RO = Liqane e Poshtëme
- | FULL_NAME_ND_RO=Liqane e Poshteme
- | SORT_NAME_RG=LIQANEEPOSHTEME
- | FULL_NAME_RG=Liqane e Poshtëme
- | FULL_NAME_ND_RG=Liqane e Poshteme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Liqane e Poshtëme
+| sqi_D_FULL_NAME_RO = Liqane e Poshtëme
+| sqi_D_FULL_NAME_ND_RO = Liqane e Poshteme
+| sqi_D_SORT_NAME_RG = LIQANEEPOSHTEME
+| sqi_D_FULL_NAME_RG = Liqane e Poshtëme
+| sqi_D_FULL_NAME_ND_RG = Liqane e Poshteme
+| srp_N_name = Donje Ličane
+| srp_N_FULL_NAME_RO = Donje Ličane
+| srp_N_FULL_NAME_ND_RO = Donje Licane
+| srp_N_SORT_NAME_RG = DONJELICANE
+| srp_N_FULL_NAME_RG = Donje Ličane
+| srp_N_FULL_NAME_ND_RG = Donje Licane
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 21.213833
  | Lartësia            = 
 }}
-'''Liqane e Poshtëme''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Liqane e Poshtëme''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

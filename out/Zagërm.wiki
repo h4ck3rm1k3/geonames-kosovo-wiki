@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zagërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZAGERM
- | FULL_NAME_RO = Zagërm
- | FULL_NAME_ND_RO=Zagerm
- | SORT_NAME_RG=ZAGERM
- | FULL_NAME_RG=Zagërm
- | FULL_NAME_ND_RG=Zagerm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zagërm
+| sqi_D_FULL_NAME_RO = Zagërm
+| sqi_D_FULL_NAME_ND_RO = Zagerm
+| sqi_D_SORT_NAME_RG = ZAGERM
+| sqi_D_FULL_NAME_RG = Zagërm
+| sqi_D_FULL_NAME_ND_RG = Zagerm
+| sqi_V_name = Zagërmë
+| sqi_V_FULL_NAME_RO = Zagërmë Zagrmle Zgërmle Zagërma Rrezina
+| sqi_V_FULL_NAME_ND_RO = Zagerme Zagrmle Zgermle Zagerma Rrezina
+| sqi_V_SORT_NAME_RG = ZAGERME ZAGRMLE ZGERMLE ZAGERMA RREZINA
+| sqi_V_FULL_NAME_RG = Zagërmë Zagrmle Zgërmle Zagërma Rrezina
+| sqi_V_FULL_NAME_ND_RG = Zagerme Zagrmle Zgermle Zagerma Rrezina
+| srp_N_name = Zagrmlje
+| srp_N_FULL_NAME_RO = Zagrmlje
+| srp_N_FULL_NAME_ND_RO = Zagrmlje
+| srp_N_SORT_NAME_RG = ZAGRMLJE
+| srp_N_FULL_NAME_RG = Zagrmlje
+| srp_N_FULL_NAME_ND_RG = Zagrmlje
+| srp_NS_name = Загрмље
+| srp_NS_FULL_NAME_RO = Загрмље
+| srp_NS_FULL_NAME_ND_RO = Загрмље
+| srp_NS_SORT_NAME_RG = ЗАГРМЉЕ
+| srp_NS_FULL_NAME_RG = Загрмље
+| srp_NS_FULL_NAME_ND_RG = Загрмље
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.283889
  | Lartësia            = 
 }}
-'''Zagërm''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Zagërm''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

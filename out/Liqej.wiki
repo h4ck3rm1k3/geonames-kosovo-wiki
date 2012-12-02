@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Liqej
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LIQEJ
- | FULL_NAME_RO = Liqej
- | FULL_NAME_ND_RO=Liqej
- | SORT_NAME_RG=LIQEJ
- | FULL_NAME_RG=Liqej
- | FULL_NAME_ND_RG=Liqej
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Liqej
+| sqi_D_FULL_NAME_RO = Liqej
+| sqi_D_FULL_NAME_ND_RO = Liqej
+| sqi_D_SORT_NAME_RG = LIQEJ
+| sqi_D_FULL_NAME_RG = Liqej
+| sqi_D_FULL_NAME_ND_RG = Liqej
+| sqi_V_name = Jezere
+| sqi_V_FULL_NAME_RO = Jezere Jezerc
+| sqi_V_FULL_NAME_ND_RO = Jezere Jezerc
+| sqi_V_SORT_NAME_RG = JEZERE JEZERC
+| sqi_V_FULL_NAME_RG = Jezere Jezerc
+| sqi_V_FULL_NAME_ND_RG = Jezere Jezerc
+| srp_N_name = Jezero
+| srp_N_FULL_NAME_RO = Jezero
+| srp_N_FULL_NAME_ND_RO = Jezero
+| srp_N_SORT_NAME_RG = JEZERO
+| srp_N_FULL_NAME_RG = Jezero
+| srp_N_FULL_NAME_ND_RG = Jezero
+| srp_NS_name = Језеро
+| srp_NS_FULL_NAME_RO = Језеро
+| srp_NS_FULL_NAME_ND_RO = Језеро
+| srp_NS_SORT_NAME_RG = ЈЕЗЕРО
+| srp_NS_FULL_NAME_RG = Језеро
+| srp_NS_FULL_NAME_ND_RG = Језеро
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.903889
  | Lartësia            = 
 }}
-'''Liqej''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Liqej''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Hoçë e Vogël
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      HOCEEVOGEL
- | FULL_NAME_RO = Hoçë e Vogël
- | FULL_NAME_ND_RO=Hoce e Vogel
- | SORT_NAME_RG=HOCEEVOGEL
- | FULL_NAME_RG=Hoçë e Vogël
- | FULL_NAME_ND_RG=Hoce e Vogel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Hoçë e Vogël
+| sqi_N_FULL_NAME_RO = Hoçë e Vogël
+| sqi_N_FULL_NAME_ND_RO = Hoce e Vogel
+| sqi_N_SORT_NAME_RG = HOCEEVOGEL
+| sqi_N_FULL_NAME_RG = Hoçë e Vogël
+| sqi_N_FULL_NAME_ND_RG = Hoce e Vogel
+| srp_N_name = Mala Hoča
+| srp_N_FULL_NAME_RO = Mala Hoča
+| srp_N_FULL_NAME_ND_RO = Mala Hoca
+| srp_N_SORT_NAME_RG = MALAHOCA
+| srp_N_FULL_NAME_RG = Mala Hoča
+| srp_N_FULL_NAME_ND_RG = Mala Hoca
+| srp_NS_name = Мала Хоча
+| srp_NS_FULL_NAME_RO = Мала Хоча
+| srp_NS_FULL_NAME_ND_RO = Мала Хоча
+| srp_NS_SORT_NAME_RG = МАЛАХОЧА
+| srp_NS_FULL_NAME_RG = Мала Хоча
+| srp_NS_FULL_NAME_ND_RG = Мала Хоча
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.658611
  | Lartësia            = 
 }}
-'''Hoçë e Vogël''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Hoçë e Vogël''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

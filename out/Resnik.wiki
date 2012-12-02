@@ -1,26 +1,28 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Resnik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RESNIK
- | FULL_NAME_RO = Resnik
- | FULL_NAME_ND_RO=Resnik
- | SORT_NAME_RG=RESNIK
- | FULL_NAME_RG=Resnik
- | FULL_NAME_ND_RG=Resnik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Resnik
+| sqi_D_FULL_NAME_RO = Resnik
+| sqi_D_FULL_NAME_ND_RO = Resnik
+| sqi_D_SORT_NAME_RG = RESNIK
+| sqi_D_FULL_NAME_RG = Resnik
+| sqi_D_FULL_NAME_ND_RG = Resnik
+| srp_N_name = Resnik
+| srp_N_FULL_NAME_RO = Resnik
+| srp_N_FULL_NAME_ND_RO = Resnik
+| srp_N_SORT_NAME_RG = RESNIK
+| srp_N_FULL_NAME_RG = Resnik
+| srp_N_FULL_NAME_ND_RG = Resnik
+| srp_NS_name = Ресник
+| srp_NS_FULL_NAME_RO = Ресник
+| srp_NS_FULL_NAME_ND_RO = Ресник
+| srp_NS_SORT_NAME_RG = РЕСНИК
+| srp_NS_FULL_NAME_RG = Ресник
+| srp_NS_FULL_NAME_ND_RG = Ресник
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Vushtrri
+ | Komuna              = Albanik
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +32,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.775278
- | Gjatësia            = 20.968889
+ | Gjerësia            = 42.66
+ | Gjatësia            = 20.676944
  | Lartësia            = 
 }}
-'''Resnik''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Resnik''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Vushtrri}}
+{{Komuna Albanik}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
 [[Kategoria:Vendbanime në Kosovës]]

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lubozhdë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LUBOZHDE
- | FULL_NAME_RO = Lubozhdë
- | FULL_NAME_ND_RO=Lubozhde
- | SORT_NAME_RG=LUBOZHDE
- | FULL_NAME_RG=Lubozhdë
- | FULL_NAME_ND_RG=Lubozhde
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lubozhdë
+| sqi_N_FULL_NAME_RO = Lubozhdë
+| sqi_N_FULL_NAME_ND_RO = Lubozhde
+| sqi_N_SORT_NAME_RG = LUBOZHDE
+| sqi_N_FULL_NAME_RG = Lubozhdë
+| sqi_N_FULL_NAME_ND_RG = Lubozhde
+| sqi_V_name = Lupizhdë
+| sqi_V_FULL_NAME_RO = Lupizhdë Nëngurra Nëngurrë Lubozhda Lubizhdë
+| sqi_V_FULL_NAME_ND_RO = Lupizhde Nengurra Nengurre Lubozhda Lubizhde
+| sqi_V_SORT_NAME_RG = LUPIZHDE NENGURRA NENGURRE LUBOZHDA LUBIZHDE
+| sqi_V_FULL_NAME_RG = Lupizhdë Nëngurra Nëngurrë Lubozhda Lubizhdë
+| sqi_V_FULL_NAME_ND_RG = Lupizhde Nengurra Nengurre Lubozhda Lubizhde
+| srp_N_name = Ljubožda
+| srp_N_FULL_NAME_RO = Ljubožda
+| srp_N_FULL_NAME_ND_RO = Ljubozda
+| srp_N_SORT_NAME_RG = LJUBOZDA
+| srp_N_FULL_NAME_RG = Ljubožda
+| srp_N_FULL_NAME_ND_RG = Ljubozda
+| srp_NS_name = Љубожда
+| srp_NS_FULL_NAME_RO = Љубожда
+| srp_NS_FULL_NAME_ND_RO = Љубожда
+| srp_NS_SORT_NAME_RG = ЉУБОЖДА
+| srp_NS_FULL_NAME_RG = Љубожда
+| srp_NS_FULL_NAME_ND_RG = Љубожда
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.441944
  | Lartësia            = 
 }}
-'''Lubozhdë''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Lubozhdë''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

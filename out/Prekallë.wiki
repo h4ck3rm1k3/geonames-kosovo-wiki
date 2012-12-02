@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prekallë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PREKALLE
- | FULL_NAME_RO = Prekallë
- | FULL_NAME_ND_RO=Prekalle
- | SORT_NAME_RG=PREKALLE
- | FULL_NAME_RG=Prekallë
- | FULL_NAME_ND_RG=Prekalle
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Prekallë
+| sqi_N_FULL_NAME_RO = Prekallë
+| sqi_N_FULL_NAME_ND_RO = Prekalle
+| sqi_N_SORT_NAME_RG = PREKALLE
+| sqi_N_FULL_NAME_RG = Prekallë
+| sqi_N_FULL_NAME_ND_RG = Prekalle
+| sqi_V_name = Prekalla
+| sqi_V_FULL_NAME_RO = Prekalla
+| sqi_V_FULL_NAME_ND_RO = Prekalla
+| sqi_V_SORT_NAME_RG = PREKALLA
+| sqi_V_FULL_NAME_RG = Prekalla
+| sqi_V_FULL_NAME_ND_RG = Prekalla
+| srp_N_name = Prekale
+| srp_N_FULL_NAME_RO = Prekale
+| srp_N_FULL_NAME_ND_RO = Prekale
+| srp_N_SORT_NAME_RG = PREKALE
+| srp_N_FULL_NAME_RG = Prekale
+| srp_N_FULL_NAME_ND_RG = Prekale
+| srp_NS_name = Прекале
+| srp_NS_FULL_NAME_RO = Прекале
+| srp_NS_FULL_NAME_ND_RO = Прекале
+| srp_NS_SORT_NAME_RG = ПРЕКАЛЕ
+| srp_NS_FULL_NAME_RG = Прекале
+| srp_NS_FULL_NAME_ND_RG = Прекале
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.464167
  | Lartësia            = 
 }}
-'''Prekallë''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Prekallë''' është një [[Fshat Vogel]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

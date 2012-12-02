@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Majdevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAJDEVE
- | FULL_NAME_RO = Majdevë
- | FULL_NAME_ND_RO=Majdeve
- | SORT_NAME_RG=MAJDEVE
- | FULL_NAME_RG=Majdevë
- | FULL_NAME_ND_RG=Majdeve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Majdevë
+| sqi_N_FULL_NAME_RO = Majdevë
+| sqi_N_FULL_NAME_ND_RO = Majdeve
+| sqi_N_SORT_NAME_RG = MAJDEVE
+| sqi_N_FULL_NAME_RG = Majdevë
+| sqi_N_FULL_NAME_ND_RG = Majdeve
+| srp_N_name = Majdevo
+| srp_N_FULL_NAME_RO = Majdevo
+| srp_N_FULL_NAME_ND_RO = Majdevo
+| srp_N_SORT_NAME_RG = MAJDEVO
+| srp_N_FULL_NAME_RG = Majdevo
+| srp_N_FULL_NAME_ND_RG = Majdevo
+| srp_NS_name = Мајдево
+| srp_NS_FULL_NAME_RO = Мајдево
+| srp_NS_FULL_NAME_ND_RO = Мајдево
+| srp_NS_SORT_NAME_RG = МАЈДЕВО
+| srp_NS_FULL_NAME_RG = Мајдево
+| srp_NS_FULL_NAME_ND_RG = Мајдево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.830833
  | Lartësia            = 
 }}
-'''Majdevë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Majdevë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llovcë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLOVCE
- | FULL_NAME_RO = Llovcë
- | FULL_NAME_ND_RO=Llovce
- | SORT_NAME_RG=LLOVCE
- | FULL_NAME_RG=Llovcë
- | FULL_NAME_ND_RG=Llovce
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Llovcë
+| sqi_N_FULL_NAME_RO = Llovcë
+| sqi_N_FULL_NAME_ND_RO = Llovce
+| sqi_N_SORT_NAME_RG = LLOVCE
+| sqi_N_FULL_NAME_RG = Llovcë
+| sqi_N_FULL_NAME_ND_RG = Llovce
+| sqi_V_name = Katunishta
+| sqi_V_FULL_NAME_RO = Katunishta Llovca
+| sqi_V_FULL_NAME_ND_RO = Katunishta Llovca
+| sqi_V_SORT_NAME_RG = KATUNISHTA LLOVCA
+| sqi_V_FULL_NAME_RG = Katunishta Llovca
+| sqi_V_FULL_NAME_ND_RG = Katunishta Llovca
+| srp_N_name = Lovce
+| srp_N_FULL_NAME_RO = Lovce
+| srp_N_FULL_NAME_ND_RO = Lovce
+| srp_N_SORT_NAME_RG = LOVCE
+| srp_N_FULL_NAME_RG = Lovce
+| srp_N_FULL_NAME_ND_RG = Lovce
+| srp_NS_name = Ловце
+| srp_NS_FULL_NAME_RO = Ловце
+| srp_NS_FULL_NAME_ND_RO = Ловце
+| srp_NS_SORT_NAME_RG = ЛОВЦЕ
+| srp_NS_FULL_NAME_RG = Ловце
+| srp_NS_FULL_NAME_ND_RG = Ловце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.571667
  | Lartësia            = 
 }}
-'''Llovcë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Llovcë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

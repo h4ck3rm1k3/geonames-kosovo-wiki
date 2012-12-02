@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sfaraçak i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SFARACAKIEPERM
- | FULL_NAME_RO = Sfaraçak i Epërm
- | FULL_NAME_ND_RO=Sfaracak i Eperm
- | SORT_NAME_RG=SFARACAKIEPERM
- | FULL_NAME_RG=Sfaraçak i Epërm
- | FULL_NAME_ND_RG=Sfaracak i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sfaraçak i Epërm
+| sqi_N_FULL_NAME_RO = Sfaraçak i Epërm
+| sqi_N_FULL_NAME_ND_RO = Sfaracak i Eperm
+| sqi_N_SORT_NAME_RG = SFARACAKIEPERM
+| sqi_N_FULL_NAME_RG = Sfaraçak i Epërm
+| sqi_N_FULL_NAME_ND_RG = Sfaracak i Eperm
+| srp_N_name = Gornji Svračak
+| srp_N_FULL_NAME_RO = Gornji Svračak
+| srp_N_FULL_NAME_ND_RO = Gornji Svracak
+| srp_N_SORT_NAME_RG = GORNJISVRACAK
+| srp_N_FULL_NAME_RG = Gornji Svračak
+| srp_N_FULL_NAME_ND_RG = Gornji Svracak
+| srp_NS_name = Горњи Сврачак
+| srp_NS_FULL_NAME_RO = Горњи Сврачак
+| srp_NS_FULL_NAME_ND_RO = Горњи Сврачак
+| srp_NS_SORT_NAME_RG = ГОРЊИСВРАЧАК
+| srp_NS_FULL_NAME_RG = Горњи Сврачак
+| srp_NS_FULL_NAME_ND_RG = Горњи Сврачак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.018328
  | Lartësia            = 
 }}
-'''Sfaraçak i Epërm''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Sfaraçak i Epërm''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

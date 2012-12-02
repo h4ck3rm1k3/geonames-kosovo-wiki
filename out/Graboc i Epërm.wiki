@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Graboc i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GRABOCIEPERM
- | FULL_NAME_RO = Graboc i Epërm
- | FULL_NAME_ND_RO=Graboc i Eperm
- | SORT_NAME_RG=GRABOCIEPERM
- | FULL_NAME_RG=Graboc i Epërm
- | FULL_NAME_ND_RG=Graboc i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Graboc i Epërm
+| sqi_N_FULL_NAME_RO = Graboc i Epërm
+| sqi_N_FULL_NAME_ND_RO = Graboc i Eperm
+| sqi_N_SORT_NAME_RG = GRABOCIEPERM
+| sqi_N_FULL_NAME_RG = Graboc i Epërm
+| sqi_N_FULL_NAME_ND_RG = Graboc i Eperm
+| sqi_V_name = Grabovci i Epërm
+| sqi_V_FULL_NAME_RO = Grabovci i Epërm
+| sqi_V_FULL_NAME_ND_RO = Grabovci i Eperm
+| sqi_V_SORT_NAME_RG = GRABOVCIIEPERM
+| sqi_V_FULL_NAME_RG = Grabovci i Epërm
+| sqi_V_FULL_NAME_ND_RG = Grabovci i Eperm
+| srp_N_name = Gornji Grabovac
+| srp_N_FULL_NAME_RO = Gornji Grabovac
+| srp_N_FULL_NAME_ND_RO = Gornji Grabovac
+| srp_N_SORT_NAME_RG = GORNJIGRABOVAC
+| srp_N_FULL_NAME_RG = Gornji Grabovac
+| srp_N_FULL_NAME_ND_RG = Gornji Grabovac
+| srp_NS_name = Горњи Грабовац
+| srp_NS_FULL_NAME_RO = Горњи Грабовац
+| srp_NS_FULL_NAME_ND_RO = Горњи Грабовац
+| srp_NS_SORT_NAME_RG = ГОРЊИГРАБОВАЦ
+| srp_NS_FULL_NAME_RG = Горњи Грабовац
+| srp_NS_FULL_NAME_ND_RG = Горњи Грабовац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.985
  | Lartësia            = 
 }}
-'''Graboc i Epërm''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Graboc i Epërm''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

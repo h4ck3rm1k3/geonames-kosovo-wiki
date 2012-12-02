@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Orqushë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ORQUSHE
- | FULL_NAME_RO = Orqushë
- | FULL_NAME_ND_RO=Orqushe
- | SORT_NAME_RG=ORQUSHE
- | FULL_NAME_RG=Orqushë
- | FULL_NAME_ND_RG=Orqushe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Orqushë
+| sqi_N_FULL_NAME_RO = Orqushë
+| sqi_N_FULL_NAME_ND_RO = Orqushe
+| sqi_N_SORT_NAME_RG = ORQUSHE
+| sqi_N_FULL_NAME_RG = Orqushë
+| sqi_N_FULL_NAME_ND_RG = Orqushe
+| sqi_V_name = Orçusha
+| sqi_V_FULL_NAME_RO = Orçusha Orçushë Oruqushë Orushë Oruqusha
+| sqi_V_FULL_NAME_ND_RO = Orcusha Orcushe Oruqushe Orushe Oruqusha
+| sqi_V_SORT_NAME_RG = ORCUSHA ORCUSHE ORUQUSHE ORUSHE ORUQUSHA
+| sqi_V_FULL_NAME_RG = Orçusha Orçushë Oruqushë Orushë Oruqusha
+| sqi_V_FULL_NAME_ND_RG = Orcusha Orcushe Oruqushe Orushe Oruqusha
+| srp_N_name = Orčuša
+| srp_N_FULL_NAME_RO = Orčuša
+| srp_N_FULL_NAME_ND_RO = Orcusa
+| srp_N_SORT_NAME_RG = ORCUSA
+| srp_N_FULL_NAME_RG = Orčuša
+| srp_N_FULL_NAME_ND_RG = Orcusa
+| srp_NS_name = Орчуша
+| srp_NS_FULL_NAME_RO = Орчуша
+| srp_NS_FULL_NAME_ND_RO = Орчуша
+| srp_NS_SORT_NAME_RG = ОРЧУША
+| srp_NS_FULL_NAME_RG = Орчуша
+| srp_NS_FULL_NAME_ND_RG = Орчуша
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.598889
  | Lartësia            = 
 }}
-'''Orqushë''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Orqushë''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

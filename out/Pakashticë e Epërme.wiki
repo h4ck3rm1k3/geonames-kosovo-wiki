@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pakashticë e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PAKASHTICEEEPERME
- | FULL_NAME_RO = Pakashticë e Epërme
- | FULL_NAME_ND_RO=Pakashtice e Eperme
- | SORT_NAME_RG=PAKASHTICEEEPERME
- | FULL_NAME_RG=Pakashticë e Epërme
- | FULL_NAME_ND_RG=Pakashtice e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pakashticë e Epërme
+| sqi_N_FULL_NAME_RO = Pakashticë e Epërme
+| sqi_N_FULL_NAME_ND_RO = Pakashtice e Eperme
+| sqi_N_SORT_NAME_RG = PAKASHTICEEEPERME
+| sqi_N_FULL_NAME_RG = Pakashticë e Epërme
+| sqi_N_FULL_NAME_ND_RG = Pakashtice e Eperme
+| sqi_V_name = Pakashtica e Epërme
+| sqi_V_FULL_NAME_RO = Pakashtica e Epërme Albona e Epërme Pakashtrica e Epërme
+| sqi_V_FULL_NAME_ND_RO = Pakashtica e Eperme Albona e Eperme Pakashtrica e Eperme
+| sqi_V_SORT_NAME_RG = PAKASHTICAEEPERME ALBONAEEPERME PAKASHTRICAEEPERME
+| sqi_V_FULL_NAME_RG = Pakashtica e Epërme Albona e Epërme Pakashtrica e Epërme
+| sqi_V_FULL_NAME_ND_RG = Pakashtica e Eperme Albona e Eperme Pakashtrica e Eperme
+| srp_N_name = Gornja Pakaštica
+| srp_N_FULL_NAME_RO = Gornja Pakaštica
+| srp_N_FULL_NAME_ND_RO = Gornja Pakastica
+| srp_N_SORT_NAME_RG = GORNJAPAKASTICA
+| srp_N_FULL_NAME_RG = Gornja Pakaštica
+| srp_N_FULL_NAME_ND_RG = Gornja Pakastica
+| srp_NS_name = Горња Пакаштица
+| srp_NS_FULL_NAME_RO = Горња Пакаштица
+| srp_NS_FULL_NAME_ND_RO = Горња Пакаштица
+| srp_NS_SORT_NAME_RG = ГОРЊАПАКАШТИЦА
+| srp_NS_FULL_NAME_RG = Горња Пакаштица
+| srp_NS_FULL_NAME_ND_RG = Горња Пакаштица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.117984
  | Lartësia            = 
 }}
-'''Pakashticë e Epërme''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Pakashticë e Epërme''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

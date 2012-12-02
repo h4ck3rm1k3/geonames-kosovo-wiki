@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nabërgjan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NABERGJAN
- | FULL_NAME_RO = Nabërgjan
- | FULL_NAME_ND_RO=Nabergjan
- | SORT_NAME_RG=NABERGJAN
- | FULL_NAME_RG=Nabërgjan
- | FULL_NAME_ND_RG=Nabergjan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Nabërgjan
+| sqi_N_FULL_NAME_RO = Nabërgjan
+| sqi_N_FULL_NAME_ND_RO = Nabergjan
+| sqi_N_SORT_NAME_RG = NABERGJAN
+| sqi_N_FULL_NAME_RG = Nabërgjan
+| sqi_N_FULL_NAME_ND_RG = Nabergjan
+| sqi_V_name = Nabërgjë
+| sqi_V_FULL_NAME_RO = Nabërgjë
+| sqi_V_FULL_NAME_ND_RO = Nabergje
+| sqi_V_SORT_NAME_RG = NABERGJE
+| sqi_V_FULL_NAME_RG = Nabërgjë
+| sqi_V_FULL_NAME_ND_RG = Nabergje
+| srp_N_name = Nabrđe
+| srp_N_FULL_NAME_RO = Nabrđe
+| srp_N_FULL_NAME_ND_RO = Nabrde
+| srp_N_SORT_NAME_RG = NABRDE
+| srp_N_FULL_NAME_RG = Nabrđe
+| srp_N_FULL_NAME_ND_RG = Nabrde
+| srp_NS_name = Набрђе
+| srp_NS_FULL_NAME_RO = Набрђе
+| srp_NS_FULL_NAME_ND_RO = Набрђе
+| srp_NS_SORT_NAME_RG = НАБРЂЕ
+| srp_NS_FULL_NAME_RG = Набрђе
+| srp_NS_FULL_NAME_ND_RG = Набрђе
+| srp_V_name = Gornje Nabrđe
+| srp_V_FULL_NAME_RO = Gornje Nabrđe
+| srp_V_FULL_NAME_ND_RO = Gornje Nabrde
+| srp_V_SORT_NAME_RG = GORNJENABRDE
+| srp_V_FULL_NAME_RG = Gornje Nabrđe
+| srp_V_FULL_NAME_ND_RG = Gornje Nabrde
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.391944
  | Lartësia            = 
 }}
-'''Nabërgjan''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Nabërgjan''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

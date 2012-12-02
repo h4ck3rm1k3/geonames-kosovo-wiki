@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sllatinë e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SLLATINEEEPERME
- | FULL_NAME_RO = Sllatinë e Epërme
- | FULL_NAME_ND_RO=Sllatine e Eperme
- | SORT_NAME_RG=SLLATINEEEPERME
- | FULL_NAME_RG=Sllatinë e Epërme
- | FULL_NAME_ND_RG=Sllatine e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Sllatinë e Epërme
+| sqi_D_FULL_NAME_RO = Sllatinë e Epërme
+| sqi_D_FULL_NAME_ND_RO = Sllatine e Eperme
+| sqi_D_SORT_NAME_RG = SLLATINEEEPERME
+| sqi_D_FULL_NAME_RG = Sllatinë e Epërme
+| sqi_D_FULL_NAME_ND_RG = Sllatine e Eperme
+| sqi_V_name = Sllatinë
+| sqi_V_FULL_NAME_RO = Sllatinë
+| sqi_V_FULL_NAME_ND_RO = Sllatine
+| sqi_V_SORT_NAME_RG = SLLATINE
+| sqi_V_FULL_NAME_RG = Sllatinë
+| sqi_V_FULL_NAME_ND_RG = Sllatine
+| srp_N_name = Gornja Slatina
+| srp_N_FULL_NAME_RO = Gornja Slatina
+| srp_N_FULL_NAME_ND_RO = Gornja Slatina
+| srp_N_SORT_NAME_RG = GORNJASLATINA
+| srp_N_FULL_NAME_RG = Gornja Slatina
+| srp_N_FULL_NAME_ND_RG = Gornja Slatina
+| srp_NS_name = Горња Слатина
+| srp_NS_FULL_NAME_RO = Горња Слатина
+| srp_NS_FULL_NAME_ND_RO = Горња Слатина
+| srp_NS_SORT_NAME_RG = ГОРЊАСЛАТИНА
+| srp_NS_FULL_NAME_RG = Горња Слатина
+| srp_NS_FULL_NAME_ND_RG = Горња Слатина
+| srp_V_name = Slatina
+| srp_V_FULL_NAME_RO = Slatina
+| srp_V_FULL_NAME_ND_RO = Slatina
+| srp_V_SORT_NAME_RG = SLATINA
+| srp_V_FULL_NAME_RG = Slatina
+| srp_V_FULL_NAME_ND_RG = Slatina
+| srp_VS_name = Слатина
+| srp_VS_FULL_NAME_RO = Слатина
+| srp_VS_FULL_NAME_ND_RO = Слатина
+| srp_VS_SORT_NAME_RG = СЛАТИНА
+| srp_VS_FULL_NAME_RG = Слатина
+| srp_VS_FULL_NAME_ND_RG = Слатина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.296389
  | Lartësia            = 
 }}
-'''Sllatinë e Epërme''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Sllatinë e Epërme''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

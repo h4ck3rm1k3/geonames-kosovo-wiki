@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dallashaj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DALLASHAJ
- | FULL_NAME_RO = Dallashaj
- | FULL_NAME_ND_RO=Dallashaj
- | SORT_NAME_RG=DALLASHAJ
- | FULL_NAME_RG=Dallashaj
- | FULL_NAME_ND_RG=Dallashaj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dallashaj
+| sqi_N_FULL_NAME_RO = Dallashaj
+| sqi_N_FULL_NAME_ND_RO = Dallashaj
+| sqi_N_SORT_NAME_RG = DALLASHAJ
+| sqi_N_FULL_NAME_RG = Dallashaj
+| sqi_N_FULL_NAME_ND_RG = Dallashaj
+| srp_N_name = Dolašaj
+| srp_N_FULL_NAME_RO = Dolašaj
+| srp_N_FULL_NAME_ND_RO = Dolasaj
+| srp_N_SORT_NAME_RG = DOLASAJ
+| srp_N_FULL_NAME_RG = Dolašaj
+| srp_N_FULL_NAME_ND_RG = Dolasaj
+| srp_NS_name = Долашај
+| srp_NS_FULL_NAME_RO = Долашај
+| srp_NS_FULL_NAME_ND_RO = Долашај
+| srp_NS_SORT_NAME_RG = ДОЛАШАЈ
+| srp_NS_FULL_NAME_RG = Долашај
+| srp_NS_FULL_NAME_ND_RG = Долашај
+| srp_V_name = Dalašaj
+| srp_V_FULL_NAME_RO = Dalašaj
+| srp_V_FULL_NAME_ND_RO = Dalasaj
+| srp_V_SORT_NAME_RG = DALASAJ
+| srp_V_FULL_NAME_RG = Dalašaj
+| srp_V_FULL_NAME_ND_RG = Dalasaj
+| srp_VS_name = Далашај
+| srp_VS_FULL_NAME_RO = Далашај
+| srp_VS_FULL_NAME_ND_RO = Далашај
+| srp_VS_SORT_NAME_RG = ДАЛАШАЈ
+| srp_VS_FULL_NAME_RG = Далашај
+| srp_VS_FULL_NAME_ND_RG = Далашај
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.341667
  | Lartësia            = 
 }}
-'''Dallashaj''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Dallashaj''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

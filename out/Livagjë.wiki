@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Livagjë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LIVAGJE
- | FULL_NAME_RO = Livagjë
- | FULL_NAME_ND_RO=Livagje
- | SORT_NAME_RG=LIVAGJE
- | FULL_NAME_RG=Livagjë
- | FULL_NAME_ND_RG=Livagje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Livagjë
+| sqi_N_FULL_NAME_RO = Livagjë
+| sqi_N_FULL_NAME_ND_RO = Livagje
+| sqi_N_SORT_NAME_RG = LIVAGJE
+| sqi_N_FULL_NAME_RG = Livagjë
+| sqi_N_FULL_NAME_ND_RG = Livagje
+| sqi_V_name = Livaxhë
+| sqi_V_FULL_NAME_RO = Livaxhë Livadh
+| sqi_V_FULL_NAME_ND_RO = Livaxhe Livadh
+| sqi_V_SORT_NAME_RG = LIVAXHE LIVADH
+| sqi_V_FULL_NAME_RG = Livaxhë Livadh
+| sqi_V_FULL_NAME_ND_RG = Livaxhe Livadh
+| srp_N_name = Livađe
+| srp_N_FULL_NAME_RO = Livađe
+| srp_N_FULL_NAME_ND_RO = Livade
+| srp_N_SORT_NAME_RG = LIVADE
+| srp_N_FULL_NAME_RG = Livađe
+| srp_N_FULL_NAME_ND_RG = Livade
+| srp_NS_name = Ливађе
+| srp_NS_FULL_NAME_RO = Ливађе
+| srp_NS_FULL_NAME_ND_RO = Ливађе
+| srp_NS_SORT_NAME_RG = ЛИВАЂЕ
+| srp_NS_FULL_NAME_RG = Ливађе
+| srp_NS_FULL_NAME_ND_RG = Ливађе
+| srp_V_name = Livadje
+| srp_V_FULL_NAME_RO = Livadje Livade
+| srp_V_FULL_NAME_ND_RO = Livadje Livade
+| srp_V_SORT_NAME_RG = LIVADJE LIVADE
+| srp_V_FULL_NAME_RG = Livadje Livade
+| srp_V_FULL_NAME_ND_RG = Livadje Livade
+| srp_VS_name = Ливаде
+| srp_VS_FULL_NAME_RO = Ливаде
+| srp_VS_FULL_NAME_ND_RO = Ливаде
+| srp_VS_SORT_NAME_RG = ЛИВАДЕ
+| srp_VS_FULL_NAME_RG = Ливаде
+| srp_VS_FULL_NAME_ND_RG = Ливаде
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.166667
  | Lartësia            = 
 }}
-'''Livagjë''' është një [[]] në [[]] të [[Kosovës]].
+'''Livagjë''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

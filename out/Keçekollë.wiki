@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Keçekollë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KECEKOLLE
- | FULL_NAME_RO = Keçekollë
- | FULL_NAME_ND_RO=Kecekolle
- | SORT_NAME_RG=KECEKOLLE
- | FULL_NAME_RG=Keçekollë
- | FULL_NAME_ND_RG=Kecekolle
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Keçekollë
+| sqi_N_FULL_NAME_RO = Keçekollë
+| sqi_N_FULL_NAME_ND_RO = Kecekolle
+| sqi_N_SORT_NAME_RG = KECEKOLLE
+| sqi_N_FULL_NAME_RG = Keçekollë
+| sqi_N_FULL_NAME_ND_RG = Kecekolle
+| sqi_V_name = Keqekollë
+| sqi_V_FULL_NAME_RO = Keqekollë
+| sqi_V_FULL_NAME_ND_RO = Keqekolle
+| sqi_V_SORT_NAME_RG = KEQEKOLLE
+| sqi_V_FULL_NAME_RG = Keqekollë
+| sqi_V_FULL_NAME_ND_RG = Keqekolle
+| srp_N_name = Kačikol
+| srp_N_FULL_NAME_RO = Kačikol
+| srp_N_FULL_NAME_ND_RO = Kacikol
+| srp_N_SORT_NAME_RG = KACIKOL
+| srp_N_FULL_NAME_RG = Kačikol
+| srp_N_FULL_NAME_ND_RG = Kacikol
+| srp_NS_name = Качикол
+| srp_NS_FULL_NAME_RO = Качикол
+| srp_NS_FULL_NAME_ND_RO = Качикол
+| srp_NS_SORT_NAME_RG = КАЧИКОЛ
+| srp_NS_FULL_NAME_RG = Качикол
+| srp_NS_FULL_NAME_ND_RG = Качикол
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.314167
  | Lartësia            = 
 }}
-'''Keçekollë''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Keçekollë''' është një [[Fshat Vogel]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

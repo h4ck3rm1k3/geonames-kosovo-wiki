@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vallaq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VALLAQ
- | FULL_NAME_RO = Vallaq
- | FULL_NAME_ND_RO=Vallaq
- | SORT_NAME_RG=VALLAQ
- | FULL_NAME_RG=Vallaq
- | FULL_NAME_ND_RG=Vallaq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vallaq
+| sqi_N_FULL_NAME_RO = Vallaq
+| sqi_N_FULL_NAME_ND_RO = Vallaq
+| sqi_N_SORT_NAME_RG = VALLAQ
+| sqi_N_FULL_NAME_RG = Vallaq
+| sqi_N_FULL_NAME_ND_RG = Vallaq
+| sqi_V_name = Valq
+| sqi_V_FULL_NAME_RO = Valq Valaq
+| sqi_V_FULL_NAME_ND_RO = Valq Valaq
+| sqi_V_SORT_NAME_RG = VALQ VALAQ
+| sqi_V_FULL_NAME_RG = Valq Valaq
+| sqi_V_FULL_NAME_ND_RG = Valq Valaq
+| srp_N_name = Valač
+| srp_N_FULL_NAME_RO = Valač
+| srp_N_FULL_NAME_ND_RO = Valac
+| srp_N_SORT_NAME_RG = VALAC
+| srp_N_FULL_NAME_RG = Valač
+| srp_N_FULL_NAME_ND_RG = Valac
+| srp_NS_name = Валач
+| srp_NS_FULL_NAME_RO = Валач
+| srp_NS_FULL_NAME_ND_RO = Валач
+| srp_NS_SORT_NAME_RG = ВАЛАЧ
+| srp_NS_FULL_NAME_RG = Валач
+| srp_NS_FULL_NAME_ND_RG = Валач
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.830556
  | Lartësia            = 
 }}
-'''Vallaq''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Vallaq''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

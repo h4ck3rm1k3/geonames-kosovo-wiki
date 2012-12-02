@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lluçkarekë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLUCKAREKE
- | FULL_NAME_RO = Lluçkarekë
- | FULL_NAME_ND_RO=Lluckareke
- | SORT_NAME_RG=LLUCKAREKE
- | FULL_NAME_RG=Lluçkarekë
- | FULL_NAME_ND_RG=Lluckareke
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lluçkarekë
+| sqi_N_FULL_NAME_RO = Lluçkarekë
+| sqi_N_FULL_NAME_ND_RO = Lluckareke
+| sqi_N_SORT_NAME_RG = LLUCKAREKE
+| sqi_N_FULL_NAME_RG = Lluçkarekë
+| sqi_N_FULL_NAME_ND_RG = Lluckareke
+| sqi_V_name = Lluqkarekë
+| sqi_V_FULL_NAME_RO = Lluqkarekë Lluçkarakë Llukarekë
+| sqi_V_FULL_NAME_ND_RO = Lluqkareke Lluckarake Llukareke
+| sqi_V_SORT_NAME_RG = LLUQKAREKE LLUCKARAKE LLUKAREKE
+| sqi_V_FULL_NAME_RG = Lluqkarekë Lluçkarakë Llukarekë
+| sqi_V_FULL_NAME_ND_RG = Lluqkareke Lluckarake Llukareke
+| srp_N_name = Lučka Reka
+| srp_N_FULL_NAME_RO = Lučka Reka
+| srp_N_FULL_NAME_ND_RO = Lucka Reka
+| srp_N_SORT_NAME_RG = LUCKAREKA
+| srp_N_FULL_NAME_RG = Lučka Reka
+| srp_N_FULL_NAME_ND_RG = Lucka Reka
+| srp_NS_name = Лучка Река
+| srp_NS_FULL_NAME_RO = Лучка Река
+| srp_NS_FULL_NAME_ND_RO = Лучка Река
+| srp_NS_SORT_NAME_RG = ЛУЧКАРЕКА
+| srp_NS_FULL_NAME_RG = Лучка Река
+| srp_NS_FULL_NAME_ND_RG = Лучка Река
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.683333
  | Lartësia            = 
 }}
-'''Lluçkarekë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Lluçkarekë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

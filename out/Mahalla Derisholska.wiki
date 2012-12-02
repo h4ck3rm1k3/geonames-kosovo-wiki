@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mahalla Derisholska
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAHALLADERISHOLSKA
- | FULL_NAME_RO = Mahalla Derisholska
- | FULL_NAME_ND_RO=Mahalla Derisholska
- | SORT_NAME_RG=MAHALLADERISHOLSKA
- | FULL_NAME_RG=Mahalla Derisholska
- | FULL_NAME_ND_RG=Mahalla Derisholska
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Mahalla Derisholska
+| sqi_D_FULL_NAME_RO = Mahalla Derisholska
+| sqi_D_FULL_NAME_ND_RO = Mahalla Derisholska
+| sqi_D_SORT_NAME_RG = MAHALLADERISHOLSKA
+| sqi_D_FULL_NAME_RG = Mahalla Derisholska
+| sqi_D_FULL_NAME_ND_RG = Mahalla Derisholska
+| srp_N_name = Deryišolska Mahala
+| srp_N_FULL_NAME_RO = Deryišolska Mahala
+| srp_N_FULL_NAME_ND_RO = Deryisolska Mahala
+| srp_N_SORT_NAME_RG = DERYISOLSKAMAHALA
+| srp_N_FULL_NAME_RG = Deryišolska Mahala
+| srp_N_FULL_NAME_ND_RG = Deryisolska Mahala
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 21.121386
  | Lartësia            = 
 }}
-'''Mahalla Derisholska''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Mahalla Derisholska''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

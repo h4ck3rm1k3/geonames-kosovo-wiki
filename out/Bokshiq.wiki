@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bokshiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BOKSHIQ
- | FULL_NAME_RO = Bokshiq
- | FULL_NAME_ND_RO=Bokshiq
- | SORT_NAME_RG=BOKSHIQ
- | FULL_NAME_RG=Bokshiq
- | FULL_NAME_ND_RG=Bokshiq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bokshiq
+| sqi_N_FULL_NAME_RO = Bokshiq
+| sqi_N_FULL_NAME_ND_RO = Bokshiq
+| sqi_N_SORT_NAME_RG = BOKSHIQ
+| sqi_N_FULL_NAME_RG = Bokshiq
+| sqi_N_FULL_NAME_ND_RG = Bokshiq
+| sqi_V_name = Bokshiq - Mileçeviq
+| sqi_V_FULL_NAME_RO = Bokshiq - Mileçeviq Bokshiqi Boksh Bokshi
+| sqi_V_FULL_NAME_ND_RO = Bokshiq - Mileceviq Bokshiqi Boksh Bokshi
+| sqi_V_SORT_NAME_RG = BOKSHIQMILECEVIQ BOKSHIQI BOKSH BOKSHI
+| sqi_V_FULL_NAME_RG = Bokshiq - Mileçeviq Bokshiqi Boksh Bokshi
+| sqi_V_FULL_NAME_ND_RG = Bokshiq - Mileceviq Bokshiqi Boksh Bokshi
+| srp_N_name = Bokšić
+| srp_N_FULL_NAME_RO = Bokšić
+| srp_N_FULL_NAME_ND_RO = Boksic
+| srp_N_SORT_NAME_RG = BOKSIC
+| srp_N_FULL_NAME_RG = Bokšić
+| srp_N_FULL_NAME_ND_RG = Boksic
+| srp_NS_name = Бокшић
+| srp_NS_FULL_NAME_RO = Бокшић
+| srp_NS_FULL_NAME_ND_RO = Бокшић
+| srp_NS_SORT_NAME_RG = БОКШИЋ
+| srp_NS_FULL_NAME_RG = Бокшић
+| srp_NS_FULL_NAME_ND_RG = Бокшић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.5125
  | Lartësia            = 
 }}
-'''Bokshiq''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Bokshiq''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

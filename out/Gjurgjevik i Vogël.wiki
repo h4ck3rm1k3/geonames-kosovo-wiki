@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gjurgjevik i Vogël
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GJURGJEVIKIVOGEL
- | FULL_NAME_RO = Gjurgjevik i Vogël
- | FULL_NAME_ND_RO=Gjurgjevik i Vogel
- | SORT_NAME_RG=GJURGJEVIKIVOGEL
- | FULL_NAME_RG=Gjurgjevik i Vogël
- | FULL_NAME_ND_RG=Gjurgjevik i Vogel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gjurgjevik i Vogël
+| sqi_D_FULL_NAME_RO = Gjurgjevik i Vogël
+| sqi_D_FULL_NAME_ND_RO = Gjurgjevik i Vogel
+| sqi_D_SORT_NAME_RG = GJURGJEVIKIVOGEL
+| sqi_D_FULL_NAME_RG = Gjurgjevik i Vogël
+| sqi_D_FULL_NAME_ND_RG = Gjurgjevik i Vogel
+| srp_N_name = Mali Ðurđevik
+| srp_N_FULL_NAME_RO = Mali Ðurđevik
+| srp_N_FULL_NAME_ND_RO = Mali Durdevik
+| srp_N_SORT_NAME_RG = MALIDURDEVIK
+| srp_N_FULL_NAME_RG = Mali Ðurđevik
+| srp_N_FULL_NAME_ND_RG = Mali Durdevik
+| srp_NS_name = Мали Ђурђевик
+| srp_NS_FULL_NAME_RO = Мали Ђурђевик
+| srp_NS_FULL_NAME_ND_RO = Мали Ђурђевик
+| srp_NS_SORT_NAME_RG = МАЛИЂУРЂЕВИК
+| srp_NS_FULL_NAME_RG = Мали Ђурђевик
+| srp_NS_FULL_NAME_ND_RG = Мали Ђурђевик
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.590278
  | Lartësia            = 
 }}
-'''Gjurgjevik i Vogël''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Gjurgjevik i Vogël''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

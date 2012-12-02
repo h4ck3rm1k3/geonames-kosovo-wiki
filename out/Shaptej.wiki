@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shaptej
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHAPTEJ
- | FULL_NAME_RO = Shaptej
- | FULL_NAME_ND_RO=Shaptej
- | SORT_NAME_RG=SHAPTEJ
- | FULL_NAME_RG=Shaptej
- | FULL_NAME_ND_RG=Shaptej
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shaptej
+| sqi_N_FULL_NAME_RO = Shaptej
+| sqi_N_FULL_NAME_ND_RO = Shaptej
+| sqi_N_SORT_NAME_RG = SHAPTEJ
+| sqi_N_FULL_NAME_RG = Shaptej
+| sqi_N_FULL_NAME_ND_RG = Shaptej
+| sqi_V_name = Shailei
+| sqi_V_FULL_NAME_RO = Shailei
+| sqi_V_FULL_NAME_ND_RO = Shailei
+| sqi_V_SORT_NAME_RG = SHAILEI
+| sqi_V_FULL_NAME_RG = Shailei
+| sqi_V_FULL_NAME_ND_RG = Shailei
+| srp_D_name = Šaptej
+| srp_D_FULL_NAME_RO = Šaptej
+| srp_D_FULL_NAME_ND_RO = Saptej
+| srp_D_SORT_NAME_RG = SAPTEJ
+| srp_D_FULL_NAME_RG = Šaptej
+| srp_D_FULL_NAME_ND_RG = Saptej
+| srp_DS_name = Шаптеј
+| srp_DS_FULL_NAME_RO = Шаптеј
+| srp_DS_FULL_NAME_ND_RO = Шаптеј
+| srp_DS_SORT_NAME_RG = ШАПТЕЈ
+| srp_DS_FULL_NAME_RG = Шаптеј
+| srp_DS_FULL_NAME_ND_RG = Шаптеј
+| srp_V_name = Šaptelj
+| srp_V_FULL_NAME_RO = Šaptelj Shaptej
+| srp_V_FULL_NAME_ND_RO = Saptelj Shaptej
+| srp_V_SORT_NAME_RG = SAPTELJ SHAPTEJ
+| srp_V_FULL_NAME_RG = Šaptelj Shaptej
+| srp_V_FULL_NAME_ND_RG = Saptelj Shaptej
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.378889
  | Lartësia            = 
 }}
-'''Shaptej''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Shaptej''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

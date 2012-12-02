@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Godanc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GODANC
- | FULL_NAME_RO = Godanc
- | FULL_NAME_ND_RO=Godanc
- | SORT_NAME_RG=GODANC
- | FULL_NAME_RG=Godanc
- | FULL_NAME_ND_RG=Godanc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Godanc
+| sqi_N_FULL_NAME_RO = Godanc
+| sqi_N_FULL_NAME_ND_RO = Godanc
+| sqi_N_SORT_NAME_RG = GODANC
+| sqi_N_FULL_NAME_RG = Godanc
+| sqi_N_FULL_NAME_ND_RG = Godanc
+| sqi_V_name = Shpat
+| sqi_V_FULL_NAME_RO = Shpat Shpati Godanci Godancë
+| sqi_V_FULL_NAME_ND_RO = Shpat Shpati Godanci Godance
+| sqi_V_SORT_NAME_RG = SHPAT SHPATI GODANCI GODANCE
+| sqi_V_FULL_NAME_RG = Shpat Shpati Godanci Godancë
+| sqi_V_FULL_NAME_ND_RG = Shpat Shpati Godanci Godance
+| srp_N_name = Godance
+| srp_N_FULL_NAME_RO = Godance
+| srp_N_FULL_NAME_ND_RO = Godance
+| srp_N_SORT_NAME_RG = GODANCE
+| srp_N_FULL_NAME_RG = Godance
+| srp_N_FULL_NAME_ND_RG = Godance
+| srp_NS_name = Годанце
+| srp_NS_FULL_NAME_RO = Годанце
+| srp_NS_FULL_NAME_ND_RO = Годанце
+| srp_NS_SORT_NAME_RG = ГОДАНЦЕ
+| srp_NS_FULL_NAME_RG = Годанце
+| srp_NS_FULL_NAME_ND_RG = Годанце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.936667
  | Lartësia            = 
 }}
-'''Godanc''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Godanc''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

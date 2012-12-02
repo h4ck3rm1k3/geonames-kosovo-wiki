@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ranoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RANOC
- | FULL_NAME_RO = Ranoc
- | FULL_NAME_ND_RO=Ranoc
- | SORT_NAME_RG=RANOC
- | FULL_NAME_RG=Ranoc
- | FULL_NAME_ND_RG=Ranoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Ranoc
+| sqi_D_FULL_NAME_RO = Ranoc
+| sqi_D_FULL_NAME_ND_RO = Ranoc
+| sqi_D_SORT_NAME_RG = RANOC
+| sqi_D_FULL_NAME_RG = Ranoc
+| sqi_D_FULL_NAME_ND_RG = Ranoc
+| srp_N_name = Renovac
+| srp_N_FULL_NAME_RO = Renovac
+| srp_N_FULL_NAME_ND_RO = Renovac
+| srp_N_SORT_NAME_RG = RENOVAC
+| srp_N_FULL_NAME_RG = Renovac
+| srp_N_FULL_NAME_ND_RG = Renovac
+| srp_NS_name = Реновац
+| srp_NS_FULL_NAME_RO = Реновац
+| srp_NS_FULL_NAME_ND_RO = Реновац
+| srp_NS_SORT_NAME_RG = РЕНОВАЦ
+| srp_NS_FULL_NAME_RG = Реновац
+| srp_NS_FULL_NAME_ND_RG = Реновац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.568056
  | Lartësia            = 
 }}
-'''Ranoc''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Ranoc''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

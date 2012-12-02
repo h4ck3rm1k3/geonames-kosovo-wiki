@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vlashnjë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VLASHNJE
- | FULL_NAME_RO = Vlashnjë
- | FULL_NAME_ND_RO=Vlashnje
- | SORT_NAME_RG=VLASHNJE
- | FULL_NAME_RG=Vlashnjë
- | FULL_NAME_ND_RG=Vlashnje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vlashnjë
+| sqi_N_FULL_NAME_RO = Vlashnjë
+| sqi_N_FULL_NAME_ND_RO = Vlashnje
+| sqi_N_SORT_NAME_RG = VLASHNJE
+| sqi_N_FULL_NAME_RG = Vlashnjë
+| sqi_N_FULL_NAME_ND_RG = Vlashnje
+| sqi_V_name = Vllashnjë
+| sqi_V_FULL_NAME_RO = Vllashnjë
+| sqi_V_FULL_NAME_ND_RO = Vllashnje
+| sqi_V_SORT_NAME_RG = VLLASHNJE
+| sqi_V_FULL_NAME_RG = Vllashnjë
+| sqi_V_FULL_NAME_ND_RG = Vllashnje
+| srp_N_name = Vlašnja
+| srp_N_FULL_NAME_RO = Vlašnja
+| srp_N_FULL_NAME_ND_RO = Vlasnja
+| srp_N_SORT_NAME_RG = VLASNJA
+| srp_N_FULL_NAME_RG = Vlašnja
+| srp_N_FULL_NAME_ND_RG = Vlasnja
+| srp_NS_name = Влашња
+| srp_NS_FULL_NAME_RO = Влашња
+| srp_NS_FULL_NAME_ND_RO = Влашња
+| srp_NS_SORT_NAME_RG = ВЛАШЊА
+| srp_NS_FULL_NAME_RG = Влашња
+| srp_NS_FULL_NAME_ND_RG = Влашња
+| srp_V_name = Vljašna
+| srp_V_FULL_NAME_RO = Vljašna
+| srp_V_FULL_NAME_ND_RO = Vljasna
+| srp_V_SORT_NAME_RG = VLJASNA
+| srp_V_FULL_NAME_RG = Vljašna
+| srp_V_FULL_NAME_ND_RG = Vljasna
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.662222
  | Lartësia            = 
 }}
-'''Vlashnjë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Vlashnjë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

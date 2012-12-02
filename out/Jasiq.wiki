@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Jasiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JASIQ
- | FULL_NAME_RO = Jasiq
- | FULL_NAME_ND_RO=Jasiq
- | SORT_NAME_RG=JASIQ
- | FULL_NAME_RG=Jasiq
- | FULL_NAME_ND_RG=Jasiq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Jasiq
+| sqi_D_FULL_NAME_RO = Jasiq
+| sqi_D_FULL_NAME_ND_RO = Jasiq
+| sqi_D_SORT_NAME_RG = JASIQ
+| sqi_D_FULL_NAME_RG = Jasiq
+| sqi_D_FULL_NAME_ND_RG = Jasiq
+| srp_N_name = Jasić
+| srp_N_FULL_NAME_RO = Jasić
+| srp_N_FULL_NAME_ND_RO = Jasic
+| srp_N_SORT_NAME_RG = JASIC
+| srp_N_FULL_NAME_RG = Jasić
+| srp_N_FULL_NAME_ND_RG = Jasic
+| srp_NS_name = Јасић
+| srp_NS_FULL_NAME_RO = Јасић
+| srp_NS_FULL_NAME_ND_RO = Јасић
+| srp_NS_SORT_NAME_RG = ЈАСИЋ
+| srp_NS_FULL_NAME_RG = Јасић
+| srp_NS_FULL_NAME_ND_RG = Јасић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.365
  | Lartësia            = 
 }}
-'''Jasiq''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Jasiq''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

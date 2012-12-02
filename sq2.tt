@@ -1,30 +1,14 @@
-{{Fshat në [% country2 %]
- | Emri                = [% sqi.name %]
- | EmriAlt                = [% altname %]
- | NAME_SHORT_FORM=      [% sqi.SHORT_FORM %]
- | NAME_GENERIC=      [% sqi.GENERIC  %]
- | NAME_SORT_NAME_RO=      [% sqi.SORT_NAME_RO %]
- | FULL_NAME_RO = [% sqi.FULL_NAME_RO %]
- | FULL_NAME_ND_RO=[% sqi.FULL_NAME_ND_RO %]
- | SORT_NAME_RG=[% sqi.SORT_NAME_RG %]
- | FULL_NAME_RG=[% sqi.FULL_NAME_RG %]
- | FULL_NAME_ND_RG=[% sqi.FULL_NAME_ND_RG %]
- | SRP_NAME_SHORT_FORM=      [% srp.SHORT_FORM %]
- | SRP_NAME_GENERIC=      [% srp.GENERIC  %]
- | SRP_NAME_SORT_NAME_RO=      [% srp.SORT_NAME_RO %]
- | SRP_FULL_NAME_RO = [% srp.FULL_NAME_RO %]
- | SRP_FULL_NAME_ND_RO=[% srp.FULL_NAME_ND_RO %]
- | SRP_SORT_NAME_RG=[% srp.SORT_NAME_RG %]
- | SRP_FULL_NAME_RG=[% srp.FULL_NAME_RG %]
- | SRP_FULL_NAME_ND_RG=[% srp.FULL_NAME_ND_RG %]
+{{Fshat në [% std.STD.country2 %]
+ | Emri                = [% std.STD.name %]
+[% INCLUDE 'names.tt' %]
  | Emri (Rasa dhanore) = 
  | Figura              = 
- | Shteti              = [% sqi.country %]
- | Komuna              = [% sqi.municipality %]
+ | Shteti              = [% std.STD.country %]
+ | Komuna              = [% std.STD.municipality %]
  | Kodi postar         = 
  | Sipërfaqja          = 
 [% IF population  %]
- | Popullsia           = [% sqi.population %]
+ | Popullsia           = [% std.STD.population %]
 [% ELSE %]
  | Popullsia           = 
 [% END %]
@@ -32,19 +16,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = [% sqi.lat %]
- | Gjatësia            = [% sqi.long %]
- | Lartësia            = [% sqi.elevation %]
+ | Gjerësia            = [% std.STD.lat %]
+ | Gjatësia            = [% std.STD.long %]
+ | Lartësia            = [% std.STD.elevation %]
 }}
-'''[% sqi.name %]''' është një [[[% sqi.typename %]]] në [[[% sqi.municipality %]]] të [[[% sqi.country2 %]]].
+'''[% std.STD.name %]''' është një [[[% std.STD.typename %]]] në [[[% std.STD.municipality %]]] të [[[% std.STD.country2 %]]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna [% sqi.municipality %]}}
+{{Komuna [% std.STD.municipality %]}}
 {{Kosovo-Administrata-Cung}}
 
-[[Kategoria:Fshatra në [% sqi.country2 %]]]
-[[Kategoria:Fshatra në Kommunes [% sqi.municipality %]]]
-[[Kategoria:Vendbanime në [% sqi.country2 %]]]
+[[Kategoria:Fshatra në [% std.STD.country2 %]]]
+[[Kategoria:Fshatra në Kommunes [% std.STD.municipality %]]]
+[[Kategoria:Vendbanime në [% std.STD.country2 %]]]

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pakashticë e Poshtme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PAKASHTICEEPOSHTME
- | FULL_NAME_RO = Pakashticë e Poshtme
- | FULL_NAME_ND_RO=Pakashtice e Poshtme
- | SORT_NAME_RG=PAKASHTICEEPOSHTME
- | FULL_NAME_RG=Pakashticë e Poshtme
- | FULL_NAME_ND_RG=Pakashtice e Poshtme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pakashticë e Poshtme
+| sqi_N_FULL_NAME_RO = Pakashticë e Poshtme
+| sqi_N_FULL_NAME_ND_RO = Pakashtice e Poshtme
+| sqi_N_SORT_NAME_RG = PAKASHTICEEPOSHTME
+| sqi_N_FULL_NAME_RG = Pakashticë e Poshtme
+| sqi_N_FULL_NAME_ND_RG = Pakashtice e Poshtme
+| sqi_V_name = Pakashticë e Poshtëme
+| sqi_V_FULL_NAME_RO = Pakashticë e Poshtëme Pakashtica e Poshtme Albona e Poshtme
+| sqi_V_FULL_NAME_ND_RO = Pakashtice e Poshteme Pakashtica e Poshtme Albona e Poshtme
+| sqi_V_SORT_NAME_RG = PAKASHTICEEPOSHTEME PAKASHTICAEPOSHTME ALBONAEPOSHTME
+| sqi_V_FULL_NAME_RG = Pakashticë e Poshtëme Pakashtica e Poshtme Albona e Poshtme
+| sqi_V_FULL_NAME_ND_RG = Pakashtice e Poshteme Pakashtica e Poshtme Albona e Poshtme
+| srp_N_name = Donja Pakaštica
+| srp_N_FULL_NAME_RO = Donja Pakaštica
+| srp_N_FULL_NAME_ND_RO = Donja Pakastica
+| srp_N_SORT_NAME_RG = DONJAPAKASTICA
+| srp_N_FULL_NAME_RG = Donja Pakaštica
+| srp_N_FULL_NAME_ND_RG = Donja Pakastica
+| srp_NS_name = Доња Пакаштица
+| srp_NS_FULL_NAME_RO = Доња Пакаштица
+| srp_NS_FULL_NAME_ND_RO = Доња Пакаштица
+| srp_NS_SORT_NAME_RG = ДОЊАПАКАШТИЦА
+| srp_NS_FULL_NAME_RG = Доња Пакаштица
+| srp_NS_FULL_NAME_ND_RG = Доња Пакаштица
+| srp_V_name = Pakaštica
+| srp_V_FULL_NAME_RO = Pakaštica
+| srp_V_FULL_NAME_ND_RO = Pakastica
+| srp_V_SORT_NAME_RG = PAKASTICA
+| srp_V_FULL_NAME_RG = Pakaštica
+| srp_V_FULL_NAME_ND_RG = Pakastica
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.135009
  | Lartësia            = 
 }}
-'''Pakashticë e Poshtme''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Pakashticë e Poshtme''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

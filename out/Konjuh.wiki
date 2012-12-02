@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Konjuh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KONJUH
- | FULL_NAME_RO = Konjuh
- | FULL_NAME_ND_RO=Konjuh
- | SORT_NAME_RG=KONJUH
- | FULL_NAME_RG=Konjuh
- | FULL_NAME_ND_RG=Konjuh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Konjuh
+| sqi_N_FULL_NAME_RO = Konjuh
+| sqi_N_FULL_NAME_ND_RO = Konjuh
+| sqi_N_SORT_NAME_RG = KONJUH
+| sqi_N_FULL_NAME_RG = Konjuh
+| sqi_N_FULL_NAME_ND_RG = Konjuh
+| srp_N_name = Konjuh
+| srp_N_FULL_NAME_RO = Konjuh
+| srp_N_FULL_NAME_ND_RO = Konjuh
+| srp_N_SORT_NAME_RG = KONJUH
+| srp_N_FULL_NAME_RG = Konjuh
+| srp_N_FULL_NAME_ND_RG = Konjuh
+| srp_NS_name = Коњух
+| srp_NS_FULL_NAME_RO = Коњух
+| srp_NS_FULL_NAME_ND_RO = Коњух
+| srp_NS_SORT_NAME_RG = КОЊУХ
+| srp_NS_FULL_NAME_RG = Коњух
+| srp_NS_FULL_NAME_ND_RG = Коњух
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.14
  | Lartësia            = 
 }}
-'''Konjuh''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Konjuh''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

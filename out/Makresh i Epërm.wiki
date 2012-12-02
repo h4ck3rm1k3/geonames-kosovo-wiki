@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Makresh i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAKRESHIEPERM
- | FULL_NAME_RO = Makresh i Epërm
- | FULL_NAME_ND_RO=Makresh i Eperm
- | SORT_NAME_RG=MAKRESHIEPERM
- | FULL_NAME_RG=Makresh i Epërm
- | FULL_NAME_ND_RG=Makresh i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Makresh i Epërm
+| sqi_N_FULL_NAME_RO = Makresh i Epërm
+| sqi_N_FULL_NAME_ND_RO = Makresh i Eperm
+| sqi_N_SORT_NAME_RG = MAKRESHIEPERM
+| sqi_N_FULL_NAME_RG = Makresh i Epërm
+| sqi_N_FULL_NAME_ND_RG = Makresh i Eperm
+| sqi_V_name = Makreshi i Epërm
+| sqi_V_FULL_NAME_RO = Makreshi i Epërm
+| sqi_V_FULL_NAME_ND_RO = Makreshi i Eperm
+| sqi_V_SORT_NAME_RG = MAKRESHIIEPERM
+| sqi_V_FULL_NAME_RG = Makreshi i Epërm
+| sqi_V_FULL_NAME_ND_RG = Makreshi i Eperm
+| srp_N_name = Gornji Makreš
+| srp_N_FULL_NAME_RO = Gornji Makreš
+| srp_N_FULL_NAME_ND_RO = Gornji Makres
+| srp_N_SORT_NAME_RG = GORNJIMAKRES
+| srp_N_FULL_NAME_RG = Gornji Makreš
+| srp_N_FULL_NAME_ND_RG = Gornji Makres
+| srp_NS_name = Горњи Макреш
+| srp_NS_FULL_NAME_RO = Горњи Макреш
+| srp_NS_FULL_NAME_ND_RO = Горњи Макреш
+| srp_NS_SORT_NAME_RG = ГОРЊИМАКРЕШ
+| srp_NS_FULL_NAME_RG = Горњи Макреш
+| srp_NS_FULL_NAME_ND_RG = Горњи Макреш
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.445187
  | Lartësia            = 
 }}
-'''Makresh i Epërm''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Makresh i Epërm''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

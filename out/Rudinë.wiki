@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rudinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RUDINE
- | FULL_NAME_RO = Rudinë
- | FULL_NAME_ND_RO=Rudine
- | SORT_NAME_RG=RUDINE
- | FULL_NAME_RG=Rudinë
- | FULL_NAME_ND_RG=Rudine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rudinë
+| sqi_N_FULL_NAME_RO = Rudinë
+| sqi_N_FULL_NAME_ND_RO = Rudine
+| sqi_N_SORT_NAME_RG = RUDINE
+| sqi_N_FULL_NAME_RG = Rudinë
+| sqi_N_FULL_NAME_ND_RG = Rudine
+| srp_N_name = Rudine
+| srp_N_FULL_NAME_RO = Rudine
+| srp_N_FULL_NAME_ND_RO = Rudine
+| srp_N_SORT_NAME_RG = RUDINE
+| srp_N_FULL_NAME_RG = Rudine
+| srp_N_FULL_NAME_ND_RG = Rudine
+| srp_NS_name = Рудине
+| srp_NS_FULL_NAME_RO = Рудине
+| srp_NS_FULL_NAME_ND_RO = Рудине
+| srp_NS_SORT_NAME_RG = РУДИНЕ
+| srp_NS_FULL_NAME_RG = Рудине
+| srp_NS_FULL_NAME_ND_RG = Рудине
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.739167
  | Lartësia            = 
 }}
-'''Rudinë''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Rudinë''' është një [[Fshat Vogel]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

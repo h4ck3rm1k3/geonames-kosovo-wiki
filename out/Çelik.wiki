@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Çelik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CELIK
- | FULL_NAME_RO = Çelik
- | FULL_NAME_ND_RO=Celik
- | SORT_NAME_RG=CELIK
- | FULL_NAME_RG=Çelik
- | FULL_NAME_ND_RG=Celik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Çelik
+| sqi_N_FULL_NAME_RO = Çelik
+| sqi_N_FULL_NAME_ND_RO = Celik
+| sqi_N_SORT_NAME_RG = CELIK
+| sqi_N_FULL_NAME_RG = Çelik
+| sqi_N_FULL_NAME_ND_RG = Celik
+| sqi_V_name = Çeliku
+| sqi_V_FULL_NAME_RO = Çeliku
+| sqi_V_FULL_NAME_ND_RO = Celiku
+| sqi_V_SORT_NAME_RG = CELIKU
+| sqi_V_FULL_NAME_RG = Çeliku
+| sqi_V_FULL_NAME_ND_RG = Celiku
+| srp_N_name = Čelik
+| srp_N_FULL_NAME_RO = Čelik
+| srp_N_FULL_NAME_ND_RO = Celik
+| srp_N_SORT_NAME_RG = CELIK
+| srp_N_FULL_NAME_RG = Čelik
+| srp_N_FULL_NAME_ND_RG = Celik
+| srp_NS_name = Челик
+| srp_NS_FULL_NAME_RO = Челик
+| srp_NS_FULL_NAME_ND_RO = Челик
+| srp_NS_SORT_NAME_RG = ЧЕЛИК
+| srp_NS_FULL_NAME_RG = Челик
+| srp_NS_FULL_NAME_ND_RG = Челик
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -30,11 +38,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.304167
- | Gjatësia            = 21.5225
+ | Gjerësia            = 42.3
+ | Gjatësia            = 21.507222
  | Lartësia            = 
 }}
-'''Çelik''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Çelik''' është një [[Fshat Vogel]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

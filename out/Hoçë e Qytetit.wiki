@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Hoçë e Qytetit
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      HOCEEQYTETIT
- | FULL_NAME_RO = Hoçë e Qytetit
- | FULL_NAME_ND_RO=Hoce e Qytetit
- | SORT_NAME_RG=HOCEEQYTETIT
- | FULL_NAME_RG=Hoçë e Qytetit
- | FULL_NAME_ND_RG=Hoce e Qytetit
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Hoçë e Qytetit
+| sqi_N_FULL_NAME_RO = Hoçë e Qytetit
+| sqi_N_FULL_NAME_ND_RO = Hoce e Qytetit
+| sqi_N_SORT_NAME_RG = HOCEEQYTETIT
+| sqi_N_FULL_NAME_RG = Hoçë e Qytetit
+| sqi_N_FULL_NAME_ND_RG = Hoce e Qytetit
+| sqi_V_name = Hoça e Gjytetit
+| sqi_V_FULL_NAME_RO = Hoça e Gjytetit Hoça Haqa e Zagragjesë Hoçë Hoqë Hoqa e Zagragjës
+| sqi_V_FULL_NAME_ND_RO = Hoca e Gjytetit Hoca Haqa e Zagragjese Hoce Hoqe Hoqa e Zagragjes
+| sqi_V_SORT_NAME_RG = HOCAEGJYTETIT HOCA HAQAEZAGRAGJESE HOCE HOQE HOQAEZAGRAGJES
+| sqi_V_FULL_NAME_RG = Hoça e Gjytetit Hoça Haqa e Zagragjesë Hoçë Hoqë Hoqa e Zagragjës
+| sqi_V_FULL_NAME_ND_RG = Hoca e Gjytetit Hoca Haqa e Zagragjese Hoce Hoqe Hoqa e Zagragjes
+| srp_N_name = Hoča Zagradska
+| srp_N_FULL_NAME_RO = Hoča Zagradska
+| srp_N_FULL_NAME_ND_RO = Hoca Zagradska
+| srp_N_SORT_NAME_RG = HOCAZAGRADSKA
+| srp_N_FULL_NAME_RG = Hoča Zagradska
+| srp_N_FULL_NAME_ND_RG = Hoca Zagradska
+| srp_NS_name = Хоча Заградска
+| srp_NS_FULL_NAME_RO = Хоча Заградска
+| srp_NS_FULL_NAME_ND_RO = Хоча Заградска
+| srp_NS_SORT_NAME_RG = ХОЧАЗАГРАДСКА
+| srp_NS_FULL_NAME_RG = Хоча Заградска
+| srp_NS_FULL_NAME_ND_RG = Хоча Заградска
+| srp_V_name = Oče Zagradske
+| srp_V_FULL_NAME_RO = Oče Zagradske Oče Zagradska
+| srp_V_FULL_NAME_ND_RO = Oce Zagradske Oce Zagradska
+| srp_V_SORT_NAME_RG = OCEZAGRADSKE OCEZAGRADSKA
+| srp_V_FULL_NAME_RG = Oče Zagradske Oče Zagradska
+| srp_V_FULL_NAME_ND_RG = Oce Zagradske Oce Zagradska
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.691389
  | Lartësia            = 
 }}
-'''Hoçë e Qytetit''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Hoçë e Qytetit''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

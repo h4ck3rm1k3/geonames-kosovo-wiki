@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bajçinovci
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BAJCINOVCI
- | FULL_NAME_RO = Bajçinovci
- | FULL_NAME_ND_RO=Bajcinovci
- | SORT_NAME_RG=BAJCINOVCI
- | FULL_NAME_RG=Bajçinovci
- | FULL_NAME_ND_RG=Bajcinovci
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Bajçinovci
+| sqi_D_FULL_NAME_RO = Bajçinovci
+| sqi_D_FULL_NAME_ND_RO = Bajcinovci
+| sqi_D_SORT_NAME_RG = BAJCINOVCI
+| sqi_D_FULL_NAME_RG = Bajçinovci
+| sqi_D_FULL_NAME_ND_RG = Bajcinovci
+| srp_N_name = Bajčinovci
+| srp_N_FULL_NAME_RO = Bajčinovci
+| srp_N_FULL_NAME_ND_RO = Bajcinovci
+| srp_N_SORT_NAME_RG = BAJCINOVCI
+| srp_N_FULL_NAME_RG = Bajčinovci
+| srp_N_FULL_NAME_ND_RG = Bajcinovci
+| srp_V_name = Bajčinovce
+| srp_V_FULL_NAME_RO = Bajčinovce
+| srp_V_FULL_NAME_ND_RO = Bajcinovce
+| srp_V_SORT_NAME_RG = BAJCINOVCE
+| srp_V_FULL_NAME_RG = Bajčinovce
+| srp_V_FULL_NAME_ND_RG = Bajcinovce
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.095008
  | Lartësia            = 
 }}
-'''Bajçinovci''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Bajçinovci''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

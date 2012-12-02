@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Jahoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JAHOC
- | FULL_NAME_RO = Jahoc
- | FULL_NAME_ND_RO=Jahoc
- | SORT_NAME_RG=JAHOC
- | FULL_NAME_RG=Jahoc
- | FULL_NAME_ND_RG=Jahoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Jahoc
+| sqi_N_FULL_NAME_RO = Jahoc
+| sqi_N_FULL_NAME_ND_RO = Jahoc
+| sqi_N_SORT_NAME_RG = JAHOC
+| sqi_N_FULL_NAME_RG = Jahoc
+| sqi_N_FULL_NAME_ND_RG = Jahoc
+| sqi_V_name = Jaco
+| sqi_V_FULL_NAME_RO = Jaco
+| sqi_V_FULL_NAME_ND_RO = Jaco
+| sqi_V_SORT_NAME_RG = JACO
+| sqi_V_FULL_NAME_RG = Jaco
+| sqi_V_FULL_NAME_ND_RG = Jaco
+| srp_N_name = Jahoc
+| srp_N_FULL_NAME_RO = Jahoc
+| srp_N_FULL_NAME_ND_RO = Jahoc
+| srp_N_SORT_NAME_RG = JAHOC
+| srp_N_FULL_NAME_RG = Jahoc
+| srp_N_FULL_NAME_ND_RG = Jahoc
+| srp_NS_name = Јахоц
+| srp_NS_FULL_NAME_RO = Јахоц
+| srp_NS_FULL_NAME_ND_RO = Јахоц
+| srp_NS_SORT_NAME_RG = ЈАХОЦ
+| srp_NS_FULL_NAME_RG = Јахоц
+| srp_NS_FULL_NAME_ND_RG = Јахоц
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.394444
  | Lartësia            = 
 }}
-'''Jahoc''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Jahoc''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

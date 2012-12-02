@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Jançishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JANCISHTE
- | FULL_NAME_RO = Jançishtë
- | FULL_NAME_ND_RO=Jancishte
- | SORT_NAME_RG=JANCISHTE
- | FULL_NAME_RG=Jançishtë
- | FULL_NAME_ND_RG=Jancishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Jançishtë
+| sqi_N_FULL_NAME_RO = Jançishtë
+| sqi_N_FULL_NAME_ND_RO = Jancishte
+| sqi_N_SORT_NAME_RG = JANCISHTE
+| sqi_N_FULL_NAME_RG = Jançishtë
+| sqi_N_FULL_NAME_ND_RG = Jancishte
+| sqi_V_name = Janqishtë
+| sqi_V_FULL_NAME_RO = Janqishtë
+| sqi_V_FULL_NAME_ND_RO = Janqishte
+| sqi_V_SORT_NAME_RG = JANQISHTE
+| sqi_V_FULL_NAME_RG = Janqishtë
+| sqi_V_FULL_NAME_ND_RG = Janqishte
+| srp_N_name = Jančište
+| srp_N_FULL_NAME_RO = Jančište
+| srp_N_FULL_NAME_ND_RO = Janciste
+| srp_N_SORT_NAME_RG = JANCISTE
+| srp_N_FULL_NAME_RG = Jančište
+| srp_N_FULL_NAME_ND_RG = Janciste
+| srp_NS_name = Јанчиште
+| srp_NS_FULL_NAME_RO = Јанчиште
+| srp_NS_FULL_NAME_ND_RO = Јанчиште
+| srp_NS_SORT_NAME_RG = ЈАНЧИШТЕ
+| srp_NS_FULL_NAME_RG = Јанчиште
+| srp_NS_FULL_NAME_ND_RG = Јанчиште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.730833
  | Lartësia            = 
 }}
-'''Jançishtë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Jançishtë''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

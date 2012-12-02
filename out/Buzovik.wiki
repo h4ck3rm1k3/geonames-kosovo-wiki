@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Buzovik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BUZOVIK
- | FULL_NAME_RO = Buzovik
- | FULL_NAME_ND_RO=Buzovik
- | SORT_NAME_RG=BUZOVIK
- | FULL_NAME_RG=Buzovik
- | FULL_NAME_ND_RG=Buzovik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Buzovik
+| sqi_N_FULL_NAME_RO = Buzovik
+| sqi_N_FULL_NAME_ND_RO = Buzovik
+| sqi_N_SORT_NAME_RG = BUZOVIK
+| sqi_N_FULL_NAME_RG = Buzovik
+| sqi_N_FULL_NAME_ND_RG = Buzovik
+| srp_N_name = Buzovik
+| srp_N_FULL_NAME_RO = Buzovik
+| srp_N_FULL_NAME_ND_RO = Buzovik
+| srp_N_SORT_NAME_RG = BUZOVIK
+| srp_N_FULL_NAME_RG = Buzovik
+| srp_N_FULL_NAME_ND_RG = Buzovik
+| srp_NS_name = Бузовик
+| srp_NS_FULL_NAME_RO = Бузовик
+| srp_NS_FULL_NAME_ND_RO = Бузовик
+| srp_NS_SORT_NAME_RG = БУЗОВИК
+| srp_NS_FULL_NAME_RG = Бузовик
+| srp_NS_FULL_NAME_ND_RG = Бузовик
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.390556
  | Lartësia            = 
 }}
-'''Buzovik''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Buzovik''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

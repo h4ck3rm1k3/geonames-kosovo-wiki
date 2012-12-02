@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shtedim
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHTEDIM
- | FULL_NAME_RO = Shtedim
- | FULL_NAME_ND_RO=Shtedim
- | SORT_NAME_RG=SHTEDIM
- | FULL_NAME_RG=Shtedim
- | FULL_NAME_ND_RG=Shtedim
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shtedim
+| sqi_N_FULL_NAME_RO = Shtedim
+| sqi_N_FULL_NAME_ND_RO = Shtedim
+| sqi_N_SORT_NAME_RG = SHTEDIM
+| sqi_N_FULL_NAME_RG = Shtedim
+| sqi_N_FULL_NAME_ND_RG = Shtedim
+| sqi_V_name = Gjake
+| sqi_V_FULL_NAME_RO = Gjake Gjakja Shtedimi
+| sqi_V_FULL_NAME_ND_RO = Gjake Gjakja Shtedimi
+| sqi_V_SORT_NAME_RG = GJAKE GJAKJA SHTEDIMI
+| sqi_V_FULL_NAME_RG = Gjake Gjakja Shtedimi
+| sqi_V_FULL_NAME_ND_RG = Gjake Gjakja Shtedimi
+| srp_N_name = Štedim
+| srp_N_FULL_NAME_RO = Štedim
+| srp_N_FULL_NAME_ND_RO = Stedim
+| srp_N_SORT_NAME_RG = STEDIM
+| srp_N_FULL_NAME_RG = Štedim
+| srp_N_FULL_NAME_ND_RG = Stedim
+| srp_NS_name = Штедим
+| srp_NS_FULL_NAME_RO = Штедим
+| srp_NS_FULL_NAME_ND_RO = Штедим
+| srp_NS_SORT_NAME_RG = ШТЕДИМ
+| srp_NS_FULL_NAME_RG = Штедим
+| srp_NS_FULL_NAME_ND_RG = Штедим
+| srp_V_name = Štedin
+| srp_V_FULL_NAME_RO = Štedin
+| srp_V_FULL_NAME_ND_RO = Stedin
+| srp_V_SORT_NAME_RG = STEDIN
+| srp_V_FULL_NAME_RG = Štedin
+| srp_V_FULL_NAME_ND_RG = Stedin
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.217799
  | Lartësia            = 
 }}
-'''Shtedim''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Shtedim''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vitak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VITAK
- | FULL_NAME_RO = Vitak
- | FULL_NAME_ND_RO=Vitak
- | SORT_NAME_RG=VITAK
- | FULL_NAME_RG=Vitak
- | FULL_NAME_ND_RG=Vitak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vitak
+| sqi_N_FULL_NAME_RO = Vitak
+| sqi_N_FULL_NAME_ND_RO = Vitak
+| sqi_N_SORT_NAME_RG = VITAK
+| sqi_N_FULL_NAME_RG = Vitak
+| sqi_N_FULL_NAME_ND_RG = Vitak
+| srp_N_name = Vitak
+| srp_N_FULL_NAME_RO = Vitak
+| srp_N_FULL_NAME_ND_RO = Vitak
+| srp_N_SORT_NAME_RG = VITAK
+| srp_N_FULL_NAME_RG = Vitak
+| srp_N_FULL_NAME_ND_RG = Vitak
+| srp_NS_name = Витак
+| srp_NS_FULL_NAME_RO = Витак
+| srp_NS_FULL_NAME_ND_RO = Витак
+| srp_NS_SORT_NAME_RG = ВИТАК
+| srp_NS_FULL_NAME_RG = Витак
+| srp_NS_FULL_NAME_ND_RG = Витак
+| srp_V_name = Višake
+| srp_V_FULL_NAME_RO = Višake
+| srp_V_FULL_NAME_ND_RO = Visake
+| srp_V_SORT_NAME_RG = VISAKE
+| srp_V_FULL_NAME_RG = Višake
+| srp_V_FULL_NAME_ND_RG = Visake
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.715278
  | Lartësia            = 
 }}
-'''Vitak''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Vitak''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

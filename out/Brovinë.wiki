@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Brovinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BROVINE
- | FULL_NAME_RO = Brovinë
- | FULL_NAME_ND_RO=Brovine
- | SORT_NAME_RG=BROVINE
- | FULL_NAME_RG=Brovinë
- | FULL_NAME_ND_RG=Brovine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Brovinë
+| sqi_N_FULL_NAME_RO = Brovinë
+| sqi_N_FULL_NAME_ND_RO = Brovine
+| sqi_N_SORT_NAME_RG = BROVINE
+| sqi_N_FULL_NAME_RG = Brovinë
+| sqi_N_FULL_NAME_ND_RG = Brovine
+| srp_N_name = Brovina
+| srp_N_FULL_NAME_RO = Brovina
+| srp_N_FULL_NAME_ND_RO = Brovina
+| srp_N_SORT_NAME_RG = BROVINA
+| srp_N_FULL_NAME_RG = Brovina
+| srp_N_FULL_NAME_ND_RG = Brovina
+| srp_NS_name = Бровина
+| srp_NS_FULL_NAME_RO = Бровина
+| srp_NS_FULL_NAME_ND_RO = Бровина
+| srp_NS_SORT_NAME_RG = БРОВИНА
+| srp_NS_FULL_NAME_RG = Бровина
+| srp_NS_FULL_NAME_ND_RG = Бровина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.275278
  | Lartësia            = 
 }}
-'''Brovinë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Brovinë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

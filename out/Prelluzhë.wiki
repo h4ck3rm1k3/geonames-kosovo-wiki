@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prelluzhë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PRELLUZHE
- | FULL_NAME_RO = Prelluzhë
- | FULL_NAME_ND_RO=Prelluzhe
- | SORT_NAME_RG=PRELLUZHE
- | FULL_NAME_RG=Prelluzhë
- | FULL_NAME_ND_RG=Prelluzhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Prelluzhë
+| sqi_N_FULL_NAME_RO = Prelluzhë
+| sqi_N_FULL_NAME_ND_RO = Prelluzhe
+| sqi_N_SORT_NAME_RG = PRELLUZHE
+| sqi_N_FULL_NAME_RG = Prelluzhë
+| sqi_N_FULL_NAME_ND_RG = Prelluzhe
+| sqi_V_name = Përluzhë
+| sqi_V_FULL_NAME_RO = Përluzhë Priluzhë
+| sqi_V_FULL_NAME_ND_RO = Perluzhe Priluzhe
+| sqi_V_SORT_NAME_RG = PERLUZHE PRILUZHE
+| sqi_V_FULL_NAME_RG = Përluzhë Priluzhë
+| sqi_V_FULL_NAME_ND_RG = Perluzhe Priluzhe
+| srp_N_name = Prilužje
+| srp_N_FULL_NAME_RO = Prilužje
+| srp_N_FULL_NAME_ND_RO = Priluzje
+| srp_N_SORT_NAME_RG = PRILUZJE
+| srp_N_FULL_NAME_RG = Prilužje
+| srp_N_FULL_NAME_ND_RG = Priluzje
+| srp_NS_name = Прилужје
+| srp_NS_FULL_NAME_RO = Прилужје
+| srp_NS_FULL_NAME_ND_RO = Прилужје
+| srp_NS_SORT_NAME_RG = ПРИЛУЖЈЕ
+| srp_NS_FULL_NAME_RG = Прилужје
+| srp_NS_FULL_NAME_ND_RG = Прилужје
+| srp_V_name = Priluž
+| srp_V_FULL_NAME_RO = Priluž
+| srp_V_FULL_NAME_ND_RO = Priluz
+| srp_V_SORT_NAME_RG = PRILUZ
+| srp_V_FULL_NAME_RG = Priluž
+| srp_V_FULL_NAME_ND_RG = Priluz
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.025556
  | Lartësia            = 
 }}
-'''Prelluzhë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Prelluzhë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

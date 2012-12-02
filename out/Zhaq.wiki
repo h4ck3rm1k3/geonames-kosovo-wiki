@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zhaq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZHAQ
- | FULL_NAME_RO = Zhaq
- | FULL_NAME_ND_RO=Zhaq
- | SORT_NAME_RG=ZHAQ
- | FULL_NAME_RG=Zhaq
- | FULL_NAME_ND_RG=Zhaq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zhaq
+| sqi_N_FULL_NAME_RO = Zhaq
+| sqi_N_FULL_NAME_ND_RO = Zhaq
+| sqi_N_SORT_NAME_RG = ZHAQ
+| sqi_N_FULL_NAME_RG = Zhaq
+| sqi_N_FULL_NAME_ND_RG = Zhaq
+| sqi_V_name = Zallq
+| sqi_V_FULL_NAME_RO = Zallq Zallç Zallçi Zallqi
+| sqi_V_FULL_NAME_ND_RO = Zallq Zallc Zallci Zallqi
+| sqi_V_SORT_NAME_RG = ZALLQ ZALLC ZALLCI ZALLQI
+| sqi_V_FULL_NAME_RG = Zallq Zallç Zallçi Zallqi
+| sqi_V_FULL_NAME_ND_RG = Zallq Zallc Zallci Zallqi
+| srp_N_name = Žač
+| srp_N_FULL_NAME_RO = Žač
+| srp_N_FULL_NAME_ND_RO = Zac
+| srp_N_SORT_NAME_RG = ZAC
+| srp_N_FULL_NAME_RG = Žač
+| srp_N_FULL_NAME_ND_RG = Zac
+| srp_NS_name = Жач
+| srp_NS_FULL_NAME_RO = Жач
+| srp_NS_FULL_NAME_ND_RO = Жач
+| srp_NS_SORT_NAME_RG = ЖАЧ
+| srp_NS_FULL_NAME_RG = Жач
+| srp_NS_FULL_NAME_ND_RG = Жач
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.501667
  | Lartësia            = 
 }}
-'''Zhaq''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Zhaq''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

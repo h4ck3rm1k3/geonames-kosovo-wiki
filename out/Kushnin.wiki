@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kushnin
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KUSHNIN
- | FULL_NAME_RO = Kushnin
- | FULL_NAME_ND_RO=Kushnin
- | SORT_NAME_RG=KUSHNIN
- | FULL_NAME_RG=Kushnin
- | FULL_NAME_ND_RG=Kushnin
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kushnin
+| sqi_N_FULL_NAME_RO = Kushnin
+| sqi_N_FULL_NAME_ND_RO = Kushnin
+| sqi_N_SORT_NAME_RG = KUSHNIN
+| sqi_N_FULL_NAME_RG = Kushnin
+| sqi_N_FULL_NAME_ND_RG = Kushnin
+| sqi_V_name = Kushnik
+| sqi_V_FULL_NAME_RO = Kushnik Kushin
+| sqi_V_FULL_NAME_ND_RO = Kushnik Kushin
+| sqi_V_SORT_NAME_RG = KUSHNIK KUSHIN
+| sqi_V_FULL_NAME_RG = Kushnik Kushin
+| sqi_V_FULL_NAME_ND_RG = Kushnik Kushin
+| srp_N_name = Kušnin
+| srp_N_FULL_NAME_RO = Kušnin
+| srp_N_FULL_NAME_ND_RO = Kusnin
+| srp_N_SORT_NAME_RG = KUSNIN
+| srp_N_FULL_NAME_RG = Kušnin
+| srp_N_FULL_NAME_ND_RG = Kusnin
+| srp_NS_name = Кушнин
+| srp_NS_FULL_NAME_RO = Кушнин
+| srp_NS_FULL_NAME_ND_RO = Кушнин
+| srp_NS_SORT_NAME_RG = КУШНИН
+| srp_NS_FULL_NAME_RG = Кушнин
+| srp_NS_FULL_NAME_ND_RG = Кушнин
+| srp_V_name = Kušneni
+| srp_V_FULL_NAME_RO = Kušneni
+| srp_V_FULL_NAME_ND_RO = Kusneni
+| srp_V_SORT_NAME_RG = KUSNENI
+| srp_V_FULL_NAME_RG = Kušneni
+| srp_V_FULL_NAME_ND_RG = Kusneni
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.5375
  | Lartësia            = 
 }}
-'''Kushnin''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Kushnin''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

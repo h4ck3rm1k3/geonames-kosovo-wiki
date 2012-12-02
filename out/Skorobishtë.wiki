@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Skorobishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SKOROBISHTE
- | FULL_NAME_RO = Skorobishtë
- | FULL_NAME_ND_RO=Skorobishte
- | SORT_NAME_RG=SKOROBISHTE
- | FULL_NAME_RG=Skorobishtë
- | FULL_NAME_ND_RG=Skorobishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Skorobishtë
+| sqi_N_FULL_NAME_RO = Skorobishtë
+| sqi_N_FULL_NAME_ND_RO = Skorobishte
+| sqi_N_SORT_NAME_RG = SKOROBISHTE
+| sqi_N_FULL_NAME_RG = Skorobishtë
+| sqi_N_FULL_NAME_ND_RG = Skorobishte
+| sqi_V_name = Skrobishtë
+| sqi_V_FULL_NAME_RO = Skrobishtë Skoribishtë Skarabisht
+| sqi_V_FULL_NAME_ND_RO = Skrobishte Skoribishte Skarabisht
+| sqi_V_SORT_NAME_RG = SKROBISHTE SKORIBISHTE SKARABISHT
+| sqi_V_FULL_NAME_RG = Skrobishtë Skoribishtë Skarabisht
+| sqi_V_FULL_NAME_ND_RG = Skrobishte Skoribishte Skarabisht
+| srp_N_name = Skorobište
+| srp_N_FULL_NAME_RO = Skorobište
+| srp_N_FULL_NAME_ND_RO = Skorobiste
+| srp_N_SORT_NAME_RG = SKOROBISTE
+| srp_N_FULL_NAME_RG = Skorobište
+| srp_N_FULL_NAME_ND_RG = Skorobiste
+| srp_NS_name = Скоробиште
+| srp_NS_FULL_NAME_RO = Скоробиште
+| srp_NS_FULL_NAME_ND_RO = Скоробиште
+| srp_NS_SORT_NAME_RG = СКОРОБИШТЕ
+| srp_NS_FULL_NAME_RG = Скоробиште
+| srp_NS_FULL_NAME_ND_RG = Скоробиште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.810556
  | Lartësia            = 
 }}
-'''Skorobishtë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Skorobishtë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

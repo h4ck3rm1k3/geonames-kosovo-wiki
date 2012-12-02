@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Alashi i Vogël
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ALASHIIVOGEL
- | FULL_NAME_RO = Alashi i Vogël
- | FULL_NAME_ND_RO=Alashi i Vogel
- | SORT_NAME_RG=ALASHIIVOGEL
- | FULL_NAME_RG=Alashi i Vogël
- | FULL_NAME_ND_RG=Alashi i Vogel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Alashi i Vogël
+| sqi_N_FULL_NAME_RO = Alashi i Vogël
+| sqi_N_FULL_NAME_ND_RO = Alashi i Vogel
+| sqi_N_SORT_NAME_RG = ALASHIIVOGEL
+| sqi_N_FULL_NAME_RG = Alashi i Vogël
+| sqi_N_FULL_NAME_ND_RG = Alashi i Vogel
+| sqi_V_name = Hallaq i Vogël
+| sqi_V_FULL_NAME_RO = Hallaq i Vogël
+| sqi_V_FULL_NAME_ND_RO = Hallaq i Vogel
+| sqi_V_SORT_NAME_RG = HALLAQIVOGEL
+| sqi_V_FULL_NAME_RG = Hallaq i Vogël
+| sqi_V_FULL_NAME_ND_RG = Hallaq i Vogel
+| srp_N_name = Mali Alaš
+| srp_N_FULL_NAME_RO = Mali Alaš
+| srp_N_FULL_NAME_ND_RO = Mali Alas
+| srp_N_SORT_NAME_RG = MALIALAS
+| srp_N_FULL_NAME_RG = Mali Alaš
+| srp_N_FULL_NAME_ND_RG = Mali Alas
+| srp_NS_name = Мали Алаш
+| srp_NS_FULL_NAME_RO = Мали Алаш
+| srp_NS_FULL_NAME_ND_RO = Мали Алаш
+| srp_NS_SORT_NAME_RG = МАЛИАЛАШ
+| srp_NS_FULL_NAME_RG = Мали Алаш
+| srp_NS_FULL_NAME_ND_RG = Мали Алаш
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.099167
  | Lartësia            = 
 }}
-'''Alashi i Vogël''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Alashi i Vogël''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

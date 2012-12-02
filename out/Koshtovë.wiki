@@ -1,26 +1,28 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Koshtovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOSHTOVE
- | FULL_NAME_RO = Koshtovë
- | FULL_NAME_ND_RO=Koshtove
- | SORT_NAME_RG=KOSHTOVE
- | FULL_NAME_RG=Koshtovë
- | FULL_NAME_ND_RG=Koshtove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Koshtovë
+| sqi_N_FULL_NAME_RO = Koshtovë
+| sqi_N_FULL_NAME_ND_RO = Koshtove
+| sqi_N_SORT_NAME_RG = KOSHTOVE
+| sqi_N_FULL_NAME_RG = Koshtovë
+| sqi_N_FULL_NAME_ND_RG = Koshtove
+| srp_N_name = Košutovo
+| srp_N_FULL_NAME_RO = Košutovo
+| srp_N_FULL_NAME_ND_RO = Kosutovo
+| srp_N_SORT_NAME_RG = KOSUTOVO
+| srp_N_FULL_NAME_RG = Košutovo
+| srp_N_FULL_NAME_ND_RG = Kosutovo
+| srp_NS_name = Кошутово
+| srp_NS_FULL_NAME_RO = Кошутово
+| srp_NS_FULL_NAME_ND_RO = Кошутово
+| srp_NS_SORT_NAME_RG = КОШУТОВО
+| srp_NS_FULL_NAME_RG = Кошутово
+| srp_NS_FULL_NAME_ND_RG = Кошутово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Lipjan
+ | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +32,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 43.008611
- | Gjatësia            = 20.843611
+ | Gjerësia            = 42.874444
+ | Gjatësia            = 20.786111
  | Lartësia            = 
 }}
-'''Koshtovë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Koshtovë''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Lipjan}}
+{{Komuna Novobërdë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
 [[Kategoria:Vendbanime në Kosovës]]

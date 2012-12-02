@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Jabukë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JABUKE
- | FULL_NAME_RO = Jabukë
- | FULL_NAME_ND_RO=Jabuke
- | SORT_NAME_RG=JABUKE
- | FULL_NAME_RG=Jabukë
- | FULL_NAME_ND_RG=Jabuke
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Jabukë
+| sqi_N_FULL_NAME_RO = Jabukë
+| sqi_N_FULL_NAME_ND_RO = Jabuke
+| sqi_N_SORT_NAME_RG = JABUKE
+| sqi_N_FULL_NAME_RG = Jabukë
+| sqi_N_FULL_NAME_ND_RG = Jabuke
+| srp_N_name = Jabuka
+| srp_N_FULL_NAME_RO = Jabuka
+| srp_N_FULL_NAME_ND_RO = Jabuka
+| srp_N_SORT_NAME_RG = JABUKA
+| srp_N_FULL_NAME_RG = Jabuka
+| srp_N_FULL_NAME_ND_RG = Jabuka
+| srp_NS_name = Јабука
+| srp_NS_FULL_NAME_RO = Јабука
+| srp_NS_FULL_NAME_ND_RO = Јабука
+| srp_NS_SORT_NAME_RG = ЈАБУКА
+| srp_NS_FULL_NAME_RG = Јабука
+| srp_NS_FULL_NAME_ND_RG = Јабука
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.660278
  | Lartësia            = 
 }}
-'''Jabukë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Jabukë''' është një [[Fshat Vogel]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

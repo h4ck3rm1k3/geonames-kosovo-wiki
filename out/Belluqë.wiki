@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Belluqë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BELLUQE
- | FULL_NAME_RO = Belluqë
- | FULL_NAME_ND_RO=Belluqe
- | SORT_NAME_RG=BELLUQE
- | FULL_NAME_RG=Belluqë
- | FULL_NAME_ND_RG=Belluqe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Belluqë
+| sqi_N_FULL_NAME_RO = Belluqë
+| sqi_N_FULL_NAME_ND_RO = Belluqe
+| sqi_N_SORT_NAME_RG = BELLUQE
+| sqi_N_FULL_NAME_RG = Belluqë
+| sqi_N_FULL_NAME_ND_RG = Belluqe
+| sqi_V_name = Beluqe
+| sqi_V_FULL_NAME_RO = Beluqe
+| sqi_V_FULL_NAME_ND_RO = Beluqe
+| sqi_V_SORT_NAME_RG = BELUQE
+| sqi_V_FULL_NAME_RG = Beluqe
+| sqi_V_FULL_NAME_ND_RG = Beluqe
+| srp_N_name = Beluće
+| srp_N_FULL_NAME_RO = Beluće
+| srp_N_FULL_NAME_ND_RO = Beluce
+| srp_N_SORT_NAME_RG = BELUCE
+| srp_N_FULL_NAME_RG = Beluće
+| srp_N_FULL_NAME_ND_RG = Beluce
+| srp_NS_name = Белуће
+| srp_NS_FULL_NAME_RO = Белуће
+| srp_NS_FULL_NAME_ND_RO = Белуће
+| srp_NS_SORT_NAME_RG = БЕЛУЋЕ
+| srp_NS_FULL_NAME_RG = Белуће
+| srp_NS_FULL_NAME_ND_RG = Белуће
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.723333
  | Lartësia            = 
 }}
-'''Belluqë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Belluqë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

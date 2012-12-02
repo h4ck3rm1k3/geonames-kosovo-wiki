@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Banjskë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BANJSKE
- | FULL_NAME_RO = Banjskë
- | FULL_NAME_ND_RO=Banjske
- | SORT_NAME_RG=BANJSKE
- | FULL_NAME_RG=Banjskë
- | FULL_NAME_ND_RG=Banjske
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Banjskë
+| sqi_N_FULL_NAME_RO = Banjskë
+| sqi_N_FULL_NAME_ND_RO = Banjske
+| sqi_N_SORT_NAME_RG = BANJSKE
+| sqi_N_FULL_NAME_RG = Banjskë
+| sqi_N_FULL_NAME_ND_RG = Banjske
+| srp_N_name = Banjska
+| srp_N_FULL_NAME_RO = Banjska
+| srp_N_FULL_NAME_ND_RO = Banjska
+| srp_N_SORT_NAME_RG = BANJSKA
+| srp_N_FULL_NAME_RG = Banjska
+| srp_N_FULL_NAME_ND_RG = Banjska
+| srp_NS_name = Бањска
+| srp_NS_FULL_NAME_RO = Бањска
+| srp_NS_FULL_NAME_ND_RO = Бањска
+| srp_NS_SORT_NAME_RG = БАЊСКА
+| srp_NS_FULL_NAME_RG = Бањска
+| srp_NS_FULL_NAME_ND_RG = Бањска
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.953889
  | Lartësia            = 
 }}
-'''Banjskë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Banjskë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

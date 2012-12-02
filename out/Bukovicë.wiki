@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bukovicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BUKOVICE
- | FULL_NAME_RO = Bukovicë
- | FULL_NAME_ND_RO=Bukovice
- | SORT_NAME_RG=BUKOVICE
- | FULL_NAME_RG=Bukovicë
- | FULL_NAME_ND_RG=Bukovice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bukovicë
+| sqi_N_FULL_NAME_RO = Bukovicë
+| sqi_N_FULL_NAME_ND_RO = Bukovice
+| sqi_N_SORT_NAME_RG = BUKOVICE
+| sqi_N_FULL_NAME_RG = Bukovicë
+| sqi_N_FULL_NAME_ND_RG = Bukovice
+| srp_N_name = Bukovica
+| srp_N_FULL_NAME_RO = Bukovica
+| srp_N_FULL_NAME_ND_RO = Bukovica
+| srp_N_SORT_NAME_RG = BUKOVICA
+| srp_N_FULL_NAME_RG = Bukovica
+| srp_N_FULL_NAME_ND_RG = Bukovica
+| srp_NS_name = Буковица
+| srp_NS_FULL_NAME_RO = Буковица
+| srp_NS_FULL_NAME_ND_RO = Буковица
+| srp_NS_SORT_NAME_RG = БУКОВИЦА
+| srp_NS_FULL_NAME_RG = Буковица
+| srp_NS_FULL_NAME_ND_RG = Буковица
+| srp_V_name = Bukavica
+| srp_V_FULL_NAME_RO = Bukavica
+| srp_V_FULL_NAME_ND_RO = Bukavica
+| srp_V_SORT_NAME_RG = BUKAVICA
+| srp_V_FULL_NAME_RG = Bukavica
+| srp_V_FULL_NAME_ND_RG = Bukavica
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.264913
  | Lartësia            = 
 }}
-'''Bukovicë''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Bukovicë''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Fushticë e Poshtme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      FUSHTICEEPOSHTME
- | FULL_NAME_RO = Fushticë e Poshtme
- | FULL_NAME_ND_RO=Fushtice e Poshtme
- | SORT_NAME_RG=FUSHTICEEPOSHTME
- | FULL_NAME_RG=Fushticë e Poshtme
- | FULL_NAME_ND_RG=Fushtice e Poshtme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Fushticë e Poshtme
+| sqi_N_FULL_NAME_RO = Fushticë e Poshtme
+| sqi_N_FULL_NAME_ND_RO = Fushtice e Poshtme
+| sqi_N_SORT_NAME_RG = FUSHTICEEPOSHTME
+| sqi_N_FULL_NAME_RG = Fushticë e Poshtme
+| sqi_N_FULL_NAME_ND_RG = Fushtice e Poshtme
+| sqi_V_name = Vashë
+| sqi_V_FULL_NAME_RO = Vashë Fushtica e Ulët Fushtica e Poshtme Vasha Fushticë e Poshtëme Fusticë e Poshtmë
+| sqi_V_FULL_NAME_ND_RO = Vashe Fushtica e Ulet Fushtica e Poshtme Vasha Fushtice e Poshteme Fustice e Poshtme
+| sqi_V_SORT_NAME_RG = VASHE FUSHTICAEULET FUSHTICAEPOSHTME VASHA FUSHTICEEPOSHTEME FUSTICEEPOSHTME
+| sqi_V_FULL_NAME_RG = Vashë Fushtica e Ulët Fushtica e Poshtme Vasha Fushticë e Poshtëme Fusticë e Poshtmë
+| sqi_V_FULL_NAME_ND_RG = Vashe Fushtica e Ulet Fushtica e Poshtme Vasha Fushtice e Poshteme Fustice e Poshtme
+| srp_N_name = Donja Fuštica
+| srp_N_FULL_NAME_RO = Donja Fuštica
+| srp_N_FULL_NAME_ND_RO = Donja Fustica
+| srp_N_SORT_NAME_RG = DONJAFUSTICA
+| srp_N_FULL_NAME_RG = Donja Fuštica
+| srp_N_FULL_NAME_ND_RG = Donja Fustica
+| srp_NS_name = Доња Фуштица
+| srp_NS_FULL_NAME_RO = Доња Фуштица
+| srp_NS_FULL_NAME_ND_RO = Доња Фуштица
+| srp_NS_SORT_NAME_RG = ДОЊАФУШТИЦА
+| srp_NS_FULL_NAME_RG = Доња Фуштица
+| srp_NS_FULL_NAME_ND_RG = Доња Фуштица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.9275
  | Lartësia            = 
 }}
-'''Fushticë e Poshtme''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Fushticë e Poshtme''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

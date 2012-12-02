@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gjurgjedell
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GJURGJEDELL
- | FULL_NAME_RO = Gjurgjedell
- | FULL_NAME_ND_RO=Gjurgjedell
- | SORT_NAME_RG=GJURGJEDELL
- | FULL_NAME_RG=Gjurgjedell
- | FULL_NAME_ND_RG=Gjurgjedell
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gjurgjedell
+| sqi_D_FULL_NAME_RO = Gjurgjedell
+| sqi_D_FULL_NAME_ND_RO = Gjurgjedell
+| sqi_D_SORT_NAME_RG = GJURGJEDELL
+| sqi_D_FULL_NAME_RG = Gjurgjedell
+| sqi_D_FULL_NAME_ND_RG = Gjurgjedell
+| sqi_V_name = Shëngjergji
+| sqi_V_FULL_NAME_RO = Shëngjergji Gjurgjevdoll Gjurgjedoli
+| sqi_V_FULL_NAME_ND_RO = Shengjergji Gjurgjevdoll Gjurgjedoli
+| sqi_V_SORT_NAME_RG = SHENGJERGJI GJURGJEVDOLL GJURGJEDOLI
+| sqi_V_FULL_NAME_RG = Shëngjergji Gjurgjevdoll Gjurgjedoli
+| sqi_V_FULL_NAME_ND_RG = Shengjergji Gjurgjevdoll Gjurgjedoli
+| srp_N_name = Ðurđev Dol
+| srp_N_FULL_NAME_RO = Ðurđev Dol
+| srp_N_FULL_NAME_ND_RO = Durdev Dol
+| srp_N_SORT_NAME_RG = DURDEVDOL
+| srp_N_FULL_NAME_RG = Ðurđev Dol
+| srp_N_FULL_NAME_ND_RG = Durdev Dol
+| srp_NS_name = Ђурђев Дол
+| srp_NS_FULL_NAME_RO = Ђурђев Дол
+| srp_NS_FULL_NAME_ND_RO = Ђурђев Дол
+| srp_NS_SORT_NAME_RG = ЂУРЂЕВДОЛ
+| srp_NS_FULL_NAME_RG = Ђурђев Дол
+| srp_NS_FULL_NAME_ND_RG = Ђурђев Дол
+| srp_V_name = Ðurdev Do
+| srp_V_FULL_NAME_RO = Ðurdev Do
+| srp_V_FULL_NAME_ND_RO = Durdev Do
+| srp_V_SORT_NAME_RG = DURDEVDO
+| srp_V_FULL_NAME_RG = Ðurdev Do
+| srp_V_FULL_NAME_ND_RG = Durdev Do
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.276667
  | Lartësia            = 
 }}
-'''Gjurgjedell''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Gjurgjedell''' është një [[Fshat Vogel]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

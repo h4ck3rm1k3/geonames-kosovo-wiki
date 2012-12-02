@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shupkovc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHUPKOVC
- | FULL_NAME_RO = Shupkovc
- | FULL_NAME_ND_RO=Shupkovc
- | SORT_NAME_RG=SHUPKOVC
- | FULL_NAME_RG=Shupkovc
- | FULL_NAME_ND_RG=Shupkovc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shupkovc
+| sqi_N_FULL_NAME_RO = Shupkovc
+| sqi_N_FULL_NAME_ND_RO = Shupkovc
+| sqi_N_SORT_NAME_RG = SHUPKOVC
+| sqi_N_FULL_NAME_RG = Shupkovc
+| sqi_N_FULL_NAME_ND_RG = Shupkovc
+| sqi_V_name = Shupkovë
+| sqi_V_FULL_NAME_RO = Shupkovë Supkovc
+| sqi_V_FULL_NAME_ND_RO = Shupkove Supkovc
+| sqi_V_SORT_NAME_RG = SHUPKOVE SUPKOVC
+| sqi_V_FULL_NAME_RG = Shupkovë Supkovc
+| sqi_V_FULL_NAME_ND_RG = Shupkove Supkovc
+| srp_N_name = Šupkovac
+| srp_N_FULL_NAME_RO = Šupkovac
+| srp_N_FULL_NAME_ND_RO = Supkovac
+| srp_N_SORT_NAME_RG = SUPKOVAC
+| srp_N_FULL_NAME_RG = Šupkovac
+| srp_N_FULL_NAME_ND_RG = Supkovac
+| srp_NS_name = Шупковац
+| srp_NS_FULL_NAME_RO = Шупковац
+| srp_NS_FULL_NAME_ND_RO = Шупковац
+| srp_NS_SORT_NAME_RG = ШУПКОВАЦ
+| srp_NS_FULL_NAME_RG = Шупковац
+| srp_NS_FULL_NAME_ND_RG = Шупковац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.885833
  | Lartësia            = 
 }}
-'''Shupkovc''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Shupkovc''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

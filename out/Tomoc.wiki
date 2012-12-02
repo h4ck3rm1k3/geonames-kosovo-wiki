@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tomoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TOMOC
- | FULL_NAME_RO = Tomoc
- | FULL_NAME_ND_RO=Tomoc
- | SORT_NAME_RG=TOMOC
- | FULL_NAME_RG=Tomoc
- | FULL_NAME_ND_RG=Tomoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Tomoc
+| sqi_D_FULL_NAME_RO = Tomoc
+| sqi_D_FULL_NAME_ND_RO = Tomoc
+| sqi_D_SORT_NAME_RG = TOMOC
+| sqi_D_FULL_NAME_RG = Tomoc
+| sqi_D_FULL_NAME_ND_RG = Tomoc
+| sqi_V_name = Kushtrim
+| sqi_V_FULL_NAME_RO = Kushtrim Kushtrimi Tomanc
+| sqi_V_FULL_NAME_ND_RO = Kushtrim Kushtrimi Tomanc
+| sqi_V_SORT_NAME_RG = KUSHTRIM KUSHTRIMI TOMANC
+| sqi_V_FULL_NAME_RG = Kushtrim Kushtrimi Tomanc
+| sqi_V_FULL_NAME_ND_RG = Kushtrim Kushtrimi Tomanc
+| srp_N_name = Tomance
+| srp_N_FULL_NAME_RO = Tomance
+| srp_N_FULL_NAME_ND_RO = Tomance
+| srp_N_SORT_NAME_RG = TOMANCE
+| srp_N_FULL_NAME_RG = Tomance
+| srp_N_FULL_NAME_ND_RG = Tomance
+| srp_NS_name = Томанце
+| srp_NS_FULL_NAME_RO = Томанце
+| srp_NS_FULL_NAME_ND_RO = Томанце
+| srp_NS_SORT_NAME_RG = ТОМАНЦЕ
+| srp_NS_FULL_NAME_RG = Томанце
+| srp_NS_FULL_NAME_ND_RG = Томанце
+| std_V_name = Tomane
+| std_V_FULL_NAME_RO = Tomane Tomoci
+| std_V_FULL_NAME_ND_RO = Tomane Tomoci
+| std_V_SORT_NAME_RG = TOMANE TOMOCI
+| std_V_FULL_NAME_RG = Tomane Tomoci
+| std_V_FULL_NAME_ND_RG = Tomane Tomoci
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.473333
  | Lartësia            = 
 }}
-'''Tomoc''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Tomoc''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

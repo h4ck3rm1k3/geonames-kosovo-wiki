@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dobrajë e Madhe
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DOBRAJEEMADHE
- | FULL_NAME_RO = Dobrajë e Madhe
- | FULL_NAME_ND_RO=Dobraje e Madhe
- | SORT_NAME_RG=DOBRAJEEMADHE
- | FULL_NAME_RG=Dobrajë e Madhe
- | FULL_NAME_ND_RG=Dobraje e Madhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dobrajë e Madhe
+| sqi_N_FULL_NAME_RO = Dobrajë e Madhe
+| sqi_N_FULL_NAME_ND_RO = Dobraje e Madhe
+| sqi_N_SORT_NAME_RG = DOBRAJEEMADHE
+| sqi_N_FULL_NAME_RG = Dobrajë e Madhe
+| sqi_N_FULL_NAME_ND_RG = Dobraje e Madhe
+| sqi_V_name = Dobraja e Madhe
+| sqi_V_FULL_NAME_RO = Dobraja e Madhe
+| sqi_V_FULL_NAME_ND_RO = Dobraja e Madhe
+| sqi_V_SORT_NAME_RG = DOBRAJAEMADHE
+| sqi_V_FULL_NAME_RG = Dobraja e Madhe
+| sqi_V_FULL_NAME_ND_RG = Dobraja e Madhe
+| srp_N_name = Velika Dobranja
+| srp_N_FULL_NAME_RO = Velika Dobranja
+| srp_N_FULL_NAME_ND_RO = Velika Dobranja
+| srp_N_SORT_NAME_RG = VELIKADOBRANJA
+| srp_N_FULL_NAME_RG = Velika Dobranja
+| srp_N_FULL_NAME_ND_RG = Velika Dobranja
+| srp_NS_name = Велика Добрања
+| srp_NS_FULL_NAME_RO = Велика Добрања
+| srp_NS_FULL_NAME_ND_RO = Велика Добрања
+| srp_NS_SORT_NAME_RG = ВЕЛИКАДОБРАЊА
+| srp_NS_FULL_NAME_RG = Велика Добрања
+| srp_NS_FULL_NAME_ND_RG = Велика Добрања
+| srp_V_name = Dobranja
+| srp_V_FULL_NAME_RO = Dobranja
+| srp_V_FULL_NAME_ND_RO = Dobranja
+| srp_V_SORT_NAME_RG = DOBRANJA
+| srp_V_FULL_NAME_RG = Dobranja
+| srp_V_FULL_NAME_ND_RG = Dobranja
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.044167
  | Lartësia            = 
 }}
-'''Dobrajë e Madhe''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Dobrajë e Madhe''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

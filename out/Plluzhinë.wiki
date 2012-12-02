@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Plluzhinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PLLUZHINE
- | FULL_NAME_RO = Plluzhinë
- | FULL_NAME_ND_RO=Plluzhine
- | SORT_NAME_RG=PLLUZHINE
- | FULL_NAME_RG=Plluzhinë
- | FULL_NAME_ND_RG=Plluzhine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Plluzhinë
+| sqi_N_FULL_NAME_RO = Plluzhinë
+| sqi_N_FULL_NAME_ND_RO = Plluzhine
+| sqi_N_SORT_NAME_RG = PLLUZHINE
+| sqi_N_FULL_NAME_RG = Plluzhinë
+| sqi_N_FULL_NAME_ND_RG = Plluzhine
+| sqi_V_name = Pllushinë
+| sqi_V_FULL_NAME_RO = Pllushinë
+| sqi_V_FULL_NAME_ND_RO = Pllushine
+| sqi_V_SORT_NAME_RG = PLLUSHINE
+| sqi_V_FULL_NAME_RG = Pllushinë
+| sqi_V_FULL_NAME_ND_RG = Pllushine
+| srp_N_name = Plužina
+| srp_N_FULL_NAME_RO = Plužina
+| srp_N_FULL_NAME_ND_RO = Pluzina
+| srp_N_SORT_NAME_RG = PLUZINA
+| srp_N_FULL_NAME_RG = Plužina
+| srp_N_FULL_NAME_ND_RG = Pluzina
+| srp_NS_name = Плужина
+| srp_NS_FULL_NAME_RO = Плужина
+| srp_NS_FULL_NAME_ND_RO = Плужина
+| srp_NS_SORT_NAME_RG = ПЛУЖИНА
+| srp_NS_FULL_NAME_RG = Плужина
+| srp_NS_FULL_NAME_ND_RG = Плужина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.751111
  | Lartësia            = 
 }}
-'''Plluzhinë''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Plluzhinë''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

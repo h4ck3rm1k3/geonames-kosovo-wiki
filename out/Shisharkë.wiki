@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shisharkë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHISHARKE
- | FULL_NAME_RO = Shisharkë
- | FULL_NAME_ND_RO=Shisharke
- | SORT_NAME_RG=SHISHARKE
- | FULL_NAME_RG=Shisharkë
- | FULL_NAME_ND_RG=Shisharke
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shisharkë
+| sqi_N_FULL_NAME_RO = Shisharkë
+| sqi_N_FULL_NAME_ND_RO = Shisharke
+| sqi_N_SORT_NAME_RG = SHISHARKE
+| sqi_N_FULL_NAME_RG = Shisharkë
+| sqi_N_FULL_NAME_ND_RG = Shisharke
+| srp_N_name = Šišarka
+| srp_N_FULL_NAME_RO = Šišarka
+| srp_N_FULL_NAME_ND_RO = Sisarka
+| srp_N_SORT_NAME_RG = SISARKA
+| srp_N_FULL_NAME_RG = Šišarka
+| srp_N_FULL_NAME_ND_RG = Sisarka
+| srp_NS_name = Шишарка
+| srp_NS_FULL_NAME_RO = Шишарка
+| srp_NS_FULL_NAME_ND_RO = Шишарка
+| srp_NS_SORT_NAME_RG = ШИШАРКА
+| srp_NS_FULL_NAME_RG = Шишарка
+| srp_NS_FULL_NAME_ND_RG = Шишарка
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.264167
  | Lartësia            = 
 }}
-'''Shisharkë''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Shisharkë''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

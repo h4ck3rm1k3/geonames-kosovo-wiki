@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mirash
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MIRASH
- | FULL_NAME_RO = Mirash
- | FULL_NAME_ND_RO=Mirash
- | SORT_NAME_RG=MIRASH
- | FULL_NAME_RG=Mirash
- | FULL_NAME_ND_RG=Mirash
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Mirash
+| sqi_N_FULL_NAME_RO = Mirash
+| sqi_N_FULL_NAME_ND_RO = Mirash
+| sqi_N_SORT_NAME_RG = MIRASH
+| sqi_N_FULL_NAME_RG = Mirash
+| sqi_N_FULL_NAME_ND_RG = Mirash
+| srp_N_name = Stari Maraš
+| srp_N_FULL_NAME_RO = Stari Maraš
+| srp_N_FULL_NAME_ND_RO = Stari Maras
+| srp_N_SORT_NAME_RG = STARIMARAS
+| srp_N_FULL_NAME_RG = Stari Maraš
+| srp_N_FULL_NAME_ND_RG = Stari Maras
+| srp_NS_name = Стари Мираш
+| srp_NS_FULL_NAME_RO = Стари Мираш
+| srp_NS_FULL_NAME_ND_RO = Стари Мираш
+| srp_NS_SORT_NAME_RG = СТАРИМИРАШ
+| srp_NS_FULL_NAME_RG = Стари Мираш
+| srp_NS_FULL_NAME_ND_RG = Стари Мираш
+| srp_VS_name = Мираш
+| srp_VS_FULL_NAME_RO = Мираш
+| srp_VS_FULL_NAME_ND_RO = Мираш
+| srp_VS_SORT_NAME_RG = МИРАШ
+| srp_VS_FULL_NAME_RG = Мираш
+| srp_VS_FULL_NAME_ND_RG = Мираш
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.221389
  | Lartësia            = 
 }}
-'''Mirash''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Mirash''' është një [[Fshat Vogel]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Siboc i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SIBOCIEPERM
- | FULL_NAME_RO = Siboc i Epërm
- | FULL_NAME_ND_RO=Siboc i Eperm
- | SORT_NAME_RG=SIBOCIEPERM
- | FULL_NAME_RG=Siboc i Epërm
- | FULL_NAME_ND_RG=Siboc i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Siboc i Epërm
+| sqi_N_FULL_NAME_RO = Siboc i Epërm
+| sqi_N_FULL_NAME_ND_RO = Siboc i Eperm
+| sqi_N_SORT_NAME_RG = SIBOCIEPERM
+| sqi_N_FULL_NAME_RG = Siboc i Epërm
+| sqi_N_FULL_NAME_ND_RG = Siboc i Eperm
+| sqi_V_name = Siboci i Epërm
+| sqi_V_FULL_NAME_RO = Siboci i Epërm Sibolci i Epërm Vindeni i Epërm Sibovci i Epërm
+| sqi_V_FULL_NAME_ND_RO = Siboci i Eperm Sibolci i Eperm Vindeni i Eperm Sibovci i Eperm
+| sqi_V_SORT_NAME_RG = SIBOCIIEPERM SIBOLCIIEPERM VINDENIIEPERM SIBOVCIIEPERM
+| sqi_V_FULL_NAME_RG = Siboci i Epërm Sibolci i Epërm Vindeni i Epërm Sibovci i Epërm
+| sqi_V_FULL_NAME_ND_RG = Siboci i Eperm Sibolci i Eperm Vindeni i Eperm Sibovci i Eperm
+| srp_N_name = Gornji Sibovac
+| srp_N_FULL_NAME_RO = Gornji Sibovac
+| srp_N_FULL_NAME_ND_RO = Gornji Sibovac
+| srp_N_SORT_NAME_RG = GORNJISIBOVAC
+| srp_N_FULL_NAME_RG = Gornji Sibovac
+| srp_N_FULL_NAME_ND_RG = Gornji Sibovac
+| srp_NS_name = Горњи Сибовац
+| srp_NS_FULL_NAME_RO = Горњи Сибовац
+| srp_NS_FULL_NAME_ND_RO = Горњи Сибовац
+| srp_NS_SORT_NAME_RG = ГОРЊИСИБОВАЦ
+| srp_NS_FULL_NAME_RG = Горњи Сибовац
+| srp_NS_FULL_NAME_ND_RG = Горњи Сибовац
+| srp_V_name = Sibovac
+| srp_V_FULL_NAME_RO = Sibovac
+| srp_V_FULL_NAME_ND_RO = Sibovac
+| srp_V_SORT_NAME_RG = SIBOVAC
+| srp_V_FULL_NAME_RG = Sibovac
+| srp_V_FULL_NAME_ND_RG = Sibovac
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.190833
  | Lartësia            = 
 }}
-'''Siboc i Epërm''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Siboc i Epërm''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

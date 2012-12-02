@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Berishë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BERISHE
- | FULL_NAME_RO = Berishë
- | FULL_NAME_ND_RO=Berishe
- | SORT_NAME_RG=BERISHE
- | FULL_NAME_RG=Berishë
- | FULL_NAME_ND_RG=Berishe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Berishë
+| sqi_N_FULL_NAME_RO = Berishë
+| sqi_N_FULL_NAME_ND_RO = Berishe
+| sqi_N_SORT_NAME_RG = BERISHE
+| sqi_N_FULL_NAME_RG = Berishë
+| sqi_N_FULL_NAME_ND_RG = Berishe
+| sqi_V_name = Berisha
+| sqi_V_FULL_NAME_RO = Berisha Berishat
+| sqi_V_FULL_NAME_ND_RO = Berisha Berishat
+| sqi_V_SORT_NAME_RG = BERISHA BERISHAT
+| sqi_V_FULL_NAME_RG = Berisha Berishat
+| sqi_V_FULL_NAME_ND_RG = Berisha Berishat
+| srp_N_name = Beriša
+| srp_N_FULL_NAME_RO = Beriša
+| srp_N_FULL_NAME_ND_RO = Berisa
+| srp_N_SORT_NAME_RG = BERISA
+| srp_N_FULL_NAME_RG = Beriša
+| srp_N_FULL_NAME_ND_RG = Berisa
+| srp_NS_name = Бериша
+| srp_NS_FULL_NAME_RO = Бериша
+| srp_NS_FULL_NAME_ND_RO = Бериша
+| srp_NS_SORT_NAME_RG = БЕРИША
+| srp_NS_FULL_NAME_RG = Бериша
+| srp_NS_FULL_NAME_ND_RG = Бериша
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.85
  | Lartësia            = 
 }}
-'''Berishë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Berishë''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

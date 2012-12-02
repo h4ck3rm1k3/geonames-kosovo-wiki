@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gushtericë e Ulët
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GUSHTERICEEULET
- | FULL_NAME_RO = Gushtericë e Ulët
- | FULL_NAME_ND_RO=Gushterice e Ulet
- | SORT_NAME_RG=GUSHTERICEEULET
- | FULL_NAME_RG=Gushtericë e Ulët
- | FULL_NAME_ND_RG=Gushterice e Ulet
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gushtericë e Ulët
+| sqi_N_FULL_NAME_RO = Gushtericë e Ulët
+| sqi_N_FULL_NAME_ND_RO = Gushterice e Ulet
+| sqi_N_SORT_NAME_RG = GUSHTERICEEULET
+| sqi_N_FULL_NAME_RG = Gushtericë e Ulët
+| sqi_N_FULL_NAME_ND_RG = Gushterice e Ulet
+| sqi_V_name = Gushtericë e Poshtëme
+| sqi_V_FULL_NAME_RO = Gushtericë e Poshtëme Shapc i Poshtëm Gushterica e Ultë
+| sqi_V_FULL_NAME_ND_RO = Gushterice e Poshteme Shapc i Poshtem Gushterica e Ulte
+| sqi_V_SORT_NAME_RG = GUSHTERICEEPOSHTEME SHAPCIPOSHTEM GUSHTERICAEULTE
+| sqi_V_FULL_NAME_RG = Gushtericë e Poshtëme Shapc i Poshtëm Gushterica e Ultë
+| sqi_V_FULL_NAME_ND_RG = Gushterice e Poshteme Shapc i Poshtem Gushterica e Ulte
+| srp_N_name = Donja Gušterica
+| srp_N_FULL_NAME_RO = Donja Gušterica
+| srp_N_FULL_NAME_ND_RO = Donja Gusterica
+| srp_N_SORT_NAME_RG = DONJAGUSTERICA
+| srp_N_FULL_NAME_RG = Donja Gušterica
+| srp_N_FULL_NAME_ND_RG = Donja Gusterica
+| srp_NS_name = Доња Гуштерица
+| srp_NS_FULL_NAME_RO = Доња Гуштерица
+| srp_NS_FULL_NAME_ND_RO = Доња Гуштерица
+| srp_NS_SORT_NAME_RG = ДОЊАГУШТЕРИЦА
+| srp_NS_FULL_NAME_RG = Доња Гуштерица
+| srp_NS_FULL_NAME_ND_RG = Доња Гуштерица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.184444
  | Lartësia            = 
 }}
-'''Gushtericë e Ulët''' është një [[]] në [[]] të [[Kosovës]].
+'''Gushtericë e Ulët''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

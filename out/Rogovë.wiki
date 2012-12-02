@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rogovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ROGOVE
- | FULL_NAME_RO = Rogovë
- | FULL_NAME_ND_RO=Rogove
- | SORT_NAME_RG=ROGOVE
- | FULL_NAME_RG=Rogovë
- | FULL_NAME_ND_RG=Rogove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rogovë
+| sqi_N_FULL_NAME_RO = Rogovë
+| sqi_N_FULL_NAME_ND_RO = Rogove
+| sqi_N_SORT_NAME_RG = ROGOVE
+| sqi_N_FULL_NAME_RG = Rogovë
+| sqi_N_FULL_NAME_ND_RG = Rogove
+| srp_N_name = Rogovo
+| srp_N_FULL_NAME_RO = Rogovo
+| srp_N_FULL_NAME_ND_RO = Rogovo
+| srp_N_SORT_NAME_RG = ROGOVO
+| srp_N_FULL_NAME_RG = Rogovo
+| srp_N_FULL_NAME_ND_RG = Rogovo
+| srp_NS_name = Рогово
+| srp_NS_FULL_NAME_RO = Рогово
+| srp_NS_FULL_NAME_ND_RO = Рогово
+| srp_NS_SORT_NAME_RG = РОГОВО
+| srp_NS_FULL_NAME_RG = Рогово
+| srp_NS_FULL_NAME_ND_RG = Рогово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.579722
  | Lartësia            = 
 }}
-'''Rogovë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Rogovë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

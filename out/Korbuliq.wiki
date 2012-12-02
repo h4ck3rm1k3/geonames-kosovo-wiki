@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Korbuliq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KORBULIQ
- | FULL_NAME_RO = Korbuliq
- | FULL_NAME_ND_RO=Korbuliq
- | SORT_NAME_RG=KORBULIQ
- | FULL_NAME_RG=Korbuliq
- | FULL_NAME_ND_RG=Korbuliq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Korbuliq
+| sqi_D_FULL_NAME_RO = Korbuliq
+| sqi_D_FULL_NAME_ND_RO = Korbuliq
+| sqi_D_SORT_NAME_RG = KORBULIQ
+| sqi_D_FULL_NAME_RG = Korbuliq
+| sqi_D_FULL_NAME_ND_RG = Korbuliq
+| sqi_V_name = Korbiliq
+| sqi_V_FULL_NAME_RO = Korbiliq Kerbliq Korboliq Korbliq
+| sqi_V_FULL_NAME_ND_RO = Korbiliq Kerbliq Korboliq Korbliq
+| sqi_V_SORT_NAME_RG = KORBILIQ KERBLIQ KORBOLIQ KORBLIQ
+| sqi_V_FULL_NAME_RG = Korbiliq Kerbliq Korboliq Korbliq
+| sqi_V_FULL_NAME_ND_RG = Korbiliq Kerbliq Korboliq Korbliq
+| srp_N_name = Korbulić
+| srp_N_FULL_NAME_RO = Korbulić
+| srp_N_FULL_NAME_ND_RO = Korbulic
+| srp_N_SORT_NAME_RG = KORBULIC
+| srp_N_FULL_NAME_RG = Korbulić
+| srp_N_FULL_NAME_ND_RG = Korbulic
+| srp_NS_name = Корбулић
+| srp_NS_FULL_NAME_RO = Корбулић
+| srp_NS_FULL_NAME_ND_RO = Корбулић
+| srp_NS_SORT_NAME_RG = КОРБУЛИЋ
+| srp_NS_FULL_NAME_RG = Корбулић
+| srp_NS_FULL_NAME_ND_RG = Корбулић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.336111
  | Lartësia            = 
 }}
-'''Korbuliq''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Korbuliq''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gllobar
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GLLOBAR
- | FULL_NAME_RO = Gllobar
- | FULL_NAME_ND_RO=Gllobar
- | SORT_NAME_RG=GLLOBAR
- | FULL_NAME_RG=Gllobar
- | FULL_NAME_ND_RG=Gllobar
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gllobar
+| sqi_N_FULL_NAME_RO = Gllobar
+| sqi_N_FULL_NAME_ND_RO = Gllobar
+| sqi_N_SORT_NAME_RG = GLLOBAR
+| sqi_N_FULL_NAME_RG = Gllobar
+| sqi_N_FULL_NAME_ND_RG = Gllobar
+| sqi_V_name = Gllabar
+| sqi_V_FULL_NAME_RO = Gllabar Gllabari Gllobare Bletari Glabar Bletar Globarë Globar
+| sqi_V_FULL_NAME_ND_RO = Gllabar Gllabari Gllobare Bletari Glabar Bletar Globare Globar
+| sqi_V_SORT_NAME_RG = GLLABAR GLLABARI GLLOBARE BLETARI GLABAR BLETAR GLOBARE GLOBAR
+| sqi_V_FULL_NAME_RG = Gllabar Gllabari Gllobare Bletari Glabar Bletar Globarë Globar
+| sqi_V_FULL_NAME_ND_RG = Gllabar Gllabari Gllobare Bletari Glabar Bletar Globare Globar
+| srp_N_name = Globare
+| srp_N_FULL_NAME_RO = Globare
+| srp_N_FULL_NAME_ND_RO = Globare
+| srp_N_SORT_NAME_RG = GLOBARE
+| srp_N_FULL_NAME_RG = Globare
+| srp_N_FULL_NAME_ND_RG = Globare
+| srp_NS_name = Глобаре
+| srp_NS_FULL_NAME_RO = Глобаре
+| srp_NS_FULL_NAME_ND_RO = Глобаре
+| srp_NS_SORT_NAME_RG = ГЛОБАРЕ
+| srp_NS_FULL_NAME_RG = Глобаре
+| srp_NS_FULL_NAME_ND_RG = Глобаре
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.870556
  | Lartësia            = 
 }}
-'''Gllobar''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Gllobar''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

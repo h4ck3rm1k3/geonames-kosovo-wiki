@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bozhec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BOZHEC
- | FULL_NAME_RO = Bozhec
- | FULL_NAME_ND_RO=Bozhec
- | SORT_NAME_RG=BOZHEC
- | FULL_NAME_RG=Bozhec
- | FULL_NAME_ND_RG=Bozhec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bozhec
+| sqi_N_FULL_NAME_RO = Bozhec
+| sqi_N_FULL_NAME_ND_RO = Bozhec
+| sqi_N_SORT_NAME_RG = BOZHEC
+| sqi_N_FULL_NAME_RG = Bozhec
+| sqi_N_FULL_NAME_ND_RG = Bozhec
+| sqi_V_name = Bozheci
+| sqi_V_FULL_NAME_RO = Bozheci Bozhefci Bozhefc Bozhevc
+| sqi_V_FULL_NAME_ND_RO = Bozheci Bozhefci Bozhefc Bozhevc
+| sqi_V_SORT_NAME_RG = BOZHECI BOZHEFCI BOZHEFC BOZHEVC
+| sqi_V_FULL_NAME_RG = Bozheci Bozhefci Bozhefc Bozhevc
+| sqi_V_FULL_NAME_ND_RG = Bozheci Bozhefci Bozhefc Bozhevc
+| srp_N_name = Boževce
+| srp_N_FULL_NAME_RO = Boževce
+| srp_N_FULL_NAME_ND_RO = Bozevce
+| srp_N_SORT_NAME_RG = BOZEVCE
+| srp_N_FULL_NAME_RG = Boževce
+| srp_N_FULL_NAME_ND_RG = Bozevce
+| srp_NS_name = Божевце
+| srp_NS_FULL_NAME_RO = Божевце
+| srp_NS_FULL_NAME_ND_RO = Божевце
+| srp_NS_SORT_NAME_RG = БОЖЕВЦЕ
+| srp_NS_FULL_NAME_RG = Божевце
+| srp_NS_FULL_NAME_ND_RG = Божевце
+| srp_V_name = Božovce
+| srp_V_FULL_NAME_RO = Božovce Božec
+| srp_V_FULL_NAME_ND_RO = Bozovce Bozec
+| srp_V_SORT_NAME_RG = BOZOVCE BOZEC
+| srp_V_FULL_NAME_RG = Božovce Božec
+| srp_V_FULL_NAME_ND_RG = Bozovce Bozec
+| srp_VS_name = Божовце
+| srp_VS_FULL_NAME_RO = Божовце Божец
+| srp_VS_FULL_NAME_ND_RO = Божовце Божец
+| srp_VS_SORT_NAME_RG = БОЖОВЦЕ БОЖЕЦ
+| srp_VS_FULL_NAME_RG = Божовце Божец
+| srp_VS_FULL_NAME_ND_RG = Божовце Божец
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.530278
  | Lartësia            = 
 }}
-'''Bozhec''' është një [[]] në [[]] të [[Kosovës]].
+'''Bozhec''' është një [[Fshat Vogel]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

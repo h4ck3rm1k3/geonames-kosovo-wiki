@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Klinë e Mesme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KLINEEMESME
- | FULL_NAME_RO = Klinë e Mesme
- | FULL_NAME_ND_RO=Kline e Mesme
- | SORT_NAME_RG=KLINEEMESME
- | FULL_NAME_RG=Klinë e Mesme
- | FULL_NAME_ND_RG=Kline e Mesme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Klinë e Mesme
+| sqi_N_FULL_NAME_RO = Klinë e Mesme
+| sqi_N_FULL_NAME_ND_RO = Kline e Mesme
+| sqi_N_SORT_NAME_RG = KLINEEMESME
+| sqi_N_FULL_NAME_RG = Klinë e Mesme
+| sqi_N_FULL_NAME_ND_RG = Kline e Mesme
+| sqi_V_name = Klina e Mesme
+| sqi_V_FULL_NAME_RO = Klina e Mesme
+| sqi_V_FULL_NAME_ND_RO = Klina e Mesme
+| sqi_V_SORT_NAME_RG = KLINAEMESME
+| sqi_V_FULL_NAME_RG = Klina e Mesme
+| sqi_V_FULL_NAME_ND_RG = Klina e Mesme
+| srp_N_name = Srednja Klina
+| srp_N_FULL_NAME_RO = Srednja Klina
+| srp_N_FULL_NAME_ND_RO = Srednja Klina
+| srp_N_SORT_NAME_RG = SREDNJAKLINA
+| srp_N_FULL_NAME_RG = Srednja Klina
+| srp_N_FULL_NAME_ND_RG = Srednja Klina
+| srp_NS_name = Средња Клина
+| srp_NS_FULL_NAME_RO = Средња Клина
+| srp_NS_FULL_NAME_ND_RO = Средња Клина
+| srp_NS_SORT_NAME_RG = СРЕДЊАКЛИНА
+| srp_NS_FULL_NAME_RG = Средња Клина
+| srp_NS_FULL_NAME_ND_RG = Средња Клина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.779167
  | Lartësia            = 
 }}
-'''Klinë e Mesme''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Klinë e Mesme''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

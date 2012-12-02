@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lushtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LUSHTE
- | FULL_NAME_RO = Lushtë
- | FULL_NAME_ND_RO=Lushte
- | SORT_NAME_RG=LUSHTE
- | FULL_NAME_RG=Lushtë
- | FULL_NAME_ND_RG=Lushte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lushtë
+| sqi_N_FULL_NAME_RO = Lushtë
+| sqi_N_FULL_NAME_ND_RO = Lushte
+| sqi_N_SORT_NAME_RG = LUSHTE
+| sqi_N_FULL_NAME_RG = Lushtë
+| sqi_N_FULL_NAME_ND_RG = Lushte
+| sqi_V_name = Ljustë
+| sqi_V_FULL_NAME_RO = Ljustë
+| sqi_V_FULL_NAME_ND_RO = Ljuste
+| sqi_V_SORT_NAME_RG = LJUSTE
+| sqi_V_FULL_NAME_RG = Ljustë
+| sqi_V_FULL_NAME_ND_RG = Ljuste
+| srp_N_name = Ljušta
+| srp_N_FULL_NAME_RO = Ljušta
+| srp_N_FULL_NAME_ND_RO = Ljusta
+| srp_N_SORT_NAME_RG = LJUSTA
+| srp_N_FULL_NAME_RG = Ljušta
+| srp_N_FULL_NAME_ND_RG = Ljusta
+| srp_NS_name = Љушта
+| srp_NS_FULL_NAME_RO = Љушта
+| srp_NS_FULL_NAME_ND_RO = Љушта
+| srp_NS_SORT_NAME_RG = ЉУШТА
+| srp_NS_FULL_NAME_RG = Љушта
+| srp_NS_FULL_NAME_ND_RG = Љушта
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.829167
  | Lartësia            = 
 }}
-'''Lushtë''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Lushtë''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

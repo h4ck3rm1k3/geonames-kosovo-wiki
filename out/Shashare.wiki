@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shashare
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHASHARE
- | FULL_NAME_RO = Shashare
- | FULL_NAME_ND_RO=Shashare
- | SORT_NAME_RG=SHASHARE
- | FULL_NAME_RG=Shashare
- | FULL_NAME_ND_RG=Shashare
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shashare
+| sqi_N_FULL_NAME_RO = Shashare
+| sqi_N_FULL_NAME_ND_RO = Shashare
+| sqi_N_SORT_NAME_RG = SHASHARE
+| sqi_N_FULL_NAME_RG = Shashare
+| sqi_N_FULL_NAME_ND_RG = Shashare
+| sqi_V_name = Shasharë
+| sqi_V_FULL_NAME_RO = Shasharë Shoshare
+| sqi_V_FULL_NAME_ND_RO = Shashare Shoshare
+| sqi_V_SORT_NAME_RG = SHASHARE SHOSHARE
+| sqi_V_FULL_NAME_RG = Shasharë Shoshare
+| sqi_V_FULL_NAME_ND_RG = Shashare Shoshare
+| srp_N_name = Šašare
+| srp_N_FULL_NAME_RO = Šašare
+| srp_N_FULL_NAME_ND_RO = Sasare
+| srp_N_SORT_NAME_RG = SASARE
+| srp_N_FULL_NAME_RG = Šašare
+| srp_N_FULL_NAME_ND_RG = Sasare
+| srp_NS_name = Шашаре
+| srp_NS_FULL_NAME_RO = Шашаре
+| srp_NS_FULL_NAME_ND_RO = Шашаре
+| srp_NS_SORT_NAME_RG = ШАШАРЕ
+| srp_NS_FULL_NAME_RG = Шашаре
+| srp_NS_FULL_NAME_ND_RG = Шашаре
+| srp_V_name = Šošare
+| srp_V_FULL_NAME_RO = Šošare
+| srp_V_FULL_NAME_ND_RO = Sosare
+| srp_V_SORT_NAME_RG = SOSARE
+| srp_V_FULL_NAME_RG = Šošare
+| srp_V_FULL_NAME_ND_RG = Sosare
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.448333
  | Lartësia            = 
 }}
-'''Shashare''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Shashare''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

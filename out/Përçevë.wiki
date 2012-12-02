@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Përçevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PERCEVE
- | FULL_NAME_RO = Përçevë
- | FULL_NAME_ND_RO=Perceve
- | SORT_NAME_RG=PERCEVE
- | FULL_NAME_RG=Përçevë
- | FULL_NAME_ND_RG=Perceve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Përçevë
+| sqi_D_FULL_NAME_RO = Përçevë
+| sqi_D_FULL_NAME_ND_RO = Perceve
+| sqi_D_SORT_NAME_RG = PERCEVE
+| sqi_D_FULL_NAME_RG = Përçevë
+| sqi_D_FULL_NAME_ND_RG = Perceve
+| sqi_V_name = Prçevë
+| sqi_V_FULL_NAME_RO = Prçevë Përqevë
+| sqi_V_FULL_NAME_ND_RO = Prceve Perqeve
+| sqi_V_SORT_NAME_RG = PRCEVE PERQEVE
+| sqi_V_FULL_NAME_RG = Prçevë Përqevë
+| sqi_V_FULL_NAME_ND_RG = Prceve Perqeve
+| srp_N_name = Prčevo
+| srp_N_FULL_NAME_RO = Prčevo
+| srp_N_FULL_NAME_ND_RO = Prcevo
+| srp_N_SORT_NAME_RG = PRCEVO
+| srp_N_FULL_NAME_RG = Prčevo
+| srp_N_FULL_NAME_ND_RG = Prcevo
+| srp_NS_name = Прчево
+| srp_NS_FULL_NAME_RO = Прчево
+| srp_NS_FULL_NAME_ND_RO = Прчево
+| srp_NS_SORT_NAME_RG = ПРЧЕВО
+| srp_NS_FULL_NAME_RG = Прчево
+| srp_NS_FULL_NAME_ND_RG = Прчево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.633056
  | Lartësia            = 
 }}
-'''Përçevë''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Përçevë''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

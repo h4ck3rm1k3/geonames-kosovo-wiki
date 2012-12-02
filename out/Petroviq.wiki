@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Petroviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PETROVIQ
- | FULL_NAME_RO = Petroviq
- | FULL_NAME_ND_RO=Petroviq
- | SORT_NAME_RG=PETROVIQ
- | FULL_NAME_RG=Petroviq
- | FULL_NAME_ND_RG=Petroviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Petroviq
+| sqi_N_FULL_NAME_RO = Petroviq
+| sqi_N_FULL_NAME_ND_RO = Petroviq
+| sqi_N_SORT_NAME_RG = PETROVIQ
+| sqi_N_FULL_NAME_RG = Petroviq
+| sqi_N_FULL_NAME_ND_RG = Petroviq
+| srp_N_name = Petrović
+| srp_N_FULL_NAME_RO = Petrović
+| srp_N_FULL_NAME_ND_RO = Petrovic
+| srp_N_SORT_NAME_RG = PETROVIC
+| srp_N_FULL_NAME_RG = Petrović
+| srp_N_FULL_NAME_ND_RG = Petrovic
+| srp_NS_name = Петровић
+| srp_NS_FULL_NAME_RO = Петровић
+| srp_NS_FULL_NAME_ND_RO = Петровић
+| srp_NS_SORT_NAME_RG = ПЕТРОВИЋ
+| srp_NS_FULL_NAME_RG = Петровић
+| srp_NS_FULL_NAME_ND_RG = Петровић
+| srp_V_name = Petrovići
+| srp_V_FULL_NAME_RO = Petrovići
+| srp_V_FULL_NAME_ND_RO = Petrovici
+| srp_V_SORT_NAME_RG = PETROVICI
+| srp_V_FULL_NAME_RG = Petrovići
+| srp_V_FULL_NAME_ND_RG = Petrovici
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.040556
  | Lartësia            = 
 }}
-'''Petroviq''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Petroviq''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

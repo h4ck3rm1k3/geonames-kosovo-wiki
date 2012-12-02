@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pacaj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PACAJ
- | FULL_NAME_RO = Pacaj
- | FULL_NAME_ND_RO=Pacaj
- | SORT_NAME_RG=PACAJ
- | FULL_NAME_RG=Pacaj
- | FULL_NAME_ND_RG=Pacaj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pacaj
+| sqi_N_FULL_NAME_RO = Pacaj
+| sqi_N_FULL_NAME_ND_RO = Pacaj
+| sqi_N_SORT_NAME_RG = PACAJ
+| sqi_N_FULL_NAME_RG = Pacaj
+| sqi_N_FULL_NAME_ND_RG = Pacaj
+| srp_N_name = Pacaj
+| srp_N_FULL_NAME_RO = Pacaj
+| srp_N_FULL_NAME_ND_RO = Pacaj
+| srp_N_SORT_NAME_RG = PACAJ
+| srp_N_FULL_NAME_RG = Pacaj
+| srp_N_FULL_NAME_ND_RG = Pacaj
+| srp_NS_name = Пацај
+| srp_NS_FULL_NAME_RO = Пацај
+| srp_NS_FULL_NAME_ND_RO = Пацај
+| srp_NS_SORT_NAME_RG = ПАЦАЈ
+| srp_NS_FULL_NAME_RG = Пацај
+| srp_NS_FULL_NAME_ND_RG = Пацај
+| std_V_name = Pecaj
+| std_V_FULL_NAME_RO = Pecaj Racaj
+| std_V_FULL_NAME_ND_RO = Pecaj Racaj
+| std_V_SORT_NAME_RG = PECAJ RACAJ
+| std_V_FULL_NAME_RG = Pecaj Racaj
+| std_V_FULL_NAME_ND_RG = Pecaj Racaj
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.32
  | Lartësia            = 
 }}
-'''Pacaj''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Pacaj''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

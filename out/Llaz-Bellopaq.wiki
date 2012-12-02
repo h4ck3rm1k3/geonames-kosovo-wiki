@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llaz-Bellopaq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLAZBELLOPAQ
- | FULL_NAME_RO = Llaz-Bellopaq
- | FULL_NAME_ND_RO=Llaz-Bellopaq
- | SORT_NAME_RG=LLAZBELLOPAQ
- | FULL_NAME_RG=Llaz-Bellopaq
- | FULL_NAME_ND_RG=Llaz-Bellopaq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Llaz-Bellopaq
+| sqi_D_FULL_NAME_RO = Llaz-Bellopaq
+| sqi_D_FULL_NAME_ND_RO = Llaz-Bellopaq
+| sqi_D_SORT_NAME_RG = LLAZBELLOPAQ
+| sqi_D_FULL_NAME_RG = Llaz-Bellopaq
+| sqi_D_FULL_NAME_ND_RG = Llaz-Bellopaq
+| sqi_V_name = Llazbollpaq
+| sqi_V_FULL_NAME_RO = Llazbollpaq
+| sqi_V_FULL_NAME_ND_RO = Llazbollpaq
+| sqi_V_SORT_NAME_RG = LLAZBOLLPAQ
+| sqi_V_FULL_NAME_RG = Llazbollpaq
+| sqi_V_FULL_NAME_ND_RG = Llazbollpaq
+| srp_N_name = Laz
+| srp_N_FULL_NAME_RO = Laz
+| srp_N_FULL_NAME_ND_RO = Laz
+| srp_N_SORT_NAME_RG = LAZ
+| srp_N_FULL_NAME_RG = Laz
+| srp_N_FULL_NAME_ND_RG = Laz
+| srp_NS_name = Лаз
+| srp_NS_FULL_NAME_RO = Лаз
+| srp_NS_FULL_NAME_ND_RO = Лаз
+| srp_NS_SORT_NAME_RG = ЛАЗ
+| srp_NS_FULL_NAME_RG = Лаз
+| srp_NS_FULL_NAME_ND_RG = Лаз
+| srp_VS_name = Лаз Белопаћ
+| srp_VS_FULL_NAME_RO = Лаз Белопаћ
+| srp_VS_FULL_NAME_ND_RO = Лаз Белопаћ
+| srp_VS_SORT_NAME_RG = ЛАЗБЕЛОПАЋ
+| srp_VS_FULL_NAME_RG = Лаз Белопаћ
+| srp_VS_FULL_NAME_ND_RG = Лаз Белопаћ
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.220556
  | Lartësia            = 
 }}
-'''Llaz-Bellopaq''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Llaz-Bellopaq''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

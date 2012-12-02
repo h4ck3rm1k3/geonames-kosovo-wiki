@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Jeshkovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JESHKOVE
- | FULL_NAME_RO = Jeshkovë
- | FULL_NAME_ND_RO=Jeshkove
- | SORT_NAME_RG=JESHKOVE
- | FULL_NAME_RG=Jeshkovë
- | FULL_NAME_ND_RG=Jeshkove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Jeshkovë
+| sqi_N_FULL_NAME_RO = Jeshkovë
+| sqi_N_FULL_NAME_ND_RO = Jeshkove
+| sqi_N_SORT_NAME_RG = JESHKOVE
+| sqi_N_FULL_NAME_RG = Jeshkovë
+| sqi_N_FULL_NAME_ND_RG = Jeshkove
+| sqi_V_name = Gjeq
+| sqi_V_FULL_NAME_RO = Gjeq Gjeqi Jeshkova
+| sqi_V_FULL_NAME_ND_RO = Gjeq Gjeqi Jeshkova
+| sqi_V_SORT_NAME_RG = GJEQ GJEQI JESHKOVA
+| sqi_V_FULL_NAME_RG = Gjeq Gjeqi Jeshkova
+| sqi_V_FULL_NAME_ND_RG = Gjeq Gjeqi Jeshkova
+| srp_N_name = Ješkovo
+| srp_N_FULL_NAME_RO = Ješkovo
+| srp_N_FULL_NAME_ND_RO = Jeskovo
+| srp_N_SORT_NAME_RG = JESKOVO
+| srp_N_FULL_NAME_RG = Ješkovo
+| srp_N_FULL_NAME_ND_RG = Jeskovo
+| srp_NS_name = Јешково
+| srp_NS_FULL_NAME_RO = Јешково
+| srp_NS_FULL_NAME_ND_RO = Јешково
+| srp_NS_SORT_NAME_RG = ЈЕШКОВО
+| srp_NS_FULL_NAME_RG = Јешково
+| srp_NS_FULL_NAME_ND_RG = Јешково
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.702778
  | Lartësia            = 
 }}
-'''Jeshkovë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Jeshkovë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

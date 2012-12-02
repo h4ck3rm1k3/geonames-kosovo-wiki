@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Videjë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VIDEJE
- | FULL_NAME_RO = Videjë
- | FULL_NAME_ND_RO=Videje
- | SORT_NAME_RG=VIDEJE
- | FULL_NAME_RG=Videjë
- | FULL_NAME_ND_RG=Videje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Videjë
+| sqi_N_FULL_NAME_RO = Videjë
+| sqi_N_FULL_NAME_ND_RO = Videje
+| sqi_N_SORT_NAME_RG = VIDEJE
+| sqi_N_FULL_NAME_RG = Videjë
+| sqi_N_FULL_NAME_ND_RG = Videje
+| srp_N_name = Vidanje
+| srp_N_FULL_NAME_RO = Vidanje
+| srp_N_FULL_NAME_ND_RO = Vidanje
+| srp_N_SORT_NAME_RG = VIDANJE
+| srp_N_FULL_NAME_RG = Vidanje
+| srp_N_FULL_NAME_ND_RG = Vidanje
+| srp_NS_name = Видање
+| srp_NS_FULL_NAME_RO = Видање
+| srp_NS_FULL_NAME_ND_RO = Видање
+| srp_NS_SORT_NAME_RG = ВИДАЊЕ
+| srp_NS_FULL_NAME_RG = Видање
+| srp_NS_FULL_NAME_ND_RG = Видање
+| std_V_name = Vide
+| std_V_FULL_NAME_RO = Vide Videja
+| std_V_FULL_NAME_ND_RO = Vide Videja
+| std_V_SORT_NAME_RG = VIDE VIDEJA
+| std_V_FULL_NAME_RG = Vide Videja
+| std_V_FULL_NAME_ND_RG = Vide Videja
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.548889
  | Lartësia            = 
 }}
-'''Videjë''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Videjë''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

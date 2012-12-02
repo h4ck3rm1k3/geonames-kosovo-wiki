@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nishor
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NISHOR
- | FULL_NAME_RO = Nishor
- | FULL_NAME_ND_RO=Nishor
- | SORT_NAME_RG=NISHOR
- | FULL_NAME_RG=Nishor
- | FULL_NAME_ND_RG=Nishor
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Nishor
+| sqi_N_FULL_NAME_RO = Nishor
+| sqi_N_FULL_NAME_ND_RO = Nishor
+| sqi_N_SORT_NAME_RG = NISHOR
+| sqi_N_FULL_NAME_RG = Nishor
+| sqi_N_FULL_NAME_ND_RG = Nishor
+| srp_N_name = Nišor
+| srp_N_FULL_NAME_RO = Nišor
+| srp_N_FULL_NAME_ND_RO = Nisor
+| srp_N_SORT_NAME_RG = NISOR
+| srp_N_FULL_NAME_RG = Nišor
+| srp_N_FULL_NAME_ND_RG = Nisor
+| srp_NS_name = Нишор
+| srp_NS_FULL_NAME_RO = Нишор
+| srp_NS_FULL_NAME_ND_RO = Нишор
+| srp_NS_SORT_NAME_RG = НИШОР
+| srp_NS_FULL_NAME_RG = Нишор
+| srp_NS_FULL_NAME_ND_RG = Нишор
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.801667
  | Lartësia            = 
 }}
-'''Nishor''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Nishor''' është një [[Fshat Vogel]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

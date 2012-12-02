@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Romunë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ROMUNE
- | FULL_NAME_RO = Romunë
- | FULL_NAME_ND_RO=Romune
- | SORT_NAME_RG=ROMUNE
- | FULL_NAME_RG=Romunë
- | FULL_NAME_ND_RG=Romune
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Romunë
+| sqi_N_FULL_NAME_RO = Romunë
+| sqi_N_FULL_NAME_ND_RO = Romune
+| sqi_N_SORT_NAME_RG = ROMUNE
+| sqi_N_FULL_NAME_RG = Romunë
+| sqi_N_FULL_NAME_ND_RG = Romune
+| sqi_V_name = Ramun
+| sqi_V_FULL_NAME_RO = Ramun
+| sqi_V_FULL_NAME_ND_RO = Ramun
+| sqi_V_SORT_NAME_RG = RAMUN
+| sqi_V_FULL_NAME_RG = Ramun
+| sqi_V_FULL_NAME_ND_RG = Ramun
+| srp_N_name = Romune
+| srp_N_FULL_NAME_RO = Romune
+| srp_N_FULL_NAME_ND_RO = Romune
+| srp_N_SORT_NAME_RG = ROMUNE
+| srp_N_FULL_NAME_RG = Romune
+| srp_N_FULL_NAME_ND_RG = Romune
+| srp_NS_name = Ромуне
+| srp_NS_FULL_NAME_RO = Ромуне
+| srp_NS_FULL_NAME_ND_RO = Ромуне
+| srp_NS_SORT_NAME_RG = РОМУНЕ
+| srp_NS_FULL_NAME_RG = Ромуне
+| srp_NS_FULL_NAME_ND_RG = Ромуне
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.404167
  | Lartësia            = 
 }}
-'''Romunë''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Romunë''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

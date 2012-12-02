@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Siboc i Poshtëm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SIBOCIPOSHTEM
- | FULL_NAME_RO = Siboc i Poshtëm
- | FULL_NAME_ND_RO=Siboc i Poshtem
- | SORT_NAME_RG=SIBOCIPOSHTEM
- | FULL_NAME_RG=Siboc i Poshtëm
- | FULL_NAME_ND_RG=Siboc i Poshtem
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Siboc i Poshtëm
+| sqi_N_FULL_NAME_RO = Siboc i Poshtëm
+| sqi_N_FULL_NAME_ND_RO = Siboc i Poshtem
+| sqi_N_SORT_NAME_RG = SIBOCIPOSHTEM
+| sqi_N_FULL_NAME_RG = Siboc i Poshtëm
+| sqi_N_FULL_NAME_ND_RG = Siboc i Poshtem
+| sqi_V_name = Siboci i Poshtëm
+| sqi_V_FULL_NAME_RO = Siboci i Poshtëm Sibolci i Poshtëm Vindeni i Poshtëm
+| sqi_V_FULL_NAME_ND_RO = Siboci i Poshtem Sibolci i Poshtem Vindeni i Poshtem
+| sqi_V_SORT_NAME_RG = SIBOCIIPOSHTEM SIBOLCIIPOSHTEM VINDENIIPOSHTEM
+| sqi_V_FULL_NAME_RG = Siboci i Poshtëm Sibolci i Poshtëm Vindeni i Poshtëm
+| sqi_V_FULL_NAME_ND_RG = Siboci i Poshtem Sibolci i Poshtem Vindeni i Poshtem
+| srp_N_name = Donji Sibovac
+| srp_N_FULL_NAME_RO = Donji Sibovac
+| srp_N_FULL_NAME_ND_RO = Donji Sibovac
+| srp_N_SORT_NAME_RG = DONJISIBOVAC
+| srp_N_FULL_NAME_RG = Donji Sibovac
+| srp_N_FULL_NAME_ND_RG = Donji Sibovac
+| srp_NS_name = Доњи Сибовац
+| srp_NS_FULL_NAME_RO = Доњи Сибовац
+| srp_NS_FULL_NAME_ND_RO = Доњи Сибовац
+| srp_NS_SORT_NAME_RG = ДОЊИСИБОВАЦ
+| srp_NS_FULL_NAME_RG = Доњи Сибовац
+| srp_NS_FULL_NAME_ND_RG = Доњи Сибовац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.2
  | Lartësia            = 
 }}
-'''Siboc i Poshtëm''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Siboc i Poshtëm''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

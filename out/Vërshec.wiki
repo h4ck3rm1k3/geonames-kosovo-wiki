@@ -1,26 +1,40 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vërshec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VERSHEC
- | FULL_NAME_RO = Vërshec
- | FULL_NAME_ND_RO=Vershec
- | SORT_NAME_RG=VERSHEC
- | FULL_NAME_RG=Vërshec
- | FULL_NAME_ND_RG=Vershec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vërshec
+| sqi_N_FULL_NAME_RO = Vërshec
+| sqi_N_FULL_NAME_ND_RO = Vershec
+| sqi_N_SORT_NAME_RG = VERSHEC
+| sqi_N_FULL_NAME_RG = Vërshec
+| sqi_N_FULL_NAME_ND_RG = Vershec
+| sqi_V_name = Vërshevc
+| sqi_V_FULL_NAME_RO = Vërshevc Vershec Vershevci
+| sqi_V_FULL_NAME_ND_RO = Vershevc Vershec Vershevci
+| sqi_V_SORT_NAME_RG = VERSHEVC VERSHEC VERSHEVCI
+| sqi_V_FULL_NAME_RG = Vërshevc Vershec Vershevci
+| sqi_V_FULL_NAME_ND_RG = Vershevc Vershec Vershevci
+| srp_N_name = Vrševce
+| srp_N_FULL_NAME_RO = Vrševce
+| srp_N_FULL_NAME_ND_RO = Vrsevce
+| srp_N_SORT_NAME_RG = VRSEVCE
+| srp_N_FULL_NAME_RG = Vrševce
+| srp_N_FULL_NAME_ND_RG = Vrsevce
+| srp_NS_name = Вршевце
+| srp_NS_FULL_NAME_RO = Вршевце
+| srp_NS_FULL_NAME_ND_RO = Вршевце
+| srp_NS_SORT_NAME_RG = ВРШЕВЦЕ
+| srp_NS_FULL_NAME_RG = Вршевце
+| srp_NS_FULL_NAME_ND_RG = Вршевце
+| srp_V_name = Vrševci
+| srp_V_FULL_NAME_RO = Vrševci
+| srp_V_FULL_NAME_ND_RO = Vrsevci
+| srp_V_SORT_NAME_RG = VRSEVCI
+| srp_V_FULL_NAME_RG = Vrševci
+| srp_V_FULL_NAME_ND_RG = Vrsevci
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Malishevë
+ | Komuna              = Ferizaj
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +44,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.522392
- | Gjatësia            = 21.00863
+ | Gjerësia            = 42.387222
+ | Gjatësia            = 20.914167
  | Lartësia            = 
 }}
-'''Vërshec''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Vërshec''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Malishevë}}
+{{Komuna Ferizaj}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Malishevë]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
 [[Kategoria:Vendbanime në Kosovës]]

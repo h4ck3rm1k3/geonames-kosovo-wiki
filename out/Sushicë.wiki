@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sushicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SUSHICE
- | FULL_NAME_RO = Sushicë
- | FULL_NAME_ND_RO=Sushice
- | SORT_NAME_RG=SUSHICE
- | FULL_NAME_RG=Sushicë
- | FULL_NAME_ND_RG=Sushice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sushicë
+| sqi_N_FULL_NAME_RO = Sushicë
+| sqi_N_FULL_NAME_ND_RO = Sushice
+| sqi_N_SORT_NAME_RG = SUSHICE
+| sqi_N_FULL_NAME_RG = Sushicë
+| sqi_N_FULL_NAME_ND_RG = Sushice
+| sqi_V_name = Shushica
+| sqi_V_FULL_NAME_RO = Shushica Gash Gashi Shushicë
+| sqi_V_FULL_NAME_ND_RO = Shushica Gash Gashi Shushice
+| sqi_V_SORT_NAME_RG = SHUSHICA GASH GASHI SHUSHICE
+| sqi_V_FULL_NAME_RG = Shushica Gash Gashi Shushicë
+| sqi_V_FULL_NAME_ND_RG = Shushica Gash Gashi Shushice
+| srp_N_name = Sušica
+| srp_N_FULL_NAME_RO = Sušica
+| srp_N_FULL_NAME_ND_RO = Susica
+| srp_N_SORT_NAME_RG = SUSICA
+| srp_N_FULL_NAME_RG = Sušica
+| srp_N_FULL_NAME_ND_RG = Susica
+| srp_NS_name = Сушица
+| srp_NS_FULL_NAME_RO = Сушица
+| srp_NS_FULL_NAME_ND_RO = Сушица
+| srp_NS_SORT_NAME_RG = СУШИЦА
+| srp_NS_FULL_NAME_RG = Сушица
+| srp_NS_FULL_NAME_ND_RG = Сушица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.576389
  | Lartësia            = 
 }}
-'''Sushicë''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Sushicë''' është një [[Fshat Vogel]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

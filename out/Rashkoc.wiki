@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rashkoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RASHKOC
- | FULL_NAME_RO = Rashkoc
- | FULL_NAME_ND_RO=Rashkoc
- | SORT_NAME_RG=RASHKOC
- | FULL_NAME_RG=Rashkoc
- | FULL_NAME_ND_RG=Rashkoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rashkoc
+| sqi_N_FULL_NAME_RO = Rashkoc
+| sqi_N_FULL_NAME_ND_RO = Rashkoc
+| sqi_N_SORT_NAME_RG = RASHKOC
+| sqi_N_FULL_NAME_RG = Rashkoc
+| sqi_N_FULL_NAME_ND_RG = Rashkoc
+| srp_N_name = Raškoc
+| srp_N_FULL_NAME_RO = Raškoc
+| srp_N_FULL_NAME_ND_RO = Raskoc
+| srp_N_SORT_NAME_RG = RASKOC
+| srp_N_FULL_NAME_RG = Raškoc
+| srp_N_FULL_NAME_ND_RG = Raskoc
+| srp_NS_name = Рашкоц
+| srp_NS_FULL_NAME_RO = Рашкоц
+| srp_NS_FULL_NAME_ND_RO = Рашкоц
+| srp_NS_SORT_NAME_RG = РАШКОЦ
+| srp_NS_FULL_NAME_RG = Рашкоц
+| srp_NS_FULL_NAME_ND_RG = Рашкоц
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.455556
  | Lartësia            = 
 }}
-'''Rashkoc''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Rashkoc''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

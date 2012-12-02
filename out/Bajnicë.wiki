@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bajnicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BAJNICE
- | FULL_NAME_RO = Bajnicë
- | FULL_NAME_ND_RO=Bajnice
- | SORT_NAME_RG=BAJNICE
- | FULL_NAME_RG=Bajnicë
- | FULL_NAME_ND_RG=Bajnice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bajnicë
+| sqi_N_FULL_NAME_RO = Bajnicë
+| sqi_N_FULL_NAME_ND_RO = Bajnice
+| sqi_N_SORT_NAME_RG = BAJNICE
+| sqi_N_FULL_NAME_RG = Bajnicë
+| sqi_N_FULL_NAME_ND_RG = Bajnice
+| srp_N_name = Banjica
+| srp_N_FULL_NAME_RO = Banjica
+| srp_N_FULL_NAME_ND_RO = Banjica
+| srp_N_SORT_NAME_RG = BANJICA
+| srp_N_FULL_NAME_RG = Banjica
+| srp_N_FULL_NAME_ND_RG = Banjica
+| srp_NS_name = Бањица
+| srp_NS_FULL_NAME_RO = Бањица
+| srp_NS_FULL_NAME_ND_RO = Бањица
+| srp_NS_SORT_NAME_RG = БАЊИЦА
+| srp_NS_FULL_NAME_RG = Бањица
+| srp_NS_FULL_NAME_ND_RG = Бањица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.164444
  | Lartësia            = 
 }}
-'''Bajnicë''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Bajnicë''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

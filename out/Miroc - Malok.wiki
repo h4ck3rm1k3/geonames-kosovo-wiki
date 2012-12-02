@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Miroc - Malok
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MIROCMALOK
- | FULL_NAME_RO = Miroc - Malok
- | FULL_NAME_ND_RO=Miroc - Malok
- | SORT_NAME_RG=MIROCMALOK
- | FULL_NAME_RG=Miroc - Malok
- | FULL_NAME_ND_RG=Miroc - Malok
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Miroc - Malok
+| sqi_D_FULL_NAME_RO = Miroc - Malok
+| sqi_D_FULL_NAME_ND_RO = Miroc - Malok
+| sqi_D_SORT_NAME_RG = MIROCMALOK
+| sqi_D_FULL_NAME_RG = Miroc - Malok
+| sqi_D_FULL_NAME_ND_RG = Miroc - Malok
+| srp_N_name = Miroc
+| srp_N_FULL_NAME_RO = Miroc
+| srp_N_FULL_NAME_ND_RO = Miroc
+| srp_N_SORT_NAME_RG = MIROC
+| srp_N_FULL_NAME_RG = Miroc
+| srp_N_FULL_NAME_ND_RG = Miroc
+| srp_NS_name = Мироц
+| srp_NS_FULL_NAME_RO = Мироц
+| srp_NS_FULL_NAME_ND_RO = Мироц
+| srp_NS_SORT_NAME_RG = МИРОЦ
+| srp_NS_FULL_NAME_RG = Мироц
+| srp_NS_FULL_NAME_ND_RG = Мироц
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.291667
  | Lartësia            = 
 }}
-'''Miroc - Malok''' është një [[]] në [[]] të [[Kosovës]].
+'''Miroc - Malok''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

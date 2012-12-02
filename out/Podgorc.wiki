@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Podgorc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PODGORC
- | FULL_NAME_RO = Podgorc
- | FULL_NAME_ND_RO=Podgorc
- | SORT_NAME_RG=PODGORC
- | FULL_NAME_RG=Podgorc
- | FULL_NAME_ND_RG=Podgorc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Podgorc
+| sqi_D_FULL_NAME_RO = Podgorc
+| sqi_D_FULL_NAME_ND_RO = Podgorc
+| sqi_D_SORT_NAME_RG = PODGORC
+| sqi_D_FULL_NAME_RG = Podgorc
+| sqi_D_FULL_NAME_ND_RG = Podgorc
+| sqi_V_name = Podgorci
+| sqi_V_FULL_NAME_RO = Podgorci Podgorce
+| sqi_V_FULL_NAME_ND_RO = Podgorci Podgorce
+| sqi_V_SORT_NAME_RG = PODGORCI PODGORCE
+| sqi_V_FULL_NAME_RG = Podgorci Podgorce
+| sqi_V_FULL_NAME_ND_RG = Podgorci Podgorce
+| srp_N_name = Podgorce
+| srp_N_FULL_NAME_RO = Podgorce
+| srp_N_FULL_NAME_ND_RO = Podgorce
+| srp_N_SORT_NAME_RG = PODGORCE
+| srp_N_FULL_NAME_RG = Podgorce
+| srp_N_FULL_NAME_ND_RG = Podgorce
+| srp_NS_name = Подгорце
+| srp_NS_FULL_NAME_RO = Подгорце
+| srp_NS_FULL_NAME_ND_RO = Подгорце
+| srp_NS_SORT_NAME_RG = ПОДГОРЦЕ
+| srp_NS_FULL_NAME_RG = Подгорце
+| srp_NS_FULL_NAME_ND_RG = Подгорце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.408333
  | Lartësia            = 
 }}
-'''Podgorc''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Podgorc''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

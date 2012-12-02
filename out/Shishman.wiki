@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shishman
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHISHMAN
- | FULL_NAME_RO = Shishman
- | FULL_NAME_ND_RO=Shishman
- | SORT_NAME_RG=SHISHMAN
- | FULL_NAME_RG=Shishman
- | FULL_NAME_ND_RG=Shishman
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shishman
+| sqi_N_FULL_NAME_RO = Shishman
+| sqi_N_FULL_NAME_ND_RO = Shishman
+| sqi_N_SORT_NAME_RG = SHISHMAN
+| sqi_N_FULL_NAME_RG = Shishman
+| sqi_N_FULL_NAME_ND_RG = Shishman
+| sqi_V_name = Shishmon
+| sqi_V_FULL_NAME_RO = Shishmon Shishman Rabi
+| sqi_V_FULL_NAME_ND_RO = Shishmon Shishman Rabi
+| sqi_V_SORT_NAME_RG = SHISHMON SHISHMANRABI
+| sqi_V_FULL_NAME_RG = Shishmon Shishman Rabi
+| sqi_V_FULL_NAME_ND_RG = Shishmon Shishman Rabi
+| srp_N_name = Šišman
+| srp_N_FULL_NAME_RO = Šišman
+| srp_N_FULL_NAME_ND_RO = Sisman
+| srp_N_SORT_NAME_RG = SISMAN
+| srp_N_FULL_NAME_RG = Šišman
+| srp_N_FULL_NAME_ND_RG = Sisman
+| srp_NS_name = Шишман
+| srp_NS_FULL_NAME_RO = Шишман
+| srp_NS_FULL_NAME_ND_RO = Шишман
+| srp_NS_SORT_NAME_RG = ШИШМАН
+| srp_NS_FULL_NAME_RG = Шишман
+| srp_NS_FULL_NAME_ND_RG = Шишман
+| srp_V_name = Šišman Ravni
+| srp_V_FULL_NAME_RO = Šišman Ravni
+| srp_V_FULL_NAME_ND_RO = Sisman Ravni
+| srp_V_SORT_NAME_RG = SISMANRAVNI
+| srp_V_FULL_NAME_RG = Šišman Ravni
+| srp_V_FULL_NAME_ND_RG = Sisman Ravni
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.321111
  | Lartësia            = 
 }}
-'''Shishman''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Shishman''' është një [[Fshat Vogel]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

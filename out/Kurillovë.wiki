@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kurillovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KURILLOVE
- | FULL_NAME_RO = Kurillovë
- | FULL_NAME_ND_RO=Kurillove
- | SORT_NAME_RG=KURILLOVE
- | FULL_NAME_RG=Kurillovë
- | FULL_NAME_ND_RG=Kurillove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kurillovë
+| sqi_N_FULL_NAME_RO = Kurillovë
+| sqi_N_FULL_NAME_ND_RO = Kurillove
+| sqi_N_SORT_NAME_RG = KURILLOVE
+| sqi_N_FULL_NAME_RG = Kurillovë
+| sqi_N_FULL_NAME_ND_RG = Kurillove
+| sqi_V_name = Kurilovë
+| sqi_V_FULL_NAME_RO = Kurilovë
+| sqi_V_FULL_NAME_ND_RO = Kurilove
+| sqi_V_SORT_NAME_RG = KURILOVE
+| sqi_V_FULL_NAME_RG = Kurilovë
+| sqi_V_FULL_NAME_ND_RG = Kurilove
+| srp_N_name = Kurilovo
+| srp_N_FULL_NAME_RO = Kurilovo
+| srp_N_FULL_NAME_ND_RO = Kurilovo
+| srp_N_SORT_NAME_RG = KURILOVO
+| srp_N_FULL_NAME_RG = Kurilovo
+| srp_N_FULL_NAME_ND_RG = Kurilovo
+| srp_NS_name = Курилово
+| srp_NS_FULL_NAME_RO = Курилово
+| srp_NS_FULL_NAME_ND_RO = Курилово
+| srp_NS_SORT_NAME_RG = КУРИЛОВО
+| srp_NS_FULL_NAME_RG = Курилово
+| srp_NS_FULL_NAME_ND_RG = Курилово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.035328
  | Lartësia            = 
 }}
-'''Kurillovë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Kurillovë''' është një [[Fshat Vogel]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vitakovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VITAKOVE
- | FULL_NAME_RO = Vitakovë
- | FULL_NAME_ND_RO=Vitakove
- | SORT_NAME_RG=VITAKOVE
- | FULL_NAME_RG=Vitakovë
- | FULL_NAME_ND_RG=Vitakove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vitakovë
+| sqi_N_FULL_NAME_RO = Vitakovë
+| sqi_N_FULL_NAME_ND_RO = Vitakove
+| sqi_N_SORT_NAME_RG = VITAKOVE
+| sqi_N_FULL_NAME_RG = Vitakovë
+| sqi_N_FULL_NAME_ND_RG = Vitakove
+| srp_N_name = Vitakovo
+| srp_N_FULL_NAME_RO = Vitakovo
+| srp_N_FULL_NAME_ND_RO = Vitakovo
+| srp_N_SORT_NAME_RG = VITAKOVO
+| srp_N_FULL_NAME_RG = Vitakovo
+| srp_N_FULL_NAME_ND_RG = Vitakovo
+| srp_NS_name = Витаково
+| srp_NS_FULL_NAME_RO = Витаково
+| srp_NS_FULL_NAME_ND_RO = Витаково
+| srp_NS_SORT_NAME_RG = ВИТАКОВО
+| srp_NS_FULL_NAME_RG = Витаково
+| srp_NS_FULL_NAME_ND_RG = Витаково
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.591111
  | Lartësia            = 
 }}
-'''Vitakovë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Vitakovë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

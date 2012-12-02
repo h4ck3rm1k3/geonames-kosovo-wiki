@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mahalla Huseinoviç
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAHALLAHUSEINOVIC
- | FULL_NAME_RO = Mahalla Huseinoviç
- | FULL_NAME_ND_RO=Mahalla Huseinovic
- | SORT_NAME_RG=MAHALLAHUSEINOVIC
- | FULL_NAME_RG=Mahalla Huseinoviç
- | FULL_NAME_ND_RG=Mahalla Huseinovic
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Mahalla Huseinoviç
+| sqi_D_FULL_NAME_RO = Mahalla Huseinoviç
+| sqi_D_FULL_NAME_ND_RO = Mahalla Huseinovic
+| sqi_D_SORT_NAME_RG = MAHALLAHUSEINOVIC
+| sqi_D_FULL_NAME_RG = Mahalla Huseinoviç
+| sqi_D_FULL_NAME_ND_RG = Mahalla Huseinovic
+| srp_N_name = Huseinović Mahala
+| srp_N_FULL_NAME_RO = Huseinović Mahala
+| srp_N_FULL_NAME_ND_RO = Huseinovic Mahala
+| srp_N_SORT_NAME_RG = HUSEINOVICMAHALA
+| srp_N_FULL_NAME_RG = Huseinović Mahala
+| srp_N_FULL_NAME_ND_RG = Huseinovic Mahala
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 21.068009
  | Lartësia            = 
 }}
-'''Mahalla Huseinoviç''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Mahalla Huseinoviç''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

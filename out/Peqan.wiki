@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Peqan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PEQAN
- | FULL_NAME_RO = Peqan
- | FULL_NAME_ND_RO=Peqan
- | SORT_NAME_RG=PEQAN
- | FULL_NAME_RG=Peqan
- | FULL_NAME_ND_RG=Peqan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Peqan
+| sqi_N_FULL_NAME_RO = Peqan
+| sqi_N_FULL_NAME_ND_RO = Peqan
+| sqi_N_SORT_NAME_RG = PEQAN
+| sqi_N_FULL_NAME_RG = Peqan
+| sqi_N_FULL_NAME_ND_RG = Peqan
+| sqi_V_name = Reçan
+| sqi_V_FULL_NAME_RO = Reçan
+| sqi_V_FULL_NAME_ND_RO = Recan
+| sqi_V_SORT_NAME_RG = RECAN
+| sqi_V_FULL_NAME_RG = Reçan
+| sqi_V_FULL_NAME_ND_RG = Recan
+| srp_N_name = Pećane
+| srp_N_FULL_NAME_RO = Pećane
+| srp_N_FULL_NAME_ND_RO = Pecane
+| srp_N_SORT_NAME_RG = PECANE
+| srp_N_FULL_NAME_RG = Pećane
+| srp_N_FULL_NAME_ND_RG = Pecane
+| srp_NS_name = Пећане
+| srp_NS_FULL_NAME_RO = Пећане
+| srp_NS_FULL_NAME_ND_RO = Пећане
+| srp_NS_SORT_NAME_RG = ПЕЋАНЕ
+| srp_NS_FULL_NAME_RG = Пећане
+| srp_NS_FULL_NAME_ND_RG = Пећане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.821944
  | Lartësia            = 
 }}
-'''Peqan''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Peqan''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

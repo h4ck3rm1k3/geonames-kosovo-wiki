@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tërniqec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TERNIQEC
- | FULL_NAME_RO = Tërniqec
- | FULL_NAME_ND_RO=Terniqec
- | SORT_NAME_RG=TERNIQEC
- | FULL_NAME_RG=Tërniqec
- | FULL_NAME_ND_RG=Terniqec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Tërniqec
+| sqi_N_FULL_NAME_RO = Tërniqec
+| sqi_N_FULL_NAME_ND_RO = Terniqec
+| sqi_N_SORT_NAME_RG = TERNIQEC
+| sqi_N_FULL_NAME_RG = Tërniqec
+| sqi_N_FULL_NAME_ND_RG = Terniqec
+| sqi_V_name = Turiqec
+| sqi_V_FULL_NAME_RO = Turiqec Turiqevc
+| sqi_V_FULL_NAME_ND_RO = Turiqec Turiqevc
+| sqi_V_SORT_NAME_RG = TURIQEC TURIQEVC
+| sqi_V_FULL_NAME_RG = Turiqec Turiqevc
+| sqi_V_FULL_NAME_ND_RG = Turiqec Turiqevc
+| srp_N_name = Trnićevce
+| srp_N_FULL_NAME_RO = Trnićevce
+| srp_N_FULL_NAME_ND_RO = Trnicevce
+| srp_N_SORT_NAME_RG = TRNICEVCE
+| srp_N_FULL_NAME_RG = Trnićevce
+| srp_N_FULL_NAME_ND_RG = Trnicevce
+| srp_NS_name = Трнићевце
+| srp_NS_FULL_NAME_RO = Трнићевце
+| srp_NS_FULL_NAME_ND_RO = Трнићевце
+| srp_NS_SORT_NAME_RG = ТРНИЋЕВЦЕ
+| srp_NS_FULL_NAME_RG = Трнићевце
+| srp_NS_FULL_NAME_ND_RG = Трнићевце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.426111
  | Lartësia            = 
 }}
-'''Tërniqec''' është një [[]] në [[Obiliq]] të [[Kosovës]].
+'''Tërniqec''' është një [[Fshat]] në [[Obiliq]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

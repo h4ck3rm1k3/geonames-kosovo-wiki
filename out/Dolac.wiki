@@ -1,26 +1,16 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dolac
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DOLAC
- | FULL_NAME_RO = Dolac
- | FULL_NAME_ND_RO=Dolac
- | SORT_NAME_RG=DOLAC
- | FULL_NAME_RG=Dolac
- | FULL_NAME_ND_RG=Dolac
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| srp_N_name = Dolac
+| srp_N_FULL_NAME_RO = Dolac
+| srp_N_FULL_NAME_ND_RO = Dolac
+| srp_N_SORT_NAME_RG = DOLAC
+| srp_N_FULL_NAME_RG = Dolac
+| srp_N_FULL_NAME_ND_RG = Dolac
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Albanik
+ | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +20,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.596667
- | Gjatësia            = 20.595556
+ | Gjerësia            = 43.175
+ | Gjatësia            = 20.674444
  | Lartësia            = 
 }}
-'''Dolac''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Dolac''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Albanik}}
+{{Komuna Lipjan}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
 [[Kategoria:Vendbanime në Kosovës]]

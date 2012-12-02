@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zupç
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZUPC
- | FULL_NAME_RO = Zupç
- | FULL_NAME_ND_RO=Zupc
- | SORT_NAME_RG=ZUPC
- | FULL_NAME_RG=Zupç
- | FULL_NAME_ND_RG=Zupc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zupç
+| sqi_D_FULL_NAME_RO = Zupç
+| sqi_D_FULL_NAME_ND_RO = Zupc
+| sqi_D_SORT_NAME_RG = ZUPC
+| sqi_D_FULL_NAME_RG = Zupç
+| sqi_D_FULL_NAME_ND_RG = Zupc
+| sqi_V_name = Zupçë
+| sqi_V_FULL_NAME_RO = Zupçë
+| sqi_V_FULL_NAME_ND_RO = Zupce
+| sqi_V_SORT_NAME_RG = ZUPCE
+| sqi_V_FULL_NAME_RG = Zupçë
+| sqi_V_FULL_NAME_ND_RG = Zupce
+| srp_N_name = Zupče
+| srp_N_FULL_NAME_RO = Zupče
+| srp_N_FULL_NAME_ND_RO = Zupce
+| srp_N_SORT_NAME_RG = ZUPCE
+| srp_N_FULL_NAME_RG = Zupče
+| srp_N_FULL_NAME_ND_RG = Zupce
+| srp_NS_name = Зупче
+| srp_NS_FULL_NAME_RO = Зупче
+| srp_NS_FULL_NAME_ND_RO = Зупче
+| srp_NS_SORT_NAME_RG = ЗУПЧЕ
+| srp_NS_FULL_NAME_RG = Зупче
+| srp_NS_FULL_NAME_ND_RG = Зупче
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.767778
  | Lartësia            = 
 }}
-'''Zupç''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Zupç''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

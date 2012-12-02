@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Opterushë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      OPTERUSHE
- | FULL_NAME_RO = Opterushë
- | FULL_NAME_ND_RO=Opterushe
- | SORT_NAME_RG=OPTERUSHE
- | FULL_NAME_RG=Opterushë
- | FULL_NAME_ND_RG=Opterushe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Opterushë
+| sqi_N_FULL_NAME_RO = Opterushë
+| sqi_N_FULL_NAME_ND_RO = Opterushe
+| sqi_N_SORT_NAME_RG = OPTERUSHE
+| sqi_N_FULL_NAME_RG = Opterushë
+| sqi_N_FULL_NAME_ND_RG = Opterushe
+| sqi_V_name = Opterusha
+| sqi_V_FULL_NAME_RO = Opterusha
+| sqi_V_FULL_NAME_ND_RO = Opterusha
+| sqi_V_SORT_NAME_RG = OPTERUSHA
+| sqi_V_FULL_NAME_RG = Opterusha
+| sqi_V_FULL_NAME_ND_RG = Opterusha
+| srp_N_name = Opteruša
+| srp_N_FULL_NAME_RO = Opteruša
+| srp_N_FULL_NAME_ND_RO = Opterusa
+| srp_N_SORT_NAME_RG = OPTERUSA
+| srp_N_FULL_NAME_RG = Opteruša
+| srp_N_FULL_NAME_ND_RG = Opterusa
+| srp_NS_name = Оптеруша
+| srp_NS_FULL_NAME_RO = Оптеруша
+| srp_NS_FULL_NAME_ND_RO = Оптеруша
+| srp_NS_SORT_NAME_RG = ОПТЕРУША
+| srp_NS_FULL_NAME_RG = Оптеруша
+| srp_NS_FULL_NAME_ND_RG = Оптеруша
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.715556
  | Lartësia            = 
 }}
-'''Opterushë''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Opterushë''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

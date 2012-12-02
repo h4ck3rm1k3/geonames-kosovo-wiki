@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shipovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHIPOVE
- | FULL_NAME_RO = Shipovë
- | FULL_NAME_ND_RO=Shipove
- | SORT_NAME_RG=SHIPOVE
- | FULL_NAME_RG=Shipovë
- | FULL_NAME_ND_RG=Shipove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shipovë
+| sqi_N_FULL_NAME_RO = Shipovë
+| sqi_N_FULL_NAME_ND_RO = Shipove
+| sqi_N_SORT_NAME_RG = SHIPOVE
+| sqi_N_FULL_NAME_RG = Shipovë
+| sqi_N_FULL_NAME_ND_RG = Shipove
+| srp_N_name = Šipovo
+| srp_N_FULL_NAME_RO = Šipovo
+| srp_N_FULL_NAME_ND_RO = Sipovo
+| srp_N_SORT_NAME_RG = SIPOVO
+| srp_N_FULL_NAME_RG = Šipovo
+| srp_N_FULL_NAME_ND_RG = Sipovo
+| srp_NS_name = Шипово
+| srp_NS_FULL_NAME_RO = Шипово
+| srp_NS_FULL_NAME_ND_RO = Шипово
+| srp_NS_SORT_NAME_RG = ШИПОВО
+| srp_NS_FULL_NAME_RG = Шипово
+| srp_NS_FULL_NAME_ND_RG = Шипово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.672222
  | Lartësia            = 
 }}
-'''Shipovë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Shipovë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

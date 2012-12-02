@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bibaj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BIBAJ
- | FULL_NAME_RO = Bibaj
- | FULL_NAME_ND_RO=Bibaj
- | SORT_NAME_RG=BIBAJ
- | FULL_NAME_RG=Bibaj
- | FULL_NAME_ND_RG=Bibaj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bibaj
+| sqi_N_FULL_NAME_RO = Bibaj
+| sqi_N_FULL_NAME_ND_RO = Bibaj
+| sqi_N_SORT_NAME_RG = BIBAJ
+| sqi_N_FULL_NAME_RG = Bibaj
+| sqi_N_FULL_NAME_ND_RG = Bibaj
+| sqi_V_name = Bibë
+| sqi_V_FULL_NAME_RO = Bibë
+| sqi_V_FULL_NAME_ND_RO = Bibe
+| sqi_V_SORT_NAME_RG = BIBE
+| sqi_V_FULL_NAME_RG = Bibë
+| sqi_V_FULL_NAME_ND_RG = Bibe
+| srp_N_name = Biba
+| srp_N_FULL_NAME_RO = Biba
+| srp_N_FULL_NAME_ND_RO = Biba
+| srp_N_SORT_NAME_RG = BIBA
+| srp_N_FULL_NAME_RG = Biba
+| srp_N_FULL_NAME_ND_RG = Biba
+| srp_NS_name = Биба
+| srp_NS_FULL_NAME_RO = Биба
+| srp_NS_FULL_NAME_ND_RO = Биба
+| srp_NS_SORT_NAME_RG = БИБА
+| srp_NS_FULL_NAME_RG = Биба
+| srp_NS_FULL_NAME_ND_RG = Биба
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.195833
  | Lartësia            = 
 }}
-'''Bibaj''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Bibaj''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

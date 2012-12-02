@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dragaqinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DRAGAQINE
- | FULL_NAME_RO = Dragaqinë
- | FULL_NAME_ND_RO=Dragaqine
- | SORT_NAME_RG=DRAGAQINE
- | FULL_NAME_RG=Dragaqinë
- | FULL_NAME_ND_RG=Dragaqine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Dragaqinë
+| sqi_D_FULL_NAME_RO = Dragaqinë
+| sqi_D_FULL_NAME_ND_RO = Dragaqine
+| sqi_D_SORT_NAME_RG = DRAGAQINE
+| sqi_D_FULL_NAME_RG = Dragaqinë
+| sqi_D_FULL_NAME_ND_RG = Dragaqine
+| srp_N_name = Dragačina
+| srp_N_FULL_NAME_RO = Dragačina
+| srp_N_FULL_NAME_ND_RO = Dragacina
+| srp_N_SORT_NAME_RG = DRAGACINA
+| srp_N_FULL_NAME_RG = Dragačina
+| srp_N_FULL_NAME_ND_RG = Dragacina
+| srp_NS_name = Драгачина
+| srp_NS_FULL_NAME_RO = Драгачина
+| srp_NS_FULL_NAME_ND_RO = Драгачина
+| srp_NS_SORT_NAME_RG = ДРАГАЧИНА
+| srp_NS_FULL_NAME_RG = Драгачина
+| srp_NS_FULL_NAME_ND_RG = Драгачина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.900833
  | Lartësia            = 
 }}
-'''Dragaqinë''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Dragaqinë''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Topillë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TOPILLE
- | FULL_NAME_RO = Topillë
- | FULL_NAME_ND_RO=Topille
- | SORT_NAME_RG=TOPILLE
- | FULL_NAME_RG=Topillë
- | FULL_NAME_ND_RG=Topille
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Topillë
+| sqi_N_FULL_NAME_RO = Topillë
+| sqi_N_FULL_NAME_ND_RO = Topille
+| sqi_N_SORT_NAME_RG = TOPILLE
+| sqi_N_FULL_NAME_RG = Topillë
+| sqi_N_FULL_NAME_ND_RG = Topille
+| sqi_V_name = Topillodevetak
+| sqi_V_FULL_NAME_RO = Topillodevetak Topillë - Devetak
+| sqi_V_FULL_NAME_ND_RO = Topillodevetak Topille - Devetak
+| sqi_V_SORT_NAME_RG = TOPILLODEVETAK TOPILLEDEVETAK
+| sqi_V_FULL_NAME_RG = Topillodevetak Topillë - Devetak
+| sqi_V_FULL_NAME_ND_RG = Topillodevetak Topille - Devetak
+| srp_N_name = Topilo
+| srp_N_FULL_NAME_RO = Topilo
+| srp_N_FULL_NAME_ND_RO = Topilo
+| srp_N_SORT_NAME_RG = TOPILO
+| srp_N_FULL_NAME_RG = Topilo
+| srp_N_FULL_NAME_ND_RG = Topilo
+| srp_NS_name = Топило
+| srp_NS_FULL_NAME_RO = Топило
+| srp_NS_FULL_NAME_ND_RO = Топило
+| srp_NS_SORT_NAME_RG = ТОПИЛО
+| srp_NS_FULL_NAME_RG = Топило
+| srp_NS_FULL_NAME_ND_RG = Топило
+| srp_V_name = Topilo - Devetak
+| srp_V_FULL_NAME_RO = Topilo - Devetak
+| srp_V_FULL_NAME_ND_RO = Topilo - Devetak
+| srp_V_SORT_NAME_RG = TOPILODEVETAK
+| srp_V_FULL_NAME_RG = Topilo - Devetak
+| srp_V_FULL_NAME_ND_RG = Topilo - Devetak
+| srp_VS_name = Топило - Деветак
+| srp_VS_FULL_NAME_RO = Топило - Деветак
+| srp_VS_FULL_NAME_ND_RO = Топило - Деветак
+| srp_VS_SORT_NAME_RG = ТОПИЛОДЕВЕТАК
+| srp_VS_FULL_NAME_RG = Топило - Деветак
+| srp_VS_FULL_NAME_ND_RG = Топило - Деветак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.972778
  | Lartësia            = 
 }}
-'''Topillë''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Topillë''' është një [[Fshat Vogel]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

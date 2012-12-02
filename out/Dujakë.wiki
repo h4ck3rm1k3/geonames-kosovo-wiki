@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dujakë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DUJAKE
- | FULL_NAME_RO = Dujakë
- | FULL_NAME_ND_RO=Dujake
- | SORT_NAME_RG=DUJAKE
- | FULL_NAME_RG=Dujakë
- | FULL_NAME_ND_RG=Dujake
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dujakë
+| sqi_N_FULL_NAME_RO = Dujakë
+| sqi_N_FULL_NAME_ND_RO = Dujake
+| sqi_N_SORT_NAME_RG = DUJAKE
+| sqi_N_FULL_NAME_RG = Dujakë
+| sqi_N_FULL_NAME_ND_RG = Dujake
+| srp_N_name = Dujak
+| srp_N_FULL_NAME_RO = Dujak
+| srp_N_FULL_NAME_ND_RO = Dujak
+| srp_N_SORT_NAME_RG = DUJAK
+| srp_N_FULL_NAME_RG = Dujak
+| srp_N_FULL_NAME_ND_RG = Dujak
+| srp_NS_name = Дујак
+| srp_NS_FULL_NAME_RO = Дујак
+| srp_NS_FULL_NAME_ND_RO = Дујак
+| srp_NS_SORT_NAME_RG = ДУЈАК
+| srp_NS_FULL_NAME_RG = Дујак
+| srp_NS_FULL_NAME_ND_RG = Дујак
+| std_V_name = Dujaka
+| std_V_FULL_NAME_RO = Dujaka
+| std_V_FULL_NAME_ND_RO = Dujaka
+| std_V_SORT_NAME_RG = DUJAKA
+| std_V_FULL_NAME_RG = Dujaka
+| std_V_FULL_NAME_ND_RG = Dujaka
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.369722
  | Lartësia            = 
 }}
-'''Dujakë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Dujakë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

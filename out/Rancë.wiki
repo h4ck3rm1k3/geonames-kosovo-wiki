@@ -1,26 +1,40 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rancë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RANCE
- | FULL_NAME_RO = Rancë
- | FULL_NAME_ND_RO=Rance
- | SORT_NAME_RG=RANCE
- | FULL_NAME_RG=Rancë
- | FULL_NAME_ND_RG=Rance
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rancë
+| sqi_N_FULL_NAME_RO = Rancë
+| sqi_N_FULL_NAME_ND_RO = Rance
+| sqi_N_SORT_NAME_RG = RANCE
+| sqi_N_FULL_NAME_RG = Rancë
+| sqi_N_FULL_NAME_ND_RG = Rance
+| sqi_V_name = Rrancë
+| sqi_V_FULL_NAME_RO = Rrancë
+| sqi_V_FULL_NAME_ND_RO = Rrance
+| sqi_V_SORT_NAME_RG = RRANCE
+| sqi_V_FULL_NAME_RG = Rrancë
+| sqi_V_FULL_NAME_ND_RG = Rrance
+| srp_N_name = Rance
+| srp_N_FULL_NAME_RO = Rance
+| srp_N_FULL_NAME_ND_RO = Rance
+| srp_N_SORT_NAME_RG = RANCE
+| srp_N_FULL_NAME_RG = Rance
+| srp_N_FULL_NAME_ND_RG = Rance
+| srp_NS_name = Ранце
+| srp_NS_FULL_NAME_RO = Ранце
+| srp_NS_FULL_NAME_ND_RO = Ранце
+| srp_NS_SORT_NAME_RG = РАНЦЕ
+| srp_NS_FULL_NAME_RG = Ранце
+| srp_NS_FULL_NAME_ND_RG = Ранце
+| std_V_name = Ronce
+| std_V_FULL_NAME_RO = Ronce Rorice
+| std_V_FULL_NAME_ND_RO = Ronce Rorice
+| std_V_SORT_NAME_RG = RONCE RORICE
+| std_V_FULL_NAME_RG = Ronce Rorice
+| std_V_FULL_NAME_ND_RG = Ronce Rorice
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Dragash
+ | Komuna              = Shtime
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +44,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.090278
- | Gjatësia            = 20.661944
+ | Gjerësia            = 42.432778
+ | Gjatësia            = 20.970556
  | Lartësia            = 
 }}
-'''Rancë''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Rancë''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Dragash}}
+{{Komuna Shtime}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Dragash]]
+[[Kategoria:Fshatra në Kommunes Shtime]]
 [[Kategoria:Vendbanime në Kosovës]]

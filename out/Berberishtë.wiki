@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Berberishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BERBERISHTE
- | FULL_NAME_RO = Berberishtë
- | FULL_NAME_ND_RO=Berberishte
- | SORT_NAME_RG=BERBERISHTE
- | FULL_NAME_RG=Berberishtë
- | FULL_NAME_ND_RG=Berberishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Berberishtë
+| sqi_N_FULL_NAME_RO = Berberishtë
+| sqi_N_FULL_NAME_ND_RO = Berberishte
+| sqi_N_SORT_NAME_RG = BERBERISHTE
+| sqi_N_FULL_NAME_RG = Berberishtë
+| sqi_N_FULL_NAME_ND_RG = Berberishte
+| srp_N_name = Berberište
+| srp_N_FULL_NAME_RO = Berberište
+| srp_N_FULL_NAME_ND_RO = Berberiste
+| srp_N_SORT_NAME_RG = BERBERISTE
+| srp_N_FULL_NAME_RG = Berberište
+| srp_N_FULL_NAME_ND_RG = Berberiste
+| srp_NS_name = Бербериште
+| srp_NS_FULL_NAME_RO = Бербериште
+| srp_NS_FULL_NAME_ND_RO = Бербериште
+| srp_NS_SORT_NAME_RG = БЕРБЕРИШТЕ
+| srp_NS_FULL_NAME_RG = Бербериште
+| srp_NS_FULL_NAME_ND_RG = Бербериште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.686667
  | Lartësia            = 
 }}
-'''Berberishtë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Berberishtë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

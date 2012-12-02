@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lumbardh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LUMBARDH
- | FULL_NAME_RO = Lumbardh
- | FULL_NAME_ND_RO=Lumbardh
- | SORT_NAME_RG=LUMBARDH
- | FULL_NAME_RG=Lumbardh
- | FULL_NAME_ND_RG=Lumbardh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lumbardh
+| sqi_N_FULL_NAME_RO = Lumbardh
+| sqi_N_FULL_NAME_ND_RO = Lumbardh
+| sqi_N_SORT_NAME_RG = LUMBARDH
+| sqi_N_FULL_NAME_RG = Lumbardh
+| sqi_N_FULL_NAME_ND_RG = Lumbardh
+| sqi_V_name = Lumbardhë
+| sqi_V_FULL_NAME_RO = Lumbardhë Ljumbardh Lumbardhi
+| sqi_V_FULL_NAME_ND_RO = Lumbardhe Ljumbardh Lumbardhi
+| sqi_V_SORT_NAME_RG = LUMBARDHE LJUMBARDH LUMBARDHI
+| sqi_V_FULL_NAME_RG = Lumbardhë Ljumbardh Lumbardhi
+| sqi_V_FULL_NAME_ND_RG = Lumbardhe Ljumbardh Lumbardhi
+| srp_N_name = Ljumbarda
+| srp_N_FULL_NAME_RO = Ljumbarda
+| srp_N_FULL_NAME_ND_RO = Ljumbarda
+| srp_N_SORT_NAME_RG = LJUMBARDA
+| srp_N_FULL_NAME_RG = Ljumbarda
+| srp_N_FULL_NAME_ND_RG = Ljumbarda
+| srp_NS_name = Лумбарда
+| srp_NS_FULL_NAME_RO = Лумбарда
+| srp_NS_FULL_NAME_ND_RO = Лумбарда
+| srp_NS_SORT_NAME_RG = ЛУМБАРДА
+| srp_NS_FULL_NAME_RG = Лумбарда
+| srp_NS_FULL_NAME_ND_RG = Лумбарда
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.346667
  | Lartësia            = 
 }}
-'''Lumbardh''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Lumbardh''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

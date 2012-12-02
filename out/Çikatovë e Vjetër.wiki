@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Çikatovë e Vjetër
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CIKATOVEEVJETER
- | FULL_NAME_RO = Çikatovë e Vjetër
- | FULL_NAME_ND_RO=Cikatove e Vjeter
- | SORT_NAME_RG=CIKATOVEEVJETER
- | FULL_NAME_RG=Çikatovë e Vjetër
- | FULL_NAME_ND_RG=Cikatove e Vjeter
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Çikatovë e Vjetër
+| sqi_N_FULL_NAME_RO = Çikatovë e Vjetër
+| sqi_N_FULL_NAME_ND_RO = Cikatove e Vjeter
+| sqi_N_SORT_NAME_RG = CIKATOVEEVJETER
+| sqi_N_FULL_NAME_RG = Çikatovë e Vjetër
+| sqi_N_FULL_NAME_ND_RG = Cikatove e Vjeter
+| sqi_V_name = Çikatovë
+| sqi_V_FULL_NAME_RO = Çikatovë Çikatova Cikatova e Vjetër Qikatovë e Vjetër
+| sqi_V_FULL_NAME_ND_RO = Cikatove Cikatova Cikatova e Vjeter Qikatove e Vjeter
+| sqi_V_SORT_NAME_RG = CIKATOVE CIKATOVA CIKATOVAEVJETER QIKATOVEEVJETER
+| sqi_V_FULL_NAME_RG = Çikatovë Çikatova Cikatova e Vjetër Qikatovë e Vjetër
+| sqi_V_FULL_NAME_ND_RG = Cikatove Cikatova Cikatova e Vjeter Qikatove e Vjeter
+| srp_N_name = Staro Čikatovo
+| srp_N_FULL_NAME_RO = Staro Čikatovo
+| srp_N_FULL_NAME_ND_RO = Staro Cikatovo
+| srp_N_SORT_NAME_RG = STAROCIKATOVO
+| srp_N_FULL_NAME_RG = Staro Čikatovo
+| srp_N_FULL_NAME_ND_RG = Staro Cikatovo
+| srp_NS_name = Старо Чикатово
+| srp_NS_FULL_NAME_RO = Старо Чикатово
+| srp_NS_FULL_NAME_ND_RO = Старо Чикатово
+| srp_NS_SORT_NAME_RG = СТАРОЧИКАТОВО
+| srp_NS_FULL_NAME_RG = Старо Чикатово
+| srp_NS_FULL_NAME_ND_RG = Старо Чикатово
+| srp_V_name = Čikatovo
+| srp_V_FULL_NAME_RO = Čikatovo Čikalovo Staro Ćikatovo
+| srp_V_FULL_NAME_ND_RO = Cikatovo Cikalovo Staro Cikatovo
+| srp_V_SORT_NAME_RG = CIKATOVO CIKALOVO STAROCIKATOVO
+| srp_V_FULL_NAME_RG = Čikatovo Čikalovo Staro Ćikatovo
+| srp_V_FULL_NAME_ND_RG = Cikatovo Cikalovo Staro Cikatovo
+| srp_VS_name = Старо Ћикатово
+| srp_VS_FULL_NAME_RO = Старо Ћикатово
+| srp_VS_FULL_NAME_ND_RO = Старо Ћикатово
+| srp_VS_SORT_NAME_RG = СТАРОЋИКАТОВО
+| srp_VS_FULL_NAME_RG = Старо Ћикатово
+| srp_VS_FULL_NAME_ND_RG = Старо Ћикатово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.907778
  | Lartësia            = 
 }}
-'''Çikatovë e Vjetër''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Çikatovë e Vjetër''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

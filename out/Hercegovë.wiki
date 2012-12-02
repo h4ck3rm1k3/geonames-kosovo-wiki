@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Hercegovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      HERCEGOVE
- | FULL_NAME_RO = Hercegovë
- | FULL_NAME_ND_RO=Hercegove
- | SORT_NAME_RG=HERCEGOVE
- | FULL_NAME_RG=Hercegovë
- | FULL_NAME_ND_RG=Hercegove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Hercegovë
+| sqi_N_FULL_NAME_RO = Hercegovë
+| sqi_N_FULL_NAME_ND_RO = Hercegove
+| sqi_N_SORT_NAME_RG = HERCEGOVE
+| sqi_N_FULL_NAME_RG = Hercegovë
+| sqi_N_FULL_NAME_ND_RG = Hercegove
+| sqi_V_name = Herzegovë
+| sqi_V_FULL_NAME_RO = Herzegovë
+| sqi_V_FULL_NAME_ND_RO = Herzegove
+| sqi_V_SORT_NAME_RG = HERZEGOVE
+| sqi_V_FULL_NAME_RG = Herzegovë
+| sqi_V_FULL_NAME_ND_RG = Herzegove
+| srp_N_name = Hercegovo
+| srp_N_FULL_NAME_RO = Hercegovo
+| srp_N_FULL_NAME_ND_RO = Hercegovo
+| srp_N_SORT_NAME_RG = HERCEGOVO
+| srp_N_FULL_NAME_RG = Hercegovo
+| srp_N_FULL_NAME_ND_RG = Hercegovo
+| srp_NS_name = Херцегово
+| srp_NS_FULL_NAME_RO = Херцегово
+| srp_NS_FULL_NAME_ND_RO = Херцегово
+| srp_NS_SORT_NAME_RG = ХЕРЦЕГОВО
+| srp_NS_FULL_NAME_RG = Херцегово
+| srp_NS_FULL_NAME_ND_RG = Херцегово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.866667
  | Lartësia            = 
 }}
-'''Hercegovë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Hercegovë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

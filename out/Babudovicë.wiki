@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Babudovicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BABUDOVICE
- | FULL_NAME_RO = Babudovicë
- | FULL_NAME_ND_RO=Babudovice
- | SORT_NAME_RG=BABUDOVICE
- | FULL_NAME_RG=Babudovicë
- | FULL_NAME_ND_RG=Babudovice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Babudovicë
+| sqi_N_FULL_NAME_RO = Babudovicë
+| sqi_N_FULL_NAME_ND_RO = Babudovice
+| sqi_N_SORT_NAME_RG = BABUDOVICE
+| sqi_N_FULL_NAME_RG = Babudovicë
+| sqi_N_FULL_NAME_ND_RG = Babudovice
+| srp_N_name = Babudovica
+| srp_N_FULL_NAME_RO = Babudovica
+| srp_N_FULL_NAME_ND_RO = Babudovica
+| srp_N_SORT_NAME_RG = BABUDOVICA
+| srp_N_FULL_NAME_RG = Babudovica
+| srp_N_FULL_NAME_ND_RG = Babudovica
+| srp_NS_name = Бабудовица
+| srp_NS_FULL_NAME_RO = Бабудовица
+| srp_NS_FULL_NAME_ND_RO = Бабудовица
+| srp_NS_SORT_NAME_RG = БАБУДОВИЦА
+| srp_NS_FULL_NAME_RG = Бабудовица
+| srp_NS_FULL_NAME_ND_RG = Бабудовица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.635
  | Lartësia            = 
 }}
-'''Babudovicë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Babudovicë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

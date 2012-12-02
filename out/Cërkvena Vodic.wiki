@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Cërkvena Vodic
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CERKVENAVODIC
- | FULL_NAME_RO = Cërkvena Vodic
- | FULL_NAME_ND_RO=Cerkvena Vodic
- | SORT_NAME_RG=CERKVENAVODIC
- | FULL_NAME_RG=Cërkvena Vodic
- | FULL_NAME_ND_RG=Cerkvena Vodic
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Cërkvena Vodic
+| sqi_N_FULL_NAME_RO = Cërkvena Vodic
+| sqi_N_FULL_NAME_ND_RO = Cerkvena Vodic
+| sqi_N_SORT_NAME_RG = CERKVENAVODIC
+| sqi_N_FULL_NAME_RG = Cërkvena Vodic
+| sqi_N_FULL_NAME_ND_RG = Cerkvena Vodic
+| srp_N_name = Crkvena Vodica
+| srp_N_FULL_NAME_RO = Crkvena Vodica
+| srp_N_FULL_NAME_ND_RO = Crkvena Vodica
+| srp_N_SORT_NAME_RG = CRKVENAVODICA
+| srp_N_FULL_NAME_RG = Crkvena Vodica
+| srp_N_FULL_NAME_ND_RG = Crkvena Vodica
+| srp_NS_name = Црквена Водица
+| srp_NS_FULL_NAME_RO = Црквена Водица
+| srp_NS_FULL_NAME_ND_RO = Црквена Водица
+| srp_NS_SORT_NAME_RG = ЦРКВЕНАВОДИЦА
+| srp_NS_FULL_NAME_RG = Црквена Водица
+| srp_NS_FULL_NAME_ND_RG = Црквена Водица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.053889
  | Lartësia            = 
 }}
-'''Cërkvena Vodic''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Cërkvena Vodic''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

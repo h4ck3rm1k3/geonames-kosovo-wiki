@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kojskë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOJSKE
- | FULL_NAME_RO = Kojskë
- | FULL_NAME_ND_RO=Kojske
- | SORT_NAME_RG=KOJSKE
- | FULL_NAME_RG=Kojskë
- | FULL_NAME_ND_RG=Kojske
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kojskë
+| sqi_N_FULL_NAME_RO = Kojskë
+| sqi_N_FULL_NAME_ND_RO = Kojske
+| sqi_N_SORT_NAME_RG = KOJSKE
+| sqi_N_FULL_NAME_RG = Kojskë
+| sqi_N_FULL_NAME_ND_RG = Kojske
+| srp_N_name = Konjsko
+| srp_N_FULL_NAME_RO = Konjsko
+| srp_N_FULL_NAME_ND_RO = Konjsko
+| srp_N_SORT_NAME_RG = KONJSKO
+| srp_N_FULL_NAME_RG = Konjsko
+| srp_N_FULL_NAME_ND_RG = Konjsko
+| srp_NS_name = Коњско
+| srp_NS_FULL_NAME_RO = Коњско
+| srp_NS_FULL_NAME_ND_RO = Коњско
+| srp_NS_SORT_NAME_RG = КОЊСКО
+| srp_NS_FULL_NAME_RG = Коњско
+| srp_NS_FULL_NAME_ND_RG = Коњско
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.139444
  | Lartësia            = 
 }}
-'''Kojskë''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Kojskë''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

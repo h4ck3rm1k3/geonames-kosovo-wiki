@@ -1,22 +1,48 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Neçavcë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NECAVCE
- | FULL_NAME_RO = Neçavcë
- | FULL_NAME_ND_RO=Necavce
- | SORT_NAME_RG=NECAVCE
- | FULL_NAME_RG=Neçavcë
- | FULL_NAME_ND_RG=Necavce
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Neçavcë
+| sqi_D_FULL_NAME_RO = Neçavcë
+| sqi_D_FULL_NAME_ND_RO = Necavce
+| sqi_D_SORT_NAME_RG = NECAVCE
+| sqi_D_FULL_NAME_RG = Neçavcë
+| sqi_D_FULL_NAME_ND_RG = Necavce
+| sqi_V_name = Neçac
+| sqi_V_FULL_NAME_RO = Neçac Neçavc Neçavac Naqafc
+| sqi_V_FULL_NAME_ND_RO = Necac Necavc Necavac Naqafc
+| sqi_V_SORT_NAME_RG = NECAC NECAVC NECAVAC NAQAFC
+| sqi_V_FULL_NAME_RG = Neçac Neçavc Neçavac Naqafc
+| sqi_V_FULL_NAME_ND_RG = Necac Necavc Necavac Naqafc
+| srp_N_name = Nećavce
+| srp_N_FULL_NAME_RO = Nećavce
+| srp_N_FULL_NAME_ND_RO = Necavce
+| srp_N_SORT_NAME_RG = NECAVCE
+| srp_N_FULL_NAME_RG = Nećavce
+| srp_N_FULL_NAME_ND_RG = Necavce
+| srp_NS_name = Нећавце
+| srp_NS_FULL_NAME_RO = Нећавце
+| srp_NS_FULL_NAME_ND_RO = Нећавце
+| srp_NS_SORT_NAME_RG = НЕЋАВЦЕ
+| srp_NS_FULL_NAME_RG = Нећавце
+| srp_NS_FULL_NAME_ND_RG = Нећавце
+| srp_V_name = Nečavce
+| srp_V_FULL_NAME_RO = Nečavce
+| srp_V_FULL_NAME_ND_RO = Necavce
+| srp_V_SORT_NAME_RG = NECAVCE
+| srp_V_FULL_NAME_RG = Nečavce
+| srp_V_FULL_NAME_ND_RG = Necavce
+| srp_VS_name = Нечавце
+| srp_VS_FULL_NAME_RO = Нечавце
+| srp_VS_FULL_NAME_ND_RO = Нечавце
+| srp_VS_SORT_NAME_RG = НЕЧАВЦЕ
+| srp_VS_FULL_NAME_RG = Нечавце
+| srp_VS_FULL_NAME_ND_RG = Нечавце
+| tur_V_name = Neçavaç
+| tur_V_FULL_NAME_RO = Neçavaç
+| tur_V_FULL_NAME_ND_RO = Necavac
+| tur_V_SORT_NAME_RG = NECAVAC
+| tur_V_FULL_NAME_RG = Neçavaç
+| tur_V_FULL_NAME_ND_RG = Necavac
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +60,7 @@
  | Gjatësia            = 21.301667
  | Lartësia            = 
 }}
-'''Neçavcë''' është një [[]] në [[]] të [[Kosovës]].
+'''Neçavcë''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

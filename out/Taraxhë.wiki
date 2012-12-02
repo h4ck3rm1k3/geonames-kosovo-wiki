@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Taraxhë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TARAXHE
- | FULL_NAME_RO = Taraxhë
- | FULL_NAME_ND_RO=Taraxhe
- | SORT_NAME_RG=TARAXHE
- | FULL_NAME_RG=Taraxhë
- | FULL_NAME_ND_RG=Taraxhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Taraxhë
+| sqi_N_FULL_NAME_RO = Taraxhë
+| sqi_N_FULL_NAME_ND_RO = Taraxhe
+| sqi_N_SORT_NAME_RG = TARAXHE
+| sqi_N_FULL_NAME_RG = Taraxhë
+| sqi_N_FULL_NAME_ND_RG = Taraxhe
+| srp_N_name = Taradža
+| srp_N_FULL_NAME_RO = Taradža
+| srp_N_FULL_NAME_ND_RO = Taradza
+| srp_N_SORT_NAME_RG = TARADZA
+| srp_N_FULL_NAME_RG = Taradža
+| srp_N_FULL_NAME_ND_RG = Taradza
+| srp_NS_name = Тараџа
+| srp_NS_FULL_NAME_RO = Тараџа
+| srp_NS_FULL_NAME_ND_RO = Тараџа
+| srp_NS_SORT_NAME_RG = ТАРАЏА
+| srp_NS_FULL_NAME_RG = Тараџа
+| srp_NS_FULL_NAME_ND_RG = Тараџа
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.903611
  | Lartësia            = 
 }}
-'''Taraxhë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Taraxhë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

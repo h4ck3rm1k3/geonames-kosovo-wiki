@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zaskok
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZASKOK
- | FULL_NAME_RO = Zaskok
- | FULL_NAME_ND_RO=Zaskok
- | SORT_NAME_RG=ZASKOK
- | FULL_NAME_RG=Zaskok
- | FULL_NAME_ND_RG=Zaskok
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zaskok
+| sqi_N_FULL_NAME_RO = Zaskok
+| sqi_N_FULL_NAME_ND_RO = Zaskok
+| sqi_N_SORT_NAME_RG = ZASKOK
+| sqi_N_FULL_NAME_RG = Zaskok
+| sqi_N_FULL_NAME_ND_RG = Zaskok
+| srp_N_name = Zaskok
+| srp_N_FULL_NAME_RO = Zaskok
+| srp_N_FULL_NAME_ND_RO = Zaskok
+| srp_N_SORT_NAME_RG = ZASKOK
+| srp_N_FULL_NAME_RG = Zaskok
+| srp_N_FULL_NAME_ND_RG = Zaskok
+| srp_NS_name = Заскок
+| srp_NS_FULL_NAME_RO = Заскок
+| srp_NS_FULL_NAME_ND_RO = Заскок
+| srp_NS_SORT_NAME_RG = ЗАСКОК
+| srp_NS_FULL_NAME_RG = Заскок
+| srp_NS_FULL_NAME_ND_RG = Заскок
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.137778
  | Lartësia            = 
 }}
-'''Zaskok''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Zaskok''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

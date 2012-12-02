@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prevlak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PREVLAK
- | FULL_NAME_RO = Prevlak
- | FULL_NAME_ND_RO=Prevlak
- | SORT_NAME_RG=PREVLAK
- | FULL_NAME_RG=Prevlak
- | FULL_NAME_ND_RG=Prevlak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Prevlak
+| sqi_D_FULL_NAME_RO = Prevlak
+| sqi_D_FULL_NAME_ND_RO = Prevlak
+| sqi_D_SORT_NAME_RG = PREVLAK
+| sqi_D_FULL_NAME_RG = Prevlak
+| sqi_D_FULL_NAME_ND_RG = Prevlak
+| sqi_V_name = Prevllak
+| sqi_V_FULL_NAME_RO = Prevllak
+| sqi_V_FULL_NAME_ND_RO = Prevllak
+| sqi_V_SORT_NAME_RG = PREVLLAK
+| sqi_V_FULL_NAME_RG = Prevllak
+| sqi_V_FULL_NAME_ND_RG = Prevllak
+| srp_N_name = Prevlak
+| srp_N_FULL_NAME_RO = Prevlak
+| srp_N_FULL_NAME_ND_RO = Prevlak
+| srp_N_SORT_NAME_RG = PREVLAK
+| srp_N_FULL_NAME_RG = Prevlak
+| srp_N_FULL_NAME_ND_RG = Prevlak
+| srp_NS_name = Превлак
+| srp_NS_FULL_NAME_RO = Превлак
+| srp_NS_FULL_NAME_ND_RO = Превлак
+| srp_NS_SORT_NAME_RG = ПРЕВЛАК
+| srp_NS_FULL_NAME_RG = Превлак
+| srp_NS_FULL_NAME_ND_RG = Превлак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.685556
  | Lartësia            = 
 }}
-'''Prevlak''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Prevlak''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

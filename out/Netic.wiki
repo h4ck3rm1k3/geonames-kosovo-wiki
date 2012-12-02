@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Netic
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NETIC
- | FULL_NAME_RO = Netic
- | FULL_NAME_ND_RO=Netic
- | SORT_NAME_RG=NETIC
- | FULL_NAME_RG=Netic
- | FULL_NAME_ND_RG=Netic
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Netic
+| sqi_N_FULL_NAME_RO = Netic
+| sqi_N_FULL_NAME_ND_RO = Netic
+| sqi_N_SORT_NAME_RG = NETIC
+| sqi_N_FULL_NAME_RG = Netic
+| sqi_N_FULL_NAME_ND_RG = Netic
+| srp_N_name = Netic
+| srp_N_FULL_NAME_RO = Netic
+| srp_N_FULL_NAME_ND_RO = Netic
+| srp_N_SORT_NAME_RG = NETIC
+| srp_N_FULL_NAME_RG = Netic
+| srp_N_FULL_NAME_ND_RG = Netic
+| srp_NS_name = Нетиц
+| srp_NS_FULL_NAME_RO = Нетиц
+| srp_NS_FULL_NAME_ND_RO = Нетиц
+| srp_NS_SORT_NAME_RG = НЕТИЦ
+| srp_NS_FULL_NAME_RG = Нетиц
+| srp_NS_FULL_NAME_ND_RG = Нетиц
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.458056
  | Lartësia            = 
 }}
-'''Netic''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Netic''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

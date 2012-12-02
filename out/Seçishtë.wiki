@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Seçishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SECISHTE
- | FULL_NAME_RO = Seçishtë
- | FULL_NAME_ND_RO=Secishte
- | SORT_NAME_RG=SECISHTE
- | FULL_NAME_RG=Seçishtë
- | FULL_NAME_ND_RG=Secishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Seçishtë
+| sqi_D_FULL_NAME_RO = Seçishtë
+| sqi_D_FULL_NAME_ND_RO = Secishte
+| sqi_D_SORT_NAME_RG = SECISHTE
+| sqi_D_FULL_NAME_RG = Seçishtë
+| sqi_D_FULL_NAME_ND_RG = Secishte
+| sqi_V_name = Seqishtë
+| sqi_V_FULL_NAME_RO = Seqishtë
+| sqi_V_FULL_NAME_ND_RO = Seqishte
+| sqi_V_SORT_NAME_RG = SEQISHTE
+| sqi_V_FULL_NAME_RG = Seqishtë
+| sqi_V_FULL_NAME_ND_RG = Seqishte
+| srp_N_name = Sečište
+| srp_N_FULL_NAME_RO = Sečište
+| srp_N_FULL_NAME_ND_RO = Seciste
+| srp_N_SORT_NAME_RG = SECISTE
+| srp_N_FULL_NAME_RG = Sečište
+| srp_N_FULL_NAME_ND_RG = Seciste
+| srp_NS_name = Сечиште
+| srp_NS_FULL_NAME_RO = Сечиште
+| srp_NS_FULL_NAME_ND_RO = Сечиште
+| srp_NS_SORT_NAME_RG = СЕЧИШТЕ
+| srp_NS_FULL_NAME_RG = Сечиште
+| srp_NS_FULL_NAME_ND_RG = Сечиште
+| srp_V_name = Sećište
+| srp_V_FULL_NAME_RO = Sećište
+| srp_V_FULL_NAME_ND_RO = Seciste
+| srp_V_SORT_NAME_RG = SECISTE
+| srp_V_FULL_NAME_RG = Sećište
+| srp_V_FULL_NAME_ND_RG = Seciste
+| srp_VS_name = Сећиште
+| srp_VS_FULL_NAME_RO = Сећиште
+| srp_VS_FULL_NAME_ND_RO = Сећиште
+| srp_VS_SORT_NAME_RG = СЕЋИШТЕ
+| srp_VS_FULL_NAME_RG = Сећиште
+| srp_VS_FULL_NAME_ND_RG = Сећиште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.2975
  | Lartësia            = 
 }}
-'''Seçishtë''' është një [[]] në [[]] të [[Kosovës]].
+'''Seçishtë''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

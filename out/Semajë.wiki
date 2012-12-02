@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Semajë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SEMAJE
- | FULL_NAME_RO = Semajë
- | FULL_NAME_ND_RO=Semaje
- | SORT_NAME_RG=SEMAJE
- | FULL_NAME_RG=Semajë
- | FULL_NAME_ND_RG=Semaje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Semajë
+| sqi_D_FULL_NAME_RO = Semajë
+| sqi_D_FULL_NAME_ND_RO = Semaje
+| sqi_D_SORT_NAME_RG = SEMAJE
+| sqi_D_FULL_NAME_RG = Semajë
+| sqi_D_FULL_NAME_ND_RG = Semaje
+| sqi_V_name = Daicë
+| sqi_V_FULL_NAME_RO = Daicë Semanj
+| sqi_V_FULL_NAME_ND_RO = Daice Semanj
+| sqi_V_SORT_NAME_RG = DAICE SEMANJ
+| sqi_V_FULL_NAME_RG = Daicë Semanj
+| sqi_V_FULL_NAME_ND_RG = Daice Semanj
+| srp_N_name = Semanje
+| srp_N_FULL_NAME_RO = Semanje
+| srp_N_FULL_NAME_ND_RO = Semanje
+| srp_N_SORT_NAME_RG = SEMANJE
+| srp_N_FULL_NAME_RG = Semanje
+| srp_N_FULL_NAME_ND_RG = Semanje
+| srp_NS_name = Семање
+| srp_NS_FULL_NAME_RO = Семање
+| srp_NS_FULL_NAME_ND_RO = Семање
+| srp_NS_SORT_NAME_RG = СЕМАЊЕ
+| srp_NS_FULL_NAME_RG = Семање
+| srp_NS_FULL_NAME_ND_RG = Семање
+| srp_V_name = Donja Semanja
+| srp_V_FULL_NAME_RO = Donja Semanja
+| srp_V_FULL_NAME_ND_RO = Donja Semanja
+| srp_V_SORT_NAME_RG = DONJASEMANJA
+| srp_V_FULL_NAME_RG = Donja Semanja
+| srp_V_FULL_NAME_ND_RG = Donja Semanja
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.133333
  | Lartësia            = 
 }}
-'''Semajë''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Semajë''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

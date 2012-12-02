@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llashkadrenoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLASHKADRENOC
- | FULL_NAME_RO = Llashkadrenoc
- | FULL_NAME_ND_RO=Llashkadrenoc
- | SORT_NAME_RG=LLASHKADRENOC
- | FULL_NAME_RG=Llashkadrenoc
- | FULL_NAME_ND_RG=Llashkadrenoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Llashkadrenoc
+| sqi_N_FULL_NAME_RO = Llashkadrenoc
+| sqi_N_FULL_NAME_ND_RO = Llashkadrenoc
+| sqi_N_SORT_NAME_RG = LLASHKADRENOC
+| sqi_N_FULL_NAME_RG = Llashkadrenoc
+| sqi_N_FULL_NAME_ND_RG = Llashkadrenoc
+| sqi_V_name = Llashkadrënoc
+| sqi_V_FULL_NAME_RO = Llashkadrënoc Vlavshki Drenovac Vllashkidrenovc
+| sqi_V_FULL_NAME_ND_RO = Llashkadrenoc Vlavshki Drenovac Vllashkidrenovc
+| sqi_V_SORT_NAME_RG = LLASHKADRENOC VLAVSHKIDRENOVAC VLLASHKIDRENOVC
+| sqi_V_FULL_NAME_RG = Llashkadrënoc Vlavshki Drenovac Vllashkidrenovc
+| sqi_V_FULL_NAME_ND_RG = Llashkadrenoc Vlavshki Drenovac Vllashkidrenovc
+| srp_N_name = Vlaški Drenovac
+| srp_N_FULL_NAME_RO = Vlaški Drenovac
+| srp_N_FULL_NAME_ND_RO = Vlaski Drenovac
+| srp_N_SORT_NAME_RG = VLASKIDRENOVAC
+| srp_N_FULL_NAME_RG = Vlaški Drenovac
+| srp_N_FULL_NAME_ND_RG = Vlaski Drenovac
+| srp_NS_name = Влашки Дреновац
+| srp_NS_FULL_NAME_RO = Влашки Дреновац
+| srp_NS_FULL_NAME_ND_RO = Влашки Дреновац
+| srp_NS_SORT_NAME_RG = ВЛАШКИДРЕНОВАЦ
+| srp_NS_FULL_NAME_RG = Влашки Дреновац
+| srp_NS_FULL_NAME_ND_RG = Влашки Дреновац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.7475
  | Lartësia            = 
 }}
-'''Llashkadrenoc''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Llashkadrenoc''' është një [[Fshat Vogel]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

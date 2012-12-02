@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bistricë e Shalës
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BISTRICEESHALES
- | FULL_NAME_RO = Bistricë e Shalës
- | FULL_NAME_ND_RO=Bistrice e Shales
- | SORT_NAME_RG=BISTRICEESHALES
- | FULL_NAME_RG=Bistricë e Shalës
- | FULL_NAME_ND_RG=Bistrice e Shales
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Bistricë e Shalës
+| sqi_D_FULL_NAME_RO = Bistricë e Shalës
+| sqi_D_FULL_NAME_ND_RO = Bistrice e Shales
+| sqi_D_SORT_NAME_RG = BISTRICEESHALES
+| sqi_D_FULL_NAME_RG = Bistricë e Shalës
+| sqi_D_FULL_NAME_ND_RG = Bistrice e Shales
+| srp_N_name = Bistrica
+| srp_N_FULL_NAME_RO = Bistrica
+| srp_N_FULL_NAME_ND_RO = Bistrica
+| srp_N_SORT_NAME_RG = BISTRICA
+| srp_N_FULL_NAME_RG = Bistrica
+| srp_N_FULL_NAME_ND_RG = Bistrica
+| srp_NS_name = Бистрица
+| srp_NS_FULL_NAME_RO = Бистрица
+| srp_NS_FULL_NAME_ND_RO = Бистрица
+| srp_NS_SORT_NAME_RG = БИСТРИЦА
+| srp_NS_FULL_NAME_RG = Бистрица
+| srp_NS_FULL_NAME_ND_RG = Бистрица
+| srp_V_name = Šaljska Bistrica
+| srp_V_FULL_NAME_RO = Šaljska Bistrica
+| srp_V_FULL_NAME_ND_RO = Saljska Bistrica
+| srp_V_SORT_NAME_RG = SALJSKABISTRICA
+| srp_V_FULL_NAME_RG = Šaljska Bistrica
+| srp_V_FULL_NAME_ND_RG = Saljska Bistrica
+| srp_VS_name = Шаљска Бистрица
+| srp_VS_FULL_NAME_RO = Шаљска Бистрица
+| srp_VS_FULL_NAME_ND_RO = Шаљска Бистрица
+| srp_VS_SORT_NAME_RG = ШАЉСКАБИСТРИЦА
+| srp_VS_FULL_NAME_RG = Шаљска Бистрица
+| srp_VS_FULL_NAME_ND_RG = Шаљска Бистрица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.865833
  | Lartësia            = 
 }}
-'''Bistricë e Shalës''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Bistricë e Shalës''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zeçeviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZECEVIQ
- | FULL_NAME_RO = Zeçeviq
- | FULL_NAME_ND_RO=Zeceviq
- | SORT_NAME_RG=ZECEVIQ
- | FULL_NAME_RG=Zeçeviq
- | FULL_NAME_ND_RG=Zeceviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zeçeviq
+| sqi_N_FULL_NAME_RO = Zeçeviq
+| sqi_N_FULL_NAME_ND_RO = Zeceviq
+| sqi_N_SORT_NAME_RG = ZECEVIQ
+| sqi_N_FULL_NAME_RG = Zeçeviq
+| sqi_N_FULL_NAME_ND_RG = Zeceviq
+| sqi_V_name = Zeqeviç
+| sqi_V_FULL_NAME_RO = Zeqeviç Zeqeviq Zeçevicë
+| sqi_V_FULL_NAME_ND_RO = Zeqevic Zeqeviq Zecevice
+| sqi_V_SORT_NAME_RG = ZEQEVIC ZEQEVIQ ZECEVICE
+| sqi_V_FULL_NAME_RG = Zeqeviç Zeqeviq Zeçevicë
+| sqi_V_FULL_NAME_ND_RG = Zeqevic Zeqeviq Zecevice
+| srp_N_name = Zečeviće
+| srp_N_FULL_NAME_RO = Zečeviće
+| srp_N_FULL_NAME_ND_RO = Zecevice
+| srp_N_SORT_NAME_RG = ZECEVICE
+| srp_N_FULL_NAME_RG = Zečeviće
+| srp_N_FULL_NAME_ND_RG = Zecevice
+| srp_NS_name = Зечевиће
+| srp_NS_FULL_NAME_RO = Зечевиће
+| srp_NS_FULL_NAME_ND_RO = Зечевиће
+| srp_NS_SORT_NAME_RG = ЗЕЧЕВИЋЕ
+| srp_NS_FULL_NAME_RG = Зечевиће
+| srp_NS_FULL_NAME_ND_RG = Зечевиће
+| srp_V_name = Zejćeviće
+| srp_V_FULL_NAME_RO = Zejćeviće
+| srp_V_FULL_NAME_ND_RO = Zejcevice
+| srp_V_SORT_NAME_RG = ZEJCEVICE
+| srp_V_FULL_NAME_RG = Zejćeviće
+| srp_V_FULL_NAME_ND_RG = Zejcevice
+| srp_VS_name = Зејћевиће
+| srp_VS_FULL_NAME_RO = Зејћевиће
+| srp_VS_FULL_NAME_ND_RO = Зејћевиће
+| srp_VS_SORT_NAME_RG = ЗЕЈЋЕВИЋЕ
+| srp_VS_FULL_NAME_RG = Зејћевиће
+| srp_VS_FULL_NAME_ND_RG = Зејћевиће
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.652778
  | Lartësia            = 
 }}
-'''Zeçeviq''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Zeçeviq''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

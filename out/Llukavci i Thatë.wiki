@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llukavci i Thatë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLUKAVCIITHATE
- | FULL_NAME_RO = Llukavci i Thatë
- | FULL_NAME_ND_RO=Llukavci i Thate
- | SORT_NAME_RG=LLUKAVCIITHATE
- | FULL_NAME_RG=Llukavci i Thatë
- | FULL_NAME_ND_RG=Llukavci i Thate
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Llukavci i Thatë
+| sqi_N_FULL_NAME_RO = Llukavci i Thatë
+| sqi_N_FULL_NAME_ND_RO = Llukavci i Thate
+| sqi_N_SORT_NAME_RG = LLUKAVCIITHATE
+| sqi_N_FULL_NAME_RG = Llukavci i Thatë
+| sqi_N_FULL_NAME_ND_RG = Llukavci i Thate
+| sqi_V_name = Llukafci i Thatë
+| sqi_V_FULL_NAME_RO = Llukafci i Thatë Lugthat Lugthati
+| sqi_V_FULL_NAME_ND_RO = Llukafci i Thate Lugthat Lugthati
+| sqi_V_SORT_NAME_RG = LLUKAFCIITHATE LUGTHAT LUGTHATI
+| sqi_V_FULL_NAME_RG = Llukafci i Thatë Lugthat Lugthati
+| sqi_V_FULL_NAME_ND_RG = Llukafci i Thate Lugthat Lugthati
+| srp_N_name = Suvi Lukavac
+| srp_N_FULL_NAME_RO = Suvi Lukavac
+| srp_N_FULL_NAME_ND_RO = Suvi Lukavac
+| srp_N_SORT_NAME_RG = SUVILUKAVAC
+| srp_N_FULL_NAME_RG = Suvi Lukavac
+| srp_N_FULL_NAME_ND_RG = Suvi Lukavac
+| srp_NS_name = Суви Лукавац
+| srp_NS_FULL_NAME_RO = Суви Лукавац
+| srp_NS_FULL_NAME_ND_RO = Суви Лукавац
+| srp_NS_SORT_NAME_RG = СУВИЛУКАВАЦ
+| srp_NS_FULL_NAME_RG = Суви Лукавац
+| srp_NS_FULL_NAME_ND_RG = Суви Лукавац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.509444
  | Lartësia            = 
 }}
-'''Llukavci i Thatë''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Llukavci i Thatë''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

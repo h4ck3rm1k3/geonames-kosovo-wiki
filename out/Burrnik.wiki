@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Burrnik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BURRNIK
- | FULL_NAME_RO = Burrnik
- | FULL_NAME_ND_RO=Burrnik
- | SORT_NAME_RG=BURRNIK
- | FULL_NAME_RG=Burrnik
- | FULL_NAME_ND_RG=Burrnik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Burrnik
+| sqi_N_FULL_NAME_RO = Burrnik
+| sqi_N_FULL_NAME_ND_RO = Burrnik
+| sqi_N_SORT_NAME_RG = BURRNIK
+| sqi_N_FULL_NAME_RG = Burrnik
+| sqi_N_FULL_NAME_ND_RG = Burrnik
+| srp_N_name = Burnik
+| srp_N_FULL_NAME_RO = Burnik
+| srp_N_FULL_NAME_ND_RO = Burnik
+| srp_N_SORT_NAME_RG = BURNIK
+| srp_N_FULL_NAME_RG = Burnik
+| srp_N_FULL_NAME_ND_RG = Burnik
+| srp_NS_name = Бурник
+| srp_NS_FULL_NAME_RO = Бурник
+| srp_NS_FULL_NAME_ND_RO = Бурник
+| srp_NS_SORT_NAME_RG = БУРНИК
+| srp_NS_FULL_NAME_RG = Бурник
+| srp_NS_FULL_NAME_ND_RG = Бурник
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.108056
  | Lartësia            = 
 }}
-'''Burrnik''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Burrnik''' është një [[Fshat Vogel]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

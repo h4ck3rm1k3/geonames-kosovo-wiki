@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bllacë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BLLACE
- | FULL_NAME_RO = Bllacë
- | FULL_NAME_ND_RO=Bllace
- | SORT_NAME_RG=BLLACE
- | FULL_NAME_RG=Bllacë
- | FULL_NAME_ND_RG=Bllace
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bllacë
+| sqi_N_FULL_NAME_RO = Bllacë
+| sqi_N_FULL_NAME_ND_RO = Bllace
+| sqi_N_SORT_NAME_RG = BLLACE
+| sqi_N_FULL_NAME_RG = Bllacë
+| sqi_N_FULL_NAME_ND_RG = Bllace
+| srp_N_name = Blace
+| srp_N_FULL_NAME_RO = Blace
+| srp_N_FULL_NAME_ND_RO = Blace
+| srp_N_SORT_NAME_RG = BLACE
+| srp_N_FULL_NAME_RG = Blace
+| srp_N_FULL_NAME_ND_RG = Blace
+| srp_NS_name = Блаце
+| srp_NS_FULL_NAME_RO = Блаце
+| srp_NS_FULL_NAME_ND_RO = Блаце
+| srp_NS_SORT_NAME_RG = БЛАЦЕ
+| srp_NS_FULL_NAME_RG = Блаце
+| srp_NS_FULL_NAME_ND_RG = Блаце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.8625
  | Lartësia            = 
 }}
-'''Bllacë''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Bllacë''' është një [[Fshat Vogel]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

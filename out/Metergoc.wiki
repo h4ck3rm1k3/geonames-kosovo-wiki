@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Metergoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      METERGOC
- | FULL_NAME_RO = Metergoc
- | FULL_NAME_ND_RO=Metergoc
- | SORT_NAME_RG=METERGOC
- | FULL_NAME_RG=Metergoc
- | FULL_NAME_ND_RG=Metergoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Metergoc
+| sqi_N_FULL_NAME_RO = Metergoc
+| sqi_N_FULL_NAME_ND_RO = Metergoc
+| sqi_N_SORT_NAME_RG = METERGOC
+| sqi_N_FULL_NAME_RG = Metergoc
+| sqi_N_FULL_NAME_ND_RG = Metergoc
+| sqi_V_name = Kullë
+| sqi_V_FULL_NAME_RO = Kullë Metërgoci Kulla Medragovci Metrgovc
+| sqi_V_FULL_NAME_ND_RO = Kulle Metergoci Kulla Medragovci Metrgovc
+| sqi_V_SORT_NAME_RG = KULLE METERGOCI KULLA MEDRAGOVCI METRGOVC
+| sqi_V_FULL_NAME_RG = Kullë Metërgoci Kulla Medragovci Metrgovc
+| sqi_V_FULL_NAME_ND_RG = Kulle Metergoci Kulla Medragovci Metrgovc
+| srp_N_name = Medregovac
+| srp_N_FULL_NAME_RO = Medregovac
+| srp_N_FULL_NAME_ND_RO = Medregovac
+| srp_N_SORT_NAME_RG = MEDREGOVAC
+| srp_N_FULL_NAME_RG = Medregovac
+| srp_N_FULL_NAME_ND_RG = Medregovac
+| srp_NS_name = Медреговац
+| srp_NS_FULL_NAME_RO = Медреговац
+| srp_NS_FULL_NAME_ND_RO = Медреговац
+| srp_NS_SORT_NAME_RG = МЕДРЕГОВАЦ
+| srp_NS_FULL_NAME_RG = Медреговац
+| srp_NS_FULL_NAME_ND_RG = Медреговац
+| srp_V_name = Medrgovac
+| srp_V_FULL_NAME_RO = Medrgovac Medragovac
+| srp_V_FULL_NAME_ND_RO = Medrgovac Medragovac
+| srp_V_SORT_NAME_RG = MEDRGOVAC MEDRAGOVAC
+| srp_V_FULL_NAME_RG = Medrgovac Medragovac
+| srp_V_FULL_NAME_ND_RG = Medrgovac Medragovac
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.397778
  | Lartësia            = 
 }}
-'''Metergoc''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Metergoc''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

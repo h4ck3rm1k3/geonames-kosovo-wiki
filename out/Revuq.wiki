@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Revuq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      REVUQ
- | FULL_NAME_RO = Revuq
- | FULL_NAME_ND_RO=Revuq
- | SORT_NAME_RG=REVUQ
- | FULL_NAME_RG=Revuq
- | FULL_NAME_ND_RG=Revuq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Revuq
+| sqi_N_FULL_NAME_RO = Revuq
+| sqi_N_FULL_NAME_ND_RO = Revuq
+| sqi_N_SORT_NAME_RG = REVUQ
+| sqi_N_FULL_NAME_RG = Revuq
+| sqi_N_FULL_NAME_ND_RG = Revuq
+| sqi_V_name = Revuç
+| sqi_V_FULL_NAME_RO = Revuç Revuqë Revuqi
+| sqi_V_FULL_NAME_ND_RO = Revuc Revuqe Revuqi
+| sqi_V_SORT_NAME_RG = REVUC REVUQE REVUQI
+| sqi_V_FULL_NAME_RG = Revuç Revuqë Revuqi
+| sqi_V_FULL_NAME_ND_RG = Revuc Revuqe Revuqi
+| srp_N_name = Revuće
+| srp_N_FULL_NAME_RO = Revuće
+| srp_N_FULL_NAME_ND_RO = Revuce
+| srp_N_SORT_NAME_RG = REVUCE
+| srp_N_FULL_NAME_RG = Revuće
+| srp_N_FULL_NAME_ND_RG = Revuce
+| srp_NS_name = Ревуће
+| srp_NS_FULL_NAME_RO = Ревуће
+| srp_NS_FULL_NAME_ND_RO = Ревуће
+| srp_NS_SORT_NAME_RG = РЕВУЋЕ
+| srp_NS_FULL_NAME_RG = Ревуће
+| srp_NS_FULL_NAME_ND_RG = Ревуће
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.128923
  | Lartësia            = 
 }}
-'''Revuq''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Revuq''' është një [[Fshat Vogel]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

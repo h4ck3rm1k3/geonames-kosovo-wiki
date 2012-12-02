@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zabel i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZABELIEPERM
- | FULL_NAME_RO = Zabel i Epërm
- | FULL_NAME_ND_RO=Zabel i Eperm
- | SORT_NAME_RG=ZABELIEPERM
- | FULL_NAME_RG=Zabel i Epërm
- | FULL_NAME_ND_RG=Zabel i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zabel i Epërm
+| sqi_D_FULL_NAME_RO = Zabel i Epërm
+| sqi_D_FULL_NAME_ND_RO = Zabel i Eperm
+| sqi_D_SORT_NAME_RG = ZABELIEPERM
+| sqi_D_FULL_NAME_RG = Zabel i Epërm
+| sqi_D_FULL_NAME_ND_RG = Zabel i Eperm
+| sqi_V_name = Zabeli i Epërm
+| sqi_V_FULL_NAME_RO = Zabeli i Epërm
+| sqi_V_FULL_NAME_ND_RO = Zabeli i Eperm
+| sqi_V_SORT_NAME_RG = ZABELIIEPERM
+| sqi_V_FULL_NAME_RG = Zabeli i Epërm
+| sqi_V_FULL_NAME_ND_RG = Zabeli i Eperm
+| srp_N_name = Gornji Zabelj
+| srp_N_FULL_NAME_RO = Gornji Zabelj
+| srp_N_FULL_NAME_ND_RO = Gornji Zabelj
+| srp_N_SORT_NAME_RG = GORNJIZABELJ
+| srp_N_FULL_NAME_RG = Gornji Zabelj
+| srp_N_FULL_NAME_ND_RG = Gornji Zabelj
+| srp_NS_name = Горњи Забељ
+| srp_NS_FULL_NAME_RO = Горњи Забељ
+| srp_NS_FULL_NAME_ND_RO = Горњи Забељ
+| srp_NS_SORT_NAME_RG = ГОРЊИЗАБЕЉ
+| srp_NS_FULL_NAME_RG = Горњи Забељ
+| srp_NS_FULL_NAME_ND_RG = Горњи Забељ
+| srp_V_name = Gornji Zabel
+| srp_V_FULL_NAME_RO = Gornji Zabel
+| srp_V_FULL_NAME_ND_RO = Gornji Zabel
+| srp_V_SORT_NAME_RG = GORNJIZABEL
+| srp_V_FULL_NAME_RG = Gornji Zabel
+| srp_V_FULL_NAME_ND_RG = Gornji Zabel
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.921111
  | Lartësia            = 
 }}
-'''Zabel i Epërm''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Zabel i Epërm''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

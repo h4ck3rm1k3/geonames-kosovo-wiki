@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pjetërshan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PJETERSHAN
- | FULL_NAME_RO = Pjetërshan
- | FULL_NAME_ND_RO=Pjetershan
- | SORT_NAME_RG=PJETERSHAN
- | FULL_NAME_RG=Pjetërshan
- | FULL_NAME_ND_RG=Pjetershan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pjetërshan
+| sqi_N_FULL_NAME_RO = Pjetërshan
+| sqi_N_FULL_NAME_ND_RO = Pjetershan
+| sqi_N_SORT_NAME_RG = PJETERSHAN
+| sqi_N_FULL_NAME_RG = Pjetërshan
+| sqi_N_FULL_NAME_ND_RG = Pjetershan
+| sqi_V_name = Petrushani
+| sqi_V_FULL_NAME_RO = Petrushani Pjetershtan
+| sqi_V_FULL_NAME_ND_RO = Petrushani Pjetershtan
+| sqi_V_SORT_NAME_RG = PETRUSHANI PJETERSHTAN
+| sqi_V_FULL_NAME_RG = Petrushani Pjetershtan
+| sqi_V_FULL_NAME_ND_RG = Petrushani Pjetershtan
+| srp_N_name = Petrušan
+| srp_N_FULL_NAME_RO = Petrušan
+| srp_N_FULL_NAME_ND_RO = Petrusan
+| srp_N_SORT_NAME_RG = PETRUSAN
+| srp_N_FULL_NAME_RG = Petrušan
+| srp_N_FULL_NAME_ND_RG = Petrusan
+| srp_NS_name = Петрушан
+| srp_NS_FULL_NAME_RO = Петрушан
+| srp_NS_FULL_NAME_ND_RO = Петрушан
+| srp_NS_SORT_NAME_RG = ПЕТРУШАН
+| srp_NS_FULL_NAME_RG = Петрушан
+| srp_NS_FULL_NAME_ND_RG = Петрушан
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.458889
  | Lartësia            = 
 }}
-'''Pjetërshan''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Pjetërshan''' është një [[Fshat Vogel]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

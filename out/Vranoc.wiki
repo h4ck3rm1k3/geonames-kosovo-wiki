@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vranoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VRANOC
- | FULL_NAME_RO = Vranoc
- | FULL_NAME_ND_RO=Vranoc
- | SORT_NAME_RG=VRANOC
- | FULL_NAME_RG=Vranoc
- | FULL_NAME_ND_RG=Vranoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vranoc
+| sqi_N_FULL_NAME_RO = Vranoc
+| sqi_N_FULL_NAME_ND_RO = Vranoc
+| sqi_N_SORT_NAME_RG = VRANOC
+| sqi_N_FULL_NAME_RG = Vranoc
+| sqi_N_FULL_NAME_ND_RG = Vranoc
+| sqi_V_name = Uranofc
+| sqi_V_FULL_NAME_RO = Uranofc
+| sqi_V_FULL_NAME_ND_RO = Uranofc
+| sqi_V_SORT_NAME_RG = URANOFC
+| sqi_V_FULL_NAME_RG = Uranofc
+| sqi_V_FULL_NAME_ND_RG = Uranofc
+| srp_N_name = Vranovac
+| srp_N_FULL_NAME_RO = Vranovac
+| srp_N_FULL_NAME_ND_RO = Vranovac
+| srp_N_SORT_NAME_RG = VRANOVAC
+| srp_N_FULL_NAME_RG = Vranovac
+| srp_N_FULL_NAME_ND_RG = Vranovac
+| srp_NS_name = Врановац
+| srp_NS_FULL_NAME_RO = Врановац
+| srp_NS_FULL_NAME_ND_RO = Врановац
+| srp_NS_SORT_NAME_RG = ВРАНОВАЦ
+| srp_NS_FULL_NAME_RG = Врановац
+| srp_NS_FULL_NAME_ND_RG = Врановац
+| srp_V_name = Veliki-Vranovac
+| srp_V_FULL_NAME_RO = Veliki-Vranovac
+| srp_V_FULL_NAME_ND_RO = Veliki-Vranovac
+| srp_V_SORT_NAME_RG = VELIKIVRANOVAC
+| srp_V_FULL_NAME_RG = Veliki-Vranovac
+| srp_V_FULL_NAME_ND_RG = Veliki-Vranovac
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.418056
  | Lartësia            = 
 }}
-'''Vranoc''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Vranoc''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Çeshanoviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CESHANOVIQ
- | FULL_NAME_RO = Çeshanoviq
- | FULL_NAME_ND_RO=Ceshanoviq
- | SORT_NAME_RG=CESHANOVIQ
- | FULL_NAME_RG=Çeshanoviq
- | FULL_NAME_ND_RG=Ceshanoviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Çeshanoviq
+| sqi_N_FULL_NAME_RO = Çeshanoviq
+| sqi_N_FULL_NAME_ND_RO = Ceshanoviq
+| sqi_N_SORT_NAME_RG = CESHANOVIQ
+| sqi_N_FULL_NAME_RG = Çeshanoviq
+| sqi_N_FULL_NAME_ND_RG = Ceshanoviq
+| sqi_V_name = Çeshan
+| sqi_V_FULL_NAME_RO = Çeshan
+| sqi_V_FULL_NAME_ND_RO = Ceshan
+| sqi_V_SORT_NAME_RG = CESHAN
+| sqi_V_FULL_NAME_RG = Çeshan
+| sqi_V_FULL_NAME_ND_RG = Ceshan
+| srp_N_name = Češanoviće
+| srp_N_FULL_NAME_RO = Češanoviće
+| srp_N_FULL_NAME_ND_RO = Cesanovice
+| srp_N_SORT_NAME_RG = CESANOVICE
+| srp_N_FULL_NAME_RG = Češanoviće
+| srp_N_FULL_NAME_ND_RG = Cesanovice
+| srp_NS_name = Ћешановиће
+| srp_NS_FULL_NAME_RO = Ћешановиће
+| srp_NS_FULL_NAME_ND_RO = Ћешановиће
+| srp_NS_SORT_NAME_RG = ЋЕШАНОВИЋЕ
+| srp_NS_FULL_NAME_RG = Ћешановиће
+| srp_NS_FULL_NAME_ND_RG = Ћешановиће
+| srp_V_name = Češanović
+| srp_V_FULL_NAME_RO = Češanović
+| srp_V_FULL_NAME_ND_RO = Cesanovic
+| srp_V_SORT_NAME_RG = CESANOVIC
+| srp_V_FULL_NAME_RG = Češanović
+| srp_V_FULL_NAME_ND_RG = Cesanovic
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.652778
  | Lartësia            = 
 }}
-'''Çeshanoviq''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Çeshanoviq''' është një [[Fshat Vogel]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

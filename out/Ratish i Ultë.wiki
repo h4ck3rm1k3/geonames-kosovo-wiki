@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ratish i Ultë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RATISHIULTE
- | FULL_NAME_RO = Ratish i Ultë
- | FULL_NAME_ND_RO=Ratish i Ulte
- | SORT_NAME_RG=RATISHIULTE
- | FULL_NAME_RG=Ratish i Ultë
- | FULL_NAME_ND_RG=Ratish i Ulte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Ratish i Ultë
+| sqi_D_FULL_NAME_RO = Ratish i Ultë
+| sqi_D_FULL_NAME_ND_RO = Ratish i Ulte
+| sqi_D_SORT_NAME_RG = RATISHIULTE
+| sqi_D_FULL_NAME_RG = Ratish i Ultë
+| sqi_D_FULL_NAME_ND_RG = Ratish i Ulte
+| sqi_V_name = Qëndresa e Poshtme
+| sqi_V_FULL_NAME_RO = Qëndresa e Poshtme Raush i Poshtëm Ratisha e Poshtme Ratishi i Ultë Ratishi i Ulët
+| sqi_V_FULL_NAME_ND_RO = Qendresa e Poshtme Raush i Poshtem Ratisha e Poshtme Ratishi i Ulte Ratishi i Ulet
+| sqi_V_SORT_NAME_RG = QENDRESAEPOSHTME RAUSHIPOSHTEM RATISHAEPOSHTME RATISHIIULTE RATISHIIULET
+| sqi_V_FULL_NAME_RG = Qëndresa e Poshtme Raush i Poshtëm Ratisha e Poshtme Ratishi i Ultë Ratishi i Ulët
+| sqi_V_FULL_NAME_ND_RG = Qendresa e Poshtme Raush i Poshtem Ratisha e Poshtme Ratishi i Ulte Ratishi i Ulet
+| srp_N_name = Donji Ratiš
+| srp_N_FULL_NAME_RO = Donji Ratiš
+| srp_N_FULL_NAME_ND_RO = Donji Ratis
+| srp_N_SORT_NAME_RG = DONJIRATIS
+| srp_N_FULL_NAME_RG = Donji Ratiš
+| srp_N_FULL_NAME_ND_RG = Donji Ratis
+| srp_NS_name = Доњи Ратиш
+| srp_NS_FULL_NAME_RO = Доњи Ратиш
+| srp_NS_FULL_NAME_ND_RO = Доњи Ратиш
+| srp_NS_SORT_NAME_RG = ДОЊИРАТИШ
+| srp_NS_FULL_NAME_RG = Доњи Ратиш
+| srp_NS_FULL_NAME_ND_RG = Доњи Ратиш
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.390833
  | Lartësia            = 
 }}
-'''Ratish i Ultë''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Ratish i Ultë''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

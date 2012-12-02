@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vrajak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VRAJAK
- | FULL_NAME_RO = Vrajak
- | FULL_NAME_ND_RO=Vrajak
- | SORT_NAME_RG=VRAJAK
- | FULL_NAME_RG=Vrajak
- | FULL_NAME_ND_RG=Vrajak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Vrajak
+| sqi_D_FULL_NAME_RO = Vrajak
+| sqi_D_FULL_NAME_ND_RO = Vrajak
+| sqi_D_SORT_NAME_RG = VRAJAK
+| sqi_D_FULL_NAME_RG = Vrajak
+| sqi_D_FULL_NAME_ND_RG = Vrajak
+| sqi_V_name = Vranjak
+| sqi_V_FULL_NAME_RO = Vranjak Vranjakë Vrajakë
+| sqi_V_FULL_NAME_ND_RO = Vranjak Vranjake Vrajake
+| sqi_V_SORT_NAME_RG = VRANJAK VRANJAKE VRAJAKE
+| sqi_V_FULL_NAME_RG = Vranjak Vranjakë Vrajakë
+| sqi_V_FULL_NAME_ND_RG = Vranjak Vranjake Vrajake
+| srp_N_name = Vranjak
+| srp_N_FULL_NAME_RO = Vranjak
+| srp_N_FULL_NAME_ND_RO = Vranjak
+| srp_N_SORT_NAME_RG = VRANJAK
+| srp_N_FULL_NAME_RG = Vranjak
+| srp_N_FULL_NAME_ND_RG = Vranjak
+| srp_NS_name = Врањак
+| srp_NS_FULL_NAME_RO = Врањак
+| srp_NS_FULL_NAME_ND_RO = Врањак
+| srp_NS_SORT_NAME_RG = ВРАЊАК
+| srp_NS_FULL_NAME_RG = Врањак
+| srp_NS_FULL_NAME_ND_RG = Врањак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.573889
  | Lartësia            = 
 }}
-'''Vrajak''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Vrajak''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

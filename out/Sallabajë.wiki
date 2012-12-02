@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sallabajë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SALLABAJE
- | FULL_NAME_RO = Sallabajë
- | FULL_NAME_ND_RO=Sallabaje
- | SORT_NAME_RG=SALLABAJE
- | FULL_NAME_RG=Sallabajë
- | FULL_NAME_ND_RG=Sallabaje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sallabajë
+| sqi_N_FULL_NAME_RO = Sallabajë
+| sqi_N_FULL_NAME_ND_RO = Sallabaje
+| sqi_N_SORT_NAME_RG = SALLABAJE
+| sqi_N_FULL_NAME_RG = Sallabajë
+| sqi_N_FULL_NAME_ND_RG = Sallabaje
+| sqi_V_name = Kisellabajë
+| sqi_V_FULL_NAME_RO = Kisellabajë Bajëllap Bajëllapi Sallabaja
+| sqi_V_FULL_NAME_ND_RO = Kisellabaje Bajellap Bajellapi Sallabaja
+| sqi_V_SORT_NAME_RG = KISELLABAJE BAJELLAP BAJELLAPI SALLABAJA
+| sqi_V_FULL_NAME_RG = Kisellabajë Bajëllap Bajëllapi Sallabaja
+| sqi_V_FULL_NAME_ND_RG = Kisellabaje Bajellap Bajellapi Sallabaja
+| srp_N_name = Kisela Banja
+| srp_N_FULL_NAME_RO = Kisela Banja
+| srp_N_FULL_NAME_ND_RO = Kisela Banja
+| srp_N_SORT_NAME_RG = KISELABANJA
+| srp_N_FULL_NAME_RG = Kisela Banja
+| srp_N_FULL_NAME_ND_RG = Kisela Banja
+| srp_NS_name = Кисела Бања
+| srp_NS_FULL_NAME_RO = Кисела Бања
+| srp_NS_FULL_NAME_ND_RO = Кисела Бања
+| srp_NS_SORT_NAME_RG = КИСЕЛАБАЊА
+| srp_NS_FULL_NAME_RG = Кисела Бања
+| srp_NS_FULL_NAME_ND_RG = Кисела Бања
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.158056
  | Lartësia            = 
 }}
-'''Sallabajë''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Sallabajë''' është një [[Fshat Vogel]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kunovik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KUNOVIK
- | FULL_NAME_RO = Kunovik
- | FULL_NAME_ND_RO=Kunovik
- | SORT_NAME_RG=KUNOVIK
- | FULL_NAME_RG=Kunovik
- | FULL_NAME_ND_RG=Kunovik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kunovik
+| sqi_N_FULL_NAME_RO = Kunovik
+| sqi_N_FULL_NAME_ND_RO = Kunovik
+| sqi_N_SORT_NAME_RG = KUNOVIK
+| sqi_N_FULL_NAME_RG = Kunovik
+| sqi_N_FULL_NAME_ND_RG = Kunovik
+| srp_N_name = Kunovik
+| srp_N_FULL_NAME_RO = Kunovik
+| srp_N_FULL_NAME_ND_RO = Kunovik
+| srp_N_SORT_NAME_RG = KUNOVIK
+| srp_N_FULL_NAME_RG = Kunovik
+| srp_N_FULL_NAME_ND_RG = Kunovik
+| srp_NS_name = Куновик
+| srp_NS_FULL_NAME_RO = Куновик
+| srp_NS_FULL_NAME_ND_RO = Куновик
+| srp_NS_SORT_NAME_RG = КУНОВИК
+| srp_NS_FULL_NAME_RG = Куновик
+| srp_NS_FULL_NAME_ND_RG = Куновик
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.070979
  | Lartësia            = 
 }}
-'''Kunovik''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Kunovik''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

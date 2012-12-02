@@ -1,26 +1,46 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Popoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POPOC
- | FULL_NAME_RO = Popoc
- | FULL_NAME_ND_RO=Popoc
- | SORT_NAME_RG=POPOC
- | FULL_NAME_RG=Popoc
- | FULL_NAME_ND_RG=Popoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Popoc
+| sqi_N_FULL_NAME_RO = Popoc
+| sqi_N_FULL_NAME_ND_RO = Popoc
+| sqi_N_SORT_NAME_RG = POPOC
+| sqi_N_FULL_NAME_RG = Popoc
+| sqi_N_FULL_NAME_ND_RG = Popoc
+| sqi_V_name = Popovce
+| sqi_V_FULL_NAME_RO = Popovce
+| sqi_V_FULL_NAME_ND_RO = Popovce
+| sqi_V_SORT_NAME_RG = POPOVCE
+| sqi_V_FULL_NAME_RG = Popovce
+| sqi_V_FULL_NAME_ND_RG = Popovce
+| srp_N_name = Popovci
+| srp_N_FULL_NAME_RO = Popovci
+| srp_N_FULL_NAME_ND_RO = Popovci
+| srp_N_SORT_NAME_RG = POPOVCI
+| srp_N_FULL_NAME_RG = Popovci
+| srp_N_FULL_NAME_ND_RG = Popovci
+| srp_NS_name = Поповци
+| srp_NS_FULL_NAME_RO = Поповци
+| srp_NS_FULL_NAME_ND_RO = Поповци
+| srp_NS_SORT_NAME_RG = ПОПОВЦИ
+| srp_NS_FULL_NAME_RG = Поповци
+| srp_NS_FULL_NAME_ND_RG = Поповци
+| srp_V_name = Popovce
+| srp_V_FULL_NAME_RO = Popovce
+| srp_V_FULL_NAME_ND_RO = Popovce
+| srp_V_SORT_NAME_RG = POPOVCE
+| srp_V_FULL_NAME_RG = Popovce
+| srp_V_FULL_NAME_ND_RG = Popovce
+| srp_VS_name = Поповце
+| srp_VS_FULL_NAME_RO = Поповце
+| srp_VS_FULL_NAME_ND_RO = Поповце
+| srp_VS_SORT_NAME_RG = ПОПОВЦЕ
+| srp_VS_FULL_NAME_RG = Поповце
+| srp_VS_FULL_NAME_ND_RG = Поповце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Gjilan
+ | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +50,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.391389
- | Gjatësia            = 20.296944
+ | Gjerësia            = 43.081667
+ | Gjatësia            = 20.792778
  | Lartësia            = 
 }}
-'''Popoc''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Popoc''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Gjilan}}
+{{Komuna Lipjan}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
 [[Kategoria:Vendbanime në Kosovës]]

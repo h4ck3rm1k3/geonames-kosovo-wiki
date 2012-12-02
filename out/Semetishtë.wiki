@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Semetishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SEMETISHTE
- | FULL_NAME_RO = Semetishtë
- | FULL_NAME_ND_RO=Semetishte
- | SORT_NAME_RG=SEMETISHTE
- | FULL_NAME_RG=Semetishtë
- | FULL_NAME_ND_RG=Semetishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Semetishtë
+| sqi_N_FULL_NAME_RO = Semetishtë
+| sqi_N_FULL_NAME_ND_RO = Semetishte
+| sqi_N_SORT_NAME_RG = SEMETISHTE
+| sqi_N_FULL_NAME_RG = Semetishtë
+| sqi_N_FULL_NAME_ND_RG = Semetishte
+| sqi_V_name = Semetishë
+| sqi_V_FULL_NAME_RO = Semetishë Semetisht
+| sqi_V_FULL_NAME_ND_RO = Semetishe Semetisht
+| sqi_V_SORT_NAME_RG = SEMETISHE SEMETISHT
+| sqi_V_FULL_NAME_RG = Semetishë Semetisht
+| sqi_V_FULL_NAME_ND_RG = Semetishe Semetisht
+| srp_N_name = Semetište
+| srp_N_FULL_NAME_RO = Semetište
+| srp_N_FULL_NAME_ND_RO = Semetiste
+| srp_N_SORT_NAME_RG = SEMETISTE
+| srp_N_FULL_NAME_RG = Semetište
+| srp_N_FULL_NAME_ND_RG = Semetiste
+| srp_NS_name = Семетиште
+| srp_NS_FULL_NAME_RO = Семетиште
+| srp_NS_FULL_NAME_ND_RO = Семетиште
+| srp_NS_SORT_NAME_RG = СЕМЕТИШТЕ
+| srp_NS_FULL_NAME_RG = Семетиште
+| srp_NS_FULL_NAME_ND_RG = Семетиште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.804444
  | Lartësia            = 
 }}
-'''Semetishtë''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Semetishtë''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

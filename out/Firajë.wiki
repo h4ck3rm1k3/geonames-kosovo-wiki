@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Firajë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      FIRAJE
- | FULL_NAME_RO = Firajë
- | FULL_NAME_ND_RO=Firaje
- | SORT_NAME_RG=FIRAJE
- | FULL_NAME_RG=Firajë
- | FULL_NAME_ND_RG=Firaje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Firajë
+| sqi_N_FULL_NAME_RO = Firajë
+| sqi_N_FULL_NAME_ND_RO = Firaje
+| sqi_N_SORT_NAME_RG = FIRAJE
+| sqi_N_FULL_NAME_RG = Firajë
+| sqi_N_FULL_NAME_ND_RG = Firaje
+| srp_N_name = Firaja
+| srp_N_FULL_NAME_RO = Firaja
+| srp_N_FULL_NAME_ND_RO = Firaja
+| srp_N_SORT_NAME_RG = FIRAJA
+| srp_N_FULL_NAME_RG = Firaja
+| srp_N_FULL_NAME_ND_RG = Firaja
+| srp_NS_name = Фираја
+| srp_NS_FULL_NAME_RO = Фираја
+| srp_NS_FULL_NAME_ND_RO = Фираја
+| srp_NS_SORT_NAME_RG = ФИРАЈА
+| srp_NS_FULL_NAME_RG = Фираја
+| srp_NS_FULL_NAME_ND_RG = Фираја
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.373333
  | Lartësia            = 
 }}
-'''Firajë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Firajë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

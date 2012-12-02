@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kalaticë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KALATICE
- | FULL_NAME_RO = Kalaticë
- | FULL_NAME_ND_RO=Kalatice
- | SORT_NAME_RG=KALATICE
- | FULL_NAME_RG=Kalaticë
- | FULL_NAME_ND_RG=Kalatice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kalaticë
+| sqi_N_FULL_NAME_RO = Kalaticë
+| sqi_N_FULL_NAME_ND_RO = Kalatice
+| sqi_N_SORT_NAME_RG = KALATICE
+| sqi_N_FULL_NAME_RG = Kalaticë
+| sqi_N_FULL_NAME_ND_RG = Kalatice
+| sqi_V_name = Lugëz
+| sqi_V_FULL_NAME_RO = Lugëz Lugëza Kaleticë Kalatica
+| sqi_V_FULL_NAME_ND_RO = Lugez Lugeza Kaletice Kalatica
+| sqi_V_SORT_NAME_RG = LUGEZ LUGEZA KALETICE KALATICA
+| sqi_V_FULL_NAME_RG = Lugëz Lugëza Kaleticë Kalatica
+| sqi_V_FULL_NAME_ND_RG = Lugez Lugeza Kaletice Kalatica
+| srp_N_name = Kaljatica
+| srp_N_FULL_NAME_RO = Kaljatica
+| srp_N_FULL_NAME_ND_RO = Kaljatica
+| srp_N_SORT_NAME_RG = KALJATICA
+| srp_N_FULL_NAME_RG = Kaljatica
+| srp_N_FULL_NAME_ND_RG = Kaljatica
+| srp_NS_name = Каљатица
+| srp_NS_FULL_NAME_RO = Каљатица
+| srp_NS_FULL_NAME_ND_RO = Каљатица
+| srp_NS_SORT_NAME_RG = КАЉАТИЦА
+| srp_NS_FULL_NAME_RG = Каљатица
+| srp_NS_FULL_NAME_ND_RG = Каљатица
+| srp_V_name = Kaljetica
+| srp_V_FULL_NAME_RO = Kaljetica Koljetica
+| srp_V_FULL_NAME_ND_RO = Kaljetica Koljetica
+| srp_V_SORT_NAME_RG = KALJETICA KOLJETICA
+| srp_V_FULL_NAME_RG = Kaljetica Koljetica
+| srp_V_FULL_NAME_ND_RG = Kaljetica Koljetica
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.386389
  | Lartësia            = 
 }}
-'''Kalaticë''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Kalaticë''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

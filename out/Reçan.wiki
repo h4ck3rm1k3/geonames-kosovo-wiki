@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Reçan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RECAN
- | FULL_NAME_RO = Reçan
- | FULL_NAME_ND_RO=Recan
- | SORT_NAME_RG=RECAN
- | FULL_NAME_RG=Reçan
- | FULL_NAME_ND_RG=Recan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Reçan
+| sqi_N_FULL_NAME_RO = Reçan
+| sqi_N_FULL_NAME_ND_RO = Recan
+| sqi_N_SORT_NAME_RG = RECAN
+| sqi_N_FULL_NAME_RG = Reçan
+| sqi_N_FULL_NAME_ND_RG = Recan
+| srp_N_name = Rečane
+| srp_N_FULL_NAME_RO = Rečane
+| srp_N_FULL_NAME_ND_RO = Recane
+| srp_N_SORT_NAME_RG = RECANE
+| srp_N_FULL_NAME_RG = Rečane
+| srp_N_FULL_NAME_ND_RG = Recane
+| srp_NS_name = Речане
+| srp_NS_FULL_NAME_RO = Речане
+| srp_NS_FULL_NAME_ND_RO = Речане
+| srp_NS_SORT_NAME_RG = РЕЧАНЕ
+| srp_NS_FULL_NAME_RG = Речане
+| srp_NS_FULL_NAME_ND_RG = Речане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.8175
  | Lartësia            = 
 }}
-'''Reçan''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Reçan''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

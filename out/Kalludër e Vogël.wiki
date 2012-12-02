@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kalludër e Vogël
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KALLUDEREVOGEL
- | FULL_NAME_RO = Kalludër e Vogël
- | FULL_NAME_ND_RO=Kalluder e Vogel
- | SORT_NAME_RG=KALLUDEREVOGEL
- | FULL_NAME_RG=Kalludër e Vogël
- | FULL_NAME_ND_RG=Kalluder e Vogel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kalludër e Vogël
+| sqi_N_FULL_NAME_RO = Kalludër e Vogël
+| sqi_N_FULL_NAME_ND_RO = Kalluder e Vogel
+| sqi_N_SORT_NAME_RG = KALLUDEREVOGEL
+| sqi_N_FULL_NAME_RG = Kalludër e Vogël
+| sqi_N_FULL_NAME_ND_RG = Kalluder e Vogel
+| srp_N_name = Mala Kaludra
+| srp_N_FULL_NAME_RO = Mala Kaludra
+| srp_N_FULL_NAME_ND_RO = Mala Kaludra
+| srp_N_SORT_NAME_RG = MALAKALUDRA
+| srp_N_FULL_NAME_RG = Mala Kaludra
+| srp_N_FULL_NAME_ND_RG = Mala Kaludra
+| srp_NS_name = Мала Калудра
+| srp_NS_FULL_NAME_RO = Мала Калудра
+| srp_NS_FULL_NAME_ND_RO = Мала Калудра
+| srp_NS_SORT_NAME_RG = МАЛАКАЛУДРА
+| srp_NS_FULL_NAME_RG = Мала Калудра
+| srp_NS_FULL_NAME_ND_RG = Мала Калудра
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.637778
  | Lartësia            = 
 }}
-'''Kalludër e Vogël''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Kalludër e Vogël''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

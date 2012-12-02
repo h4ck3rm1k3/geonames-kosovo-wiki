@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Babushë i Sërbëve
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BABUSHEISERBEVE
- | FULL_NAME_RO = Babushë i Sërbëve
- | FULL_NAME_ND_RO=Babushe i Serbeve
- | SORT_NAME_RG=BABUSHEISERBEVE
- | FULL_NAME_RG=Babushë i Sërbëve
- | FULL_NAME_ND_RG=Babushe i Serbeve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Babushë i Sërbëve
+| sqi_D_FULL_NAME_RO = Babushë i Sërbëve
+| sqi_D_FULL_NAME_ND_RO = Babushe i Serbeve
+| sqi_D_SORT_NAME_RG = BABUSHEISERBEVE
+| sqi_D_FULL_NAME_RG = Babushë i Sërbëve
+| sqi_D_FULL_NAME_ND_RG = Babushe i Serbeve
+| sqi_V_name = Babush i Serbëve
+| sqi_V_FULL_NAME_RO = Babush i Serbëve
+| sqi_V_FULL_NAME_ND_RO = Babush i Serbeve
+| sqi_V_SORT_NAME_RG = BABUSHISERBEVE
+| sqi_V_FULL_NAME_RG = Babush i Serbëve
+| sqi_V_FULL_NAME_ND_RG = Babush i Serbeve
+| srp_N_name = Srpski Babuš
+| srp_N_FULL_NAME_RO = Srpski Babuš
+| srp_N_FULL_NAME_ND_RO = Srpski Babus
+| srp_N_SORT_NAME_RG = SRPSKIBABUS
+| srp_N_FULL_NAME_RG = Srpski Babuš
+| srp_N_FULL_NAME_ND_RG = Srpski Babus
+| srp_NS_name = Српски Бабуш
+| srp_NS_FULL_NAME_RO = Српски Бабуш
+| srp_NS_FULL_NAME_ND_RO = Српски Бабуш
+| srp_NS_SORT_NAME_RG = СРПСКИБАБУШ
+| srp_NS_FULL_NAME_RG = Српски Бабуш
+| srp_NS_FULL_NAME_ND_RG = Српски Бабуш
+| srp_V_name = Babuš Srpski
+| srp_V_FULL_NAME_RO = Babuš Srpski
+| srp_V_FULL_NAME_ND_RO = Babus Srpski
+| srp_V_SORT_NAME_RG = BABUSSRPSKI
+| srp_V_FULL_NAME_RG = Babuš Srpski
+| srp_V_FULL_NAME_ND_RG = Babus Srpski
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.175278
  | Lartësia            = 
 }}
-'''Babushë i Sërbëve''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Babushë i Sërbëve''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

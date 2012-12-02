@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gërnçar
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GERNCAR
- | FULL_NAME_RO = Gërnçar
- | FULL_NAME_ND_RO=Gerncar
- | SORT_NAME_RG=GERNCAR
- | FULL_NAME_RG=Gërnçar
- | FULL_NAME_ND_RG=Gerncar
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gërnçar
+| sqi_D_FULL_NAME_RO = Gërnçar
+| sqi_D_FULL_NAME_ND_RO = Gerncar
+| sqi_D_SORT_NAME_RG = GERNCAR
+| sqi_D_FULL_NAME_RG = Gërnçar
+| sqi_D_FULL_NAME_ND_RG = Gerncar
+| sqi_V_name = Gërnqar
+| sqi_V_FULL_NAME_RO = Gërnqar Granqar Gërnçari Gërqar Shpatinë Shpatina
+| sqi_V_FULL_NAME_ND_RO = Gernqar Granqar Gerncari Gerqar Shpatine Shpatina
+| sqi_V_SORT_NAME_RG = GERNQAR GRANQAR GERNCARI GERQAR SHPATINE SHPATINA
+| sqi_V_FULL_NAME_RG = Gërnqar Granqar Gërnçari Gërqar Shpatinë Shpatina
+| sqi_V_FULL_NAME_ND_RG = Gernqar Granqar Gerncari Gerqar Shpatine Shpatina
+| srp_N_name = Grnčare
+| srp_N_FULL_NAME_RO = Grnčare
+| srp_N_FULL_NAME_ND_RO = Grncare
+| srp_N_SORT_NAME_RG = GRNCARE
+| srp_N_FULL_NAME_RG = Grnčare
+| srp_N_FULL_NAME_ND_RG = Grncare
+| srp_NS_name = Грнчаре
+| srp_NS_FULL_NAME_RO = Грнчаре
+| srp_NS_FULL_NAME_ND_RO = Грнчаре
+| srp_NS_SORT_NAME_RG = ГРНЧАРЕ
+| srp_NS_FULL_NAME_RG = Грнчаре
+| srp_NS_FULL_NAME_ND_RG = Грнчаре
+| srp_V_name = Grnćare
+| srp_V_FULL_NAME_RO = Grnćare
+| srp_V_FULL_NAME_ND_RO = Grncare
+| srp_V_SORT_NAME_RG = GRNCARE
+| srp_V_FULL_NAME_RG = Grnćare
+| srp_V_FULL_NAME_ND_RG = Grncare
+| srp_VS_name = Грнћаре
+| srp_VS_FULL_NAME_RO = Грнћаре
+| srp_VS_FULL_NAME_ND_RO = Грнћаре
+| srp_VS_SORT_NAME_RG = ГРНЋАРЕ
+| srp_VS_FULL_NAME_RG = Грнћаре
+| srp_VS_FULL_NAME_ND_RG = Грнћаре
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.772222
  | Lartësia            = 
 }}
-'''Gërnçar''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Gërnçar''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

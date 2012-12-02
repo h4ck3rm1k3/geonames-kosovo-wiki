@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kaçanik i Vjetër
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KACANIKIVJETER
- | FULL_NAME_RO = Kaçanik i Vjetër
- | FULL_NAME_ND_RO=Kacanik i Vjeter
- | SORT_NAME_RG=KACANIKIVJETER
- | FULL_NAME_RG=Kaçanik i Vjetër
- | FULL_NAME_ND_RG=Kacanik i Vjeter
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Kaçanik i Vjetër
+| sqi_D_FULL_NAME_RO = Kaçanik i Vjetër
+| sqi_D_FULL_NAME_ND_RO = Kacanik i Vjeter
+| sqi_D_SORT_NAME_RG = KACANIKIVJETER
+| sqi_D_FULL_NAME_RG = Kaçanik i Vjetër
+| sqi_D_FULL_NAME_ND_RG = Kacanik i Vjeter
+| sqi_V_name = Kaçaniku i Vjetër
+| sqi_V_FULL_NAME_RO = Kaçaniku i Vjetër
+| sqi_V_FULL_NAME_ND_RO = Kacaniku i Vjeter
+| sqi_V_SORT_NAME_RG = KACANIKUIVJETER
+| sqi_V_FULL_NAME_RG = Kaçaniku i Vjetër
+| sqi_V_FULL_NAME_ND_RG = Kacaniku i Vjeter
+| srp_N_name = Stari Kačanik
+| srp_N_FULL_NAME_RO = Stari Kačanik
+| srp_N_FULL_NAME_ND_RO = Stari Kacanik
+| srp_N_SORT_NAME_RG = STARIKACANIK
+| srp_N_FULL_NAME_RG = Stari Kačanik
+| srp_N_FULL_NAME_ND_RG = Stari Kacanik
+| srp_NS_name = Стари Качаник
+| srp_NS_FULL_NAME_RO = Стари Качаник
+| srp_NS_FULL_NAME_ND_RO = Стари Качаник
+| srp_NS_SORT_NAME_RG = СТАРИКАЧАНИК
+| srp_NS_FULL_NAME_RG = Стари Качаник
+| srp_NS_FULL_NAME_ND_RG = Стари Качаник
+| srp_V_name = Staro Kačanik
+| srp_V_FULL_NAME_RO = Staro Kačanik
+| srp_V_FULL_NAME_ND_RO = Staro Kacanik
+| srp_V_SORT_NAME_RG = STAROKACANIK
+| srp_V_FULL_NAME_RG = Staro Kačanik
+| srp_V_FULL_NAME_ND_RG = Staro Kacanik
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.223056
  | Lartësia            = 
 }}
-'''Kaçanik i Vjetër''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Kaçanik i Vjetër''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

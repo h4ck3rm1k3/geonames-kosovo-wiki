@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Korilë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KORILE
- | FULL_NAME_RO = Korilë
- | FULL_NAME_ND_RO=Korile
- | SORT_NAME_RG=KORILE
- | FULL_NAME_RG=Korilë
- | FULL_NAME_ND_RG=Korile
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Korilë
+| sqi_N_FULL_NAME_RO = Korilë
+| sqi_N_FULL_NAME_ND_RO = Korile
+| sqi_N_SORT_NAME_RG = KORILE
+| sqi_N_FULL_NAME_RG = Korilë
+| sqi_N_FULL_NAME_ND_RG = Korile
+| sqi_V_name = Koriljë
+| sqi_V_FULL_NAME_RO = Koriljë
+| sqi_V_FULL_NAME_ND_RO = Korilje
+| sqi_V_SORT_NAME_RG = KORILJE
+| sqi_V_FULL_NAME_RG = Koriljë
+| sqi_V_FULL_NAME_ND_RG = Korilje
+| srp_N_name = Korilje
+| srp_N_FULL_NAME_RO = Korilje
+| srp_N_FULL_NAME_ND_RO = Korilje
+| srp_N_SORT_NAME_RG = KORILJE
+| srp_N_FULL_NAME_RG = Korilje
+| srp_N_FULL_NAME_ND_RG = Korilje
+| srp_NS_name = Кориље
+| srp_NS_FULL_NAME_RO = Кориље
+| srp_NS_FULL_NAME_ND_RO = Кориље
+| srp_NS_SORT_NAME_RG = КОРИЉЕ
+| srp_NS_FULL_NAME_RG = Кориље
+| srp_NS_FULL_NAME_ND_RG = Кориље
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.834722
  | Lartësia            = 
 }}
-'''Korilë''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Korilë''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

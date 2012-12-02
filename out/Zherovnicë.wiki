@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zherovnicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZHEROVNICE
- | FULL_NAME_RO = Zherovnicë
- | FULL_NAME_ND_RO=Zherovnice
- | SORT_NAME_RG=ZHEROVNICE
- | FULL_NAME_RG=Zherovnicë
- | FULL_NAME_ND_RG=Zherovnice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zherovnicë
+| sqi_N_FULL_NAME_RO = Zherovnicë
+| sqi_N_FULL_NAME_ND_RO = Zherovnice
+| sqi_N_SORT_NAME_RG = ZHEROVNICE
+| sqi_N_FULL_NAME_RG = Zherovnicë
+| sqi_N_FULL_NAME_ND_RG = Zherovnice
+| sqi_V_name = Zheravice
+| sqi_V_FULL_NAME_RO = Zheravice
+| sqi_V_FULL_NAME_ND_RO = Zheravice
+| sqi_V_SORT_NAME_RG = ZHERAVICE
+| sqi_V_FULL_NAME_RG = Zheravice
+| sqi_V_FULL_NAME_ND_RG = Zheravice
+| srp_N_name = Žerovnica
+| srp_N_FULL_NAME_RO = Žerovnica
+| srp_N_FULL_NAME_ND_RO = Zerovnica
+| srp_N_SORT_NAME_RG = ZEROVNICA
+| srp_N_FULL_NAME_RG = Žerovnica
+| srp_N_FULL_NAME_ND_RG = Zerovnica
+| srp_NS_name = Жеровница
+| srp_NS_FULL_NAME_RO = Жеровница
+| srp_NS_FULL_NAME_ND_RO = Жеровница
+| srp_NS_SORT_NAME_RG = ЖЕРОВНИЦА
+| srp_NS_FULL_NAME_RG = Жеровница
+| srp_NS_FULL_NAME_ND_RG = Жеровница
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.806667
  | Lartësia            = 
 }}
-'''Zherovnicë''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Zherovnicë''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

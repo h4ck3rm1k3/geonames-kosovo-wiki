@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Marec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAREC
- | FULL_NAME_RO = Marec
- | FULL_NAME_ND_RO=Marec
- | SORT_NAME_RG=MAREC
- | FULL_NAME_RG=Marec
- | FULL_NAME_ND_RG=Marec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Marec
+| sqi_N_FULL_NAME_RO = Marec
+| sqi_N_FULL_NAME_ND_RO = Marec
+| sqi_N_SORT_NAME_RG = MAREC
+| sqi_N_FULL_NAME_RG = Marec
+| sqi_N_FULL_NAME_ND_RG = Marec
+| sqi_V_name = Marevc
+| sqi_V_FULL_NAME_RO = Marevc
+| sqi_V_FULL_NAME_ND_RO = Marevc
+| sqi_V_SORT_NAME_RG = MAREVC
+| sqi_V_FULL_NAME_RG = Marevc
+| sqi_V_FULL_NAME_ND_RG = Marevc
+| srp_N_name = Marevce
+| srp_N_FULL_NAME_RO = Marevce
+| srp_N_FULL_NAME_ND_RO = Marevce
+| srp_N_SORT_NAME_RG = MAREVCE
+| srp_N_FULL_NAME_RG = Marevce
+| srp_N_FULL_NAME_ND_RG = Marevce
+| srp_NS_name = Маревце
+| srp_NS_FULL_NAME_RO = Маревце
+| srp_NS_FULL_NAME_ND_RO = Маревце
+| srp_NS_SORT_NAME_RG = МАРЕВЦЕ
+| srp_NS_FULL_NAME_RG = Маревце
+| srp_NS_FULL_NAME_ND_RG = Маревце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.191944
  | Lartësia            = 
 }}
-'''Marec''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Marec''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

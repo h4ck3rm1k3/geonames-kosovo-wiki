@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Godanc i Poshtëm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GODANCIPOSHTEM
- | FULL_NAME_RO = Godanc i Poshtëm
- | FULL_NAME_ND_RO=Godanc i Poshtem
- | SORT_NAME_RG=GODANCIPOSHTEM
- | FULL_NAME_RG=Godanc i Poshtëm
- | FULL_NAME_ND_RG=Godanc i Poshtem
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Godanc i Poshtëm
+| sqi_N_FULL_NAME_RO = Godanc i Poshtëm
+| sqi_N_FULL_NAME_ND_RO = Godanc i Poshtem
+| sqi_N_SORT_NAME_RG = GODANCIPOSHTEM
+| sqi_N_FULL_NAME_RG = Godanc i Poshtëm
+| sqi_N_FULL_NAME_ND_RG = Godanc i Poshtem
+| sqi_V_name = Godanci i Poshtëm
+| sqi_V_FULL_NAME_RO = Godanci i Poshtëm
+| sqi_V_FULL_NAME_ND_RO = Godanci i Poshtem
+| sqi_V_SORT_NAME_RG = GODANCIIPOSHTEM
+| sqi_V_FULL_NAME_RG = Godanci i Poshtëm
+| sqi_V_FULL_NAME_ND_RG = Godanci i Poshtem
+| srp_N_name = Donje Godance
+| srp_N_FULL_NAME_RO = Donje Godance
+| srp_N_FULL_NAME_ND_RO = Donje Godance
+| srp_N_SORT_NAME_RG = DONJEGODANCE
+| srp_N_FULL_NAME_RG = Donje Godance
+| srp_N_FULL_NAME_ND_RG = Donje Godance
+| srp_NS_name = Доње Годанце
+| srp_NS_FULL_NAME_RO = Доње Годанце
+| srp_NS_FULL_NAME_ND_RO = Доње Годанце
+| srp_NS_SORT_NAME_RG = ДОЊЕГОДАНЦЕ
+| srp_NS_FULL_NAME_RG = Доње Годанце
+| srp_NS_FULL_NAME_ND_RG = Доње Годанце
+| srp_V_name = Donje Gadance
+| srp_V_FULL_NAME_RO = Donje Gadance
+| srp_V_FULL_NAME_ND_RO = Donje Gadance
+| srp_V_SORT_NAME_RG = DONJEGADANCE
+| srp_V_FULL_NAME_RG = Donje Gadance
+| srp_V_FULL_NAME_ND_RG = Donje Gadance
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.0475
  | Lartësia            = 
 }}
-'''Godanc i Poshtëm''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Godanc i Poshtëm''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

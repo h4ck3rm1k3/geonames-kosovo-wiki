@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bellopaq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BELLOPAQ
- | FULL_NAME_RO = Bellopaq
- | FULL_NAME_ND_RO=Bellopaq
- | SORT_NAME_RG=BELLOPAQ
- | FULL_NAME_RG=Bellopaq
- | FULL_NAME_ND_RG=Bellopaq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Bellopaq
+| sqi_D_FULL_NAME_RO = Bellopaq
+| sqi_D_FULL_NAME_ND_RO = Bellopaq
+| sqi_D_SORT_NAME_RG = BELLOPAQ
+| sqi_D_FULL_NAME_RG = Bellopaq
+| sqi_D_FULL_NAME_ND_RG = Bellopaq
+| sqi_V_name = Bellopaqi
+| sqi_V_FULL_NAME_RO = Bellopaqi Lerthi
+| sqi_V_FULL_NAME_ND_RO = Bellopaqi Lerthi
+| sqi_V_SORT_NAME_RG = BELLOPAQI LERTHI
+| sqi_V_FULL_NAME_RG = Bellopaqi Lerthi
+| sqi_V_FULL_NAME_ND_RG = Bellopaqi Lerthi
+| srp_N_name = Bjelopač
+| srp_N_FULL_NAME_RO = Bjelopač
+| srp_N_FULL_NAME_ND_RO = Bjelopac
+| srp_N_SORT_NAME_RG = BJELOPAC
+| srp_N_FULL_NAME_RG = Bjelopač
+| srp_N_FULL_NAME_ND_RG = Bjelopac
+| srp_NS_name = Бјелопаћ
+| srp_NS_FULL_NAME_RO = Бјелопаћ
+| srp_NS_FULL_NAME_ND_RO = Бјелопаћ
+| srp_NS_SORT_NAME_RG = БЈЕЛОПАЋ
+| srp_NS_FULL_NAME_RG = Бјелопаћ
+| srp_NS_FULL_NAME_ND_RG = Бјелопаћ
+| srp_V_name = Belopać
+| srp_V_FULL_NAME_RO = Belopać
+| srp_V_FULL_NAME_ND_RO = Belopac
+| srp_V_SORT_NAME_RG = BELOPAC
+| srp_V_FULL_NAME_RG = Belopać
+| srp_V_FULL_NAME_ND_RG = Belopac
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.226944
  | Lartësia            = 
 }}
-'''Bellopaq''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Bellopaq''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

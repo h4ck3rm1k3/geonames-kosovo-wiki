@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kërvasari
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KERVASARI
- | FULL_NAME_RO = Kërvasari
- | FULL_NAME_ND_RO=Kervasari
- | SORT_NAME_RG=KERVASARI
- | FULL_NAME_RG=Kërvasari
- | FULL_NAME_ND_RG=Kervasari
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kërvasari
+| sqi_N_FULL_NAME_RO = Kërvasari
+| sqi_N_FULL_NAME_ND_RO = Kervasari
+| sqi_N_SORT_NAME_RG = KERVASARI
+| sqi_N_FULL_NAME_RG = Kërvasari
+| sqi_N_FULL_NAME_ND_RG = Kervasari
+| sqi_V_name = Kërvaseri
+| sqi_V_FULL_NAME_RO = Kërvaseri Kravoserë
+| sqi_V_FULL_NAME_ND_RO = Kervaseri Kravosere
+| sqi_V_SORT_NAME_RG = KERVASERI KRAVOSERE
+| sqi_V_FULL_NAME_RG = Kërvaseri Kravoserë
+| sqi_V_FULL_NAME_ND_RG = Kervaseri Kravosere
+| srp_N_name = Kravasarija
+| srp_N_FULL_NAME_RO = Kravasarija
+| srp_N_FULL_NAME_ND_RO = Kravasarija
+| srp_N_SORT_NAME_RG = KRAVASARIJA
+| srp_N_FULL_NAME_RG = Kravasarija
+| srp_N_FULL_NAME_ND_RG = Kravasarija
+| srp_NS_name = Кравасарија
+| srp_NS_FULL_NAME_RO = Кравасарија
+| srp_NS_FULL_NAME_ND_RO = Кравасарија
+| srp_NS_SORT_NAME_RG = КРАВАСАРИЈА
+| srp_NS_FULL_NAME_RG = Кравасарија
+| srp_NS_FULL_NAME_ND_RG = Кравасарија
+| std_V_name = Krvosarija
+| std_V_FULL_NAME_RO = Krvosarija Kravoserija
+| std_V_FULL_NAME_ND_RO = Krvosarija Kravoserija
+| std_V_SORT_NAME_RG = KRVOSARIJA KRAVOSERIJA
+| std_V_FULL_NAME_RG = Krvosarija Kravoserija
+| std_V_FULL_NAME_ND_RG = Krvosarija Kravoserija
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.778611
  | Lartësia            = 
 }}
-'''Kërvasari''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Kërvasari''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

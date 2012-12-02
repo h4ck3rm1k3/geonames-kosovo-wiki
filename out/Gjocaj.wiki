@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gjocaj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GJOCAJ
- | FULL_NAME_RO = Gjocaj
- | FULL_NAME_ND_RO=Gjocaj
- | SORT_NAME_RG=GJOCAJ
- | FULL_NAME_RG=Gjocaj
- | FULL_NAME_ND_RG=Gjocaj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gjocaj
+| sqi_N_FULL_NAME_RO = Gjocaj
+| sqi_N_FULL_NAME_ND_RO = Gjocaj
+| sqi_N_SORT_NAME_RG = GJOCAJ
+| sqi_N_FULL_NAME_RG = Gjocaj
+| sqi_N_FULL_NAME_ND_RG = Gjocaj
+| sqi_V_name = Jasiq-Gjocaj
+| sqi_V_FULL_NAME_RO = Jasiq-Gjocaj
+| sqi_V_FULL_NAME_ND_RO = Jasiq-Gjocaj
+| sqi_V_SORT_NAME_RG = JASIQGJOCAJ
+| sqi_V_FULL_NAME_RG = Jasiq-Gjocaj
+| sqi_V_FULL_NAME_ND_RG = Jasiq-Gjocaj
+| srp_N_name = Đocaj
+| srp_N_FULL_NAME_RO = Đocaj
+| srp_N_FULL_NAME_ND_RO = ¿ocaj
+| srp_N_SORT_NAME_RG = ¿OCAJ
+| srp_N_FULL_NAME_RG = Đocaj
+| srp_N_FULL_NAME_ND_RG = ¿ocaj
+| srp_NS_name = Ђоцај
+| srp_NS_FULL_NAME_RO = Ђоцај
+| srp_NS_FULL_NAME_ND_RO = Ђоцај
+| srp_NS_SORT_NAME_RG = ЂОЦАЈ
+| srp_NS_FULL_NAME_RG = Ђоцај
+| srp_NS_FULL_NAME_ND_RG = Ђоцај
+| srp_V_name = Jasić-Djocaj
+| srp_V_FULL_NAME_RO = Jasić-Djocaj Jasić-Đocaj
+| srp_V_FULL_NAME_ND_RO = Jasic-Djocaj Jasic-¿ocaj
+| srp_V_SORT_NAME_RG = JASICDJOCAJ JASIC¿OCAJ
+| srp_V_FULL_NAME_RG = Jasić-Djocaj Jasić-Đocaj
+| srp_V_FULL_NAME_ND_RG = Jasic-Djocaj Jasic-¿ocaj
+| srp_VS_name = Јасић-Ђоцај
+| srp_VS_FULL_NAME_RO = Јасић-Ђоцај
+| srp_VS_FULL_NAME_ND_RO = Јасић-Ђоцај
+| srp_VS_SORT_NAME_RG = ЈАСИЋЂОЦАЈ
+| srp_VS_FULL_NAME_RG = Јасић-Ђоцај
+| srp_VS_FULL_NAME_ND_RG = Јасић-Ђоцај
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.25
  | Lartësia            = 
 }}
-'''Gjocaj''' është një [[]] në [[]] të [[Kosovës]].
+'''Gjocaj''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

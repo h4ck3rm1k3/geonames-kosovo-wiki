@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rrypaj-Madanaj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RRYPAJMADANAJ
- | FULL_NAME_RO = Rrypaj-Madanaj
- | FULL_NAME_ND_RO=Rrypaj-Madanaj
- | SORT_NAME_RG=RRYPAJMADANAJ
- | FULL_NAME_RG=Rrypaj-Madanaj
- | FULL_NAME_ND_RG=Rrypaj-Madanaj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Rrypaj-Madanaj
+| sqi_D_FULL_NAME_RO = Rrypaj-Madanaj
+| sqi_D_FULL_NAME_ND_RO = Rrypaj-Madanaj
+| sqi_D_SORT_NAME_RG = RRYPAJMADANAJ
+| sqi_D_FULL_NAME_RG = Rrypaj-Madanaj
+| sqi_D_FULL_NAME_ND_RG = Rrypaj-Madanaj
+| sqi_V_name = Rrypaj
+| sqi_V_FULL_NAME_RO = Rrypaj Madanaj
+| sqi_V_FULL_NAME_ND_RO = Rrypaj Madanaj
+| sqi_V_SORT_NAME_RG = RRYPAJ MADANAJ
+| sqi_V_FULL_NAME_RG = Rrypaj Madanaj
+| sqi_V_FULL_NAME_ND_RG = Rrypaj Madanaj
+| srp_N_name = Ripaj-Madanaj
+| srp_N_FULL_NAME_RO = Ripaj-Madanaj
+| srp_N_FULL_NAME_ND_RO = Ripaj-Madanaj
+| srp_N_SORT_NAME_RG = RIPAJMADANAJ
+| srp_N_FULL_NAME_RG = Ripaj-Madanaj
+| srp_N_FULL_NAME_ND_RG = Ripaj-Madanaj
+| srp_NS_name = Рипај-Маданај
+| srp_NS_FULL_NAME_RO = Рипај-Маданај
+| srp_NS_FULL_NAME_ND_RO = Рипај-Маданај
+| srp_NS_SORT_NAME_RG = РИПАЈМАДАНАЈ
+| srp_NS_FULL_NAME_RG = Рипај-Маданај
+| srp_NS_FULL_NAME_ND_RG = Рипај-Маданај
+| srp_V_name = Madanaj
+| srp_V_FULL_NAME_RO = Madanaj
+| srp_V_FULL_NAME_ND_RO = Madanaj
+| srp_V_SORT_NAME_RG = MADANAJ
+| srp_V_FULL_NAME_RG = Madanaj
+| srp_V_FULL_NAME_ND_RG = Madanaj
+| srp_VS_name = Маданај
+| srp_VS_FULL_NAME_RO = Маданај Рипај
+| srp_VS_FULL_NAME_ND_RO = Маданај Рипај
+| srp_VS_SORT_NAME_RG = МАДАНАЈ РИПАЈ
+| srp_VS_FULL_NAME_RG = Маданај Рипај
+| srp_VS_FULL_NAME_ND_RG = Маданај Рипај
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.371389
  | Lartësia            = 
 }}
-'''Rrypaj-Madanaj''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Rrypaj-Madanaj''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

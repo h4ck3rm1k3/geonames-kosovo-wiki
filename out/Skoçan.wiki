@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Skoçan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SKOCAN
- | FULL_NAME_RO = Skoçan
- | FULL_NAME_ND_RO=Skocan
- | SORT_NAME_RG=SKOCAN
- | FULL_NAME_RG=Skoçan
- | FULL_NAME_ND_RG=Skocan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Skoçan
+| sqi_N_FULL_NAME_RO = Skoçan
+| sqi_N_FULL_NAME_ND_RO = Skocan
+| sqi_N_SORT_NAME_RG = SKOCAN
+| sqi_N_FULL_NAME_RG = Skoçan
+| sqi_N_FULL_NAME_ND_RG = Skocan
+| sqi_V_name = Skoçnë
+| sqi_V_FULL_NAME_RO = Skoçnë Skocan
+| sqi_V_FULL_NAME_ND_RO = Skocne Skocan
+| sqi_V_SORT_NAME_RG = SKOCNE SKOCAN
+| sqi_V_FULL_NAME_RG = Skoçnë Skocan
+| sqi_V_FULL_NAME_ND_RG = Skocne Skocan
+| srp_N_name = Skočna
+| srp_N_FULL_NAME_RO = Skočna
+| srp_N_FULL_NAME_ND_RO = Skocna
+| srp_N_SORT_NAME_RG = SKOCNA
+| srp_N_FULL_NAME_RG = Skočna
+| srp_N_FULL_NAME_ND_RG = Skocna
+| srp_NS_name = Скочна
+| srp_NS_FULL_NAME_RO = Скочна
+| srp_NS_FULL_NAME_ND_RO = Скочна
+| srp_NS_SORT_NAME_RG = СКОЧНА
+| srp_NS_FULL_NAME_RG = Скочна
+| srp_NS_FULL_NAME_ND_RG = Скочна
+| srp_V_name = Skočina
+| srp_V_FULL_NAME_RO = Skočina
+| srp_V_FULL_NAME_ND_RO = Skocina
+| srp_V_SORT_NAME_RG = SKOCINA
+| srp_V_FULL_NAME_RG = Skočina
+| srp_V_FULL_NAME_ND_RG = Skocina
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.032105
  | Lartësia            = 
 }}
-'''Skoçan''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Skoçan''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

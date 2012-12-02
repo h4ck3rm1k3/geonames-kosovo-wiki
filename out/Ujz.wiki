@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ujz
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      UJZ
- | FULL_NAME_RO = Ujz
- | FULL_NAME_ND_RO=Ujz
- | SORT_NAME_RG=UJZ
- | FULL_NAME_RG=Ujz
- | FULL_NAME_ND_RG=Ujz
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Ujz
+| sqi_D_FULL_NAME_RO = Ujz
+| sqi_D_FULL_NAME_ND_RO = Ujz
+| sqi_D_SORT_NAME_RG = UJZ
+| sqi_D_FULL_NAME_RG = Ujz
+| sqi_D_FULL_NAME_ND_RG = Ujz
+| sqi_V_name = Ujzi
+| sqi_V_FULL_NAME_RO = Ujzi Ujze Ujez
+| sqi_V_FULL_NAME_ND_RO = Ujzi Ujze Ujez
+| sqi_V_SORT_NAME_RG = UJZI UJZE UJEZ
+| sqi_V_FULL_NAME_RG = Ujzi Ujze Ujez
+| sqi_V_FULL_NAME_ND_RG = Ujzi Ujze Ujez
+| srp_N_name = Ujz
+| srp_N_FULL_NAME_RO = Ujz
+| srp_N_FULL_NAME_ND_RO = Ujz
+| srp_N_SORT_NAME_RG = UJZ
+| srp_N_FULL_NAME_RG = Ujz
+| srp_N_FULL_NAME_ND_RG = Ujz
+| srp_NS_name = Ујз
+| srp_NS_FULL_NAME_RO = Ујз
+| srp_NS_FULL_NAME_ND_RO = Ујз
+| srp_NS_SORT_NAME_RG = УЈЗ
+| srp_NS_FULL_NAME_RG = Ујз
+| srp_NS_FULL_NAME_ND_RG = Ујз
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.528333
  | Lartësia            = 
 }}
-'''Ujz''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Ujz''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

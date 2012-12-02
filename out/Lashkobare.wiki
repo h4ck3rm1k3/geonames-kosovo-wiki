@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lashkobare
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LASHKOBARE
- | FULL_NAME_RO = Lashkobare
- | FULL_NAME_ND_RO=Lashkobare
- | SORT_NAME_RG=LASHKOBARE
- | FULL_NAME_RG=Lashkobare
- | FULL_NAME_ND_RG=Lashkobare
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lashkobare
+| sqi_N_FULL_NAME_RO = Lashkobare
+| sqi_N_FULL_NAME_ND_RO = Lashkobare
+| sqi_N_SORT_NAME_RG = LASHKOBARE
+| sqi_N_FULL_NAME_RG = Lashkobare
+| sqi_N_FULL_NAME_ND_RG = Lashkobare
+| sqi_V_name = Lashkobarë
+| sqi_V_FULL_NAME_RO = Lashkobarë
+| sqi_V_FULL_NAME_ND_RO = Lashkobare
+| sqi_V_SORT_NAME_RG = LASHKOBARE
+| sqi_V_FULL_NAME_RG = Lashkobarë
+| sqi_V_FULL_NAME_ND_RG = Lashkobare
+| srp_N_name = Laškobare
+| srp_N_FULL_NAME_RO = Laškobare
+| srp_N_FULL_NAME_ND_RO = Laskobare
+| srp_N_SORT_NAME_RG = LASKOBARE
+| srp_N_FULL_NAME_RG = Laškobare
+| srp_N_FULL_NAME_ND_RG = Laskobare
+| srp_NS_name = Лашкобаре
+| srp_NS_FULL_NAME_RO = Лашкобаре
+| srp_NS_FULL_NAME_ND_RO = Лашкобаре
+| srp_NS_SORT_NAME_RG = ЛАШКОБАРЕ
+| srp_NS_FULL_NAME_RG = Лашкобаре
+| srp_NS_FULL_NAME_ND_RG = Лашкобаре
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.1225
  | Lartësia            = 
 }}
-'''Lashkobare''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Lashkobare''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

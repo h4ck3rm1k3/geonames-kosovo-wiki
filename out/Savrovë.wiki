@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Savrovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SAVROVE
- | FULL_NAME_RO = Savrovë
- | FULL_NAME_ND_RO=Savrove
- | SORT_NAME_RG=SAVROVE
- | FULL_NAME_RG=Savrovë
- | FULL_NAME_ND_RG=Savrove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Savrovë
+| sqi_N_FULL_NAME_RO = Savrovë
+| sqi_N_FULL_NAME_ND_RO = Savrove
+| sqi_N_SORT_NAME_RG = SAVROVE
+| sqi_N_FULL_NAME_RG = Savrovë
+| sqi_N_FULL_NAME_ND_RG = Savrove
+| srp_N_name = Savrovo
+| srp_N_FULL_NAME_RO = Savrovo
+| srp_N_FULL_NAME_ND_RO = Savrovo
+| srp_N_SORT_NAME_RG = SAVROVO
+| srp_N_FULL_NAME_RG = Savrovo
+| srp_N_FULL_NAME_ND_RG = Savrovo
+| srp_NS_name = Саврово
+| srp_NS_FULL_NAME_RO = Саврово
+| srp_NS_FULL_NAME_ND_RO = Саврово
+| srp_NS_SORT_NAME_RG = САВРОВО
+| srp_NS_FULL_NAME_RG = Саврово
+| srp_NS_FULL_NAME_ND_RG = Саврово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.874444
  | Lartësia            = 
 }}
-'''Savrovë''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Savrovë''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

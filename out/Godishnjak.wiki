@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Godishnjak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GODISHNJAK
- | FULL_NAME_RO = Godishnjak
- | FULL_NAME_ND_RO=Godishnjak
- | SORT_NAME_RG=GODISHNJAK
- | FULL_NAME_RG=Godishnjak
- | FULL_NAME_ND_RG=Godishnjak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Godishnjak
+| sqi_N_FULL_NAME_RO = Godishnjak
+| sqi_N_FULL_NAME_ND_RO = Godishnjak
+| sqi_N_SORT_NAME_RG = GODISHNJAK
+| sqi_N_FULL_NAME_RG = Godishnjak
+| sqi_N_FULL_NAME_ND_RG = Godishnjak
+| sqi_V_name = Kodërz
+| sqi_V_FULL_NAME_RO = Kodërz Kodërza Godishnjaku
+| sqi_V_FULL_NAME_ND_RO = Koderz Koderza Godishnjaku
+| sqi_V_SORT_NAME_RG = KODERZ KODERZA GODISHNJAKU
+| sqi_V_FULL_NAME_RG = Kodërz Kodërza Godishnjaku
+| sqi_V_FULL_NAME_ND_RG = Koderz Koderza Godishnjaku
+| srp_N_name = Godišnjak
+| srp_N_FULL_NAME_RO = Godišnjak
+| srp_N_FULL_NAME_ND_RO = Godisnjak
+| srp_N_SORT_NAME_RG = GODISNJAK
+| srp_N_FULL_NAME_RG = Godišnjak
+| srp_N_FULL_NAME_ND_RG = Godisnjak
+| srp_NS_name = Годишњак
+| srp_NS_FULL_NAME_RO = Годишњак
+| srp_NS_FULL_NAME_ND_RO = Годишњак
+| srp_NS_SORT_NAME_RG = ГОДИШЊАК
+| srp_NS_FULL_NAME_RG = Годишњак
+| srp_NS_FULL_NAME_ND_RG = Годишњак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.161465
  | Lartësia            = 
 }}
-'''Godishnjak''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Godishnjak''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

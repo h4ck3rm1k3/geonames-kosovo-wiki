@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stubëll
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STUBELL
- | FULL_NAME_RO = Stubëll
- | FULL_NAME_ND_RO=Stubell
- | SORT_NAME_RG=STUBELL
- | FULL_NAME_RG=Stubëll
- | FULL_NAME_ND_RG=Stubell
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Stubëll
+| sqi_N_FULL_NAME_RO = Stubëll
+| sqi_N_FULL_NAME_ND_RO = Stubell
+| sqi_N_SORT_NAME_RG = STUBELL
+| sqi_N_FULL_NAME_RG = Stubëll
+| sqi_N_FULL_NAME_ND_RG = Stubell
+| sqi_V_name = Stubllë
+| sqi_V_FULL_NAME_RO = Stubllë Stublla Stubell
+| sqi_V_FULL_NAME_ND_RO = Stublle Stublla Stubell
+| sqi_V_SORT_NAME_RG = STUBLLE STUBLLA STUBELL
+| sqi_V_FULL_NAME_RG = Stubllë Stublla Stubell
+| sqi_V_FULL_NAME_ND_RG = Stublle Stublla Stubell
+| srp_N_name = Stubla
+| srp_N_FULL_NAME_RO = Stubla
+| srp_N_FULL_NAME_ND_RO = Stubla
+| srp_N_SORT_NAME_RG = STUBLA
+| srp_N_FULL_NAME_RG = Stubla
+| srp_N_FULL_NAME_ND_RG = Stubla
+| srp_NS_name = Стубла
+| srp_NS_FULL_NAME_RO = Стубла
+| srp_NS_FULL_NAME_ND_RO = Стубла
+| srp_NS_SORT_NAME_RG = СТУБЛА
+| srp_NS_FULL_NAME_RG = Стубла
+| srp_NS_FULL_NAME_ND_RG = Стубла
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.292222
  | Lartësia            = 
 }}
-'''Stubëll''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Stubëll''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

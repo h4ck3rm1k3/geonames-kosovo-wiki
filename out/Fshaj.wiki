@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Fshaj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      FSHAJ
- | FULL_NAME_RO = Fshaj
- | FULL_NAME_ND_RO=Fshaj
- | SORT_NAME_RG=FSHAJ
- | FULL_NAME_RG=Fshaj
- | FULL_NAME_ND_RG=Fshaj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Fshaj
+| sqi_N_FULL_NAME_RO = Fshaj
+| sqi_N_FULL_NAME_ND_RO = Fshaj
+| sqi_N_SORT_NAME_RG = FSHAJ
+| sqi_N_FULL_NAME_RG = Fshaj
+| sqi_N_FULL_NAME_ND_RG = Fshaj
+| srp_N_name = Fšat
+| srp_N_FULL_NAME_RO = Fšat
+| srp_N_FULL_NAME_ND_RO = Fsat
+| srp_N_SORT_NAME_RG = FSAT
+| srp_N_FULL_NAME_RG = Fšat
+| srp_N_FULL_NAME_ND_RG = Fsat
+| srp_NS_name = Фшат
+| srp_NS_FULL_NAME_RO = Фшат
+| srp_NS_FULL_NAME_ND_RO = Фшат
+| srp_NS_SORT_NAME_RG = ФШАТ
+| srp_NS_FULL_NAME_RG = Фшат
+| srp_NS_FULL_NAME_ND_RG = Фшат
+| srp_V_name = Fšaj
+| srp_V_FULL_NAME_RO = Fšaj
+| srp_V_FULL_NAME_ND_RO = Fsaj
+| srp_V_SORT_NAME_RG = FSAJ
+| srp_V_FULL_NAME_RG = Fšaj
+| srp_V_FULL_NAME_ND_RG = Fsaj
+| srp_VS_name = Фшај
+| srp_VS_FULL_NAME_RO = Фшај
+| srp_VS_FULL_NAME_ND_RO = Фшај
+| srp_VS_SORT_NAME_RG = ФШАЈ
+| srp_VS_FULL_NAME_RG = Фшај
+| srp_VS_FULL_NAME_ND_RG = Фшај
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.535833
  | Lartësia            = 
 }}
-'''Fshaj''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Fshaj''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prapashticë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PRAPASHTICE
- | FULL_NAME_RO = Prapashticë
- | FULL_NAME_ND_RO=Prapashtice
- | SORT_NAME_RG=PRAPASHTICE
- | FULL_NAME_RG=Prapashticë
- | FULL_NAME_ND_RG=Prapashtice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Prapashticë
+| sqi_N_FULL_NAME_RO = Prapashticë
+| sqi_N_FULL_NAME_ND_RO = Prapashtice
+| sqi_N_SORT_NAME_RG = PRAPASHTICE
+| sqi_N_FULL_NAME_RG = Prapashticë
+| sqi_N_FULL_NAME_ND_RG = Prapashtice
+| sqi_V_name = Prapshticë
+| sqi_V_FULL_NAME_RO = Prapshticë
+| sqi_V_FULL_NAME_ND_RO = Prapshtice
+| sqi_V_SORT_NAME_RG = PRAPSHTICE
+| sqi_V_FULL_NAME_RG = Prapshticë
+| sqi_V_FULL_NAME_ND_RG = Prapshtice
+| srp_N_name = Propaštica
+| srp_N_FULL_NAME_RO = Propaštica
+| srp_N_FULL_NAME_ND_RO = Propastica
+| srp_N_SORT_NAME_RG = PROPASTICA
+| srp_N_FULL_NAME_RG = Propaštica
+| srp_N_FULL_NAME_ND_RG = Propastica
+| srp_NS_name = Пропаштица
+| srp_NS_FULL_NAME_RO = Пропаштица
+| srp_NS_FULL_NAME_ND_RO = Пропаштица
+| srp_NS_SORT_NAME_RG = ПРОПАШТИЦА
+| srp_NS_FULL_NAME_RG = Пропаштица
+| srp_NS_FULL_NAME_ND_RG = Пропаштица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.383333
  | Lartësia            = 
 }}
-'''Prapashticë''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Prapashticë''' është një [[Fshat Vogel]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

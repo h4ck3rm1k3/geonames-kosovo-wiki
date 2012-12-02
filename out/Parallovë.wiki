@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Parallovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PARALLOVE
- | FULL_NAME_RO = Parallovë
- | FULL_NAME_ND_RO=Parallove
- | SORT_NAME_RG=PARALLOVE
- | FULL_NAME_RG=Parallovë
- | FULL_NAME_ND_RG=Parallove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Parallovë
+| sqi_N_FULL_NAME_RO = Parallovë
+| sqi_N_FULL_NAME_ND_RO = Parallove
+| sqi_N_SORT_NAME_RG = PARALLOVE
+| sqi_N_FULL_NAME_RG = Parallovë
+| sqi_N_FULL_NAME_ND_RG = Parallove
+| sqi_V_name = Parllovë
+| sqi_V_FULL_NAME_RO = Parllovë Prallovë
+| sqi_V_FULL_NAME_ND_RO = Parllove Prallove
+| sqi_V_SORT_NAME_RG = PARLLOVE PRALLOVE
+| sqi_V_FULL_NAME_RG = Parllovë Prallovë
+| sqi_V_FULL_NAME_ND_RG = Parllove Prallove
+| srp_N_name = Paralovo
+| srp_N_FULL_NAME_RO = Paralovo
+| srp_N_FULL_NAME_ND_RO = Paralovo
+| srp_N_SORT_NAME_RG = PARALOVO
+| srp_N_FULL_NAME_RG = Paralovo
+| srp_N_FULL_NAME_ND_RG = Paralovo
+| srp_NS_name = Паралово
+| srp_NS_FULL_NAME_RO = Паралово
+| srp_NS_FULL_NAME_ND_RO = Паралово
+| srp_NS_SORT_NAME_RG = ПАРАЛОВО
+| srp_NS_FULL_NAME_RG = Паралово
+| srp_NS_FULL_NAME_ND_RG = Паралово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.365
  | Lartësia            = 
 }}
-'''Parallovë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Parallovë''' është një [[Fshat Vogel]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kotradiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOTRADIQ
- | FULL_NAME_RO = Kotradiq
- | FULL_NAME_ND_RO=Kotradiq
- | SORT_NAME_RG=KOTRADIQ
- | FULL_NAME_RG=Kotradiq
- | FULL_NAME_ND_RG=Kotradiq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kotradiq
+| sqi_N_FULL_NAME_RO = Kotradiq
+| sqi_N_FULL_NAME_ND_RO = Kotradiq
+| sqi_N_SORT_NAME_RG = KOTRADIQ
+| sqi_N_FULL_NAME_RG = Kotradiq
+| sqi_N_FULL_NAME_ND_RG = Kotradiq
+| sqi_V_name = Kodradiq
+| sqi_V_FULL_NAME_RO = Kodradiq
+| sqi_V_FULL_NAME_ND_RO = Kodradiq
+| sqi_V_SORT_NAME_RG = KODRADIQ
+| sqi_V_FULL_NAME_RG = Kodradiq
+| sqi_V_FULL_NAME_ND_RG = Kodradiq
+| srp_N_name = Kotradić
+| srp_N_FULL_NAME_RO = Kotradić
+| srp_N_FULL_NAME_ND_RO = Kotradic
+| srp_N_SORT_NAME_RG = KOTRADIC
+| srp_N_FULL_NAME_RG = Kotradić
+| srp_N_FULL_NAME_ND_RG = Kotradic
+| srp_NS_name = Котрадић
+| srp_NS_FULL_NAME_RO = Котрадић
+| srp_NS_FULL_NAME_ND_RO = Котрадић
+| srp_NS_SORT_NAME_RG = КОТРАДИЋ
+| srp_NS_FULL_NAME_RG = Котрадић
+| srp_NS_FULL_NAME_ND_RG = Котрадић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.401389
  | Lartësia            = 
 }}
-'''Kotradiq''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Kotradiq''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

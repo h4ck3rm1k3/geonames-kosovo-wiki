@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shillovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHILLOVE
- | FULL_NAME_RO = Shillovë
- | FULL_NAME_ND_RO=Shillove
- | SORT_NAME_RG=SHILLOVE
- | FULL_NAME_RG=Shillovë
- | FULL_NAME_ND_RG=Shillove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shillovë
+| sqi_N_FULL_NAME_RO = Shillovë
+| sqi_N_FULL_NAME_ND_RO = Shillove
+| sqi_N_SORT_NAME_RG = SHILLOVE
+| sqi_N_FULL_NAME_RG = Shillovë
+| sqi_N_FULL_NAME_ND_RG = Shillove
+| srp_N_name = Šilovo
+| srp_N_FULL_NAME_RO = Šilovo
+| srp_N_FULL_NAME_ND_RO = Silovo
+| srp_N_SORT_NAME_RG = SILOVO
+| srp_N_FULL_NAME_RG = Šilovo
+| srp_N_FULL_NAME_ND_RG = Silovo
+| srp_NS_name = Шилово
+| srp_NS_FULL_NAME_RO = Шилово
+| srp_NS_FULL_NAME_ND_RO = Шилово
+| srp_NS_SORT_NAME_RG = ШИЛОВО
+| srp_NS_FULL_NAME_RG = Шилово
+| srp_NS_FULL_NAME_ND_RG = Шилово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.495556
  | Lartësia            = 
 }}
-'''Shillovë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Shillovë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lloqan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLOQAN
- | FULL_NAME_RO = Lloqan
- | FULL_NAME_ND_RO=Lloqan
- | SORT_NAME_RG=LLOQAN
- | FULL_NAME_RG=Lloqan
- | FULL_NAME_ND_RG=Lloqan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lloqan
+| sqi_N_FULL_NAME_RO = Lloqan
+| sqi_N_FULL_NAME_ND_RO = Lloqan
+| sqi_N_SORT_NAME_RG = LLOQAN
+| sqi_N_FULL_NAME_RG = Lloqan
+| sqi_N_FULL_NAME_ND_RG = Lloqan
+| sqi_V_name = Loçan
+| sqi_V_FULL_NAME_RO = Loçan Lloçan Lloçani Lloqani
+| sqi_V_FULL_NAME_ND_RO = Locan Llocan Llocani Lloqani
+| sqi_V_SORT_NAME_RG = LOCAN LLOCAN LLOCANI LLOQANI
+| sqi_V_FULL_NAME_RG = Loçan Lloçan Lloçani Lloqani
+| sqi_V_FULL_NAME_ND_RG = Locan Llocan Llocani Lloqani
+| srp_N_name = Loćane
+| srp_N_FULL_NAME_RO = Loćane
+| srp_N_FULL_NAME_ND_RO = Locane
+| srp_N_SORT_NAME_RG = LOCANE
+| srp_N_FULL_NAME_RG = Loćane
+| srp_N_FULL_NAME_ND_RG = Locane
+| srp_NS_name = Лоћане
+| srp_NS_FULL_NAME_RO = Лоћане
+| srp_NS_FULL_NAME_ND_RO = Лоћане
+| srp_NS_SORT_NAME_RG = ЛОЋАНЕ
+| srp_NS_FULL_NAME_RG = Лоћане
+| srp_NS_FULL_NAME_ND_RG = Лоћане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.280833
  | Lartësia            = 
 }}
-'''Lloqan''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Lloqan''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Hajkobillë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      HAJKOBILLE
- | FULL_NAME_RO = Hajkobillë
- | FULL_NAME_ND_RO=Hajkobille
- | SORT_NAME_RG=HAJKOBILLE
- | FULL_NAME_RG=Hajkobillë
- | FULL_NAME_ND_RG=Hajkobille
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Hajkobillë
+| sqi_N_FULL_NAME_RO = Hajkobillë
+| sqi_N_FULL_NAME_ND_RO = Hajkobille
+| sqi_N_SORT_NAME_RG = HAJKOBILLE
+| sqi_N_FULL_NAME_RG = Hajkobillë
+| sqi_N_FULL_NAME_ND_RG = Hajkobille
+| sqi_V_name = Hajkobilë
+| sqi_V_FULL_NAME_RO = Hajkobilë
+| sqi_V_FULL_NAME_ND_RO = Hajkobile
+| sqi_V_SORT_NAME_RG = HAJKOBILE
+| sqi_V_FULL_NAME_RG = Hajkobilë
+| sqi_V_FULL_NAME_ND_RG = Hajkobile
+| srp_N_name = Ajkobila
+| srp_N_FULL_NAME_RO = Ajkobila
+| srp_N_FULL_NAME_ND_RO = Ajkobila
+| srp_N_SORT_NAME_RG = AJKOBILA
+| srp_N_FULL_NAME_RG = Ajkobila
+| srp_N_FULL_NAME_ND_RG = Ajkobila
+| srp_NS_name = Ајкобила
+| srp_NS_FULL_NAME_RO = Ајкобила
+| srp_NS_FULL_NAME_ND_RO = Ајкобила
+| srp_NS_SORT_NAME_RG = АЈКОБИЛА
+| srp_NS_FULL_NAME_RG = Ајкобила
+| srp_NS_FULL_NAME_ND_RG = Ајкобила
+| srp_V_name = Ajkovila
+| srp_V_FULL_NAME_RO = Ajkovila
+| srp_V_FULL_NAME_ND_RO = Ajkovila
+| srp_V_SORT_NAME_RG = AJKOVILA
+| srp_V_FULL_NAME_RG = Ajkovila
+| srp_V_FULL_NAME_ND_RG = Ajkovila
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.47612
  | Lartësia            = 
 }}
-'''Hajkobillë''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Hajkobillë''' është një [[Fshat Vogel]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

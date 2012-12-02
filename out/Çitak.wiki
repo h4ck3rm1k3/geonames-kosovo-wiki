@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Çitak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CITAK
- | FULL_NAME_RO = Çitak
- | FULL_NAME_ND_RO=Citak
- | SORT_NAME_RG=CITAK
- | FULL_NAME_RG=Çitak
- | FULL_NAME_ND_RG=Citak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Çitak
+| sqi_N_FULL_NAME_RO = Çitak
+| sqi_N_FULL_NAME_ND_RO = Citak
+| sqi_N_SORT_NAME_RG = CITAK
+| sqi_N_FULL_NAME_RG = Çitak
+| sqi_N_FULL_NAME_ND_RG = Citak
+| srp_N_name = Čitak
+| srp_N_FULL_NAME_RO = Čitak
+| srp_N_FULL_NAME_ND_RO = Citak
+| srp_N_SORT_NAME_RG = CITAK
+| srp_N_FULL_NAME_RG = Čitak
+| srp_N_FULL_NAME_ND_RG = Citak
+| srp_NS_name = Читак
+| srp_NS_FULL_NAME_RO = Читак
+| srp_NS_FULL_NAME_ND_RO = Читак
+| srp_NS_SORT_NAME_RG = ЧИТАК
+| srp_NS_FULL_NAME_RG = Читак
+| srp_NS_FULL_NAME_ND_RG = Читак
+| srp_V_name = Čitaci
+| srp_V_FULL_NAME_RO = Čitaci
+| srp_V_FULL_NAME_ND_RO = Citaci
+| srp_V_SORT_NAME_RG = CITACI
+| srp_V_FULL_NAME_RG = Čitaci
+| srp_V_FULL_NAME_ND_RG = Citaci
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.662222
  | Lartësia            = 
 }}
-'''Çitak''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Çitak''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

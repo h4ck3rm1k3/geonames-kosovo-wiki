@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kovaçicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOVACICE
- | FULL_NAME_RO = Kovaçicë
- | FULL_NAME_ND_RO=Kovacice
- | SORT_NAME_RG=KOVACICE
- | FULL_NAME_RG=Kovaçicë
- | FULL_NAME_ND_RG=Kovacice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kovaçicë
+| sqi_N_FULL_NAME_RO = Kovaçicë
+| sqi_N_FULL_NAME_ND_RO = Kovacice
+| sqi_N_SORT_NAME_RG = KOVACICE
+| sqi_N_FULL_NAME_RG = Kovaçicë
+| sqi_N_FULL_NAME_ND_RG = Kovacice
+| sqi_V_name = Zijaçë e Epërme
+| sqi_V_FULL_NAME_RO = Zijaçë e Epërme Kovaqicë Kovacica
+| sqi_V_FULL_NAME_ND_RO = Zijace e Eperme Kovaqice Kovacica
+| sqi_V_SORT_NAME_RG = ZIJACEEEPERME KOVAQICE KOVACICA
+| sqi_V_FULL_NAME_RG = Zijaçë e Epërme Kovaqicë Kovacica
+| sqi_V_FULL_NAME_ND_RG = Zijace e Eperme Kovaqice Kovacica
+| srp_N_name = Kovačica
+| srp_N_FULL_NAME_RO = Kovačica
+| srp_N_FULL_NAME_ND_RO = Kovacica
+| srp_N_SORT_NAME_RG = KOVACICA
+| srp_N_FULL_NAME_RG = Kovačica
+| srp_N_FULL_NAME_ND_RG = Kovacica
+| srp_NS_name = Ковачица
+| srp_NS_FULL_NAME_RO = Ковачица
+| srp_NS_FULL_NAME_ND_RO = Ковачица
+| srp_NS_SORT_NAME_RG = КОВАЧИЦА
+| srp_NS_FULL_NAME_RG = Ковачица
+| srp_NS_FULL_NAME_ND_RG = Ковачица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.038876
  | Lartësia            = 
 }}
-'''Kovaçicë''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Kovaçicë''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

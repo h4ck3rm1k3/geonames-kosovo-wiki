@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Golluboc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GOLLUBOC
- | FULL_NAME_RO = Golluboc
- | FULL_NAME_ND_RO=Golluboc
- | SORT_NAME_RG=GOLLUBOC
- | FULL_NAME_RG=Golluboc
- | FULL_NAME_ND_RG=Golluboc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Golluboc
+| sqi_N_FULL_NAME_RO = Golluboc
+| sqi_N_FULL_NAME_ND_RO = Golluboc
+| sqi_N_SORT_NAME_RG = GOLLUBOC
+| sqi_N_FULL_NAME_RG = Golluboc
+| sqi_N_FULL_NAME_ND_RG = Golluboc
+| sqi_V_name = Gollubovc
+| sqi_V_FULL_NAME_RO = Gollubovc
+| sqi_V_FULL_NAME_ND_RO = Gollubovc
+| sqi_V_SORT_NAME_RG = GOLLUBOVC
+| sqi_V_FULL_NAME_RG = Gollubovc
+| sqi_V_FULL_NAME_ND_RG = Gollubovc
+| srp_N_name = Golubovac
+| srp_N_FULL_NAME_RO = Golubovac
+| srp_N_FULL_NAME_ND_RO = Golubovac
+| srp_N_SORT_NAME_RG = GOLUBOVAC
+| srp_N_FULL_NAME_RG = Golubovac
+| srp_N_FULL_NAME_ND_RG = Golubovac
+| srp_NS_name = Голубовац
+| srp_NS_FULL_NAME_RO = Голубовац
+| srp_NS_FULL_NAME_ND_RO = Голубовац
+| srp_NS_SORT_NAME_RG = ГОЛУБОВАЦ
+| srp_NS_FULL_NAME_RG = Голубовац
+| srp_NS_FULL_NAME_ND_RG = Голубовац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.783333
  | Lartësia            = 
 }}
-'''Golluboc''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Golluboc''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

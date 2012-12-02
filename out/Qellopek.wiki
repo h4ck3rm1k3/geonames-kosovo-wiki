@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Qellopek
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      QELLOPEK
- | FULL_NAME_RO = Qellopek
- | FULL_NAME_ND_RO=Qellopek
- | SORT_NAME_RG=QELLOPEK
- | FULL_NAME_RG=Qellopek
- | FULL_NAME_ND_RG=Qellopek
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Qellopek
+| sqi_D_FULL_NAME_RO = Qellopek
+| sqi_D_FULL_NAME_ND_RO = Qellopek
+| sqi_D_SORT_NAME_RG = QELLOPEK
+| sqi_D_FULL_NAME_RG = Qellopek
+| sqi_D_FULL_NAME_ND_RG = Qellopek
+| srp_N_name = Čelopek
+| srp_N_FULL_NAME_RO = Čelopek
+| srp_N_FULL_NAME_ND_RO = Celopek
+| srp_N_SORT_NAME_RG = CELOPEK
+| srp_N_FULL_NAME_RG = Čelopek
+| srp_N_FULL_NAME_ND_RG = Celopek
+| srp_NS_name = Челопек
+| srp_NS_FULL_NAME_RO = Челопек
+| srp_NS_FULL_NAME_ND_RO = Челопек
+| srp_NS_SORT_NAME_RG = ЧЕЛОПЕК
+| srp_NS_FULL_NAME_RG = Челопек
+| srp_NS_FULL_NAME_ND_RG = Челопек
+| srp_V_name = Čalopek
+| srp_V_FULL_NAME_RO = Čalopek
+| srp_V_FULL_NAME_ND_RO = Calopek
+| srp_V_SORT_NAME_RG = CALOPEK
+| srp_V_FULL_NAME_RG = Čalopek
+| srp_V_FULL_NAME_ND_RG = Calopek
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.180833
  | Lartësia            = 
 }}
-'''Qellopek''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Qellopek''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

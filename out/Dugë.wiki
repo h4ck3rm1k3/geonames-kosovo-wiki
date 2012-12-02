@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dugë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DUGE
- | FULL_NAME_RO = Dugë
- | FULL_NAME_ND_RO=Duge
- | SORT_NAME_RG=DUGE
- | FULL_NAME_RG=Dugë
- | FULL_NAME_ND_RG=Duge
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dugë
+| sqi_N_FULL_NAME_RO = Dugë
+| sqi_N_FULL_NAME_ND_RO = Duge
+| sqi_N_SORT_NAME_RG = DUGE
+| sqi_N_FULL_NAME_RG = Dugë
+| sqi_N_FULL_NAME_ND_RG = Duge
+| sqi_V_name = Dukë
+| sqi_V_FULL_NAME_RO = Dukë
+| sqi_V_FULL_NAME_ND_RO = Duke
+| sqi_V_SORT_NAME_RG = DUKE
+| sqi_V_FULL_NAME_RG = Dukë
+| sqi_V_FULL_NAME_ND_RG = Duke
+| srp_N_name = Duga
+| srp_N_FULL_NAME_RO = Duga
+| srp_N_FULL_NAME_ND_RO = Duga
+| srp_N_SORT_NAME_RG = DUGA
+| srp_N_FULL_NAME_RG = Duga
+| srp_N_FULL_NAME_ND_RG = Duga
+| srp_NS_name = Дуга
+| srp_NS_FULL_NAME_RO = Дуга
+| srp_NS_FULL_NAME_ND_RO = Дуга
+| srp_NS_SORT_NAME_RG = ДУГА
+| srp_NS_FULL_NAME_RG = Дуга
+| srp_NS_FULL_NAME_ND_RG = Дуга
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.930833
  | Lartësia            = 
 }}
-'''Dugë''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Dugë''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

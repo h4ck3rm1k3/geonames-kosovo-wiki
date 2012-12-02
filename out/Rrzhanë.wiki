@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rrzhanë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RRZHANE
- | FULL_NAME_RO = Rrzhanë
- | FULL_NAME_ND_RO=Rrzhane
- | SORT_NAME_RG=RRZHANE
- | FULL_NAME_RG=Rrzhanë
- | FULL_NAME_ND_RG=Rrzhane
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rrzhanë
+| sqi_N_FULL_NAME_RO = Rrzhanë
+| sqi_N_FULL_NAME_ND_RO = Rrzhane
+| sqi_N_SORT_NAME_RG = RRZHANE
+| sqi_N_FULL_NAME_RG = Rrzhanë
+| sqi_N_FULL_NAME_ND_RG = Rrzhane
+| sqi_V_name = Rezhanë
+| sqi_V_FULL_NAME_RO = Rezhanë Rzhanë
+| sqi_V_FULL_NAME_ND_RO = Rezhane Rzhane
+| sqi_V_SORT_NAME_RG = REZHANE RZHANE
+| sqi_V_FULL_NAME_RG = Rezhanë Rzhanë
+| sqi_V_FULL_NAME_ND_RG = Rezhane Rzhane
+| srp_N_name = Ržana
+| srp_N_FULL_NAME_RO = Ržana
+| srp_N_FULL_NAME_ND_RO = Rzana
+| srp_N_SORT_NAME_RG = RZANA
+| srp_N_FULL_NAME_RG = Ržana
+| srp_N_FULL_NAME_ND_RG = Rzana
+| srp_NS_name = Ржана
+| srp_NS_FULL_NAME_RO = Ржана
+| srp_NS_FULL_NAME_ND_RO = Ржана
+| srp_NS_SORT_NAME_RG = РЖАНА
+| srp_NS_FULL_NAME_RG = Ржана
+| srp_NS_FULL_NAME_ND_RG = Ржана
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.007222
  | Lartësia            = 
 }}
-'''Rrzhanë''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Rrzhanë''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

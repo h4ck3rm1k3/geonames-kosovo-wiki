@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ostraqë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      OSTRAQE
- | FULL_NAME_RO = Ostraqë
- | FULL_NAME_ND_RO=Ostraqe
- | SORT_NAME_RG=OSTRAQE
- | FULL_NAME_RG=Ostraqë
- | FULL_NAME_ND_RG=Ostraqe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Ostraqë
+| sqi_N_FULL_NAME_RO = Ostraqë
+| sqi_N_FULL_NAME_ND_RO = Ostraqe
+| sqi_N_SORT_NAME_RG = OSTRAQE
+| sqi_N_FULL_NAME_RG = Ostraqë
+| sqi_N_FULL_NAME_ND_RG = Ostraqe
+| srp_N_name = Ostraće
+| srp_N_FULL_NAME_RO = Ostraće
+| srp_N_FULL_NAME_ND_RO = Ostrace
+| srp_N_SORT_NAME_RG = OSTRACE
+| srp_N_FULL_NAME_RG = Ostraće
+| srp_N_FULL_NAME_ND_RG = Ostrace
+| srp_NS_name = Остраће
+| srp_NS_FULL_NAME_RO = Остраће
+| srp_NS_FULL_NAME_ND_RO = Остраће
+| srp_NS_SORT_NAME_RG = ОСТРАЋЕ
+| srp_NS_FULL_NAME_RG = Остраће
+| srp_NS_FULL_NAME_ND_RG = Остраће
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.752778
  | Lartësia            = 
 }}
-'''Ostraqë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Ostraqë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

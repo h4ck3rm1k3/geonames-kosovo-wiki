@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zhur
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZHUR
- | FULL_NAME_RO = Zhur
- | FULL_NAME_ND_RO=Zhur
- | SORT_NAME_RG=ZHUR
- | FULL_NAME_RG=Zhur
- | FULL_NAME_ND_RG=Zhur
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zhur
+| sqi_N_FULL_NAME_RO = Zhur
+| sqi_N_FULL_NAME_ND_RO = Zhur
+| sqi_N_SORT_NAME_RG = ZHUR
+| sqi_N_FULL_NAME_RG = Zhur
+| sqi_N_FULL_NAME_ND_RG = Zhur
+| sqi_V_name = Zhuri
+| sqi_V_FULL_NAME_RO = Zhuri
+| sqi_V_FULL_NAME_ND_RO = Zhuri
+| sqi_V_SORT_NAME_RG = ZHURI
+| sqi_V_FULL_NAME_RG = Zhuri
+| sqi_V_FULL_NAME_ND_RG = Zhuri
+| srp_N_name = Žur
+| srp_N_FULL_NAME_RO = Žur
+| srp_N_FULL_NAME_ND_RO = Zur
+| srp_N_SORT_NAME_RG = ZUR
+| srp_N_FULL_NAME_RG = Žur
+| srp_N_FULL_NAME_ND_RG = Zur
+| srp_NS_name = Жур
+| srp_NS_FULL_NAME_RO = Жур
+| srp_NS_FULL_NAME_ND_RO = Жур
+| srp_NS_SORT_NAME_RG = ЖУР
+| srp_NS_FULL_NAME_RG = Жур
+| srp_NS_FULL_NAME_ND_RG = Жур
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.621111
  | Lartësia            = 
 }}
-'''Zhur''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Zhur''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zojz
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZOJZ
- | FULL_NAME_RO = Zojz
- | FULL_NAME_ND_RO=Zojz
- | SORT_NAME_RG=ZOJZ
- | FULL_NAME_RG=Zojz
- | FULL_NAME_ND_RG=Zojz
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zojz
+| sqi_D_FULL_NAME_RO = Zojz
+| sqi_D_FULL_NAME_ND_RO = Zojz
+| sqi_D_SORT_NAME_RG = ZOJZ
+| sqi_D_FULL_NAME_RG = Zojz
+| sqi_D_FULL_NAME_ND_RG = Zojz
+| sqi_V_name = Zojiq
+| sqi_V_FULL_NAME_RO = Zojiq
+| sqi_V_FULL_NAME_ND_RO = Zojiq
+| sqi_V_SORT_NAME_RG = ZOJIQ
+| sqi_V_FULL_NAME_RG = Zojiq
+| sqi_V_FULL_NAME_ND_RG = Zojiq
+| srp_N_name = Zojić
+| srp_N_FULL_NAME_RO = Zojić
+| srp_N_FULL_NAME_ND_RO = Zojic
+| srp_N_SORT_NAME_RG = ZOJIC
+| srp_N_FULL_NAME_RG = Zojić
+| srp_N_FULL_NAME_ND_RG = Zojic
+| srp_NS_name = Зојић
+| srp_NS_FULL_NAME_RO = Зојић
+| srp_NS_FULL_NAME_ND_RO = Зојић
+| srp_NS_SORT_NAME_RG = ЗОЈИЋ
+| srp_NS_FULL_NAME_RG = Зојић
+| srp_NS_FULL_NAME_ND_RG = Зојић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.698611
  | Lartësia            = 
 }}
-'''Zojz''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Zojz''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

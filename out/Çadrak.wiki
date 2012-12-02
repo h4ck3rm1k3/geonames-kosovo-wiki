@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Çadrak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CADRAK
- | FULL_NAME_RO = Çadrak
- | FULL_NAME_ND_RO=Cadrak
- | SORT_NAME_RG=CADRAK
- | FULL_NAME_RG=Çadrak
- | FULL_NAME_ND_RG=Cadrak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Çadrak
+| sqi_N_FULL_NAME_RO = Çadrak
+| sqi_N_FULL_NAME_ND_RO = Cadrak
+| sqi_N_SORT_NAME_RG = CADRAK
+| sqi_N_FULL_NAME_RG = Çadrak
+| sqi_N_FULL_NAME_ND_RG = Cadrak
+| sqi_V_name = Ãajdrak
+| sqi_V_FULL_NAME_RO = Ãajdrak
+| sqi_V_FULL_NAME_ND_RO = ¿ajdrak
+| sqi_V_SORT_NAME_RG = ¿AJDRAK
+| sqi_V_FULL_NAME_RG = Ãajdrak
+| sqi_V_FULL_NAME_ND_RG = ¿ajdrak
+| srp_N_name = Čajdrak
+| srp_N_FULL_NAME_RO = Čajdrak
+| srp_N_FULL_NAME_ND_RO = Cajdrak
+| srp_N_SORT_NAME_RG = CAJDRAK
+| srp_N_FULL_NAME_RG = Čajdrak
+| srp_N_FULL_NAME_ND_RG = Cajdrak
+| srp_NS_name = Чајдрак
+| srp_NS_FULL_NAME_RO = Чајдрак
+| srp_NS_FULL_NAME_ND_RO = Чајдрак
+| srp_NS_SORT_NAME_RG = ЧАЈДРАК
+| srp_NS_FULL_NAME_RG = Чајдрак
+| srp_NS_FULL_NAME_ND_RG = Чајдрак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.926667
  | Lartësia            = 
 }}
-'''Çadrak''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Çadrak''' është një [[Fshat Vogel]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zebincë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZEBINCE
- | FULL_NAME_RO = Zebincë
- | FULL_NAME_ND_RO=Zebince
- | SORT_NAME_RG=ZEBINCE
- | FULL_NAME_RG=Zebincë
- | FULL_NAME_ND_RG=Zebince
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zebincë
+| sqi_N_FULL_NAME_RO = Zebincë
+| sqi_N_FULL_NAME_ND_RO = Zebince
+| sqi_N_SORT_NAME_RG = ZEBINCE
+| sqi_N_FULL_NAME_RG = Zebincë
+| sqi_N_FULL_NAME_ND_RG = Zebince
+| sqi_V_name = Zebnicë
+| sqi_V_FULL_NAME_RO = Zebnicë Zebinca
+| sqi_V_FULL_NAME_ND_RO = Zebnice Zebinca
+| sqi_V_SORT_NAME_RG = ZEBNICE ZEBINCA
+| sqi_V_FULL_NAME_RG = Zebnicë Zebinca
+| sqi_V_FULL_NAME_ND_RG = Zebnice Zebinca
+| srp_N_name = Zebince
+| srp_N_FULL_NAME_RO = Zebince
+| srp_N_FULL_NAME_ND_RO = Zebince
+| srp_N_SORT_NAME_RG = ZEBINCE
+| srp_N_FULL_NAME_RG = Zebince
+| srp_N_FULL_NAME_ND_RG = Zebince
+| srp_NS_name = Зебинце
+| srp_NS_FULL_NAME_RO = Зебинце
+| srp_NS_FULL_NAME_ND_RO = Зебинце
+| srp_NS_SORT_NAME_RG = ЗЕБИНЦЕ
+| srp_NS_FULL_NAME_RG = Зебинце
+| srp_NS_FULL_NAME_ND_RG = Зебинце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.410278
  | Lartësia            = 
 }}
-'''Zebincë''' është një [[]] në [[Obiliq]] të [[Kosovës]].
+'''Zebincë''' është një [[Fshat Vogel]] në [[Obiliq]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

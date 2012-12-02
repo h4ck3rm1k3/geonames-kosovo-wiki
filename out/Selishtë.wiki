@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Selishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SELISHTE
- | FULL_NAME_RO = Selishtë
- | FULL_NAME_ND_RO=Selishte
- | SORT_NAME_RG=SELISHTE
- | FULL_NAME_RG=Selishtë
- | FULL_NAME_ND_RG=Selishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Selishtë
+| sqi_N_FULL_NAME_RO = Selishtë
+| sqi_N_FULL_NAME_ND_RO = Selishte
+| sqi_N_SORT_NAME_RG = SELISHTE
+| sqi_N_FULL_NAME_RG = Selishtë
+| sqi_N_FULL_NAME_ND_RG = Selishte
+| srp_N_name = Selište
+| srp_N_FULL_NAME_RO = Selište
+| srp_N_FULL_NAME_ND_RO = Seliste
+| srp_N_SORT_NAME_RG = SELISTE
+| srp_N_FULL_NAME_RG = Selište
+| srp_N_FULL_NAME_ND_RG = Seliste
+| srp_NS_name = Селиште
+| srp_NS_FULL_NAME_RO = Селиште
+| srp_NS_FULL_NAME_ND_RO = Селиште
+| srp_NS_SORT_NAME_RG = СЕЛИШТЕ
+| srp_NS_FULL_NAME_RG = Селиште
+| srp_NS_FULL_NAME_ND_RG = Селиште
+| srp_V_name = Selište Mahala
+| srp_V_FULL_NAME_RO = Selište Mahala
+| srp_V_FULL_NAME_ND_RO = Seliste Mahala
+| srp_V_SORT_NAME_RG = SELISTEMAHALA
+| srp_V_FULL_NAME_RG = Selište Mahala
+| srp_V_FULL_NAME_ND_RG = Seliste Mahala
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.492778
  | Lartësia            = 
 }}
-'''Selishtë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Selishtë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

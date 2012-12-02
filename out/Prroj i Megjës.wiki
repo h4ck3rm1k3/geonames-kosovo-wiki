@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prroj i Megjës
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PRROJIMEGJES
- | FULL_NAME_RO = Prroj i Megjës
- | FULL_NAME_ND_RO=Prroj i Megjes
- | SORT_NAME_RG=PRROJIMEGJES
- | FULL_NAME_RG=Prroj i Megjës
- | FULL_NAME_ND_RG=Prroj i Megjes
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Prroj i Megjës
+| sqi_D_FULL_NAME_RO = Prroj i Megjës
+| sqi_D_FULL_NAME_ND_RO = Prroj i Megjes
+| sqi_D_SORT_NAME_RG = PRROJIMEGJES
+| sqi_D_FULL_NAME_RG = Prroj i Megjës
+| sqi_D_FULL_NAME_ND_RG = Prroj i Megjes
+| sqi_V_name = Megjegji Potok
+| sqi_V_FULL_NAME_RO = Megjegji Potok Megjipotok
+| sqi_V_FULL_NAME_ND_RO = Megjegji Potok Megjipotok
+| sqi_V_SORT_NAME_RG = MEGJEGJIPOTOK MEGJIPOTOK
+| sqi_V_FULL_NAME_RG = Megjegji Potok Megjipotok
+| sqi_V_FULL_NAME_ND_RG = Megjegji Potok Megjipotok
+| srp_N_name = Međeđi Potok
+| srp_N_FULL_NAME_RO = Međeđi Potok
+| srp_N_FULL_NAME_ND_RO = Mededi Potok
+| srp_N_SORT_NAME_RG = MEDEDIPOTOK
+| srp_N_FULL_NAME_RG = Međeđi Potok
+| srp_N_FULL_NAME_ND_RG = Mededi Potok
+| srp_NS_name = Међеђи Поток
+| srp_NS_FULL_NAME_RO = Међеђи Поток
+| srp_NS_FULL_NAME_ND_RO = Међеђи Поток
+| srp_NS_SORT_NAME_RG = МЕЂЕЂИПОТОК
+| srp_NS_FULL_NAME_RG = Међеђи Поток
+| srp_NS_FULL_NAME_ND_RG = Међеђи Поток
+| srp_V_name = Medveđi Potok
+| srp_V_FULL_NAME_RO = Medveđi Potok
+| srp_V_FULL_NAME_ND_RO = Medvedi Potok
+| srp_V_SORT_NAME_RG = MEDVEDIPOTOK
+| srp_V_FULL_NAME_RG = Medveđi Potok
+| srp_V_FULL_NAME_ND_RG = Medvedi Potok
+| srp_VS_name = Медвеђи Поток
+| srp_VS_FULL_NAME_RO = Медвеђи Поток
+| srp_VS_FULL_NAME_ND_RO = Медвеђи Поток
+| srp_VS_SORT_NAME_RG = МЕДВЕЂИПОТОК
+| srp_VS_FULL_NAME_RG = Медвеђи Поток
+| srp_VS_FULL_NAME_ND_RG = Медвеђи Поток
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.622222
  | Lartësia            = 
 }}
-'''Prroj i Megjës''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Prroj i Megjës''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

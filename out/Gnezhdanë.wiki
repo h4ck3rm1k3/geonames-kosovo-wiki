@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gnezhdanë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GNEZHDANE
- | FULL_NAME_RO = Gnezhdanë
- | FULL_NAME_ND_RO=Gnezhdane
- | SORT_NAME_RG=GNEZHDANE
- | FULL_NAME_RG=Gnezhdanë
- | FULL_NAME_ND_RG=Gnezhdane
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gnezhdanë
+| sqi_D_FULL_NAME_RO = Gnezhdanë
+| sqi_D_FULL_NAME_ND_RO = Gnezhdane
+| sqi_D_SORT_NAME_RG = GNEZHDANE
+| sqi_D_FULL_NAME_RG = Gnezhdanë
+| sqi_D_FULL_NAME_ND_RG = Gnezhdane
+| sqi_V_name = Gnezhdani
+| sqi_V_FULL_NAME_RO = Gnezhdani
+| sqi_V_FULL_NAME_ND_RO = Gnezhdani
+| sqi_V_SORT_NAME_RG = GNEZHDANI
+| sqi_V_FULL_NAME_RG = Gnezhdani
+| sqi_V_FULL_NAME_ND_RG = Gnezhdani
+| srp_N_name = Gnježdane
+| srp_N_FULL_NAME_RO = Gnježdane
+| srp_N_FULL_NAME_ND_RO = Gnjezdane
+| srp_N_SORT_NAME_RG = GNJEZDANE
+| srp_N_FULL_NAME_RG = Gnježdane
+| srp_N_FULL_NAME_ND_RG = Gnjezdane
+| srp_NS_name = Гњеждане
+| srp_NS_FULL_NAME_RO = Гњеждане
+| srp_NS_FULL_NAME_ND_RO = Гњеждане
+| srp_NS_SORT_NAME_RG = ГЊЕЖДАНЕ
+| srp_NS_FULL_NAME_RG = Гњеждане
+| srp_NS_FULL_NAME_ND_RG = Гњеждане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.710278
  | Lartësia            = 
 }}
-'''Gnezhdanë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Gnezhdanë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

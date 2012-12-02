@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Cërven
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CERVEN
- | FULL_NAME_RO = Cërven
- | FULL_NAME_ND_RO=Cerven
- | SORT_NAME_RG=CERVEN
- | FULL_NAME_RG=Cërven
- | FULL_NAME_ND_RG=Cerven
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Cërven
+| sqi_N_FULL_NAME_RO = Cërven
+| sqi_N_FULL_NAME_ND_RO = Cerven
+| sqi_N_SORT_NAME_RG = CERVEN
+| sqi_N_FULL_NAME_RG = Cërven
+| sqi_N_FULL_NAME_ND_RG = Cerven
+| sqi_V_name = Cërvenik
+| sqi_V_FULL_NAME_RO = Cërvenik
+| sqi_V_FULL_NAME_ND_RO = Cervenik
+| sqi_V_SORT_NAME_RG = CERVENIK
+| sqi_V_FULL_NAME_RG = Cërvenik
+| sqi_V_FULL_NAME_ND_RG = Cervenik
+| srp_N_name = Crveni
+| srp_N_FULL_NAME_RO = Crveni
+| srp_N_FULL_NAME_ND_RO = Crveni
+| srp_N_SORT_NAME_RG = CRVENI
+| srp_N_FULL_NAME_RG = Crveni
+| srp_N_FULL_NAME_ND_RG = Crveni
+| srp_NS_name = Црвени
+| srp_NS_FULL_NAME_RO = Црвени
+| srp_NS_FULL_NAME_ND_RO = Црвени
+| srp_NS_SORT_NAME_RG = ЦРВЕНИ
+| srp_NS_FULL_NAME_RG = Црвени
+| srp_NS_FULL_NAME_ND_RG = Црвени
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.728056
  | Lartësia            = 
 }}
-'''Cërven''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Cërven''' është një [[Fshat Vogel]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

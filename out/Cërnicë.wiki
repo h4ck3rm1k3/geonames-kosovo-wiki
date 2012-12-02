@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Cërnicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CERNICE
- | FULL_NAME_RO = Cërnicë
- | FULL_NAME_ND_RO=Cernice
- | SORT_NAME_RG=CERNICE
- | FULL_NAME_RG=Cërnicë
- | FULL_NAME_ND_RG=Cernice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Cërnicë
+| sqi_D_FULL_NAME_RO = Cërnicë
+| sqi_D_FULL_NAME_ND_RO = Cernice
+| sqi_D_SORT_NAME_RG = CERNICE
+| sqi_D_FULL_NAME_RG = Cërnicë
+| sqi_D_FULL_NAME_ND_RG = Cernice
+| sqi_V_name = Cernicë
+| sqi_V_FULL_NAME_RO = Cernicë
+| sqi_V_FULL_NAME_ND_RO = Cernice
+| sqi_V_SORT_NAME_RG = CERNICE
+| sqi_V_FULL_NAME_RG = Cernicë
+| sqi_V_FULL_NAME_ND_RG = Cernice
+| srp_N_name = Cernica
+| srp_N_FULL_NAME_RO = Cernica
+| srp_N_FULL_NAME_ND_RO = Cernica
+| srp_N_SORT_NAME_RG = CERNICA
+| srp_N_FULL_NAME_RG = Cernica
+| srp_N_FULL_NAME_ND_RG = Cernica
+| srp_NS_name = Церница
+| srp_NS_FULL_NAME_RO = Церница
+| srp_NS_FULL_NAME_ND_RO = Церница
+| srp_NS_SORT_NAME_RG = ЦЕРНИЦА
+| srp_NS_FULL_NAME_RG = Церница
+| srp_NS_FULL_NAME_ND_RG = Церница
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.419722
  | Lartësia            = 
 }}
-'''Cërnicë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Cërnicë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

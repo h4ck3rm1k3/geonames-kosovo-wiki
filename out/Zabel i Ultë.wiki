@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zabel i Ultë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZABELIULTE
- | FULL_NAME_RO = Zabel i Ultë
- | FULL_NAME_ND_RO=Zabel i Ulte
- | SORT_NAME_RG=ZABELIULTE
- | FULL_NAME_RG=Zabel i Ultë
- | FULL_NAME_ND_RG=Zabel i Ulte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zabel i Ultë
+| sqi_D_FULL_NAME_RO = Zabel i Ultë
+| sqi_D_FULL_NAME_ND_RO = Zabel i Ulte
+| sqi_D_SORT_NAME_RG = ZABELIULTE
+| sqi_D_FULL_NAME_RG = Zabel i Ultë
+| sqi_D_FULL_NAME_ND_RG = Zabel i Ulte
+| sqi_V_name = Zabel i Poshtëm
+| sqi_V_FULL_NAME_RO = Zabel i Poshtëm Zabeli i Poshtëm Zabeli i Ulët Zabeli i Ultë
+| sqi_V_FULL_NAME_ND_RO = Zabel i Poshtem Zabeli i Poshtem Zabeli i Ulet Zabeli i Ulte
+| sqi_V_SORT_NAME_RG = ZABELIPOSHTEM ZABELIIPOSHTEM ZABELIIULET ZABELIIULTE
+| sqi_V_FULL_NAME_RG = Zabel i Poshtëm Zabeli i Poshtëm Zabeli i Ulët Zabeli i Ultë
+| sqi_V_FULL_NAME_ND_RG = Zabel i Poshtem Zabeli i Poshtem Zabeli i Ulet Zabeli i Ulte
+| srp_N_name = Donji Zabelj
+| srp_N_FULL_NAME_RO = Donji Zabelj
+| srp_N_FULL_NAME_ND_RO = Donji Zabelj
+| srp_N_SORT_NAME_RG = DONJIZABELJ
+| srp_N_FULL_NAME_RG = Donji Zabelj
+| srp_N_FULL_NAME_ND_RG = Donji Zabelj
+| srp_NS_name = Доњи Забељ
+| srp_NS_FULL_NAME_RO = Доњи Забељ
+| srp_NS_FULL_NAME_ND_RO = Доњи Забељ
+| srp_NS_SORT_NAME_RG = ДОЊИЗАБЕЉ
+| srp_NS_FULL_NAME_RG = Доњи Забељ
+| srp_NS_FULL_NAME_ND_RG = Доњи Забељ
+| srp_V_name = Donji Zabel
+| srp_V_FULL_NAME_RO = Donji Zabel
+| srp_V_FULL_NAME_ND_RO = Donji Zabel
+| srp_V_SORT_NAME_RG = DONJIZABEL
+| srp_V_FULL_NAME_RG = Donji Zabel
+| srp_V_FULL_NAME_ND_RG = Donji Zabel
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.893611
  | Lartësia            = 
 }}
-'''Zabel i Ultë''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Zabel i Ultë''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

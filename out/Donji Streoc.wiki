@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Donji Streoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DONJISTREOC
- | FULL_NAME_RO = Donji Streoc
- | FULL_NAME_ND_RO=Donji Streoc
- | SORT_NAME_RG=DONJISTREOC
- | FULL_NAME_RG=Donji Streoc
- | FULL_NAME_ND_RG=Donji Streoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Strellc i Ultë
+| sqi_D_FULL_NAME_RO = Strellc i Ultë
+| sqi_D_FULL_NAME_ND_RO = Strellc i Ulte
+| sqi_D_SORT_NAME_RG = STRELLCIULTE
+| sqi_D_FULL_NAME_RG = Strellc i Ultë
+| sqi_D_FULL_NAME_ND_RG = Strellc i Ulte
+| sqi_N_name = Donji Streoc
+| sqi_N_FULL_NAME_RO = Donji Streoc
+| sqi_N_FULL_NAME_ND_RO = Donji Streoc
+| sqi_N_SORT_NAME_RG = DONJISTREOC
+| sqi_N_FULL_NAME_RG = Donji Streoc
+| sqi_N_FULL_NAME_ND_RG = Donji Streoc
+| sqi_V_name = Stralic i Poshtëm
+| sqi_V_FULL_NAME_RO = Stralic i Poshtëm Stralli i Poshtëm Strellc i Pashtëm Strellc i Poshtëm Strellci i Poshtëm Strellc i Ulët
+| sqi_V_FULL_NAME_ND_RO = Stralic i Poshtem Stralli i Poshtem Strellc i Pashtem Strellc i Poshtem Strellci i Poshtem Strellc i Ulet
+| sqi_V_SORT_NAME_RG = STRALICIPOSHTEM STRALLIIPOSHTEM STRELLCIPASHTEM STRELLCIPOSHTEM STRELLCIIPOSHTEM STRELLCIULET
+| sqi_V_FULL_NAME_RG = Stralic i Poshtëm Stralli i Poshtëm Strellc i Pashtëm Strellc i Poshtëm Strellci i Poshtëm Strellc i Ulët
+| sqi_V_FULL_NAME_ND_RG = Stralic i Poshtem Stralli i Poshtem Strellc i Pashtem Strellc i Poshtem Strellci i Poshtem Strellc i Ulet
+| srp_NS_name = Доњи Стреоц
+| srp_NS_FULL_NAME_RO = Доњи Стреоц
+| srp_NS_FULL_NAME_ND_RO = Доњи Стреоц
+| srp_NS_SORT_NAME_RG = ДОЊИСТРЕОЦ
+| srp_NS_FULL_NAME_RG = Доњи Стреоц
+| srp_NS_FULL_NAME_ND_RG = Доњи Стреоц
+| srp_V_name = Donji Streoci
+| srp_V_FULL_NAME_RO = Donji Streoci
+| srp_V_FULL_NAME_ND_RO = Donji Streoci
+| srp_V_SORT_NAME_RG = DONJISTREOCI
+| srp_V_FULL_NAME_RG = Donji Streoci
+| srp_V_FULL_NAME_ND_RG = Donji Streoci
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.313611
  | Lartësia            = 
 }}
-'''Donji Streoc''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Donji Streoc''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

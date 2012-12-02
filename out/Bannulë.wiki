@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bannulë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BANNULE
- | FULL_NAME_RO = Bannulë
- | FULL_NAME_ND_RO=Bannule
- | SORT_NAME_RG=BANNULE
- | FULL_NAME_RG=Bannulë
- | FULL_NAME_ND_RG=Bannule
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bannulë
+| sqi_N_FULL_NAME_RO = Bannulë
+| sqi_N_FULL_NAME_ND_RO = Bannule
+| sqi_N_SORT_NAME_RG = BANNULE
+| sqi_N_FULL_NAME_RG = Bannulë
+| sqi_N_FULL_NAME_ND_RG = Bannule
+| sqi_V_name = Banduliq
+| sqi_V_FULL_NAME_RO = Banduliq
+| sqi_V_FULL_NAME_ND_RO = Banduliq
+| sqi_V_SORT_NAME_RG = BANDULIQ
+| sqi_V_FULL_NAME_RG = Banduliq
+| sqi_V_FULL_NAME_ND_RG = Banduliq
+| srp_N_name = Bandulić
+| srp_N_FULL_NAME_RO = Bandulić
+| srp_N_FULL_NAME_ND_RO = Bandulic
+| srp_N_SORT_NAME_RG = BANDULIC
+| srp_N_FULL_NAME_RG = Bandulić
+| srp_N_FULL_NAME_ND_RG = Bandulic
+| srp_NS_name = Бандулић
+| srp_NS_FULL_NAME_RO = Бандулић
+| srp_NS_FULL_NAME_ND_RO = Бандулић
+| srp_NS_SORT_NAME_RG = БАНДУЛИЋ
+| srp_NS_FULL_NAME_RG = Бандулић
+| srp_NS_FULL_NAME_ND_RG = Бандулић
+| srp_V_name = Bondulići
+| srp_V_FULL_NAME_RO = Bondulići
+| srp_V_FULL_NAME_ND_RO = Bondulici
+| srp_V_SORT_NAME_RG = BONDULICI
+| srp_V_FULL_NAME_RG = Bondulići
+| srp_V_FULL_NAME_ND_RG = Bondulici
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.153333
  | Lartësia            = 
 }}
-'''Bannulë''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Bannulë''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

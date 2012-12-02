@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gërkajë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GERKAJE
- | FULL_NAME_RO = Gërkajë
- | FULL_NAME_ND_RO=Gerkaje
- | SORT_NAME_RG=GERKAJE
- | FULL_NAME_RG=Gërkajë
- | FULL_NAME_ND_RG=Gerkaje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gërkajë
+| sqi_N_FULL_NAME_RO = Gërkajë
+| sqi_N_FULL_NAME_ND_RO = Gerkaje
+| sqi_N_SORT_NAME_RG = GERKAJE
+| sqi_N_FULL_NAME_RG = Gërkajë
+| sqi_N_FULL_NAME_ND_RG = Gerkaje
+| srp_N_name = Grkaje
+| srp_N_FULL_NAME_RO = Grkaje
+| srp_N_FULL_NAME_ND_RO = Grkaje
+| srp_N_SORT_NAME_RG = GRKAJE
+| srp_N_FULL_NAME_RG = Grkaje
+| srp_N_FULL_NAME_ND_RG = Grkaje
+| srp_NS_name = Гркаје
+| srp_NS_FULL_NAME_RO = Гркаје
+| srp_NS_FULL_NAME_ND_RO = Гркаје
+| srp_NS_SORT_NAME_RG = ГРКАЈЕ
+| srp_NS_FULL_NAME_RG = Гркаје
+| srp_NS_FULL_NAME_ND_RG = Гркаје
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.760833
  | Lartësia            = 
 }}
-'''Gërkajë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Gërkajë''' është një [[Fshat Vogel]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

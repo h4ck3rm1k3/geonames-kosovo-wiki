@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Henc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      HENC
- | FULL_NAME_RO = Henc
- | FULL_NAME_ND_RO=Henc
- | SORT_NAME_RG=HENC
- | FULL_NAME_RG=Henc
- | FULL_NAME_ND_RG=Henc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Henc
+| sqi_N_FULL_NAME_RO = Henc
+| sqi_N_FULL_NAME_ND_RO = Henc
+| sqi_N_SORT_NAME_RG = HENC
+| sqi_N_FULL_NAME_RG = Henc
+| sqi_N_FULL_NAME_ND_RG = Henc
+| sqi_V_name = Henci
+| sqi_V_FULL_NAME_RO = Henci
+| sqi_V_FULL_NAME_ND_RO = Henci
+| sqi_V_SORT_NAME_RG = HENCI
+| sqi_V_FULL_NAME_RG = Henci
+| sqi_V_FULL_NAME_ND_RG = Henci
+| srp_N_name = Ence
+| srp_N_FULL_NAME_RO = Ence
+| srp_N_FULL_NAME_ND_RO = Ence
+| srp_N_SORT_NAME_RG = ENCE
+| srp_N_FULL_NAME_RG = Ence
+| srp_N_FULL_NAME_ND_RG = Ence
+| srp_NS_name = Енце
+| srp_NS_FULL_NAME_RO = Енце
+| srp_NS_FULL_NAME_ND_RO = Енце
+| srp_NS_SORT_NAME_RG = ЕНЦЕ
+| srp_NS_FULL_NAME_RG = Енце
+| srp_NS_FULL_NAME_ND_RG = Енце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.047292
  | Lartësia            = 
 }}
-'''Henc''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
+'''Henc''' është një [[Fshat]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

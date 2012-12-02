@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Skromë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SKROME
- | FULL_NAME_RO = Skromë
- | FULL_NAME_ND_RO=Skrome
- | SORT_NAME_RG=SKROME
- | FULL_NAME_RG=Skromë
- | FULL_NAME_ND_RG=Skrome
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Skromë
+| sqi_N_FULL_NAME_RO = Skromë
+| sqi_N_FULL_NAME_ND_RO = Skrome
+| sqi_N_SORT_NAME_RG = SKROME
+| sqi_N_FULL_NAME_RG = Skromë
+| sqi_N_FULL_NAME_ND_RG = Skrome
+| sqi_V_name = Skrovnë
+| sqi_V_FULL_NAME_RO = Skrovnë
+| sqi_V_FULL_NAME_ND_RO = Skrovne
+| sqi_V_SORT_NAME_RG = SKROVNE
+| sqi_V_FULL_NAME_RG = Skrovnë
+| sqi_V_FULL_NAME_ND_RG = Skrovne
+| srp_N_name = Skrovna
+| srp_N_FULL_NAME_RO = Skrovna
+| srp_N_FULL_NAME_ND_RO = Skrovna
+| srp_N_SORT_NAME_RG = SKROVNA
+| srp_N_FULL_NAME_RG = Skrovna
+| srp_N_FULL_NAME_ND_RG = Skrovna
+| srp_NS_name = Скровна
+| srp_NS_FULL_NAME_RO = Скровна
+| srp_NS_FULL_NAME_ND_RO = Скровна
+| srp_NS_SORT_NAME_RG = СКРОВНА
+| srp_NS_FULL_NAME_RG = Скровна
+| srp_NS_FULL_NAME_ND_RG = Скровна
+| srp_V_name = Skromna
+| srp_V_FULL_NAME_RO = Skromna
+| srp_V_FULL_NAME_ND_RO = Skromna
+| srp_V_SORT_NAME_RG = SKROMNA
+| srp_V_FULL_NAME_RG = Skromna
+| srp_V_FULL_NAME_ND_RG = Skromna
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.02067
  | Lartësia            = 
 }}
-'''Skromë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Skromë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

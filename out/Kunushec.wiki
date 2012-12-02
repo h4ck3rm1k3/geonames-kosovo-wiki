@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kunushec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KUNUSHEC
- | FULL_NAME_RO = Kunushec
- | FULL_NAME_ND_RO=Kunushec
- | SORT_NAME_RG=KUNUSHEC
- | FULL_NAME_RG=Kunushec
- | FULL_NAME_ND_RG=Kunushec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kunushec
+| sqi_N_FULL_NAME_RO = Kunushec
+| sqi_N_FULL_NAME_ND_RO = Kunushec
+| sqi_N_SORT_NAME_RG = KUNUSHEC
+| sqi_N_FULL_NAME_RG = Kunushec
+| sqi_N_FULL_NAME_ND_RG = Kunushec
+| sqi_V_name = Kunushevc
+| sqi_V_FULL_NAME_RO = Kunushevc Urëz Urëza Kunusheci Konushevc
+| sqi_V_FULL_NAME_ND_RO = Kunushevc Urez Ureza Kunusheci Konushevc
+| sqi_V_SORT_NAME_RG = KUNUSHEVC UREZ UREZA KUNUSHECI KONUSHEVC
+| sqi_V_FULL_NAME_RG = Kunushevc Urëz Urëza Kunusheci Konushevc
+| sqi_V_FULL_NAME_ND_RG = Kunushevc Urez Ureza Kunusheci Konushevc
+| srp_N_name = Konjuševac
+| srp_N_FULL_NAME_RO = Konjuševac
+| srp_N_FULL_NAME_ND_RO = Konjusevac
+| srp_N_SORT_NAME_RG = KONJUSEVAC
+| srp_N_FULL_NAME_RG = Konjuševac
+| srp_N_FULL_NAME_ND_RG = Konjusevac
+| srp_NS_name = Коњушевац
+| srp_NS_FULL_NAME_RO = Коњушевац
+| srp_NS_FULL_NAME_ND_RO = Коњушевац
+| srp_NS_SORT_NAME_RG = КОЊУШЕВАЦ
+| srp_NS_FULL_NAME_RG = Коњушевац
+| srp_NS_FULL_NAME_ND_RG = Коњушевац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.169444
  | Lartësia            = 
 }}
-'''Kunushec''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Kunushec''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

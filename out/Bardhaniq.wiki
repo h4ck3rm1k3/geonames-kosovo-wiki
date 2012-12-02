@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bardhaniq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BARDHANIQ
- | FULL_NAME_RO = Bardhaniq
- | FULL_NAME_ND_RO=Bardhaniq
- | SORT_NAME_RG=BARDHANIQ
- | FULL_NAME_RG=Bardhaniq
- | FULL_NAME_ND_RG=Bardhaniq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Bardhaniq
+| sqi_D_FULL_NAME_RO = Bardhaniq
+| sqi_D_FULL_NAME_ND_RO = Bardhaniq
+| sqi_D_SORT_NAME_RG = BARDHANIQ
+| sqi_D_FULL_NAME_RG = Bardhaniq
+| sqi_D_FULL_NAME_ND_RG = Bardhaniq
+| sqi_V_name = Bordeniç
+| sqi_V_FULL_NAME_RO = Bordeniç
+| sqi_V_FULL_NAME_ND_RO = Bordenic
+| sqi_V_SORT_NAME_RG = BORDENIC
+| sqi_V_FULL_NAME_RG = Bordeniç
+| sqi_V_FULL_NAME_ND_RG = Bordenic
+| srp_N_name = Bardonić
+| srp_N_FULL_NAME_RO = Bardonić
+| srp_N_FULL_NAME_ND_RO = Bardonic
+| srp_N_SORT_NAME_RG = BARDONIC
+| srp_N_FULL_NAME_RG = Bardonić
+| srp_N_FULL_NAME_ND_RG = Bardonic
+| srp_NS_name = Бардонић
+| srp_NS_FULL_NAME_RO = Бардонић
+| srp_NS_FULL_NAME_ND_RO = Бардонић
+| srp_NS_SORT_NAME_RG = БАРДОНИЋ
+| srp_NS_FULL_NAME_RG = Бардонић
+| srp_NS_FULL_NAME_ND_RG = Бардонић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.447778
  | Lartësia            = 
 }}
-'''Bardhaniq''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Bardhaniq''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

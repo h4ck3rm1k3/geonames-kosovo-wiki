@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ponesh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PONESH
- | FULL_NAME_RO = Ponesh
- | FULL_NAME_ND_RO=Ponesh
- | SORT_NAME_RG=PONESH
- | FULL_NAME_RG=Ponesh
- | FULL_NAME_ND_RG=Ponesh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Ponesh
+| sqi_N_FULL_NAME_RO = Ponesh
+| sqi_N_FULL_NAME_ND_RO = Ponesh
+| sqi_N_SORT_NAME_RG = PONESH
+| sqi_N_FULL_NAME_RG = Ponesh
+| sqi_N_FULL_NAME_ND_RG = Ponesh
+| sqi_V_name = Paneshi
+| sqi_V_FULL_NAME_RO = Paneshi
+| sqi_V_FULL_NAME_ND_RO = Paneshi
+| sqi_V_SORT_NAME_RG = PANESHI
+| sqi_V_FULL_NAME_RG = Paneshi
+| sqi_V_FULL_NAME_ND_RG = Paneshi
+| srp_N_name = Poneš
+| srp_N_FULL_NAME_RO = Poneš
+| srp_N_FULL_NAME_ND_RO = Pones
+| srp_N_SORT_NAME_RG = PONES
+| srp_N_FULL_NAME_RG = Poneš
+| srp_N_FULL_NAME_ND_RG = Pones
+| srp_NS_name = Понеш
+| srp_NS_FULL_NAME_RO = Понеш
+| srp_NS_FULL_NAME_ND_RO = Понеш
+| srp_NS_SORT_NAME_RG = ПОНЕШ
+| srp_NS_FULL_NAME_RG = Понеш
+| srp_NS_FULL_NAME_ND_RG = Понеш
+| srp_V_name = Ponež
+| srp_V_FULL_NAME_RO = Ponež
+| srp_V_FULL_NAME_ND_RO = Ponez
+| srp_V_SORT_NAME_RG = PONEZ
+| srp_V_FULL_NAME_RG = Ponež
+| srp_V_FULL_NAME_ND_RG = Ponez
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.373889
  | Lartësia            = 
 }}
-'''Ponesh''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Ponesh''' është një [[Fshat Vogel]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

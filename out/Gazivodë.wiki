@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gazivodë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GAZIVODE
- | FULL_NAME_RO = Gazivodë
- | FULL_NAME_ND_RO=Gazivode
- | SORT_NAME_RG=GAZIVODE
- | FULL_NAME_RG=Gazivodë
- | FULL_NAME_ND_RG=Gazivode
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gazivodë
+| sqi_N_FULL_NAME_RO = Gazivodë
+| sqi_N_FULL_NAME_ND_RO = Gazivode
+| sqi_N_SORT_NAME_RG = GAZIVODE
+| sqi_N_FULL_NAME_RG = Gazivodë
+| sqi_N_FULL_NAME_ND_RG = Gazivode
+| srp_N_name = Gazivode
+| srp_N_FULL_NAME_RO = Gazivode
+| srp_N_FULL_NAME_ND_RO = Gazivode
+| srp_N_SORT_NAME_RG = GAZIVODE
+| srp_N_FULL_NAME_RG = Gazivode
+| srp_N_FULL_NAME_ND_RG = Gazivode
+| srp_NS_name = Газиводе
+| srp_NS_FULL_NAME_RO = Газиводе
+| srp_NS_FULL_NAME_ND_RO = Газиводе
+| srp_NS_SORT_NAME_RG = ГАЗИВОДЕ
+| srp_NS_FULL_NAME_RG = Газиводе
+| srp_NS_FULL_NAME_ND_RG = Газиводе
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.671111
  | Lartësia            = 
 }}
-'''Gazivodë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Gazivodë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

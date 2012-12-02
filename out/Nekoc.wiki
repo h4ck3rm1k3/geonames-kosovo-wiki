@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nekoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NEKOC
- | FULL_NAME_RO = Nekoc
- | FULL_NAME_ND_RO=Nekoc
- | SORT_NAME_RG=NEKOC
- | FULL_NAME_RG=Nekoc
- | FULL_NAME_ND_RG=Nekoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Nekoc
+| sqi_N_FULL_NAME_RO = Nekoc
+| sqi_N_FULL_NAME_ND_RO = Nekoc
+| sqi_N_SORT_NAME_RG = NEKOC
+| sqi_N_FULL_NAME_RG = Nekoc
+| sqi_N_FULL_NAME_ND_RG = Nekoc
+| sqi_V_name = Nekofc
+| sqi_V_FULL_NAME_RO = Nekofc Nekovc
+| sqi_V_FULL_NAME_ND_RO = Nekofc Nekovc
+| sqi_V_SORT_NAME_RG = NEKOFC NEKOVC
+| sqi_V_FULL_NAME_RG = Nekofc Nekovc
+| sqi_V_FULL_NAME_ND_RG = Nekofc Nekovc
+| srp_N_name = Nekovce
+| srp_N_FULL_NAME_RO = Nekovce
+| srp_N_FULL_NAME_ND_RO = Nekovce
+| srp_N_SORT_NAME_RG = NEKOVCE
+| srp_N_FULL_NAME_RG = Nekovce
+| srp_N_FULL_NAME_ND_RG = Nekovce
+| srp_NS_name = Нековце
+| srp_NS_FULL_NAME_RO = Нековце
+| srp_NS_FULL_NAME_ND_RO = Нековце
+| srp_NS_SORT_NAME_RG = НЕКОВЦЕ
+| srp_NS_FULL_NAME_RG = Нековце
+| srp_NS_FULL_NAME_ND_RG = Нековце
+| std_V_name = Nukovcje
+| std_V_FULL_NAME_RO = Nukovcje Nekoci Nekaj
+| std_V_FULL_NAME_ND_RO = Nukovcje Nekoci Nekaj
+| std_V_SORT_NAME_RG = NUKOVCJE NEKOCI NEKAJ
+| std_V_FULL_NAME_RG = Nukovcje Nekoci Nekaj
+| std_V_FULL_NAME_ND_RG = Nukovcje Nekoci Nekaj
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.903889
  | Lartësia            = 
 }}
-'''Nekoc''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Nekoc''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

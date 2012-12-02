@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vërbeshticë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VERBESHTICE
- | FULL_NAME_RO = Vërbeshticë
- | FULL_NAME_ND_RO=Verbeshtice
- | SORT_NAME_RG=VERBESHTICE
- | FULL_NAME_RG=Vërbeshticë
- | FULL_NAME_ND_RG=Verbeshtice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vërbeshticë
+| sqi_N_FULL_NAME_RO = Vërbeshticë
+| sqi_N_FULL_NAME_ND_RO = Verbeshtice
+| sqi_N_SORT_NAME_RG = VERBESHTICE
+| sqi_N_FULL_NAME_RG = Vërbeshticë
+| sqi_N_FULL_NAME_ND_RG = Verbeshtice
+| sqi_V_name = Verbeshticë
+| sqi_V_FULL_NAME_RO = Verbeshticë Vrebishticë
+| sqi_V_FULL_NAME_ND_RO = Verbeshtice Vrebishtice
+| sqi_V_SORT_NAME_RG = VERBESHTICE VREBISHTICE
+| sqi_V_FULL_NAME_RG = Verbeshticë Vrebishticë
+| sqi_V_FULL_NAME_ND_RG = Verbeshtice Vrebishtice
+| srp_N_name = Vrbeštica
+| srp_N_FULL_NAME_RO = Vrbeštica
+| srp_N_FULL_NAME_ND_RO = Vrbestica
+| srp_N_SORT_NAME_RG = VRBESTICA
+| srp_N_FULL_NAME_RG = Vrbeštica
+| srp_N_FULL_NAME_ND_RG = Vrbestica
+| srp_NS_name = Врбештица
+| srp_NS_FULL_NAME_RO = Врбештица
+| srp_NS_FULL_NAME_ND_RO = Врбештица
+| srp_NS_SORT_NAME_RG = ВРБЕШТИЦА
+| srp_NS_FULL_NAME_RG = Врбештица
+| srp_NS_FULL_NAME_ND_RG = Врбештица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.978889
  | Lartësia            = 
 }}
-'''Vërbeshticë''' është një [[]] në [[Shtërpcë]] të [[Kosovës]].
+'''Vërbeshticë''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

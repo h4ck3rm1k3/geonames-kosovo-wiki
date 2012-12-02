@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pasjak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PASJAK
- | FULL_NAME_RO = Pasjak
- | FULL_NAME_ND_RO=Pasjak
- | SORT_NAME_RG=PASJAK
- | FULL_NAME_RG=Pasjak
- | FULL_NAME_ND_RG=Pasjak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pasjak
+| sqi_N_FULL_NAME_RO = Pasjak
+| sqi_N_FULL_NAME_ND_RO = Pasjak
+| sqi_N_SORT_NAME_RG = PASJAK
+| sqi_N_FULL_NAME_RG = Pasjak
+| sqi_N_FULL_NAME_ND_RG = Pasjak
+| srp_N_name = Pasjak
+| srp_N_FULL_NAME_RO = Pasjak
+| srp_N_FULL_NAME_ND_RO = Pasjak
+| srp_N_SORT_NAME_RG = PASJAK
+| srp_N_FULL_NAME_RG = Pasjak
+| srp_N_FULL_NAME_ND_RG = Pasjak
+| srp_NS_name = Пасјак
+| srp_NS_FULL_NAME_RO = Пасјак
+| srp_NS_FULL_NAME_ND_RO = Пасјак
+| srp_NS_SORT_NAME_RG = ПАСЈАК
+| srp_NS_FULL_NAME_RG = Пасјак
+| srp_NS_FULL_NAME_ND_RG = Пасјак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.425278
  | Lartësia            = 
 }}
-'''Pasjak''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Pasjak''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

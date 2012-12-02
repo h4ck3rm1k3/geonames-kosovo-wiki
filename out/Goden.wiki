@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Goden
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GODEN
- | FULL_NAME_RO = Goden
- | FULL_NAME_ND_RO=Goden
- | SORT_NAME_RG=GODEN
- | FULL_NAME_RG=Goden
- | FULL_NAME_ND_RG=Goden
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Goden
+| sqi_N_FULL_NAME_RO = Goden
+| sqi_N_FULL_NAME_ND_RO = Goden
+| sqi_N_SORT_NAME_RG = GODEN
+| sqi_N_FULL_NAME_RG = Goden
+| sqi_N_FULL_NAME_ND_RG = Goden
+| sqi_V_name = Godeni
+| sqi_V_FULL_NAME_RO = Godeni
+| sqi_V_FULL_NAME_ND_RO = Godeni
+| sqi_V_SORT_NAME_RG = GODENI
+| sqi_V_FULL_NAME_RG = Godeni
+| sqi_V_FULL_NAME_ND_RG = Godeni
+| srp_N_name = Goden
+| srp_N_FULL_NAME_RO = Goden
+| srp_N_FULL_NAME_ND_RO = Goden
+| srp_N_SORT_NAME_RG = GODEN
+| srp_N_FULL_NAME_RG = Goden
+| srp_N_FULL_NAME_ND_RG = Goden
+| srp_NS_name = Годен
+| srp_NS_FULL_NAME_RO = Годен
+| srp_NS_FULL_NAME_ND_RO = Годен
+| srp_NS_SORT_NAME_RG = ГОДЕН
+| srp_NS_FULL_NAME_RG = Годен
+| srp_NS_FULL_NAME_ND_RG = Годен
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.443611
  | Lartësia            = 
 }}
-'''Goden''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Goden''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

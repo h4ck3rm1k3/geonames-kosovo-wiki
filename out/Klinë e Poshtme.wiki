@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Klinë e Poshtme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KLINEEPOSHTME
- | FULL_NAME_RO = Klinë e Poshtme
- | FULL_NAME_ND_RO=Kline e Poshtme
- | SORT_NAME_RG=KLINEEPOSHTME
- | FULL_NAME_RG=Klinë e Poshtme
- | FULL_NAME_ND_RG=Kline e Poshtme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Klinë e Poshtme
+| sqi_N_FULL_NAME_RO = Klinë e Poshtme
+| sqi_N_FULL_NAME_ND_RO = Kline e Poshtme
+| sqi_N_SORT_NAME_RG = KLINEEPOSHTME
+| sqi_N_FULL_NAME_RG = Klinë e Poshtme
+| sqi_N_FULL_NAME_ND_RG = Kline e Poshtme
+| sqi_V_name = Klina e Ultë
+| sqi_V_FULL_NAME_RO = Klina e Ultë Klina e Poshtëme
+| sqi_V_FULL_NAME_ND_RO = Klina e Ulte Klina e Poshteme
+| sqi_V_SORT_NAME_RG = KLINAEULTE KLINAEPOSHTEME
+| sqi_V_FULL_NAME_RG = Klina e Ultë Klina e Poshtëme
+| sqi_V_FULL_NAME_ND_RG = Klina e Ulte Klina e Poshteme
+| srp_N_name = Donja Klina
+| srp_N_FULL_NAME_RO = Donja Klina
+| srp_N_FULL_NAME_ND_RO = Donja Klina
+| srp_N_SORT_NAME_RG = DONJAKLINA
+| srp_N_FULL_NAME_RG = Donja Klina
+| srp_N_FULL_NAME_ND_RG = Donja Klina
+| srp_NS_name = Доња Клина
+| srp_NS_FULL_NAME_RO = Доња Клина
+| srp_NS_FULL_NAME_ND_RO = Доња Клина
+| srp_NS_SORT_NAME_RG = ДОЊАКЛИНА
+| srp_NS_FULL_NAME_RG = Доња Клина
+| srp_NS_FULL_NAME_ND_RG = Доња Клина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.790278
  | Lartësia            = 
 }}
-'''Klinë e Poshtme''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Klinë e Poshtme''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

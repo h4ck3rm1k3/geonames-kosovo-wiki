@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rosulë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ROSULE
- | FULL_NAME_RO = Rosulë
- | FULL_NAME_ND_RO=Rosule
- | SORT_NAME_RG=ROSULE
- | FULL_NAME_RG=Rosulë
- | FULL_NAME_ND_RG=Rosule
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rosulë
+| sqi_N_FULL_NAME_RO = Rosulë
+| sqi_N_FULL_NAME_ND_RO = Rosule
+| sqi_N_SORT_NAME_RG = ROSULE
+| sqi_N_FULL_NAME_RG = Rosulë
+| sqi_N_FULL_NAME_ND_RG = Rosule
+| sqi_V_name = Rosujë
+| sqi_V_FULL_NAME_RO = Rosujë
+| sqi_V_FULL_NAME_ND_RO = Rosuje
+| sqi_V_SORT_NAME_RG = ROSUJE
+| sqi_V_FULL_NAME_RG = Rosujë
+| sqi_V_FULL_NAME_ND_RG = Rosuje
+| srp_N_name = Rosulje
+| srp_N_FULL_NAME_RO = Rosulje
+| srp_N_FULL_NAME_ND_RO = Rosulje
+| srp_N_SORT_NAME_RG = ROSULJE
+| srp_N_FULL_NAME_RG = Rosulje
+| srp_N_FULL_NAME_ND_RG = Rosulje
+| srp_NS_name = Росуље
+| srp_NS_FULL_NAME_RO = Росуље
+| srp_NS_FULL_NAME_ND_RO = Росуље
+| srp_NS_SORT_NAME_RG = РОСУЉЕ
+| srp_NS_FULL_NAME_RG = Росуље
+| srp_NS_FULL_NAME_ND_RG = Росуље
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.442222
  | Lartësia            = 
 }}
-'''Rosulë''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Rosulë''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

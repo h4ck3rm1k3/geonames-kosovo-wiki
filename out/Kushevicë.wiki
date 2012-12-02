@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kushevicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KUSHEVICE
- | FULL_NAME_RO = Kushevicë
- | FULL_NAME_ND_RO=Kushevice
- | SORT_NAME_RG=KUSHEVICE
- | FULL_NAME_RG=Kushevicë
- | FULL_NAME_ND_RG=Kushevice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kushevicë
+| sqi_N_FULL_NAME_RO = Kushevicë
+| sqi_N_FULL_NAME_ND_RO = Kushevice
+| sqi_N_SORT_NAME_RG = KUSHEVICE
+| sqi_N_FULL_NAME_RG = Kushevicë
+| sqi_N_FULL_NAME_ND_RG = Kushevice
+| sqi_V_name = Kreshtë
+| sqi_V_FULL_NAME_RO = Kreshtë Krushevicë Kushovicë Kushevica Kreshta
+| sqi_V_FULL_NAME_ND_RO = Kreshte Krushevice Kushovice Kushevica Kreshta
+| sqi_V_SORT_NAME_RG = KRESHTE KRUSHEVICE KUSHOVICE KUSHEVICA KRESHTA
+| sqi_V_FULL_NAME_RG = Kreshtë Krushevicë Kushovicë Kushevica Kreshta
+| sqi_V_FULL_NAME_ND_RG = Kreshte Krushevice Kushovice Kushevica Kreshta
+| srp_N_name = Kruševica
+| srp_N_FULL_NAME_RO = Kruševica
+| srp_N_FULL_NAME_ND_RO = Krusevica
+| srp_N_SORT_NAME_RG = KRUSEVICA
+| srp_N_FULL_NAME_RG = Kruševica
+| srp_N_FULL_NAME_ND_RG = Krusevica
+| srp_NS_name = Крушевица
+| srp_NS_FULL_NAME_RO = Крушевица
+| srp_NS_FULL_NAME_ND_RO = Крушевица
+| srp_NS_SORT_NAME_RG = КРУШЕВИЦА
+| srp_NS_FULL_NAME_RG = Крушевица
+| srp_NS_FULL_NAME_ND_RG = Крушевица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.363333
  | Lartësia            = 
 }}
-'''Kushevicë''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Kushevicë''' është një [[Fshat Vogel]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

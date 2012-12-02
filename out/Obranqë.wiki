@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Obranqë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      OBRANQE
- | FULL_NAME_RO = Obranqë
- | FULL_NAME_ND_RO=Obranqe
- | SORT_NAME_RG=OBRANQE
- | FULL_NAME_RG=Obranqë
- | FULL_NAME_ND_RG=Obranqe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Obranqë
+| sqi_N_FULL_NAME_RO = Obranqë
+| sqi_N_FULL_NAME_ND_RO = Obranqe
+| sqi_N_SORT_NAME_RG = OBRANQE
+| sqi_N_FULL_NAME_RG = Obranqë
+| sqi_N_FULL_NAME_ND_RG = Obranqe
+| sqi_V_name = Obrangj
+| sqi_V_FULL_NAME_RO = Obrangj Obrançë Obrança Abrangjë Kastrati Kastrat
+| sqi_V_FULL_NAME_ND_RO = Obrangj Obrance Obranca Abrangje Kastrati Kastrat
+| sqi_V_SORT_NAME_RG = OBRANGJ OBRANCE OBRANCA ABRANGJE KASTRATI KASTRAT
+| sqi_V_FULL_NAME_RG = Obrangj Obrançë Obrança Abrangjë Kastrati Kastrat
+| sqi_V_FULL_NAME_ND_RG = Obrangj Obrance Obranca Abrangje Kastrati Kastrat
+| srp_N_name = Obrandža
+| srp_N_FULL_NAME_RO = Obrandža
+| srp_N_FULL_NAME_ND_RO = Obrandza
+| srp_N_SORT_NAME_RG = OBRANDZA
+| srp_N_FULL_NAME_RG = Obrandža
+| srp_N_FULL_NAME_ND_RG = Obrandza
+| srp_NS_name = Обранџа
+| srp_NS_FULL_NAME_RO = Обранџа
+| srp_NS_FULL_NAME_ND_RO = Обранџа
+| srp_NS_SORT_NAME_RG = ОБРАНЏА
+| srp_NS_FULL_NAME_RG = Обранџа
+| srp_NS_FULL_NAME_ND_RG = Обранџа
+| srp_V_name = Obranža
+| srp_V_FULL_NAME_RO = Obranža
+| srp_V_FULL_NAME_ND_RO = Obranza
+| srp_V_SORT_NAME_RG = OBRANZA
+| srp_V_FULL_NAME_RG = Obranža
+| srp_V_FULL_NAME_ND_RG = Obranza
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.169757
  | Lartësia            = 
 }}
-'''Obranqë''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Obranqë''' është një [[Fshat Vogel]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

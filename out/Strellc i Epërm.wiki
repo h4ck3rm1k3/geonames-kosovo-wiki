@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Strellc i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STRELLCIEPERM
- | FULL_NAME_RO = Strellc i Epërm
- | FULL_NAME_ND_RO=Strellc i Eperm
- | SORT_NAME_RG=STRELLCIEPERM
- | FULL_NAME_RG=Strellc i Epërm
- | FULL_NAME_ND_RG=Strellc i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Strellc i Epërm
+| sqi_N_FULL_NAME_RO = Strellc i Epërm
+| sqi_N_FULL_NAME_ND_RO = Strellc i Eperm
+| sqi_N_SORT_NAME_RG = STRELLCIEPERM
+| sqi_N_FULL_NAME_RG = Strellc i Epërm
+| sqi_N_FULL_NAME_ND_RG = Strellc i Eperm
+| sqi_V_name = Stralic i Epërm
+| sqi_V_FULL_NAME_RO = Stralic i Epërm Strallc i Epërm Stralli i Epërm Strellci i Epërm Strellc Streoci
+| sqi_V_FULL_NAME_ND_RO = Stralic i Eperm Strallc i Eperm Stralli i Eperm Strellci i Eperm Strellc Streoci
+| sqi_V_SORT_NAME_RG = STRALICIEPERM STRALLCIEPERM STRALLIIEPERM STRELLCIIEPERM STRELLC STREOCI
+| sqi_V_FULL_NAME_RG = Stralic i Epërm Strallc i Epërm Stralli i Epërm Strellci i Epërm Strellc Streoci
+| sqi_V_FULL_NAME_ND_RG = Stralic i Eperm Strallc i Eperm Stralli i Eperm Strellci i Eperm Strellc Streoci
+| srp_N_name = Gornji Streoc
+| srp_N_FULL_NAME_RO = Gornji Streoc
+| srp_N_FULL_NAME_ND_RO = Gornji Streoc
+| srp_N_SORT_NAME_RG = GORNJISTREOC
+| srp_N_FULL_NAME_RG = Gornji Streoc
+| srp_N_FULL_NAME_ND_RG = Gornji Streoc
+| srp_NS_name = Горњи Стреоц
+| srp_NS_FULL_NAME_RO = Горњи Стреоц
+| srp_NS_FULL_NAME_ND_RO = Горњи Стреоц
+| srp_NS_SORT_NAME_RG = ГОРЊИСТРЕОЦ
+| srp_NS_FULL_NAME_RG = Горњи Стреоц
+| srp_NS_FULL_NAME_ND_RG = Горњи Стреоц
+| srp_V_name = Gornji Streoci
+| srp_V_FULL_NAME_RO = Gornji Streoci
+| srp_V_FULL_NAME_ND_RO = Gornji Streoci
+| srp_V_SORT_NAME_RG = GORNJISTREOCI
+| srp_V_FULL_NAME_RG = Gornji Streoci
+| srp_V_FULL_NAME_ND_RG = Gornji Streoci
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.294167
  | Lartësia            = 
 }}
-'''Strellc i Epërm''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Strellc i Epërm''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

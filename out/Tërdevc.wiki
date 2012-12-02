@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tërdevc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TERDEVC
- | FULL_NAME_RO = Tërdevc
- | FULL_NAME_ND_RO=Terdevc
- | SORT_NAME_RG=TERDEVC
- | FULL_NAME_RG=Tërdevc
- | FULL_NAME_ND_RG=Terdevc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Tërdevc
+| sqi_N_FULL_NAME_RO = Tërdevc
+| sqi_N_FULL_NAME_ND_RO = Terdevc
+| sqi_N_SORT_NAME_RG = TERDEVC
+| sqi_N_FULL_NAME_RG = Tërdevc
+| sqi_N_FULL_NAME_ND_RG = Terdevc
+| sqi_V_name = Tërdeci
+| sqi_V_FULL_NAME_RO = Tërdeci Tërdefc Grykas Grykasi Tërdec
+| sqi_V_FULL_NAME_ND_RO = Terdeci Terdefc Grykas Grykasi Terdec
+| sqi_V_SORT_NAME_RG = TERDECI TERDEFC GRYKAS GRYKASI TERDEC
+| sqi_V_FULL_NAME_RG = Tërdeci Tërdefc Grykas Grykasi Tërdec
+| sqi_V_FULL_NAME_ND_RG = Terdeci Terdefc Grykas Grykasi Terdec
+| srp_N_name = Trđevac
+| srp_N_FULL_NAME_RO = Trđevac
+| srp_N_FULL_NAME_ND_RO = Trdevac
+| srp_N_SORT_NAME_RG = TRDEVAC
+| srp_N_FULL_NAME_RG = Trđevac
+| srp_N_FULL_NAME_ND_RG = Trdevac
+| srp_NS_name = Трђевац
+| srp_NS_FULL_NAME_RO = Трђевац
+| srp_NS_FULL_NAME_ND_RO = Трђевац
+| srp_NS_SORT_NAME_RG = ТРЂЕВАЦ
+| srp_NS_FULL_NAME_RG = Трђевац
+| srp_NS_FULL_NAME_ND_RG = Трђевац
+| srp_V_name = Tvrđevac
+| srp_V_FULL_NAME_RO = Tvrđevac Trdevac
+| srp_V_FULL_NAME_ND_RO = Tvrdevac Trdevac
+| srp_V_SORT_NAME_RG = TVRDEVAC TRDEVAC
+| srp_V_FULL_NAME_RG = Tvrđevac Trdevac
+| srp_V_FULL_NAME_ND_RG = Tvrdevac Trdevac
+| srp_VS_name = Трдевац
+| srp_VS_FULL_NAME_RO = Трдевац
+| srp_VS_FULL_NAME_ND_RO = Трдевац
+| srp_VS_SORT_NAME_RG = ТРДЕВАЦ
+| srp_VS_FULL_NAME_RG = Трдевац
+| srp_VS_FULL_NAME_ND_RG = Трдевац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.783056
  | Lartësia            = 
 }}
-'''Tërdevc''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Tërdevc''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

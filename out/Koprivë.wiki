@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Koprivë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOPRIVE
- | FULL_NAME_RO = Koprivë
- | FULL_NAME_ND_RO=Koprive
- | SORT_NAME_RG=KOPRIVE
- | FULL_NAME_RG=Koprivë
- | FULL_NAME_ND_RG=Koprive
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Koprivë
+| sqi_N_FULL_NAME_RO = Koprivë
+| sqi_N_FULL_NAME_ND_RO = Koprive
+| sqi_N_SORT_NAME_RG = KOPRIVE
+| sqi_N_FULL_NAME_RG = Koprivë
+| sqi_N_FULL_NAME_ND_RG = Koprive
+| srp_N_name = Kopriva
+| srp_N_FULL_NAME_RO = Kopriva
+| srp_N_FULL_NAME_ND_RO = Kopriva
+| srp_N_SORT_NAME_RG = KOPRIVA
+| srp_N_FULL_NAME_RG = Kopriva
+| srp_N_FULL_NAME_ND_RG = Kopriva
+| srp_NS_name = Коприва
+| srp_NS_FULL_NAME_RO = Коприва
+| srp_NS_FULL_NAME_ND_RO = Коприва
+| srp_NS_SORT_NAME_RG = КОПРИВА
+| srp_NS_FULL_NAME_RG = Коприва
+| srp_NS_FULL_NAME_ND_RG = Коприва
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.791944
  | Lartësia            = 
 }}
-'''Koprivë''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Koprivë''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

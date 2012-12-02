@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gjergjicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GJERGJICE
- | FULL_NAME_RO = Gjergjicë
- | FULL_NAME_ND_RO=Gjergjice
- | SORT_NAME_RG=GJERGJICE
- | FULL_NAME_RG=Gjergjicë
- | FULL_NAME_ND_RG=Gjergjice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gjergjicë
+| sqi_N_FULL_NAME_RO = Gjergjicë
+| sqi_N_FULL_NAME_ND_RO = Gjergjice
+| sqi_N_SORT_NAME_RG = GJERGJICE
+| sqi_N_FULL_NAME_RG = Gjergjicë
+| sqi_N_FULL_NAME_ND_RG = Gjergjice
+| srp_N_name = Ðurđica
+| srp_N_FULL_NAME_RO = Ðurđica
+| srp_N_FULL_NAME_ND_RO = Durdica
+| srp_N_SORT_NAME_RG = DURDICA
+| srp_N_FULL_NAME_RG = Ðurđica
+| srp_N_FULL_NAME_ND_RG = Durdica
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 20.8125
  | Lartësia            = 
 }}
-'''Gjergjicë''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Gjergjicë''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pastasellë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PASTASELLE
- | FULL_NAME_RO = Pastasellë
- | FULL_NAME_ND_RO=Pastaselle
- | SORT_NAME_RG=PASTASELLE
- | FULL_NAME_RG=Pastasellë
- | FULL_NAME_ND_RG=Pastaselle
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Pastasellë
+| sqi_D_FULL_NAME_RO = Pastasellë
+| sqi_D_FULL_NAME_ND_RO = Pastaselle
+| sqi_D_SORT_NAME_RG = PASTASELLE
+| sqi_D_FULL_NAME_RG = Pastasellë
+| sqi_D_FULL_NAME_ND_RG = Pastaselle
+| sqi_V_name = Pustosellë
+| sqi_V_FULL_NAME_RO = Pustosellë
+| sqi_V_FULL_NAME_ND_RO = Pustoselle
+| sqi_V_SORT_NAME_RG = PUSTOSELLE
+| sqi_V_FULL_NAME_RG = Pustosellë
+| sqi_V_FULL_NAME_ND_RG = Pustoselle
+| srp_N_name = Pusto Selo
+| srp_N_FULL_NAME_RO = Pusto Selo
+| srp_N_FULL_NAME_ND_RO = Pusto Selo
+| srp_N_SORT_NAME_RG = PUSTOSELO
+| srp_N_FULL_NAME_RG = Pusto Selo
+| srp_N_FULL_NAME_ND_RG = Pusto Selo
+| srp_NS_name = Пусто Село
+| srp_NS_FULL_NAME_RO = Пусто Село
+| srp_NS_FULL_NAME_ND_RO = Пусто Село
+| srp_NS_SORT_NAME_RG = ПУСТОСЕЛО
+| srp_NS_FULL_NAME_RG = Пусто Село
+| srp_NS_FULL_NAME_ND_RG = Пусто Село
+| std_V_name = Postoselo
+| std_V_FULL_NAME_RO = Postoselo
+| std_V_FULL_NAME_ND_RO = Postoselo
+| std_V_SORT_NAME_RG = POSTOSELO
+| std_V_FULL_NAME_RG = Postoselo
+| std_V_FULL_NAME_ND_RG = Postoselo
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.591667
  | Lartësia            = 
 }}
-'''Pastasellë''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Pastasellë''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

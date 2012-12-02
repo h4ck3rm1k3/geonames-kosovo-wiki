@@ -1,26 +1,28 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kamenicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KAMENICE
- | FULL_NAME_RO = Kamenicë
- | FULL_NAME_ND_RO=Kamenice
- | SORT_NAME_RG=KAMENICE
- | FULL_NAME_RG=Kamenicë
- | FULL_NAME_ND_RG=Kamenice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kamenicë
+| sqi_N_FULL_NAME_RO = Kamenicë
+| sqi_N_FULL_NAME_ND_RO = Kamenice
+| sqi_N_SORT_NAME_RG = KAMENICE
+| sqi_N_FULL_NAME_RG = Kamenicë
+| sqi_N_FULL_NAME_ND_RG = Kamenice
+| srp_N_name = Kamenica
+| srp_N_FULL_NAME_RO = Kamenica
+| srp_N_FULL_NAME_ND_RO = Kamenica
+| srp_N_SORT_NAME_RG = KAMENICA
+| srp_N_FULL_NAME_RG = Kamenica
+| srp_N_FULL_NAME_ND_RG = Kamenica
+| srp_NS_name = Каменица
+| srp_NS_FULL_NAME_RO = Каменица
+| srp_NS_FULL_NAME_ND_RO = Каменица
+| srp_NS_SORT_NAME_RG = КАМЕНИЦА
+| srp_NS_FULL_NAME_RG = Каменица
+| srp_NS_FULL_NAME_ND_RG = Каменица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Lipjan
+ | Komuna              = Zveçan
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +32,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 43.201667
- | Gjatësia            = 20.679722
+ | Gjerësia            = 42.999167
+ | Gjatësia            = 20.782222
  | Lartësia            = 
 }}
-'''Kamenicë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Kamenicë''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Lipjan}}
+{{Komuna Zveçan}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Fshatra në Kommunes Zveçan]]
 [[Kategoria:Vendbanime në Kosovës]]

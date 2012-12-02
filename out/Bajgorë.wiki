@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bajgorë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BAJGORE
- | FULL_NAME_RO = Bajgorë
- | FULL_NAME_ND_RO=Bajgore
- | SORT_NAME_RG=BAJGORE
- | FULL_NAME_RG=Bajgorë
- | FULL_NAME_ND_RG=Bajgore
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bajgorë
+| sqi_N_FULL_NAME_RO = Bajgorë
+| sqi_N_FULL_NAME_ND_RO = Bajgore
+| sqi_N_SORT_NAME_RG = BAJGORE
+| sqi_N_FULL_NAME_RG = Bajgorë
+| sqi_N_FULL_NAME_ND_RG = Bajgore
+| srp_N_name = Bajgora
+| srp_N_FULL_NAME_RO = Bajgora
+| srp_N_FULL_NAME_ND_RO = Bajgora
+| srp_N_SORT_NAME_RG = BAJGORA
+| srp_N_FULL_NAME_RG = Bajgora
+| srp_N_FULL_NAME_ND_RG = Bajgora
+| srp_NS_name = Бајгора
+| srp_NS_FULL_NAME_RO = Бајгора
+| srp_NS_FULL_NAME_ND_RO = Бајгора
+| srp_NS_SORT_NAME_RG = БАЈГОРА
+| srp_NS_FULL_NAME_RG = Бајгора
+| srp_NS_FULL_NAME_ND_RG = Бајгора
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.006392
  | Lartësia            = 
 }}
-'''Bajgorë''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Bajgorë''' është një [[Fshat Vogel]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bishtazhin
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BISHTAZHIN
- | FULL_NAME_RO = Bishtazhin
- | FULL_NAME_ND_RO=Bishtazhin
- | SORT_NAME_RG=BISHTAZHIN
- | FULL_NAME_RG=Bishtazhin
- | FULL_NAME_ND_RG=Bishtazhin
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bishtazhin
+| sqi_N_FULL_NAME_RO = Bishtazhin
+| sqi_N_FULL_NAME_ND_RO = Bishtazhin
+| sqi_N_SORT_NAME_RG = BISHTAZHIN
+| sqi_N_FULL_NAME_RG = Bishtazhin
+| sqi_N_FULL_NAME_ND_RG = Bishtazhin
+| sqi_V_name = Bistazhini
+| sqi_V_FULL_NAME_RO = Bistazhini Bishtrazhin
+| sqi_V_FULL_NAME_ND_RO = Bistazhini Bishtrazhin
+| sqi_V_SORT_NAME_RG = BISTAZHINI BISHTRAZHIN
+| sqi_V_FULL_NAME_RG = Bistazhini Bishtrazhin
+| sqi_V_FULL_NAME_ND_RG = Bistazhini Bishtrazhin
+| srp_N_name = Bistražin
+| srp_N_FULL_NAME_RO = Bistražin
+| srp_N_FULL_NAME_ND_RO = Bistrazin
+| srp_N_SORT_NAME_RG = BISTRAZIN
+| srp_N_FULL_NAME_RG = Bistražin
+| srp_N_FULL_NAME_ND_RG = Bistrazin
+| srp_NS_name = Биштражин
+| srp_NS_FULL_NAME_RO = Биштражин
+| srp_NS_FULL_NAME_ND_RO = Биштражин
+| srp_NS_SORT_NAME_RG = БИШТРАЖИН
+| srp_NS_FULL_NAME_RG = Биштражин
+| srp_NS_FULL_NAME_ND_RG = Биштражин
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.511944
  | Lartësia            = 
 }}
-'''Bishtazhin''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Bishtazhin''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Krushicë e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KRUSHICEEEPERME
- | FULL_NAME_RO = Krushicë e Epërme
- | FULL_NAME_ND_RO=Krushice e Eperme
- | SORT_NAME_RG=KRUSHICEEEPERME
- | FULL_NAME_RG=Krushicë e Epërme
- | FULL_NAME_ND_RG=Krushice e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Krushicë e Epërme
+| sqi_N_FULL_NAME_RO = Krushicë e Epërme
+| sqi_N_FULL_NAME_ND_RO = Krushice e Eperme
+| sqi_N_SORT_NAME_RG = KRUSHICEEEPERME
+| sqi_N_FULL_NAME_RG = Krushicë e Epërme
+| sqi_N_FULL_NAME_ND_RG = Krushice e Eperme
+| sqi_V_name = Krushica e Epërme
+| sqi_V_FULL_NAME_RO = Krushica e Epërme Krushica Kryshicë
+| sqi_V_FULL_NAME_ND_RO = Krushica e Eperme Krushica Kryshice
+| sqi_V_SORT_NAME_RG = KRUSHICAEEPERME KRUSHICA KRYSHICE
+| sqi_V_FULL_NAME_RG = Krushica e Epërme Krushica Kryshicë
+| sqi_V_FULL_NAME_ND_RG = Krushica e Eperme Krushica Kryshice
+| srp_N_name = Gornja Krušica
+| srp_N_FULL_NAME_RO = Gornja Krušica
+| srp_N_FULL_NAME_ND_RO = Gornja Krusica
+| srp_N_SORT_NAME_RG = GORNJAKRUSICA
+| srp_N_FULL_NAME_RG = Gornja Krušica
+| srp_N_FULL_NAME_ND_RG = Gornja Krusica
+| srp_NS_name = Горња Крушица
+| srp_NS_FULL_NAME_RO = Горња Крушица
+| srp_NS_FULL_NAME_ND_RO = Горња Крушица
+| srp_NS_SORT_NAME_RG = ГОРЊАКРУШИЦА
+| srp_NS_FULL_NAME_RG = Горња Крушица
+| srp_NS_FULL_NAME_ND_RG = Горња Крушица
+| srp_V_name = Krušica
+| srp_V_FULL_NAME_RO = Krušica
+| srp_V_FULL_NAME_ND_RO = Krusica
+| srp_V_SORT_NAME_RG = KRUSICA
+| srp_V_FULL_NAME_RG = Krušica
+| srp_V_FULL_NAME_ND_RG = Krusica
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.935
  | Lartësia            = 
 }}
-'''Krushicë e Epërme''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Krushicë e Epërme''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,12 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zakuka
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZAKUKA
- | FULL_NAME_RO = Zakuka
- | FULL_NAME_ND_RO=Zakuka
- | SORT_NAME_RG=ZAKUKA
- | FULL_NAME_RG=Zakuka
- | FULL_NAME_ND_RG=Zakuka
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| srp_N_name = Zakuka
+| srp_N_FULL_NAME_RO = Zakuka
+| srp_N_FULL_NAME_ND_RO = Zakuka
+| srp_N_SORT_NAME_RG = ZAKUKA
+| srp_N_FULL_NAME_RG = Zakuka
+| srp_N_FULL_NAME_ND_RG = Zakuka
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -30,11 +20,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.830321
- | Gjatësia            = 21.213866
+ | Gjerësia            = 42.835507
+ | Gjatësia            = 21.262493
  | Lartësia            = 
 }}
-'''Zakuka''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Zakuka''' është një [[Fshat Vogel]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

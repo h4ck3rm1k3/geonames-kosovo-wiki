@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mleqan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MLEQAN
- | FULL_NAME_RO = Mleqan
- | FULL_NAME_ND_RO=Mleqan
- | SORT_NAME_RG=MLEQAN
- | FULL_NAME_RG=Mleqan
- | FULL_NAME_ND_RG=Mleqan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Mleqan
+| sqi_D_FULL_NAME_RO = Mleqan
+| sqi_D_FULL_NAME_ND_RO = Mleqan
+| sqi_D_SORT_NAME_RG = MLEQAN
+| sqi_D_FULL_NAME_RG = Mleqan
+| sqi_D_FULL_NAME_ND_RG = Mleqan
+| sqi_V_name = Meçan
+| sqi_V_FULL_NAME_RO = Meçan
+| sqi_V_FULL_NAME_ND_RO = Mecan
+| sqi_V_SORT_NAME_RG = MECAN
+| sqi_V_FULL_NAME_RG = Meçan
+| sqi_V_FULL_NAME_ND_RG = Mecan
+| srp_N_name = Mlečane
+| srp_N_FULL_NAME_RO = Mlečane
+| srp_N_FULL_NAME_ND_RO = Mlecane
+| srp_N_SORT_NAME_RG = MLECANE
+| srp_N_FULL_NAME_RG = Mlečane
+| srp_N_FULL_NAME_ND_RG = Mlecane
+| srp_NS_name = Млечане
+| srp_NS_FULL_NAME_RO = Млечане
+| srp_NS_FULL_NAME_ND_RO = Млечане
+| srp_NS_SORT_NAME_RG = МЛЕЧАНЕ
+| srp_NS_FULL_NAME_RG = Млечане
+| srp_NS_FULL_NAME_ND_RG = Млечане
+| srp_V_name = Mlečan
+| srp_V_FULL_NAME_RO = Mlečan
+| srp_V_FULL_NAME_ND_RO = Mlecan
+| srp_V_SORT_NAME_RG = MLECAN
+| srp_V_FULL_NAME_RG = Mlečan
+| srp_V_FULL_NAME_ND_RG = Mlecan
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.754722
  | Lartësia            = 
 }}
-'''Mleqan''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Mleqan''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

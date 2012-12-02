@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rakovinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RAKOVINE
- | FULL_NAME_RO = Rakovinë
- | FULL_NAME_ND_RO=Rakovine
- | SORT_NAME_RG=RAKOVINE
- | FULL_NAME_RG=Rakovinë
- | FULL_NAME_ND_RG=Rakovine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rakovinë
+| sqi_N_FULL_NAME_RO = Rakovinë
+| sqi_N_FULL_NAME_ND_RO = Rakovine
+| sqi_N_SORT_NAME_RG = RAKOVINE
+| sqi_N_FULL_NAME_RG = Rakovinë
+| sqi_N_FULL_NAME_ND_RG = Rakovine
+| srp_N_name = Rakovina
+| srp_N_FULL_NAME_RO = Rakovina
+| srp_N_FULL_NAME_ND_RO = Rakovina
+| srp_N_SORT_NAME_RG = RAKOVINA
+| srp_N_FULL_NAME_RG = Rakovina
+| srp_N_FULL_NAME_ND_RG = Rakovina
+| srp_NS_name = Раковина
+| srp_NS_FULL_NAME_RO = Раковина
+| srp_NS_FULL_NAME_ND_RO = Раковина
+| srp_NS_SORT_NAME_RG = РАКОВИНА
+| srp_NS_FULL_NAME_RG = Раковина
+| srp_NS_FULL_NAME_ND_RG = Раковина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.511667
  | Lartësia            = 
 }}
-'''Rakovinë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Rakovinë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

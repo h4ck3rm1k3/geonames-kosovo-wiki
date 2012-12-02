@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shajn I
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHAJNI
- | FULL_NAME_RO = Shajn I
- | FULL_NAME_ND_RO=Shajn I
- | SORT_NAME_RG=SHAJNI
- | FULL_NAME_RG=Shajn I
- | FULL_NAME_ND_RG=Shajn I
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Shajn I
+| sqi_D_FULL_NAME_RO = Shajn I Shajn II
+| sqi_D_FULL_NAME_ND_RO = Shajn I Shajn II
+| sqi_D_SORT_NAME_RG = SHAJNI SHAJNII
+| sqi_D_FULL_NAME_RG = Shajn I Shajn II
+| sqi_D_FULL_NAME_ND_RG = Shajn I Shajn II
+| sqi_V_name = Shajnë
+| sqi_V_FULL_NAME_RO = Shajnë Shajnovë I Shajna Shajnovë I (Parë)
+| sqi_V_FULL_NAME_ND_RO = Shajne Shajnove I Shajna Shajnove I (Pare)
+| sqi_V_SORT_NAME_RG = SHAJNE SHAJNOVEI SHAJNA SHAJNOVEIPARE
+| sqi_V_FULL_NAME_RG = Shajnë Shajnovë I Shajna Shajnovë I (Parë)
+| sqi_V_FULL_NAME_ND_RG = Shajne Shajnove I Shajna Shajnove I (Pare)
+| srp_N_name = Šajnovce
+| srp_N_FULL_NAME_RO = Šajnovce
+| srp_N_FULL_NAME_ND_RO = Sajnovce
+| srp_N_SORT_NAME_RG = SAJNOVCE
+| srp_N_FULL_NAME_RG = Šajnovce
+| srp_N_FULL_NAME_ND_RG = Sajnovce
+| srp_NS_name = Шајновце
+| srp_NS_FULL_NAME_RO = Шајновце
+| srp_NS_FULL_NAME_ND_RO = Шајновце
+| srp_NS_SORT_NAME_RG = ШАЈНОВЦЕ
+| srp_NS_FULL_NAME_RG = Шајновце
+| srp_NS_FULL_NAME_ND_RG = Шајновце
+| srp_V_name = Šajinovac
+| srp_V_FULL_NAME_RO = Šajinovac Šainovce
+| srp_V_FULL_NAME_ND_RO = Sajinovac Sainovce
+| srp_V_SORT_NAME_RG = SAJINOVAC SAINOVCE
+| srp_V_FULL_NAME_RG = Šajinovac Šainovce
+| srp_V_FULL_NAME_ND_RG = Sajinovac Sainovce
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.660278
  | Lartësia            = 
 }}
-'''Shajn I''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Shajn I''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

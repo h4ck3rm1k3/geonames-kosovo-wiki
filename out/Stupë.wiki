@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stupë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STUPE
- | FULL_NAME_RO = Stupë
- | FULL_NAME_ND_RO=Stupe
- | SORT_NAME_RG=STUPE
- | FULL_NAME_RG=Stupë
- | FULL_NAME_ND_RG=Stupe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Stupë
+| sqi_N_FULL_NAME_RO = Stupë
+| sqi_N_FULL_NAME_ND_RO = Stupe
+| sqi_N_SORT_NAME_RG = STUPE
+| sqi_N_FULL_NAME_RG = Stupë
+| sqi_N_FULL_NAME_ND_RG = Stupe
+| srp_N_name = Stup
+| srp_N_FULL_NAME_RO = Stup
+| srp_N_FULL_NAME_ND_RO = Stup
+| srp_N_SORT_NAME_RG = STUP
+| srp_N_FULL_NAME_RG = Stup
+| srp_N_FULL_NAME_ND_RG = Stup
+| srp_NS_name = Ступ
+| srp_NS_FULL_NAME_RO = Ступ
+| srp_NS_FULL_NAME_ND_RO = Ступ
+| srp_NS_SORT_NAME_RG = СТУП
+| srp_NS_FULL_NAME_RG = Ступ
+| srp_NS_FULL_NAME_ND_RG = Ступ
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.475556
  | Lartësia            = 
 }}
-'''Stupë''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Stupë''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

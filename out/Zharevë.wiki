@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zharevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZHAREVE
- | FULL_NAME_RO = Zharevë
- | FULL_NAME_ND_RO=Zhareve
- | SORT_NAME_RG=ZHAREVE
- | FULL_NAME_RG=Zharevë
- | FULL_NAME_ND_RG=Zhareve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zharevë
+| sqi_N_FULL_NAME_RO = Zharevë
+| sqi_N_FULL_NAME_ND_RO = Zhareve
+| sqi_N_SORT_NAME_RG = ZHAREVE
+| sqi_N_FULL_NAME_RG = Zharevë
+| sqi_N_FULL_NAME_ND_RG = Zhareve
+| srp_N_name = Žarevi
+| srp_N_FULL_NAME_RO = Žarevi
+| srp_N_FULL_NAME_ND_RO = Zarevi
+| srp_N_SORT_NAME_RG = ZAREVI
+| srp_N_FULL_NAME_RG = Žarevi
+| srp_N_FULL_NAME_ND_RG = Zarevi
+| srp_NS_name = Жареви
+| srp_NS_FULL_NAME_RO = Жареви
+| srp_NS_FULL_NAME_ND_RO = Жареви
+| srp_NS_SORT_NAME_RG = ЖАРЕВИ
+| srp_NS_FULL_NAME_RG = Жареви
+| srp_NS_FULL_NAME_ND_RG = Жареви
+| srp_V_name = Žareve
+| srp_V_FULL_NAME_RO = Žareve
+| srp_V_FULL_NAME_ND_RO = Zareve
+| srp_V_SORT_NAME_RG = ZAREVE
+| srp_V_FULL_NAME_RG = Žareve
+| srp_V_FULL_NAME_ND_RG = Zareve
+| srp_VS_name = Жареве
+| srp_VS_FULL_NAME_RO = Жареве
+| srp_VS_FULL_NAME_ND_RO = Жареве
+| srp_VS_SORT_NAME_RG = ЖАРЕВЕ
+| srp_VS_FULL_NAME_RG = Жареве
+| srp_VS_FULL_NAME_ND_RG = Жареве
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.664167
  | Lartësia            = 
 }}
-'''Zharevë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Zharevë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

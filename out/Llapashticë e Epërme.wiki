@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llapashticë e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLAPASHTICEEEPERME
- | FULL_NAME_RO = Llapashticë e Epërme
- | FULL_NAME_ND_RO=Llapashtice e Eperme
- | SORT_NAME_RG=LLAPASHTICEEEPERME
- | FULL_NAME_RG=Llapashticë e Epërme
- | FULL_NAME_ND_RG=Llapashtice e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Llapashticë e Epërme
+| sqi_N_FULL_NAME_RO = Llapashticë e Epërme
+| sqi_N_FULL_NAME_ND_RO = Llapashtice e Eperme
+| sqi_N_SORT_NAME_RG = LLAPASHTICEEEPERME
+| sqi_N_FULL_NAME_RG = Llapashticë e Epërme
+| sqi_N_FULL_NAME_ND_RG = Llapashtice e Eperme
+| srp_N_name = Gornja Lapaštica
+| srp_N_FULL_NAME_RO = Gornja Lapaštica
+| srp_N_FULL_NAME_ND_RO = Gornja Lapastica
+| srp_N_SORT_NAME_RG = GORNJALAPASTICA
+| srp_N_FULL_NAME_RG = Gornja Lapaštica
+| srp_N_FULL_NAME_ND_RG = Gornja Lapastica
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 21.138349
  | Lartësia            = 
 }}
-'''Llapashticë e Epërme''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Llapashticë e Epërme''' është një [[Fshat Vogel]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

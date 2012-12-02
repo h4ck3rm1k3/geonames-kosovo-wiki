@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Guskë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GUSKE
- | FULL_NAME_RO = Guskë
- | FULL_NAME_ND_RO=Guske
- | SORT_NAME_RG=GUSKE
- | FULL_NAME_RG=Guskë
- | FULL_NAME_ND_RG=Guske
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Guskë
+| sqi_N_FULL_NAME_RO = Guskë
+| sqi_N_FULL_NAME_ND_RO = Guske
+| sqi_N_SORT_NAME_RG = GUSKE
+| sqi_N_FULL_NAME_RG = Guskë
+| sqi_N_FULL_NAME_ND_RG = Guske
+| srp_N_name = Guska
+| srp_N_FULL_NAME_RO = Guska
+| srp_N_FULL_NAME_ND_RO = Guska
+| srp_N_SORT_NAME_RG = GUSKA
+| srp_N_FULL_NAME_RG = Guska
+| srp_N_FULL_NAME_ND_RG = Guska
+| srp_NS_name = Гуска
+| srp_NS_FULL_NAME_RO = Гуска
+| srp_NS_FULL_NAME_ND_RO = Гуска
+| srp_NS_SORT_NAME_RG = ГУСКА
+| srp_NS_FULL_NAME_RG = Гуска
+| srp_NS_FULL_NAME_ND_RG = Гуска
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.372778
  | Lartësia            = 
 }}
-'''Guskë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Guskë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

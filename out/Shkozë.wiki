@@ -1,26 +1,40 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shkozë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHKOZE
- | FULL_NAME_RO = Shkozë
- | FULL_NAME_ND_RO=Shkoze
- | SORT_NAME_RG=SHKOZE
- | FULL_NAME_RG=Shkozë
- | FULL_NAME_ND_RG=Shkoze
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Shkozë
+| sqi_D_FULL_NAME_RO = Shkozë
+| sqi_D_FULL_NAME_ND_RO = Shkoze
+| sqi_D_SORT_NAME_RG = SHKOZE
+| sqi_D_FULL_NAME_RG = Shkozë
+| sqi_D_FULL_NAME_ND_RG = Shkoze
+| sqi_V_name = Shkoza
+| sqi_V_FULL_NAME_RO = Shkoza
+| sqi_V_FULL_NAME_ND_RO = Shkoza
+| sqi_V_SORT_NAME_RG = SHKOZA
+| sqi_V_FULL_NAME_RG = Shkoza
+| sqi_V_FULL_NAME_ND_RG = Shkoza
+| srp_N_name = Škoza
+| srp_N_FULL_NAME_RO = Škoza
+| srp_N_FULL_NAME_ND_RO = Skoza
+| srp_N_SORT_NAME_RG = SKOZA
+| srp_N_FULL_NAME_RG = Škoza
+| srp_N_FULL_NAME_ND_RG = Skoza
+| srp_NS_name = Шкоза
+| srp_NS_FULL_NAME_RO = Шкоза
+| srp_NS_FULL_NAME_ND_RO = Шкоза
+| srp_NS_SORT_NAME_RG = ШКОЗА
+| srp_NS_FULL_NAME_RG = Шкоза
+| srp_NS_FULL_NAME_ND_RG = Шкоза
+| srp_V_name = Škoze
+| srp_V_FULL_NAME_RO = Škoze
+| srp_V_FULL_NAME_ND_RO = Skoze
+| srp_V_SORT_NAME_RG = SKOZE
+| srp_V_FULL_NAME_RG = Škoze
+| srp_V_FULL_NAME_ND_RG = Skoze
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Mitrovicë
+ | Komuna              = Prizren
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +44,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.421667
- | Gjatësia            = 20.712778
+ | Gjerësia            = 42.163889
+ | Gjatësia            = 20.591111
  | Lartësia            = 
 }}
-'''Shkozë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Shkozë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Mitrovicë}}
+{{Komuna Prizren}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
 [[Kategoria:Vendbanime në Kosovës]]

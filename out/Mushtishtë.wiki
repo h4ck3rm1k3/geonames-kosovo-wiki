@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mushtishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MUSHTISHTE
- | FULL_NAME_RO = Mushtishtë
- | FULL_NAME_ND_RO=Mushtishte
- | SORT_NAME_RG=MUSHTISHTE
- | FULL_NAME_RG=Mushtishtë
- | FULL_NAME_ND_RG=Mushtishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Mushtishtë
+| sqi_N_FULL_NAME_RO = Mushtishtë
+| sqi_N_FULL_NAME_ND_RO = Mushtishte
+| sqi_N_SORT_NAME_RG = MUSHTISHTE
+| sqi_N_FULL_NAME_RG = Mushtishtë
+| sqi_N_FULL_NAME_ND_RG = Mushtishte
+| sqi_V_name = Mushtisht
+| sqi_V_FULL_NAME_RO = Mushtisht Mushitishtë
+| sqi_V_FULL_NAME_ND_RO = Mushtisht Mushitishte
+| sqi_V_SORT_NAME_RG = MUSHTISHT MUSHITISHTE
+| sqi_V_FULL_NAME_RG = Mushtisht Mushitishtë
+| sqi_V_FULL_NAME_ND_RG = Mushtisht Mushitishte
+| srp_N_name = Mušutište
+| srp_N_FULL_NAME_RO = Mušutište
+| srp_N_FULL_NAME_ND_RO = Musutiste
+| srp_N_SORT_NAME_RG = MUSUTISTE
+| srp_N_FULL_NAME_RG = Mušutište
+| srp_N_FULL_NAME_ND_RG = Musutiste
+| srp_NS_name = Мушутиште
+| srp_NS_FULL_NAME_RO = Мушутиште
+| srp_NS_FULL_NAME_ND_RO = Мушутиште
+| srp_NS_SORT_NAME_RG = МУШУТИШТЕ
+| srp_NS_FULL_NAME_RG = Мушутиште
+| srp_NS_FULL_NAME_ND_RG = Мушутиште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.889444
  | Lartësia            = 
 }}
-'''Mushtishtë''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Mushtishtë''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

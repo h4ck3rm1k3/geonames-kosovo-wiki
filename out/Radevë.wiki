@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Radevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RADEVE
- | FULL_NAME_RO = Radevë
- | FULL_NAME_ND_RO=Radeve
- | SORT_NAME_RG=RADEVE
- | FULL_NAME_RG=Radevë
- | FULL_NAME_ND_RG=Radeve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Radevë
+| sqi_N_FULL_NAME_RO = Radevë
+| sqi_N_FULL_NAME_ND_RO = Radeve
+| sqi_N_SORT_NAME_RG = RADEVE
+| sqi_N_FULL_NAME_RG = Radevë
+| sqi_N_FULL_NAME_ND_RG = Radeve
+| srp_N_name = Radevo
+| srp_N_FULL_NAME_RO = Radevo
+| srp_N_FULL_NAME_ND_RO = Radevo
+| srp_N_SORT_NAME_RG = RADEVO
+| srp_N_FULL_NAME_RG = Radevo
+| srp_N_FULL_NAME_ND_RG = Radevo
+| srp_NS_name = Радево
+| srp_NS_FULL_NAME_RO = Радево
+| srp_NS_FULL_NAME_ND_RO = Радево
+| srp_NS_SORT_NAME_RG = РАДЕВО
+| srp_NS_FULL_NAME_RG = Радево
+| srp_NS_FULL_NAME_ND_RG = Радево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.054026
  | Lartësia            = 
 }}
-'''Radevë''' është një [[]] në [[]] të [[Kosovës]].
+'''Radevë''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

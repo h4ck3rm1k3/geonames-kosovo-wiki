@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ballaban
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BALLABAN
- | FULL_NAME_RO = Ballaban
- | FULL_NAME_ND_RO=Ballaban
- | SORT_NAME_RG=BALLABAN
- | FULL_NAME_RG=Ballaban
- | FULL_NAME_ND_RG=Ballaban
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Ballaban
+| sqi_N_FULL_NAME_RO = Ballaban
+| sqi_N_FULL_NAME_ND_RO = Ballaban
+| sqi_N_SORT_NAME_RG = BALLABAN
+| sqi_N_FULL_NAME_RG = Ballaban
+| sqi_N_FULL_NAME_ND_RG = Ballaban
+| sqi_V_name = Ballabani
+| sqi_V_FULL_NAME_RO = Ballabani
+| sqi_V_FULL_NAME_ND_RO = Ballabani
+| sqi_V_SORT_NAME_RG = BALLABANI
+| sqi_V_FULL_NAME_RG = Ballabani
+| sqi_V_FULL_NAME_ND_RG = Ballabani
+| srp_N_name = Balaban
+| srp_N_FULL_NAME_RO = Balaban
+| srp_N_FULL_NAME_ND_RO = Balaban
+| srp_N_SORT_NAME_RG = BALABAN
+| srp_N_FULL_NAME_RG = Balaban
+| srp_N_FULL_NAME_ND_RG = Balaban
+| srp_NS_name = Балабан
+| srp_NS_FULL_NAME_RO = Балабан
+| srp_NS_FULL_NAME_ND_RO = Балабан
+| srp_NS_SORT_NAME_RG = БАЛАБАН
+| srp_NS_FULL_NAME_RG = Балабан
+| srp_NS_FULL_NAME_ND_RG = Балабан
+| srp_V_name = Balabane
+| srp_V_FULL_NAME_RO = Balabane
+| srp_V_FULL_NAME_ND_RO = Balabane
+| srp_V_SORT_NAME_RG = BALABANE
+| srp_V_FULL_NAME_RG = Balabane
+| srp_V_FULL_NAME_ND_RG = Balabane
+| srp_VS_name = Балабане
+| srp_VS_FULL_NAME_RO = Балабане
+| srp_VS_FULL_NAME_ND_RO = Балабане
+| srp_VS_SORT_NAME_RG = БАЛАБАНЕ
+| srp_VS_FULL_NAME_RG = Балабане
+| srp_VS_FULL_NAME_ND_RG = Балабане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.321944
  | Lartësia            = 
 }}
-'''Ballaban''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Ballaban''' është një [[Fshat Vogel]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

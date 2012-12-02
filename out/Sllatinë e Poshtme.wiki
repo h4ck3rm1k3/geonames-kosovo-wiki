@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sllatinë e Poshtme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SLLATINEEPOSHTME
- | FULL_NAME_RO = Sllatinë e Poshtme
- | FULL_NAME_ND_RO=Sllatine e Poshtme
- | SORT_NAME_RG=SLLATINEEPOSHTME
- | FULL_NAME_RG=Sllatinë e Poshtme
- | FULL_NAME_ND_RG=Sllatine e Poshtme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Sllatinë e Poshtme
+| sqi_D_FULL_NAME_RO = Sllatinë e Poshtme
+| sqi_D_FULL_NAME_ND_RO = Sllatine e Poshtme
+| sqi_D_SORT_NAME_RG = SLLATINEEPOSHTME
+| sqi_D_FULL_NAME_RG = Sllatinë e Poshtme
+| sqi_D_FULL_NAME_ND_RG = Sllatine e Poshtme
+| sqi_V_name = Sllatinë
+| sqi_V_FULL_NAME_RO = Sllatinë
+| sqi_V_FULL_NAME_ND_RO = Sllatine
+| sqi_V_SORT_NAME_RG = SLLATINE
+| sqi_V_FULL_NAME_RG = Sllatinë
+| sqi_V_FULL_NAME_ND_RG = Sllatine
+| srp_N_name = Donja Slatina
+| srp_N_FULL_NAME_RO = Donja Slatina
+| srp_N_FULL_NAME_ND_RO = Donja Slatina
+| srp_N_SORT_NAME_RG = DONJASLATINA
+| srp_N_FULL_NAME_RG = Donja Slatina
+| srp_N_FULL_NAME_ND_RG = Donja Slatina
+| srp_NS_name = Доња Слатина
+| srp_NS_FULL_NAME_RO = Доња Слатина
+| srp_NS_FULL_NAME_ND_RO = Доња Слатина
+| srp_NS_SORT_NAME_RG = ДОЊАСЛАТИНА
+| srp_NS_FULL_NAME_RG = Доња Слатина
+| srp_NS_FULL_NAME_ND_RG = Доња Слатина
+| srp_V_name = Slatina
+| srp_V_FULL_NAME_RO = Slatina
+| srp_V_FULL_NAME_ND_RO = Slatina
+| srp_V_SORT_NAME_RG = SLATINA
+| srp_V_FULL_NAME_RG = Slatina
+| srp_V_FULL_NAME_ND_RG = Slatina
+| srp_VS_name = Слатина
+| srp_VS_FULL_NAME_RO = Слатина
+| srp_VS_FULL_NAME_ND_RO = Слатина
+| srp_VS_SORT_NAME_RG = СЛАТИНА
+| srp_VS_FULL_NAME_RG = Слатина
+| srp_VS_FULL_NAME_ND_RG = Слатина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.304722
  | Lartësia            = 
 }}
-'''Sllatinë e Poshtme''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Sllatinë e Poshtme''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

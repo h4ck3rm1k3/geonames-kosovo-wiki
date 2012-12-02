@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dragobil
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DRAGOBIL
- | FULL_NAME_RO = Dragobil
- | FULL_NAME_ND_RO=Dragobil
- | SORT_NAME_RG=DRAGOBIL
- | FULL_NAME_RG=Dragobil
- | FULL_NAME_ND_RG=Dragobil
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Dragobil
+| sqi_D_FULL_NAME_RO = Dragobil
+| sqi_D_FULL_NAME_ND_RO = Dragobil
+| sqi_D_SORT_NAME_RG = DRAGOBIL
+| sqi_D_FULL_NAME_RG = Dragobil
+| sqi_D_FULL_NAME_ND_RG = Dragobil
+| sqi_V_name = Dragobilë
+| sqi_V_FULL_NAME_RO = Dragobilë
+| sqi_V_FULL_NAME_ND_RO = Dragobile
+| sqi_V_SORT_NAME_RG = DRAGOBILE
+| sqi_V_FULL_NAME_RG = Dragobilë
+| sqi_V_FULL_NAME_ND_RG = Dragobile
+| srp_N_name = Dragobilje
+| srp_N_FULL_NAME_RO = Dragobilje
+| srp_N_FULL_NAME_ND_RO = Dragobilje
+| srp_N_SORT_NAME_RG = DRAGOBILJE
+| srp_N_FULL_NAME_RG = Dragobilje
+| srp_N_FULL_NAME_ND_RG = Dragobilje
+| srp_NS_name = Драгобиље
+| srp_NS_FULL_NAME_RO = Драгобиље
+| srp_NS_FULL_NAME_ND_RO = Драгобиље
+| srp_NS_SORT_NAME_RG = ДРАГОБИЉЕ
+| srp_NS_FULL_NAME_RG = Драгобиље
+| srp_NS_FULL_NAME_ND_RG = Драгобиље
+| std_V_name = Dragobilj
+| std_V_FULL_NAME_RO = Dragobilj Dragobilja
+| std_V_FULL_NAME_ND_RO = Dragobilj Dragobilja
+| std_V_SORT_NAME_RG = DRAGOBILJ DRAGOBILJA
+| std_V_FULL_NAME_RG = Dragobilj Dragobilja
+| std_V_FULL_NAME_ND_RG = Dragobilj Dragobilja
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.726667
  | Lartësia            = 
 }}
-'''Dragobil''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Dragobil''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

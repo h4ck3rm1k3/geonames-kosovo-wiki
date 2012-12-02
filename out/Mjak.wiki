@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mjak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MJAK
- | FULL_NAME_RO = Mjak
- | FULL_NAME_ND_RO=Mjak
- | SORT_NAME_RG=MJAK
- | FULL_NAME_RG=Mjak
- | FULL_NAME_ND_RG=Mjak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Mjak
+| sqi_D_FULL_NAME_RO = Mjak
+| sqi_D_FULL_NAME_ND_RO = Mjak
+| sqi_D_SORT_NAME_RG = MJAK
+| sqi_D_FULL_NAME_RG = Mjak
+| sqi_D_FULL_NAME_ND_RG = Mjak
+| sqi_V_name = Mijak
+| sqi_V_FULL_NAME_RO = Mijak
+| sqi_V_FULL_NAME_ND_RO = Mijak
+| sqi_V_SORT_NAME_RG = MIJAK
+| sqi_V_FULL_NAME_RG = Mijak
+| sqi_V_FULL_NAME_ND_RG = Mijak
+| srp_N_name = Mijak
+| srp_N_FULL_NAME_RO = Mijak
+| srp_N_FULL_NAME_ND_RO = Mijak
+| srp_N_SORT_NAME_RG = MIJAK
+| srp_N_FULL_NAME_RG = Mijak
+| srp_N_FULL_NAME_ND_RG = Mijak
+| srp_NS_name = Мијак
+| srp_NS_FULL_NAME_RO = Мијак
+| srp_NS_FULL_NAME_ND_RO = Мијак
+| srp_NS_SORT_NAME_RG = МИЈАК
+| srp_NS_FULL_NAME_RG = Мијак
+| srp_NS_FULL_NAME_ND_RG = Мијак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.385556
  | Lartësia            = 
 }}
-'''Mjak''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Mjak''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

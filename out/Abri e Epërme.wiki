@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Abri e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ABRIEEPERME
- | FULL_NAME_RO = Abri e Epërme
- | FULL_NAME_ND_RO=Abri e Eperme
- | SORT_NAME_RG=ABRIEEPERME
- | FULL_NAME_RG=Abri e Epërme
- | FULL_NAME_ND_RG=Abri e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Abri e Epërme
+| sqi_N_FULL_NAME_RO = Abri e Epërme
+| sqi_N_FULL_NAME_ND_RO = Abri e Eperme
+| sqi_N_SORT_NAME_RG = ABRIEEPERME
+| sqi_N_FULL_NAME_RG = Abri e Epërme
+| sqi_N_FULL_NAME_ND_RG = Abri e Eperme
+| sqi_V_name = Abria e Epërme
+| sqi_V_FULL_NAME_RO = Abria e Epërme Abrije e Epërme Obria e Epërme Obrijë e Epërme
+| sqi_V_FULL_NAME_ND_RO = Abria e Eperme Abrije e Eperme Obria e Eperme Obrije e Eperme
+| sqi_V_SORT_NAME_RG = ABRIAEEPERME ABRIJEEEPERME OBRIAEEPERME OBRIJEEEPERME
+| sqi_V_FULL_NAME_RG = Abria e Epërme Abrije e Epërme Obria e Epërme Obrijë e Epërme
+| sqi_V_FULL_NAME_ND_RG = Abria e Eperme Abrije e Eperme Obria e Eperme Obrije e Eperme
+| srp_N_name = Gornje Obrinje
+| srp_N_FULL_NAME_RO = Gornje Obrinje
+| srp_N_FULL_NAME_ND_RO = Gornje Obrinje
+| srp_N_SORT_NAME_RG = GORNJEOBRINJE
+| srp_N_FULL_NAME_RG = Gornje Obrinje
+| srp_N_FULL_NAME_ND_RG = Gornje Obrinje
+| srp_NS_name = Горње Обриње
+| srp_NS_FULL_NAME_RO = Горње Обриње
+| srp_NS_FULL_NAME_ND_RO = Горње Обриње
+| srp_NS_SORT_NAME_RG = ГОРЊЕОБРИЊЕ
+| srp_NS_FULL_NAME_RG = Горње Обриње
+| srp_NS_FULL_NAME_ND_RG = Горње Обриње
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.789444
  | Lartësia            = 
 }}
-'''Abri e Epërme''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Abri e Epërme''' është një [[Fshat Vogel]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

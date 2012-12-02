@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Veriq i Ri
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VERIQIRI
- | FULL_NAME_RO = Veriq i Ri
- | FULL_NAME_ND_RO=Veriq i Ri
- | SORT_NAME_RG=VERIQIRI
- | FULL_NAME_RG=Veriq i Ri
- | FULL_NAME_ND_RG=Veriq i Ri
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Veriq i Ri
+| sqi_D_FULL_NAME_RO = Veriq i Ri
+| sqi_D_FULL_NAME_ND_RO = Veriq i Ri
+| sqi_D_SORT_NAME_RG = VERIQIRI
+| sqi_D_FULL_NAME_RG = Veriq i Ri
+| sqi_D_FULL_NAME_ND_RG = Veriq i Ri
+| srp_N_name = Novi Verić
+| srp_N_FULL_NAME_RO = Novi Verić
+| srp_N_FULL_NAME_ND_RO = Novi Veric
+| srp_N_SORT_NAME_RG = NOVIVERIC
+| srp_N_FULL_NAME_RG = Novi Verić
+| srp_N_FULL_NAME_ND_RG = Novi Veric
+| srp_NS_name = Нови Верић
+| srp_NS_FULL_NAME_RO = Нови Верић
+| srp_NS_FULL_NAME_ND_RO = Нови Верић
+| srp_NS_SORT_NAME_RG = НОВИВЕРИЋ
+| srp_NS_FULL_NAME_RG = Нови Верић
+| srp_NS_FULL_NAME_ND_RG = Нови Верић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.563611
  | Lartësia            = 
 }}
-'''Veriq i Ri''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Veriq i Ri''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

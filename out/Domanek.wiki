@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Domanek
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DOMANEK
- | FULL_NAME_RO = Domanek
- | FULL_NAME_ND_RO=Domanek
- | SORT_NAME_RG=DOMANEK
- | FULL_NAME_RG=Domanek
- | FULL_NAME_ND_RG=Domanek
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Domanek
+| sqi_N_FULL_NAME_RO = Domanek
+| sqi_N_FULL_NAME_ND_RO = Domanek
+| sqi_N_SORT_NAME_RG = DOMANEK
+| sqi_N_FULL_NAME_RG = Domanek
+| sqi_N_FULL_NAME_ND_RG = Domanek
+| sqi_V_name = Damaneku
+| sqi_V_FULL_NAME_RO = Damaneku Damanek
+| sqi_V_FULL_NAME_ND_RO = Damaneku Damanek
+| sqi_V_SORT_NAME_RG = DAMANEKU DAMANEK
+| sqi_V_FULL_NAME_RG = Damaneku Damanek
+| sqi_V_FULL_NAME_ND_RG = Damaneku Damanek
+| srp_N_name = Domanek
+| srp_N_FULL_NAME_RO = Domanek
+| srp_N_FULL_NAME_ND_RO = Domanek
+| srp_N_SORT_NAME_RG = DOMANEK
+| srp_N_FULL_NAME_RG = Domanek
+| srp_N_FULL_NAME_ND_RG = Domanek
+| srp_NS_name = Доманек
+| srp_NS_FULL_NAME_RO = Доманек
+| srp_NS_FULL_NAME_ND_RO = Доманек
+| srp_NS_SORT_NAME_RG = ДОМАНЕК
+| srp_NS_FULL_NAME_RG = Доманек
+| srp_NS_FULL_NAME_ND_RG = Доманек
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.853333
  | Lartësia            = 
 }}
-'''Domanek''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Domanek''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

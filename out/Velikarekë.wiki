@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Velikarekë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VELIKAREKE
- | FULL_NAME_RO = Velikarekë
- | FULL_NAME_ND_RO=Velikareke
- | SORT_NAME_RG=VELIKAREKE
- | FULL_NAME_RG=Velikarekë
- | FULL_NAME_ND_RG=Velikareke
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Velikarekë
+| sqi_N_FULL_NAME_RO = Velikarekë
+| sqi_N_FULL_NAME_ND_RO = Velikareke
+| sqi_N_SORT_NAME_RG = VELIKAREKE
+| sqi_N_FULL_NAME_RG = Velikarekë
+| sqi_N_FULL_NAME_ND_RG = Velikareke
+| sqi_V_name = Katunishtë
+| sqi_V_FULL_NAME_RO = Katunishtë Katunishta
+| sqi_V_FULL_NAME_ND_RO = Katunishte Katunishta
+| sqi_V_SORT_NAME_RG = KATUNISHTE KATUNISHTA
+| sqi_V_FULL_NAME_RG = Katunishtë Katunishta
+| sqi_V_FULL_NAME_ND_RG = Katunishte Katunishta
+| srp_N_name = Velika Reka
+| srp_N_FULL_NAME_RO = Velika Reka
+| srp_N_FULL_NAME_ND_RO = Velika Reka
+| srp_N_SORT_NAME_RG = VELIKAREKA
+| srp_N_FULL_NAME_RG = Velika Reka
+| srp_N_FULL_NAME_ND_RG = Velika Reka
+| srp_NS_name = Велика Река
+| srp_NS_FULL_NAME_RO = Велика Река
+| srp_NS_FULL_NAME_ND_RO = Велика Река
+| srp_NS_SORT_NAME_RG = ВЕЛИКАРЕКА
+| srp_NS_FULL_NAME_RG = Велика Река
+| srp_NS_FULL_NAME_ND_RG = Велика Река
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.130898
  | Lartësia            = 
 }}
-'''Velikarekë''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Velikarekë''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

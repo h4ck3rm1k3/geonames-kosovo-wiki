@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Volljak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VOLLJAK
- | FULL_NAME_RO = Volljak
- | FULL_NAME_ND_RO=Volljak
- | SORT_NAME_RG=VOLLJAK
- | FULL_NAME_RG=Volljak
- | FULL_NAME_ND_RG=Volljak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Volljak
+| sqi_D_FULL_NAME_RO = Volljak
+| sqi_D_FULL_NAME_ND_RO = Volljak
+| sqi_D_SORT_NAME_RG = VOLLJAK
+| sqi_D_FULL_NAME_RG = Volljak
+| sqi_D_FULL_NAME_ND_RG = Volljak
+| sqi_V_name = Valljakë
+| sqi_V_FULL_NAME_RO = Valljakë
+| sqi_V_FULL_NAME_ND_RO = Valljake
+| sqi_V_SORT_NAME_RG = VALLJAKE
+| sqi_V_FULL_NAME_RG = Valljakë
+| sqi_V_FULL_NAME_ND_RG = Valljake
+| srp_N_name = Volujak
+| srp_N_FULL_NAME_RO = Volujak
+| srp_N_FULL_NAME_ND_RO = Volujak
+| srp_N_SORT_NAME_RG = VOLUJAK
+| srp_N_FULL_NAME_RG = Volujak
+| srp_N_FULL_NAME_ND_RG = Volujak
+| srp_NS_name = Волујак
+| srp_NS_FULL_NAME_RO = Волујак
+| srp_NS_FULL_NAME_ND_RO = Волујак
+| srp_NS_SORT_NAME_RG = ВОЛУЈАК
+| srp_NS_FULL_NAME_RG = Волујак
+| srp_NS_FULL_NAME_ND_RG = Волујак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.585
  | Lartësia            = 
 }}
-'''Volljak''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Volljak''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

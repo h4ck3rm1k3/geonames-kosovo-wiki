@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Borçan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BORCAN
- | FULL_NAME_RO = Borçan
- | FULL_NAME_ND_RO=Borcan
- | SORT_NAME_RG=BORCAN
- | FULL_NAME_RG=Borçan
- | FULL_NAME_ND_RG=Borcan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Borçan
+| sqi_N_FULL_NAME_RO = Borçan
+| sqi_N_FULL_NAME_ND_RO = Borcan
+| sqi_N_SORT_NAME_RG = BORCAN
+| sqi_N_FULL_NAME_RG = Borçan
+| sqi_N_FULL_NAME_ND_RG = Borcan
+| srp_N_name = Borčane
+| srp_N_FULL_NAME_RO = Borčane
+| srp_N_FULL_NAME_ND_RO = Borcane
+| srp_N_SORT_NAME_RG = BORCANE
+| srp_N_FULL_NAME_RG = Borčane
+| srp_N_FULL_NAME_ND_RG = Borcane
+| srp_NS_name = Борчане
+| srp_NS_FULL_NAME_RO = Борчане
+| srp_NS_FULL_NAME_ND_RO = Борчане
+| srp_NS_SORT_NAME_RG = БОРЧАНЕ
+| srp_NS_FULL_NAME_RG = Борчане
+| srp_NS_FULL_NAME_ND_RG = Борчане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.917222
  | Lartësia            = 
 }}
-'''Borçan''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Borçan''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

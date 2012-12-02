@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Çabër
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CABER
- | FULL_NAME_RO = Çabër
- | FULL_NAME_ND_RO=Caber
- | SORT_NAME_RG=CABER
- | FULL_NAME_RG=Çabër
- | FULL_NAME_ND_RG=Caber
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Çabër
+| sqi_N_FULL_NAME_RO = Çabër
+| sqi_N_FULL_NAME_ND_RO = Caber
+| sqi_N_SORT_NAME_RG = CABER
+| sqi_N_FULL_NAME_RG = Çabër
+| sqi_N_FULL_NAME_ND_RG = Caber
+| sqi_V_name = Çabrë
+| sqi_V_FULL_NAME_RO = Çabrë Cabrë
+| sqi_V_FULL_NAME_ND_RO = Cabre Cabre
+| sqi_V_SORT_NAME_RG = CABRE CABRE
+| sqi_V_FULL_NAME_RG = Çabrë Cabrë
+| sqi_V_FULL_NAME_ND_RG = Cabre Cabre
+| srp_N_name = Čabra
+| srp_N_FULL_NAME_RO = Čabra
+| srp_N_FULL_NAME_ND_RO = Cabra
+| srp_N_SORT_NAME_RG = CABRA
+| srp_N_FULL_NAME_RG = Čabra
+| srp_N_FULL_NAME_ND_RG = Cabra
+| srp_NS_name = Чабра
+| srp_NS_FULL_NAME_RO = Чабра
+| srp_NS_FULL_NAME_ND_RO = Чабра
+| srp_NS_SORT_NAME_RG = ЧАБРА
+| srp_NS_FULL_NAME_RG = Чабра
+| srp_NS_FULL_NAME_ND_RG = Чабра
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.7725
  | Lartësia            = 
 }}
-'''Çabër''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Çabër''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

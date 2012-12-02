@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Devajë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DEVAJE
- | FULL_NAME_RO = Devajë
- | FULL_NAME_ND_RO=Devaje
- | SORT_NAME_RG=DEVAJE
- | FULL_NAME_RG=Devajë
- | FULL_NAME_ND_RG=Devaje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Devajë
+| sqi_N_FULL_NAME_RO = Devajë
+| sqi_N_FULL_NAME_ND_RO = Devaje
+| sqi_N_SORT_NAME_RG = DEVAJE
+| sqi_N_FULL_NAME_RG = Devajë
+| sqi_N_FULL_NAME_ND_RG = Devaje
+| srp_N_name = Devaja
+| srp_N_FULL_NAME_RO = Devaja
+| srp_N_FULL_NAME_ND_RO = Devaja
+| srp_N_SORT_NAME_RG = DEVAJA
+| srp_N_FULL_NAME_RG = Devaja
+| srp_N_FULL_NAME_ND_RG = Devaja
+| srp_NS_name = Деваја
+| srp_NS_FULL_NAME_RO = Деваја
+| srp_NS_FULL_NAME_ND_RO = Деваја
+| srp_NS_SORT_NAME_RG = ДЕВАЈА
+| srp_NS_FULL_NAME_RG = Деваја
+| srp_NS_FULL_NAME_ND_RG = Деваја
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.400833
  | Lartësia            = 
 }}
-'''Devajë''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Devajë''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

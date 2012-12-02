@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shipashnicë e Poshtme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHIPASHNICEEPOSHTME
- | FULL_NAME_RO = Shipashnicë e Poshtme
- | FULL_NAME_ND_RO=Shipashnice e Poshtme
- | SORT_NAME_RG=SHIPASHNICEEPOSHTME
- | FULL_NAME_RG=Shipashnicë e Poshtme
- | FULL_NAME_ND_RG=Shipashnice e Poshtme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Shipashnicë e Poshtme
+| sqi_D_FULL_NAME_RO = Shipashnicë e Poshtme
+| sqi_D_FULL_NAME_ND_RO = Shipashnice e Poshtme
+| sqi_D_SORT_NAME_RG = SHIPASHNICEEPOSHTME
+| sqi_D_FULL_NAME_RG = Shipashnicë e Poshtme
+| sqi_D_FULL_NAME_ND_RG = Shipashnice e Poshtme
+| sqi_V_name = Shipashnica e Poshtme
+| sqi_V_FULL_NAME_RO = Shipashnica e Poshtme Shpati i Poshtëm
+| sqi_V_FULL_NAME_ND_RO = Shipashnica e Poshtme Shpati i Poshtem
+| sqi_V_SORT_NAME_RG = SHIPASHNICAEPOSHTME SHPATIIPOSHTEM
+| sqi_V_FULL_NAME_RG = Shipashnica e Poshtme Shpati i Poshtëm
+| sqi_V_FULL_NAME_ND_RG = Shipashnica e Poshtme Shpati i Poshtem
+| srp_N_name = Donja Šipašnica
+| srp_N_FULL_NAME_RO = Donja Šipašnica
+| srp_N_FULL_NAME_ND_RO = Donja Sipasnica
+| srp_N_SORT_NAME_RG = DONJASIPASNICA
+| srp_N_FULL_NAME_RG = Donja Šipašnica
+| srp_N_FULL_NAME_ND_RG = Donja Sipasnica
+| srp_NS_name = Доња Шипашница
+| srp_NS_FULL_NAME_RO = Доња Шипашница
+| srp_NS_FULL_NAME_ND_RO = Доња Шипашница
+| srp_NS_SORT_NAME_RG = ДОЊАШИПАШНИЦА
+| srp_NS_FULL_NAME_RG = Доња Шипашница
+| srp_NS_FULL_NAME_ND_RG = Доња Шипашница
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.655
  | Lartësia            = 
 }}
-'''Shipashnicë e Poshtme''' është një [[]] në [[Fushë Kosovë]] të [[Kosovës]].
+'''Shipashnicë e Poshtme''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

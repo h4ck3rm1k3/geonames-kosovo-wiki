@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kçiq i Madh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KCIQIMADH
- | FULL_NAME_RO = Kçiq i Madh
- | FULL_NAME_ND_RO=Kciq i Madh
- | SORT_NAME_RG=KCIQIMADH
- | FULL_NAME_RG=Kçiq i Madh
- | FULL_NAME_ND_RG=Kciq i Madh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Kçiq i Madh
+| sqi_D_FULL_NAME_RO = Kçiq i Madh
+| sqi_D_FULL_NAME_ND_RO = Kciq i Madh
+| sqi_D_SORT_NAME_RG = KCIQIMADH
+| sqi_D_FULL_NAME_RG = Kçiq i Madh
+| sqi_D_FULL_NAME_ND_RG = Kciq i Madh
+| sqi_V_name = Kçiqi i Madh
+| sqi_V_FULL_NAME_RO = Kçiqi i Madh
+| sqi_V_FULL_NAME_ND_RO = Kciqi i Madh
+| sqi_V_SORT_NAME_RG = KCIQIIMADH
+| sqi_V_FULL_NAME_RG = Kçiqi i Madh
+| sqi_V_FULL_NAME_ND_RG = Kciqi i Madh
+| srp_N_name = Veliki Kičić
+| srp_N_FULL_NAME_RO = Veliki Kičić
+| srp_N_FULL_NAME_ND_RO = Veliki Kicic
+| srp_N_SORT_NAME_RG = VELIKIKICIC
+| srp_N_FULL_NAME_RG = Veliki Kičić
+| srp_N_FULL_NAME_ND_RG = Veliki Kicic
+| srp_NS_name = Велики Кичић
+| srp_NS_FULL_NAME_RO = Велики Кичић
+| srp_NS_FULL_NAME_ND_RO = Велики Кичић
+| srp_NS_SORT_NAME_RG = ВЕЛИКИКИЧИЋ
+| srp_NS_FULL_NAME_RG = Велики Кичић
+| srp_NS_FULL_NAME_ND_RG = Велики Кичић
+| srp_V_name = Veliko Kičiće
+| srp_V_FULL_NAME_RO = Veliko Kičiće Velike Kičiće
+| srp_V_FULL_NAME_ND_RO = Veliko Kicice Velike Kicice
+| srp_V_SORT_NAME_RG = VELIKOKICICE VELIKEKICICE
+| srp_V_FULL_NAME_RG = Veliko Kičiće Velike Kičiće
+| srp_V_FULL_NAME_ND_RG = Veliko Kicice Velike Kicice
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.922222
  | Lartësia            = 
 }}
-'''Kçiq i Madh''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Kçiq i Madh''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

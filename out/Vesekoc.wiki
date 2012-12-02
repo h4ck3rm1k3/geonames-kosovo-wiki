@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vesekoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VESEKOC
- | FULL_NAME_RO = Vesekoc
- | FULL_NAME_ND_RO=Vesekoc
- | SORT_NAME_RG=VESEKOC
- | FULL_NAME_RG=Vesekoc
- | FULL_NAME_ND_RG=Vesekoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vesekoc
+| sqi_N_FULL_NAME_RO = Vesekoc
+| sqi_N_FULL_NAME_ND_RO = Vesekoc
+| sqi_N_SORT_NAME_RG = VESEKOC
+| sqi_N_FULL_NAME_RG = Vesekoc
+| sqi_N_FULL_NAME_ND_RG = Vesekoc
+| sqi_V_name = Vesekofc
+| sqi_V_FULL_NAME_RO = Vesekofc Vesekovc
+| sqi_V_FULL_NAME_ND_RO = Vesekofc Vesekovc
+| sqi_V_SORT_NAME_RG = VESEKOFC VESEKOVC
+| sqi_V_FULL_NAME_RG = Vesekofc Vesekovc
+| sqi_V_FULL_NAME_ND_RG = Vesekofc Vesekovc
+| srp_N_name = Vesekovce
+| srp_N_FULL_NAME_RO = Vesekovce
+| srp_N_FULL_NAME_ND_RO = Vesekovce
+| srp_N_SORT_NAME_RG = VESEKOVCE
+| srp_N_FULL_NAME_RG = Vesekovce
+| srp_N_FULL_NAME_ND_RG = Vesekovce
+| srp_NS_name = Весековце
+| srp_NS_FULL_NAME_RO = Весековце
+| srp_NS_FULL_NAME_ND_RO = Весековце
+| srp_NS_SORT_NAME_RG = ВЕСЕКОВЦЕ
+| srp_NS_FULL_NAME_RG = Весековце
+| srp_NS_FULL_NAME_ND_RG = Весековце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.03811
  | Lartësia            = 
 }}
-'''Vesekoc''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Vesekoc''' është një [[Fshat Vogel]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Davidoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DAVIDOC
- | FULL_NAME_RO = Davidoc
- | FULL_NAME_ND_RO=Davidoc
- | SORT_NAME_RG=DAVIDOC
- | FULL_NAME_RG=Davidoc
- | FULL_NAME_ND_RG=Davidoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Davidoc
+| sqi_N_FULL_NAME_RO = Davidoc
+| sqi_N_FULL_NAME_ND_RO = Davidoc
+| sqi_N_SORT_NAME_RG = DAVIDOC
+| sqi_N_FULL_NAME_RG = Davidoc
+| sqi_N_FULL_NAME_ND_RG = Davidoc
+| sqi_V_name = Davidofc
+| sqi_V_FULL_NAME_RO = Davidofc
+| sqi_V_FULL_NAME_ND_RO = Davidofc
+| sqi_V_SORT_NAME_RG = DAVIDOFC
+| sqi_V_FULL_NAME_RG = Davidofc
+| sqi_V_FULL_NAME_ND_RG = Davidofc
+| srp_N_name = Davidovce
+| srp_N_FULL_NAME_RO = Davidovce
+| srp_N_FULL_NAME_ND_RO = Davidovce
+| srp_N_SORT_NAME_RG = DAVIDOVCE
+| srp_N_FULL_NAME_RG = Davidovce
+| srp_N_FULL_NAME_ND_RG = Davidovce
+| srp_NS_name = Давидовце
+| srp_NS_FULL_NAME_RO = Давидовце
+| srp_NS_FULL_NAME_ND_RO = Давидовце
+| srp_NS_SORT_NAME_RG = ДАВИДОВЦЕ
+| srp_NS_FULL_NAME_RG = Давидовце
+| srp_NS_FULL_NAME_ND_RG = Давидовце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.064722
  | Lartësia            = 
 }}
-'''Davidoc''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Davidoc''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

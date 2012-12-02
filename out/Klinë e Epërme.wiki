@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Klinë e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KLINEEEPERME
- | FULL_NAME_RO = Klinë e Epërme
- | FULL_NAME_ND_RO=Kline e Eperme
- | SORT_NAME_RG=KLINEEEPERME
- | FULL_NAME_RG=Klinë e Epërme
- | FULL_NAME_ND_RG=Kline e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Klinë e Epërme
+| sqi_N_FULL_NAME_RO = Klinë e Epërme
+| sqi_N_FULL_NAME_ND_RO = Kline e Eperme
+| sqi_N_SORT_NAME_RG = KLINEEEPERME
+| sqi_N_FULL_NAME_RG = Klinë e Epërme
+| sqi_N_FULL_NAME_ND_RG = Kline e Eperme
+| sqi_V_name = Klina e Epërme
+| sqi_V_FULL_NAME_RO = Klina e Epërme
+| sqi_V_FULL_NAME_ND_RO = Klina e Eperme
+| sqi_V_SORT_NAME_RG = KLINAEEPERME
+| sqi_V_FULL_NAME_RG = Klina e Epërme
+| sqi_V_FULL_NAME_ND_RG = Klina e Eperme
+| srp_N_name = Gornja Klina
+| srp_N_FULL_NAME_RO = Gornja Klina
+| srp_N_FULL_NAME_ND_RO = Gornja Klina
+| srp_N_SORT_NAME_RG = GORNJAKLINA
+| srp_N_FULL_NAME_RG = Gornja Klina
+| srp_N_FULL_NAME_ND_RG = Gornja Klina
+| srp_NS_name = Горња Клина
+| srp_NS_FULL_NAME_RO = Горња Клина
+| srp_NS_FULL_NAME_ND_RO = Горња Клина
+| srp_NS_SORT_NAME_RG = ГОРЊАКЛИНА
+| srp_NS_FULL_NAME_RG = Горња Клина
+| srp_NS_FULL_NAME_ND_RG = Горња Клина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.783333
  | Lartësia            = 
 }}
-'''Klinë e Epërme''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Klinë e Epërme''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

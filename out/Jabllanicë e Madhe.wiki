@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Jabllanicë e Madhe
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JABLLANICEEMADHE
- | FULL_NAME_RO = Jabllanicë e Madhe
- | FULL_NAME_ND_RO=Jabllanice e Madhe
- | SORT_NAME_RG=JABLLANICEEMADHE
- | FULL_NAME_RG=Jabllanicë e Madhe
- | FULL_NAME_ND_RG=Jabllanice e Madhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Jabllanicë e Madhe
+| sqi_N_FULL_NAME_RO = Jabllanicë e Madhe
+| sqi_N_FULL_NAME_ND_RO = Jabllanice e Madhe
+| sqi_N_SORT_NAME_RG = JABLLANICEEMADHE
+| sqi_N_FULL_NAME_RG = Jabllanicë e Madhe
+| sqi_N_FULL_NAME_ND_RG = Jabllanice e Madhe
+| sqi_V_name = Jablanice e Madhe
+| sqi_V_FULL_NAME_RO = Jablanice e Madhe Jablanicë Jabllanica e Madhe
+| sqi_V_FULL_NAME_ND_RO = Jablanice e Madhe Jablanice Jabllanica e Madhe
+| sqi_V_SORT_NAME_RG = JABLANICEEMADHE JABLANICE JABLLANICAEMADHE
+| sqi_V_FULL_NAME_RG = Jablanice e Madhe Jablanicë Jabllanica e Madhe
+| sqi_V_FULL_NAME_ND_RG = Jablanice e Madhe Jablanice Jabllanica e Madhe
+| srp_N_name = Velika Jablanica
+| srp_N_FULL_NAME_RO = Velika Jablanica
+| srp_N_FULL_NAME_ND_RO = Velika Jablanica
+| srp_N_SORT_NAME_RG = VELIKAJABLANICA
+| srp_N_FULL_NAME_RG = Velika Jablanica
+| srp_N_FULL_NAME_ND_RG = Velika Jablanica
+| srp_NS_name = Велика Јабланица
+| srp_NS_FULL_NAME_RO = Велика Јабланица
+| srp_NS_FULL_NAME_ND_RO = Велика Јабланица
+| srp_NS_SORT_NAME_RG = ВЕЛИКАЈАБЛАНИЦА
+| srp_NS_FULL_NAME_RG = Велика Јабланица
+| srp_NS_FULL_NAME_ND_RG = Велика Јабланица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.316667
  | Lartësia            = 
 }}
-'''Jabllanicë e Madhe''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Jabllanicë e Madhe''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

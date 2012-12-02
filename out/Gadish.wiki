@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gadish
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GADISH
- | FULL_NAME_RO = Gadish
- | FULL_NAME_ND_RO=Gadish
- | SORT_NAME_RG=GADISH
- | FULL_NAME_RG=Gadish
- | FULL_NAME_ND_RG=Gadish
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gadish
+| sqi_N_FULL_NAME_RO = Gadish
+| sqi_N_FULL_NAME_ND_RO = Gadish
+| sqi_N_SORT_NAME_RG = GADISH
+| sqi_N_FULL_NAME_RG = Gadish
+| sqi_N_FULL_NAME_ND_RG = Gadish
+| srp_N_name = Gadiš
+| srp_N_FULL_NAME_RO = Gadiš
+| srp_N_FULL_NAME_ND_RO = Gadis
+| srp_N_SORT_NAME_RG = GADIS
+| srp_N_FULL_NAME_RG = Gadiš
+| srp_N_FULL_NAME_ND_RG = Gadis
+| srp_NS_name = Гадиш
+| srp_NS_FULL_NAME_RO = Гадиш
+| srp_NS_FULL_NAME_ND_RO = Гадиш
+| srp_NS_SORT_NAME_RG = ГАДИШ
+| srp_NS_FULL_NAME_RG = Гадиш
+| srp_NS_FULL_NAME_ND_RG = Гадиш
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.329444
  | Lartësia            = 
 }}
-'''Gadish''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Gadish''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

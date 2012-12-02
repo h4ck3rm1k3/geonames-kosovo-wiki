@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Qerret
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      QERRET
- | FULL_NAME_RO = Qerret
- | FULL_NAME_ND_RO=Qerret
- | SORT_NAME_RG=QERRET
- | FULL_NAME_RG=Qerret
- | FULL_NAME_ND_RG=Qerret
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Qerret
+| sqi_N_FULL_NAME_RO = Qerret
+| sqi_N_FULL_NAME_ND_RO = Qerret
+| sqi_N_SORT_NAME_RG = QERRET
+| sqi_N_FULL_NAME_RG = Qerret
+| sqi_N_FULL_NAME_ND_RG = Qerret
+| sqi_V_name = Qeret
+| sqi_V_FULL_NAME_RO = Qeret
+| sqi_V_FULL_NAME_ND_RO = Qeret
+| sqi_V_SORT_NAME_RG = QERET
+| sqi_V_FULL_NAME_RG = Qeret
+| sqi_V_FULL_NAME_ND_RG = Qeret
+| srp_N_name = Čeret
+| srp_N_FULL_NAME_RO = Čeret
+| srp_N_FULL_NAME_ND_RO = Ceret
+| srp_N_SORT_NAME_RG = CERET
+| srp_N_FULL_NAME_RG = Čeret
+| srp_N_FULL_NAME_ND_RG = Ceret
+| srp_NS_name = Черет
+| srp_NS_FULL_NAME_RO = Черет
+| srp_NS_FULL_NAME_ND_RO = Черет
+| srp_NS_SORT_NAME_RG = ЧЕРЕТ
+| srp_NS_FULL_NAME_RG = Черет
+| srp_NS_FULL_NAME_ND_RG = Черет
+| srp_V_name = Čerat
+| srp_V_FULL_NAME_RO = Čerat Ćeret
+| srp_V_FULL_NAME_ND_RO = Cerat Ceret
+| srp_V_SORT_NAME_RG = CERAT CERET
+| srp_V_FULL_NAME_RG = Čerat Ćeret
+| srp_V_FULL_NAME_ND_RG = Cerat Ceret
+| srp_VS_name = Ћерет
+| srp_VS_FULL_NAME_RO = Ћерет
+| srp_VS_FULL_NAME_ND_RO = Ћерет
+| srp_VS_SORT_NAME_RG = ЋЕРЕТ
+| srp_VS_FULL_NAME_RG = Ћерет
+| srp_VS_FULL_NAME_ND_RG = Ћерет
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.266944
  | Lartësia            = 
 }}
-'''Qerret''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Qerret''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

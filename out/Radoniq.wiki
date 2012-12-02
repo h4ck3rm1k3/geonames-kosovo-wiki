@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Radoniq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RADONIQ
- | FULL_NAME_RO = Radoniq
- | FULL_NAME_ND_RO=Radoniq
- | SORT_NAME_RG=RADONIQ
- | FULL_NAME_RG=Radoniq
- | FULL_NAME_ND_RG=Radoniq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Radoniq
+| sqi_N_FULL_NAME_RO = Radoniq
+| sqi_N_FULL_NAME_ND_RO = Radoniq
+| sqi_N_SORT_NAME_RG = RADONIQ
+| sqi_N_FULL_NAME_RG = Radoniq
+| sqi_N_FULL_NAME_ND_RG = Radoniq
+| sqi_V_name = Radoniç
+| sqi_V_FULL_NAME_RO = Radoniç
+| sqi_V_FULL_NAME_ND_RO = Radonic
+| sqi_V_SORT_NAME_RG = RADONIC
+| sqi_V_FULL_NAME_RG = Radoniç
+| sqi_V_FULL_NAME_ND_RG = Radonic
+| srp_N_name = Radenić
+| srp_N_FULL_NAME_RO = Radenić
+| srp_N_FULL_NAME_ND_RO = Radenic
+| srp_N_SORT_NAME_RG = RADENIC
+| srp_N_FULL_NAME_RG = Radenić
+| srp_N_FULL_NAME_ND_RG = Radenic
+| srp_NS_name = Радењић
+| srp_NS_FULL_NAME_RO = Радењић
+| srp_NS_FULL_NAME_ND_RO = Радењић
+| srp_NS_SORT_NAME_RG = РАДЕЊИЋ
+| srp_NS_FULL_NAME_RG = Радењић
+| srp_NS_FULL_NAME_ND_RG = Радењић
+| srp_V_name = Radonjić
+| srp_V_FULL_NAME_RO = Radonjić
+| srp_V_FULL_NAME_ND_RO = Radonjic
+| srp_V_SORT_NAME_RG = RADONJIC
+| srp_V_FULL_NAME_RG = Radonjić
+| srp_V_FULL_NAME_ND_RG = Radonjic
+| srp_VS_name = Радоњић
+| srp_VS_FULL_NAME_RO = Радоњић
+| srp_VS_FULL_NAME_ND_RO = Радоњић
+| srp_VS_SORT_NAME_RG = РАДОЊИЋ
+| srp_VS_FULL_NAME_RG = Радоњић
+| srp_VS_FULL_NAME_ND_RG = Радоњић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.433333
  | Lartësia            = 
 }}
-'''Radoniq''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Radoniq''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

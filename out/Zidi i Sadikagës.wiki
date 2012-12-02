@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zidi i Sadikagës
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZIDIISADIKAGES
- | FULL_NAME_RO = Zidi i Sadikagës
- | FULL_NAME_ND_RO=Zidi i Sadikages
- | SORT_NAME_RG=ZIDIISADIKAGES
- | FULL_NAME_RG=Zidi i Sadikagës
- | FULL_NAME_ND_RG=Zidi i Sadikages
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zidi i Sadikagës
+| sqi_D_FULL_NAME_RO = Zidi i Sadikagës
+| sqi_D_FULL_NAME_ND_RO = Zidi i Sadikages
+| sqi_D_SORT_NAME_RG = ZIDIISADIKAGES
+| sqi_D_FULL_NAME_RG = Zidi i Sadikagës
+| sqi_D_FULL_NAME_ND_RG = Zidi i Sadikages
+| sqi_V_name = Zib-Sallih-Age
+| sqi_V_FULL_NAME_RO = Zib-Sallih-Age Zidi Sadikagës
+| sqi_V_FULL_NAME_ND_RO = Zib-Sallih-Age Zidi Sadikages
+| sqi_V_SORT_NAME_RG = ZIBSALLIHAGE ZIDISADIKAGES
+| sqi_V_FULL_NAME_RG = Zib-Sallih-Age Zidi Sadikagës
+| sqi_V_FULL_NAME_ND_RG = Zib-Sallih-Age Zidi Sadikages
+| srp_N_name = Zid Sadih Aga
+| srp_N_FULL_NAME_RO = Zid Sadih Aga
+| srp_N_FULL_NAME_ND_RO = Zid Sadih Aga
+| srp_N_SORT_NAME_RG = ZIDSADIHAGA
+| srp_N_FULL_NAME_RG = Zid Sadih Aga
+| srp_N_FULL_NAME_ND_RG = Zid Sadih Aga
+| srp_NS_name = Зид Садих Ага
+| srp_NS_FULL_NAME_RO = Зид Садих Ага
+| srp_NS_FULL_NAME_ND_RO = Зид Садих Ага
+| srp_NS_SORT_NAME_RG = ЗИДСАДИХАГА
+| srp_NS_FULL_NAME_RG = Зид Садих Ага
+| srp_NS_FULL_NAME_ND_RG = Зид Садих Ага
+| srp_V_name = Sadikagin Zid
+| srp_V_FULL_NAME_RO = Sadikagin Zid
+| srp_V_FULL_NAME_ND_RO = Sadikagin Zid
+| srp_V_SORT_NAME_RG = SADIKAGINZID
+| srp_V_FULL_NAME_RG = Sadikagin Zid
+| srp_V_FULL_NAME_ND_RG = Sadikagin Zid
+| srp_VS_name = Садикаган Зид
+| srp_VS_FULL_NAME_RO = Садикаган Зид
+| srp_VS_FULL_NAME_ND_RO = Садикаган Зид
+| srp_VS_SORT_NAME_RG = САДИКАГАНЗИД
+| srp_VS_FULL_NAME_RG = Садикаган Зид
+| srp_VS_FULL_NAME_ND_RG = Садикаган Зид
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.447778
  | Lartësia            = 
 }}
-'''Zidi i Sadikagës''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Zidi i Sadikagës''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Molliq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MOLLIQ
- | FULL_NAME_RO = Molliq
- | FULL_NAME_ND_RO=Molliq
- | SORT_NAME_RG=MOLLIQ
- | FULL_NAME_RG=Molliq
- | FULL_NAME_ND_RG=Molliq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Molliq
+| sqi_N_FULL_NAME_RO = Molliq
+| sqi_N_FULL_NAME_ND_RO = Molliq
+| sqi_N_SORT_NAME_RG = MOLLIQ
+| sqi_N_FULL_NAME_RG = Molliq
+| sqi_N_FULL_NAME_ND_RG = Molliq
+| srp_N_name = Molić
+| srp_N_FULL_NAME_RO = Molić
+| srp_N_FULL_NAME_ND_RO = Molic
+| srp_N_SORT_NAME_RG = MOLIC
+| srp_N_FULL_NAME_RG = Molić
+| srp_N_FULL_NAME_ND_RG = Molic
+| srp_NS_name = Молић
+| srp_NS_FULL_NAME_RO = Молић
+| srp_NS_FULL_NAME_ND_RO = Молић
+| srp_NS_SORT_NAME_RG = МОЛИЋ
+| srp_NS_FULL_NAME_RG = Молић
+| srp_NS_FULL_NAME_ND_RG = Молић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.270833
  | Lartësia            = 
 }}
-'''Molliq''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Molliq''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

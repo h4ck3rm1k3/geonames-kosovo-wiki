@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pepsh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PEPSH
- | FULL_NAME_RO = Pepsh
- | FULL_NAME_ND_RO=Pepsh
- | SORT_NAME_RG=PEPSH
- | FULL_NAME_RG=Pepsh
- | FULL_NAME_ND_RG=Pepsh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pepsh
+| sqi_N_FULL_NAME_RO = Pepsh
+| sqi_N_FULL_NAME_ND_RO = Pepsh
+| sqi_N_SORT_NAME_RG = PEPSH
+| sqi_N_FULL_NAME_RG = Pepsh
+| sqi_N_FULL_NAME_ND_RG = Pepsh
+| srp_N_name = Pepša
+| srp_N_FULL_NAME_RO = Pepša
+| srp_N_FULL_NAME_ND_RO = Pepsa
+| srp_N_SORT_NAME_RG = PEPSA
+| srp_N_FULL_NAME_RG = Pepša
+| srp_N_FULL_NAME_ND_RG = Pepsa
+| srp_NS_name = Пепша
+| srp_NS_FULL_NAME_RO = Пепша
+| srp_NS_FULL_NAME_ND_RO = Пепша
+| srp_NS_SORT_NAME_RG = ПЕПША
+| srp_NS_FULL_NAME_RG = Пепша
+| srp_NS_FULL_NAME_ND_RG = Пепша
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.273056
  | Lartësia            = 
 }}
-'''Pepsh''' është një [[]] në [[]] të [[Kosovës]].
+'''Pepsh''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

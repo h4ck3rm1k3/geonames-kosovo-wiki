@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Goshicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GOSHICE
- | FULL_NAME_RO = Goshicë
- | FULL_NAME_ND_RO=Goshice
- | SORT_NAME_RG=GOSHICE
- | FULL_NAME_RG=Goshicë
- | FULL_NAME_ND_RG=Goshice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Goshicë
+| sqi_D_FULL_NAME_RO = Goshicë
+| sqi_D_FULL_NAME_ND_RO = Goshice
+| sqi_D_SORT_NAME_RG = GOSHICE
+| sqi_D_FULL_NAME_RG = Goshicë
+| sqi_D_FULL_NAME_ND_RG = Goshice
+| sqi_V_name = Lupishtë
+| sqi_V_FULL_NAME_RO = Lupishtë Gushica Gushicë
+| sqi_V_FULL_NAME_ND_RO = Lupishte Gushica Gushice
+| sqi_V_SORT_NAME_RG = LUPISHTE GUSHICA GUSHICE
+| sqi_V_FULL_NAME_RG = Lupishtë Gushica Gushicë
+| sqi_V_FULL_NAME_ND_RG = Lupishte Gushica Gushice
+| srp_N_name = Gušica
+| srp_N_FULL_NAME_RO = Gušica
+| srp_N_FULL_NAME_ND_RO = Gusica
+| srp_N_SORT_NAME_RG = GUSICA
+| srp_N_FULL_NAME_RG = Gušica
+| srp_N_FULL_NAME_ND_RG = Gusica
+| srp_NS_name = Гушица
+| srp_NS_FULL_NAME_RO = Гушица
+| srp_NS_FULL_NAME_ND_RO = Гушица
+| srp_NS_SORT_NAME_RG = ГУШИЦА
+| srp_NS_FULL_NAME_RG = Гушица
+| srp_NS_FULL_NAME_ND_RG = Гушица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.3025
  | Lartësia            = 
 }}
-'''Goshicë''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Goshicë''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

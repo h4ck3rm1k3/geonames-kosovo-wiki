@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Boshlan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BOSHLAN
- | FULL_NAME_RO = Boshlan
- | FULL_NAME_ND_RO=Boshlan
- | SORT_NAME_RG=BOSHLAN
- | FULL_NAME_RG=Boshlan
- | FULL_NAME_ND_RG=Boshlan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Boshlan
+| sqi_N_FULL_NAME_RO = Boshlan
+| sqi_N_FULL_NAME_ND_RO = Boshlan
+| sqi_N_SORT_NAME_RG = BOSHLAN
+| sqi_N_FULL_NAME_RG = Boshlan
+| sqi_N_FULL_NAME_ND_RG = Boshlan
+| srp_N_name = Bošljane
+| srp_N_FULL_NAME_RO = Bošljane
+| srp_N_FULL_NAME_ND_RO = Bosljane
+| srp_N_SORT_NAME_RG = BOSLJANE
+| srp_N_FULL_NAME_RG = Bošljane
+| srp_N_FULL_NAME_ND_RG = Bosljane
+| srp_NS_name = Бошљане
+| srp_NS_FULL_NAME_RO = Бошљане
+| srp_NS_FULL_NAME_ND_RO = Бошљане
+| srp_NS_SORT_NAME_RG = БОШЉАНЕ
+| srp_NS_FULL_NAME_RG = Бошљане
+| srp_NS_FULL_NAME_ND_RG = Бошљане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.011433
  | Lartësia            = 
 }}
-'''Boshlan''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Boshlan''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

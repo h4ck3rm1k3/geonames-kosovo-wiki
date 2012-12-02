@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kashtanjevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KASHTANJEVE
- | FULL_NAME_RO = Kashtanjevë
- | FULL_NAME_ND_RO=Kashtanjeve
- | SORT_NAME_RG=KASHTANJEVE
- | FULL_NAME_RG=Kashtanjevë
- | FULL_NAME_ND_RG=Kashtanjeve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kashtanjevë
+| sqi_N_FULL_NAME_RO = Kashtanjevë
+| sqi_N_FULL_NAME_ND_RO = Kashtanjeve
+| sqi_N_SORT_NAME_RG = KASHTANJEVE
+| sqi_N_FULL_NAME_RG = Kashtanjevë
+| sqi_N_FULL_NAME_ND_RG = Kashtanjeve
+| sqi_V_name = Koshtanjevë
+| sqi_V_FULL_NAME_RO = Koshtanjevë Koshtanjeve
+| sqi_V_FULL_NAME_ND_RO = Koshtanjeve Koshtanjeve
+| sqi_V_SORT_NAME_RG = KOSHTANJEVE KOSHTANJEVE
+| sqi_V_FULL_NAME_RG = Koshtanjevë Koshtanjeve
+| sqi_V_FULL_NAME_ND_RG = Koshtanjeve Koshtanjeve
+| srp_N_name = Koštanjevo
+| srp_N_FULL_NAME_RO = Koštanjevo
+| srp_N_FULL_NAME_ND_RO = Kostanjevo
+| srp_N_SORT_NAME_RG = KOSTANJEVO
+| srp_N_FULL_NAME_RG = Koštanjevo
+| srp_N_FULL_NAME_ND_RG = Kostanjevo
+| srp_NS_name = Коштањево
+| srp_NS_FULL_NAME_RO = Коштањево
+| srp_NS_FULL_NAME_ND_RO = Коштањево
+| srp_NS_SORT_NAME_RG = КОШТАЊЕВО
+| srp_NS_FULL_NAME_RG = Коштањево
+| srp_NS_FULL_NAME_ND_RG = Коштањево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.072778
  | Lartësia            = 
 }}
-'''Kashtanjevë''' është një [[]] në [[Shtërpcë]] të [[Kosovës]].
+'''Kashtanjevë''' është një [[Fshat Vogel]] në [[Shtërpcë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

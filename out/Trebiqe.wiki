@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Trebiqe
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TREBIQE
- | FULL_NAME_RO = Trebiqe
- | FULL_NAME_ND_RO=Trebiqe
- | SORT_NAME_RG=TREBIQE
- | FULL_NAME_RG=Trebiqe
- | FULL_NAME_ND_RG=Trebiqe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Trebiqe
+| sqi_N_FULL_NAME_RO = Trebiqe
+| sqi_N_FULL_NAME_ND_RO = Trebiqe
+| sqi_N_SORT_NAME_RG = TREBIQE
+| sqi_N_FULL_NAME_RG = Trebiqe
+| sqi_N_FULL_NAME_ND_RG = Trebiqe
+| sqi_V_name = Trebiq
+| sqi_V_FULL_NAME_RO = Trebiq
+| sqi_V_FULL_NAME_ND_RO = Trebiq
+| sqi_V_SORT_NAME_RG = TREBIQ
+| sqi_V_FULL_NAME_RG = Trebiq
+| sqi_V_FULL_NAME_ND_RG = Trebiq
+| srp_N_name = Trebiće
+| srp_N_FULL_NAME_RO = Trebiće
+| srp_N_FULL_NAME_ND_RO = Trebice
+| srp_N_SORT_NAME_RG = TREBICE
+| srp_N_FULL_NAME_RG = Trebiće
+| srp_N_FULL_NAME_ND_RG = Trebice
+| srp_NS_name = Требиће
+| srp_NS_FULL_NAME_RO = Требиће
+| srp_NS_FULL_NAME_ND_RO = Требиће
+| srp_NS_SORT_NAME_RG = ТРЕБИЋЕ
+| srp_NS_FULL_NAME_RG = Требиће
+| srp_NS_FULL_NAME_ND_RG = Требиће
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.6325
  | Lartësia            = 
 }}
-'''Trebiqe''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Trebiqe''' është një [[Fshat Vogel]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

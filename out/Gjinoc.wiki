@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gjinoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GJINOC
- | FULL_NAME_RO = Gjinoc
- | FULL_NAME_ND_RO=Gjinoc
- | SORT_NAME_RG=GJINOC
- | FULL_NAME_RG=Gjinoc
- | FULL_NAME_ND_RG=Gjinoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gjinoc
+| sqi_D_FULL_NAME_RO = Gjinoc
+| sqi_D_FULL_NAME_ND_RO = Gjinoc
+| sqi_D_SORT_NAME_RG = GJINOC
+| sqi_D_FULL_NAME_RG = Gjinoc
+| sqi_D_FULL_NAME_ND_RG = Gjinoc
+| sqi_V_name = Gjinovc
+| sqi_V_FULL_NAME_RO = Gjinovc Gjinofc
+| sqi_V_FULL_NAME_ND_RO = Gjinovc Gjinofc
+| sqi_V_SORT_NAME_RG = GJINOVC GJINOFC
+| sqi_V_FULL_NAME_RG = Gjinovc Gjinofc
+| sqi_V_FULL_NAME_ND_RG = Gjinovc Gjinofc
+| srp_N_name = Ðinovce
+| srp_N_FULL_NAME_RO = Ðinovce
+| srp_N_FULL_NAME_ND_RO = Dinovce
+| srp_N_SORT_NAME_RG = DINOVCE
+| srp_N_FULL_NAME_RG = Ðinovce
+| srp_N_FULL_NAME_ND_RG = Dinovce
+| srp_NS_name = Ђиновце
+| srp_NS_FULL_NAME_RO = Ђиновце
+| srp_NS_FULL_NAME_ND_RO = Ђиновце
+| srp_NS_SORT_NAME_RG = ЂИНОВЦЕ
+| srp_NS_FULL_NAME_RG = Ђиновце
+| srp_NS_FULL_NAME_ND_RG = Ђиновце
+| srp_V_name = Džinovce
+| srp_V_FULL_NAME_RO = Džinovce
+| srp_V_FULL_NAME_ND_RO = Dzinovce
+| srp_V_SORT_NAME_RG = DZINOVCE
+| srp_V_FULL_NAME_RG = Džinovce
+| srp_V_FULL_NAME_ND_RG = Dzinovce
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.818611
  | Lartësia            = 
 }}
-'''Gjinoc''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Gjinoc''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

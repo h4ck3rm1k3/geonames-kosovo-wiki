@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Manastiricë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MANASTIRICE
- | FULL_NAME_RO = Manastiricë
- | FULL_NAME_ND_RO=Manastirice
- | SORT_NAME_RG=MANASTIRICE
- | FULL_NAME_RG=Manastiricë
- | FULL_NAME_ND_RG=Manastirice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Manastiricë
+| sqi_N_FULL_NAME_RO = Manastiricë
+| sqi_N_FULL_NAME_ND_RO = Manastirice
+| sqi_N_SORT_NAME_RG = MANASTIRICE
+| sqi_N_FULL_NAME_RG = Manastiricë
+| sqi_N_FULL_NAME_ND_RG = Manastirice
+| srp_N_name = Manastirica
+| srp_N_FULL_NAME_RO = Manastirica
+| srp_N_FULL_NAME_ND_RO = Manastirica
+| srp_N_SORT_NAME_RG = MANASTIRICA
+| srp_N_FULL_NAME_RG = Manastirica
+| srp_N_FULL_NAME_ND_RG = Manastirica
+| srp_NS_name = Манастирица
+| srp_NS_FULL_NAME_RO = Манастирица
+| srp_NS_FULL_NAME_ND_RO = Манастирица
+| srp_NS_SORT_NAME_RG = МАНАСТИРИЦА
+| srp_NS_FULL_NAME_RG = Манастирица
+| srp_NS_FULL_NAME_ND_RG = Манастирица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.806111
  | Lartësia            = 
 }}
-'''Manastiricë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Manastiricë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

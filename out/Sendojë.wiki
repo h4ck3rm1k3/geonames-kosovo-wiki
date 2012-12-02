@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sendojë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SENDOJE
- | FULL_NAME_RO = Sendojë
- | FULL_NAME_ND_RO=Sendoje
- | SORT_NAME_RG=SENDOJE
- | FULL_NAME_RG=Sendojë
- | FULL_NAME_ND_RG=Sendoje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sendojë
+| sqi_N_FULL_NAME_RO = Sendojë
+| sqi_N_FULL_NAME_ND_RO = Sendoje
+| sqi_N_SORT_NAME_RG = SENDOJE
+| sqi_N_FULL_NAME_RG = Sendojë
+| sqi_N_FULL_NAME_ND_RG = Sendoje
+| sqi_V_name = Sendë
+| sqi_V_FULL_NAME_RO = Sendë
+| sqi_V_FULL_NAME_ND_RO = Sende
+| sqi_V_SORT_NAME_RG = SENDE
+| sqi_V_FULL_NAME_RG = Sendë
+| sqi_V_FULL_NAME_ND_RG = Sende
+| srp_N_name = Sendo
+| srp_N_FULL_NAME_RO = Sendo
+| srp_N_FULL_NAME_ND_RO = Sendo
+| srp_N_SORT_NAME_RG = SENDO
+| srp_N_FULL_NAME_RG = Sendo
+| srp_N_FULL_NAME_ND_RG = Sendo
+| srp_NS_name = Сендо
+| srp_NS_FULL_NAME_RO = Сендо
+| srp_NS_FULL_NAME_ND_RO = Сендо
+| srp_NS_SORT_NAME_RG = СЕНДО
+| srp_NS_FULL_NAME_RG = Сендо
+| srp_NS_FULL_NAME_ND_RG = Сендо
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.810278
  | Lartësia            = 
 }}
-'''Sendojë''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Sendojë''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

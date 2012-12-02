@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kushavec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KUSHAVEC
- | FULL_NAME_RO = Kushavec
- | FULL_NAME_ND_RO=Kushavec
- | SORT_NAME_RG=KUSHAVEC
- | FULL_NAME_RG=Kushavec
- | FULL_NAME_ND_RG=Kushavec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kushavec
+| sqi_N_FULL_NAME_RO = Kushavec
+| sqi_N_FULL_NAME_ND_RO = Kushavec
+| sqi_N_SORT_NAME_RG = KUSHAVEC
+| sqi_N_FULL_NAME_RG = Kushavec
+| sqi_N_FULL_NAME_ND_RG = Kushavec
+| sqi_V_name = Kushova
+| sqi_V_FULL_NAME_RO = Kushova
+| sqi_V_FULL_NAME_ND_RO = Kushova
+| sqi_V_SORT_NAME_RG = KUSHOVA
+| sqi_V_FULL_NAME_RG = Kushova
+| sqi_V_FULL_NAME_ND_RG = Kushova
+| srp_N_name = Kuševac
+| srp_N_FULL_NAME_RO = Kuševac
+| srp_N_FULL_NAME_ND_RO = Kusevac
+| srp_N_SORT_NAME_RG = KUSEVAC
+| srp_N_FULL_NAME_RG = Kuševac
+| srp_N_FULL_NAME_ND_RG = Kusevac
+| srp_NS_name = Кушевац
+| srp_NS_FULL_NAME_RO = Кушевац
+| srp_NS_FULL_NAME_ND_RO = Кушевац
+| srp_NS_SORT_NAME_RG = КУШЕВАЦ
+| srp_NS_FULL_NAME_RG = Кушевац
+| srp_NS_FULL_NAME_ND_RG = Кушевац
+| srp_V_name = Kušavac
+| srp_V_FULL_NAME_RO = Kušavac
+| srp_V_FULL_NAME_ND_RO = Kusavac
+| srp_V_SORT_NAME_RG = KUSAVAC
+| srp_V_FULL_NAME_RG = Kušavac
+| srp_V_FULL_NAME_ND_RG = Kusavac
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.474722
  | Lartësia            = 
 }}
-'''Kushavec''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Kushavec''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

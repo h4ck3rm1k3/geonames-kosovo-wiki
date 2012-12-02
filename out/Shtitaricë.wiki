@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shtitaricë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHTITARICE
- | FULL_NAME_RO = Shtitaricë
- | FULL_NAME_ND_RO=Shtitarice
- | SORT_NAME_RG=SHTITARICE
- | FULL_NAME_RG=Shtitaricë
- | FULL_NAME_ND_RG=Shtitarice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shtitaricë
+| sqi_N_FULL_NAME_RO = Shtitaricë
+| sqi_N_FULL_NAME_ND_RO = Shtitarice
+| sqi_N_SORT_NAME_RG = SHTITARICE
+| sqi_N_FULL_NAME_RG = Shtitaricë
+| sqi_N_FULL_NAME_ND_RG = Shtitarice
+| sqi_V_name = Shataricë
+| sqi_V_FULL_NAME_RO = Shataricë Shtitatricë
+| sqi_V_FULL_NAME_ND_RO = Shatarice Shtitatrice
+| sqi_V_SORT_NAME_RG = SHATARICE SHTITATRICE
+| sqi_V_FULL_NAME_RG = Shataricë Shtitatricë
+| sqi_V_FULL_NAME_ND_RG = Shatarice Shtitatrice
+| srp_N_name = Štitarica
+| srp_N_FULL_NAME_RO = Štitarica
+| srp_N_FULL_NAME_ND_RO = Stitarica
+| srp_N_SORT_NAME_RG = STITARICA
+| srp_N_FULL_NAME_RG = Štitarica
+| srp_N_FULL_NAME_ND_RG = Stitarica
+| srp_NS_name = Штитарица
+| srp_NS_FULL_NAME_RO = Штитарица
+| srp_NS_FULL_NAME_ND_RO = Штитарица
+| srp_NS_SORT_NAME_RG = ШТИТАРИЦА
+| srp_NS_FULL_NAME_RG = Штитарица
+| srp_NS_FULL_NAME_ND_RG = Штитарица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.931944
  | Lartësia            = 
 }}
-'''Shtitaricë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Shtitaricë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

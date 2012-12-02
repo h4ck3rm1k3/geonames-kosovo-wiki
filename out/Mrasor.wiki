@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mrasor
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MRASOR
- | FULL_NAME_RO = Mrasor
- | FULL_NAME_ND_RO=Mrasor
- | SORT_NAME_RG=MRASOR
- | FULL_NAME_RG=Mrasor
- | FULL_NAME_ND_RG=Mrasor
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Mrasor
+| sqi_N_FULL_NAME_RO = Mrasor
+| sqi_N_FULL_NAME_ND_RO = Mrasor
+| sqi_N_SORT_NAME_RG = MRASOR
+| sqi_N_FULL_NAME_RG = Mrasor
+| sqi_N_FULL_NAME_ND_RG = Mrasor
+| srp_N_name = Mrasor
+| srp_N_FULL_NAME_RO = Mrasor
+| srp_N_FULL_NAME_ND_RO = Mrasor
+| srp_N_SORT_NAME_RG = MRASOR
+| srp_N_FULL_NAME_RG = Mrasor
+| srp_N_FULL_NAME_ND_RG = Mrasor
+| srp_NS_name = Мрасор
+| srp_NS_FULL_NAME_RO = Мрасор
+| srp_NS_FULL_NAME_ND_RO = Мрасор
+| srp_NS_SORT_NAME_RG = МРАСОР
+| srp_NS_FULL_NAME_RG = Мрасор
+| srp_NS_FULL_NAME_ND_RG = Мрасор
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.553611
  | Lartësia            = 
 }}
-'''Mrasor''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Mrasor''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

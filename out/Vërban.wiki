@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vërban
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VERBAN
- | FULL_NAME_RO = Vërban
- | FULL_NAME_ND_RO=Verban
- | SORT_NAME_RG=VERBAN
- | FULL_NAME_RG=Vërban
- | FULL_NAME_ND_RG=Verban
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Vërban
+| sqi_D_FULL_NAME_RO = Vërban
+| sqi_D_FULL_NAME_ND_RO = Verban
+| sqi_D_SORT_NAME_RG = VERBAN
+| sqi_D_FULL_NAME_RG = Vërban
+| sqi_D_FULL_NAME_ND_RG = Verban
+| sqi_V_name = Vërbani
+| sqi_V_FULL_NAME_RO = Vërbani Verban
+| sqi_V_FULL_NAME_ND_RO = Verbani Verban
+| sqi_V_SORT_NAME_RG = VERBANI VERBAN
+| sqi_V_FULL_NAME_RG = Vërbani Verban
+| sqi_V_FULL_NAME_ND_RG = Verbani Verban
+| srp_N_name = Vrban
+| srp_N_FULL_NAME_RO = Vrban
+| srp_N_FULL_NAME_ND_RO = Vrban
+| srp_N_SORT_NAME_RG = VRBAN
+| srp_N_FULL_NAME_RG = Vrban
+| srp_N_FULL_NAME_ND_RG = Vrban
+| srp_NS_name = Врбан
+| srp_NS_FULL_NAME_RO = Врбан
+| srp_NS_FULL_NAME_ND_RO = Врбан
+| srp_NS_SORT_NAME_RG = ВРБАН
+| srp_NS_FULL_NAME_RG = Врбан
+| srp_NS_FULL_NAME_ND_RG = Врбан
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.276111
  | Lartësia            = 
 }}
-'''Vërban''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Vërban''' është një [[Fshat Vogel]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Smaç
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SMAC
- | FULL_NAME_RO = Smaç
- | FULL_NAME_ND_RO=Smac
- | SORT_NAME_RG=SMAC
- | FULL_NAME_RG=Smaç
- | FULL_NAME_ND_RG=Smac
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Smaç
+| sqi_N_FULL_NAME_RO = Smaç
+| sqi_N_FULL_NAME_ND_RO = Smac
+| sqi_N_SORT_NAME_RG = SMAC
+| sqi_N_FULL_NAME_RG = Smaç
+| sqi_N_FULL_NAME_ND_RG = Smac
+| sqi_V_name = Smaq
+| sqi_V_FULL_NAME_RO = Smaq Smaçë
+| sqi_V_FULL_NAME_ND_RO = Smaq Smace
+| sqi_V_SORT_NAME_RG = SMAQ SMACE
+| sqi_V_FULL_NAME_RG = Smaq Smaçë
+| sqi_V_FULL_NAME_ND_RG = Smaq Smace
+| srp_N_name = Smać
+| srp_N_FULL_NAME_RO = Smać
+| srp_N_FULL_NAME_ND_RO = Smac
+| srp_N_SORT_NAME_RG = SMAC
+| srp_N_FULL_NAME_RG = Smać
+| srp_N_FULL_NAME_ND_RG = Smac
+| srp_NS_name = Смаћ
+| srp_NS_FULL_NAME_RO = Смаћ
+| srp_NS_FULL_NAME_ND_RO = Смаћ
+| srp_NS_SORT_NAME_RG = СМАЋ
+| srp_NS_FULL_NAME_RG = Смаћ
+| srp_NS_FULL_NAME_ND_RG = Смаћ
+| srp_V_name = Smač
+| srp_V_FULL_NAME_RO = Smač
+| srp_V_FULL_NAME_ND_RO = Smac
+| srp_V_SORT_NAME_RG = SMAC
+| srp_V_FULL_NAME_RG = Smač
+| srp_V_FULL_NAME_ND_RG = Smac
+| srp_VS_name = Смач
+| srp_VS_FULL_NAME_RO = Смач
+| srp_VS_FULL_NAME_ND_RO = Смач
+| srp_VS_SORT_NAME_RG = СМАЧ
+| srp_VS_FULL_NAME_RG = Смач
+| srp_VS_FULL_NAME_ND_RG = Смач
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.7225
  | Lartësia            = 
 }}
-'''Smaç''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Smaç''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

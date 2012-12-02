@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Binçe
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BINCE
- | FULL_NAME_RO = Binçe
- | FULL_NAME_ND_RO=Bince
- | SORT_NAME_RG=BINCE
- | FULL_NAME_RG=Binçe
- | FULL_NAME_ND_RG=Bince
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Binçe
+| sqi_D_FULL_NAME_RO = Binçe
+| sqi_D_FULL_NAME_ND_RO = Bince
+| sqi_D_SORT_NAME_RG = BINCE
+| sqi_D_FULL_NAME_RG = Binçe
+| sqi_D_FULL_NAME_ND_RG = Bince
+| sqi_V_name = Bincë
+| sqi_V_FULL_NAME_RO = Bincë Binqë Binaq
+| sqi_V_FULL_NAME_ND_RO = Bince Binqe Binaq
+| sqi_V_SORT_NAME_RG = BINCE BINQE BINAQ
+| sqi_V_FULL_NAME_RG = Bincë Binqë Binaq
+| sqi_V_FULL_NAME_ND_RG = Bince Binqe Binaq
+| srp_N_name = Binač
+| srp_N_FULL_NAME_RO = Binač
+| srp_N_FULL_NAME_ND_RO = Binac
+| srp_N_SORT_NAME_RG = BINAC
+| srp_N_FULL_NAME_RG = Binač
+| srp_N_FULL_NAME_ND_RG = Binac
+| srp_NS_name = Бинач
+| srp_NS_FULL_NAME_RO = Бинач
+| srp_NS_FULL_NAME_ND_RO = Бинач
+| srp_NS_SORT_NAME_RG = БИНАЧ
+| srp_NS_FULL_NAME_RG = Бинач
+| srp_NS_FULL_NAME_ND_RG = Бинач
+| srp_V_name = Binča
+| srp_V_FULL_NAME_RO = Binča
+| srp_V_FULL_NAME_ND_RO = Binca
+| srp_V_SORT_NAME_RG = BINCA
+| srp_V_FULL_NAME_RG = Binča
+| srp_V_FULL_NAME_ND_RG = Binca
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.364167
  | Lartësia            = 
 }}
-'''Binçe''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Binçe''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

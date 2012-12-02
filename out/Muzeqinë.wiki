@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Muzeqinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MUZEQINE
- | FULL_NAME_RO = Muzeqinë
- | FULL_NAME_ND_RO=Muzeqine
- | SORT_NAME_RG=MUZEQINE
- | FULL_NAME_RG=Muzeqinë
- | FULL_NAME_ND_RG=Muzeqine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Muzeqinë
+| sqi_N_FULL_NAME_RO = Muzeqinë
+| sqi_N_FULL_NAME_ND_RO = Muzeqine
+| sqi_N_SORT_NAME_RG = MUZEQINE
+| sqi_N_FULL_NAME_RG = Muzeqinë
+| sqi_N_FULL_NAME_ND_RG = Muzeqine
+| sqi_V_name = Muzhiçani
+| sqi_V_FULL_NAME_RO = Muzhiçani Muzhiçan
+| sqi_V_FULL_NAME_ND_RO = Muzhicani Muzhican
+| sqi_V_SORT_NAME_RG = MUZHICANI MUZHICAN
+| sqi_V_FULL_NAME_RG = Muzhiçani Muzhiçan
+| sqi_V_FULL_NAME_ND_RG = Muzhicani Muzhican
+| srp_N_name = Mužičane
+| srp_N_FULL_NAME_RO = Mužičane
+| srp_N_FULL_NAME_ND_RO = Muzicane
+| srp_N_SORT_NAME_RG = MUZICANE
+| srp_N_FULL_NAME_RG = Mužičane
+| srp_N_FULL_NAME_ND_RG = Muzicane
+| srp_NS_name = Мужичане
+| srp_NS_FULL_NAME_RO = Мужичане
+| srp_NS_FULL_NAME_ND_RO = Мужичане
+| srp_NS_SORT_NAME_RG = МУЖИЧАНЕ
+| srp_NS_FULL_NAME_RG = Мужичане
+| srp_NS_FULL_NAME_ND_RG = Мужичане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.094444
  | Lartësia            = 
 }}
-'''Muzeqinë''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Muzeqinë''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,54 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Obiliq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      OBILIQ
- | FULL_NAME_RO = Obiliq
- | FULL_NAME_ND_RO=Obiliq
- | SORT_NAME_RG=OBILIQ
- | FULL_NAME_RG=Obiliq
- | FULL_NAME_ND_RG=Obiliq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Obiliq
+| sqi_N_FULL_NAME_RO = Obiliq
+| sqi_N_FULL_NAME_ND_RO = Obiliq
+| sqi_N_SORT_NAME_RG = OBILIQ
+| sqi_N_FULL_NAME_RG = Obiliq
+| sqi_N_FULL_NAME_ND_RG = Obiliq
+| sqi_V_name = Gllaboder
+| sqi_V_FULL_NAME_RO = Gllaboder Kastriot
+| sqi_V_FULL_NAME_ND_RO = Gllaboder Kastriot
+| sqi_V_SORT_NAME_RG = GLLABODER KASTRIOT
+| sqi_V_FULL_NAME_RG = Gllaboder Kastriot
+| sqi_V_FULL_NAME_ND_RG = Gllaboder Kastriot
+| sqi_V_name = Gllaboder
+| sqi_V_FULL_NAME_RO = Gllaboder Kastriot
+| sqi_V_FULL_NAME_ND_RO = Gllaboder Kastriot
+| sqi_V_SORT_NAME_RG = GLLABODER KASTRIOT
+| sqi_V_FULL_NAME_RG = Gllaboder Kastriot
+| sqi_V_FULL_NAME_ND_RG = Gllaboder Kastriot
+| srp_N_name = Obilić
+| srp_N_FULL_NAME_RO = Obilić
+| srp_N_FULL_NAME_ND_RO = Obilic
+| srp_N_SORT_NAME_RG = OBILIC
+| srp_N_FULL_NAME_RG = Obilić
+| srp_N_FULL_NAME_ND_RG = Obilic
+| srp_NS_name = Обилић
+| srp_NS_FULL_NAME_RO = Обилић
+| srp_NS_FULL_NAME_ND_RO = Обилић
+| srp_NS_SORT_NAME_RG = ОБИЛИЋ
+| srp_NS_FULL_NAME_RG = Обилић
+| srp_NS_FULL_NAME_ND_RG = Обилић
+| sqi_N_name = Obiliq
+| sqi_N_FULL_NAME_RO = Obiliq
+| sqi_N_FULL_NAME_ND_RO = Obiliq
+| sqi_N_SORT_NAME_RG = OBILIQ
+| sqi_N_FULL_NAME_RG = Obiliq
+| sqi_N_FULL_NAME_ND_RG = Obiliq
+| sqi_V_name = Gllaboder
+| sqi_V_FULL_NAME_RO = Gllaboder Kastriot
+| sqi_V_FULL_NAME_ND_RO = Gllaboder Kastriot
+| sqi_V_SORT_NAME_RG = GLLABODER KASTRIOT
+| sqi_V_FULL_NAME_RG = Gllaboder Kastriot
+| sqi_V_FULL_NAME_ND_RG = Gllaboder Kastriot
+| sqi_V_name = Gllaboder
+| sqi_V_FULL_NAME_RO = Gllaboder Kastriot
+| sqi_V_FULL_NAME_ND_RO = Gllaboder Kastriot
+| sqi_V_SORT_NAME_RG = GLLABODER KASTRIOT
+| sqi_V_FULL_NAME_RG = Gllaboder Kastriot
+| sqi_V_FULL_NAME_ND_RG = Gllaboder Kastriot
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -30,8 +62,8 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.683333
- | Gjatësia            = 21.033333
+ | Gjerësia            = 42.686944
+ | Gjatësia            = 21.070278
  | Lartësia            = 
 }}
 '''Obiliq''' është një [[]] në [[Rahovec]] të [[Kosovës]].

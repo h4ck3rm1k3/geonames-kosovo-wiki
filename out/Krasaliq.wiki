@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Krasaliq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KRASALIQ
- | FULL_NAME_RO = Krasaliq
- | FULL_NAME_ND_RO=Krasaliq
- | SORT_NAME_RG=KRASALIQ
- | FULL_NAME_RG=Krasaliq
- | FULL_NAME_ND_RG=Krasaliq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Krasaliq
+| sqi_N_FULL_NAME_RO = Krasaliq
+| sqi_N_FULL_NAME_ND_RO = Krasaliq
+| sqi_N_SORT_NAME_RG = KRASALIQ
+| sqi_N_FULL_NAME_RG = Krasaliq
+| sqi_N_FULL_NAME_ND_RG = Krasaliq
+| srp_N_name = Krasalić
+| srp_N_FULL_NAME_RO = Krasalić
+| srp_N_FULL_NAME_ND_RO = Krasalic
+| srp_N_SORT_NAME_RG = KRASALIC
+| srp_N_FULL_NAME_RG = Krasalić
+| srp_N_FULL_NAME_ND_RG = Krasalic
+| srp_NS_name = Красалић
+| srp_NS_FULL_NAME_RO = Красалић
+| srp_NS_FULL_NAME_ND_RO = Красалић
+| srp_NS_SORT_NAME_RG = КРАСАЛИЋ
+| srp_NS_FULL_NAME_RG = Красалић
+| srp_NS_FULL_NAME_ND_RG = Красалић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.904167
  | Lartësia            = 
 }}
-'''Krasaliq''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Krasaliq''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lubinjë e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LUBINJEEEPERME
- | FULL_NAME_RO = Lubinjë e Epërme
- | FULL_NAME_ND_RO=Lubinje e Eperme
- | SORT_NAME_RG=LUBINJEEEPERME
- | FULL_NAME_RG=Lubinjë e Epërme
- | FULL_NAME_ND_RG=Lubinje e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lubinjë e Epërme
+| sqi_N_FULL_NAME_RO = Lubinjë e Epërme
+| sqi_N_FULL_NAME_ND_RO = Lubinje e Eperme
+| sqi_N_SORT_NAME_RG = LUBINJEEEPERME
+| sqi_N_FULL_NAME_RG = Lubinjë e Epërme
+| sqi_N_FULL_NAME_ND_RG = Lubinje e Eperme
+| sqi_V_name = Lubinja e Epërme
+| sqi_V_FULL_NAME_RO = Lubinja e Epërme Lubi e Epërme
+| sqi_V_FULL_NAME_ND_RO = Lubinja e Eperme Lubi e Eperme
+| sqi_V_SORT_NAME_RG = LUBINJAEEPERME LUBIEEPERME
+| sqi_V_FULL_NAME_RG = Lubinja e Epërme Lubi e Epërme
+| sqi_V_FULL_NAME_ND_RG = Lubinja e Eperme Lubi e Eperme
+| srp_N_name = Gornje Ljubinje
+| srp_N_FULL_NAME_RO = Gornje Ljubinje
+| srp_N_FULL_NAME_ND_RO = Gornje Ljubinje
+| srp_N_SORT_NAME_RG = GORNJELJUBINJE
+| srp_N_FULL_NAME_RG = Gornje Ljubinje
+| srp_N_FULL_NAME_ND_RG = Gornje Ljubinje
+| srp_NS_name = Горње Љубиње
+| srp_NS_FULL_NAME_RO = Горње Љубиње
+| srp_NS_FULL_NAME_ND_RO = Горње Љубиње
+| srp_NS_SORT_NAME_RG = ГОРЊЕЉУБИЊЕ
+| srp_NS_FULL_NAME_RG = Горње Љубиње
+| srp_NS_FULL_NAME_ND_RG = Горње Љубиње
+| srp_V_name = Gornje Ljubinge
+| srp_V_FULL_NAME_RO = Gornje Ljubinge
+| srp_V_FULL_NAME_ND_RO = Gornje Ljubinge
+| srp_V_SORT_NAME_RG = GORNJELJUBINGE
+| srp_V_FULL_NAME_RG = Gornje Ljubinge
+| srp_V_FULL_NAME_ND_RG = Gornje Ljubinge
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.861389
  | Lartësia            = 
 }}
-'''Lubinjë e Epërme''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Lubinjë e Epërme''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

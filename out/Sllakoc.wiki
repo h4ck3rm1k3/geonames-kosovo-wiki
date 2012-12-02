@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sllakoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SLLAKOC
- | FULL_NAME_RO = Sllakoc
- | FULL_NAME_ND_RO=Sllakoc
- | SORT_NAME_RG=SLLAKOC
- | FULL_NAME_RG=Sllakoc
- | FULL_NAME_ND_RG=Sllakoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sllakoc
+| sqi_N_FULL_NAME_RO = Sllakoc
+| sqi_N_FULL_NAME_ND_RO = Sllakoc
+| sqi_N_SORT_NAME_RG = SLLAKOC
+| sqi_N_FULL_NAME_RG = Sllakoc
+| sqi_N_FULL_NAME_ND_RG = Sllakoc
+| sqi_V_name = Sllakovce
+| sqi_V_FULL_NAME_RO = Sllakovce Sllakovc Sllakofc
+| sqi_V_FULL_NAME_ND_RO = Sllakovce Sllakovc Sllakofc
+| sqi_V_SORT_NAME_RG = SLLAKOVCE SLLAKOVC SLLAKOFC
+| sqi_V_FULL_NAME_RG = Sllakovce Sllakovc Sllakofc
+| sqi_V_FULL_NAME_ND_RG = Sllakovce Sllakovc Sllakofc
+| srp_N_name = Slakovce
+| srp_N_FULL_NAME_RO = Slakovce
+| srp_N_FULL_NAME_ND_RO = Slakovce
+| srp_N_SORT_NAME_RG = SLAKOVCE
+| srp_N_FULL_NAME_RG = Slakovce
+| srp_N_FULL_NAME_ND_RG = Slakovce
+| srp_NS_name = Слаковце
+| srp_NS_FULL_NAME_RO = Слаковце
+| srp_NS_FULL_NAME_ND_RO = Слаковце
+| srp_NS_SORT_NAME_RG = СЛАКОВЦЕ
+| srp_NS_FULL_NAME_RG = Слаковце
+| srp_NS_FULL_NAME_ND_RG = Слаковце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.051311
  | Lartësia            = 
 }}
-'''Sllakoc''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Sllakoc''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

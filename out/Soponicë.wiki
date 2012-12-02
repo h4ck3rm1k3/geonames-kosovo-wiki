@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Soponicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SOPONICE
- | FULL_NAME_RO = Soponicë
- | FULL_NAME_ND_RO=Soponice
- | SORT_NAME_RG=SOPONICE
- | FULL_NAME_RG=Soponicë
- | FULL_NAME_ND_RG=Soponice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Soponicë
+| sqi_D_FULL_NAME_RO = Soponicë
+| sqi_D_FULL_NAME_ND_RO = Soponice
+| sqi_D_SORT_NAME_RG = SOPONICE
+| sqi_D_FULL_NAME_RG = Soponicë
+| sqi_D_FULL_NAME_ND_RG = Soponice
+| sqi_V_name = Sopotnicë
+| sqi_V_FULL_NAME_RO = Sopotnicë
+| sqi_V_FULL_NAME_ND_RO = Sopotnice
+| sqi_V_SORT_NAME_RG = SOPOTNICE
+| sqi_V_FULL_NAME_RG = Sopotnicë
+| sqi_V_FULL_NAME_ND_RG = Sopotnice
+| srp_N_name = Sopotnica
+| srp_N_FULL_NAME_RO = Sopotnica
+| srp_N_FULL_NAME_ND_RO = Sopotnica
+| srp_N_SORT_NAME_RG = SOPOTNICA
+| srp_N_FULL_NAME_RG = Sopotnica
+| srp_N_FULL_NAME_ND_RG = Sopotnica
+| srp_NS_name = Сопотница
+| srp_NS_FULL_NAME_RO = Сопотница
+| srp_NS_FULL_NAME_ND_RO = Сопотница
+| srp_NS_SORT_NAME_RG = СОПОТНИЦА
+| srp_NS_FULL_NAME_RG = Сопотница
+| srp_NS_FULL_NAME_ND_RG = Сопотница
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.209444
  | Lartësia            = 
 }}
-'''Soponicë''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Soponicë''' është një [[Fshat Vogel]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

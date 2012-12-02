@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nepërbisht
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NEPERBISHT
- | FULL_NAME_RO = Nepërbisht
- | FULL_NAME_ND_RO=Neperbisht
- | SORT_NAME_RG=NEPERBISHT
- | FULL_NAME_RG=Nepërbisht
- | FULL_NAME_ND_RG=Neperbisht
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Nepërbisht
+| sqi_D_FULL_NAME_RO = Nepërbisht
+| sqi_D_FULL_NAME_ND_RO = Neperbisht
+| sqi_D_SORT_NAME_RG = NEPERBISHT
+| sqi_D_FULL_NAME_RG = Nepërbisht
+| sqi_D_FULL_NAME_ND_RG = Neperbisht
+| sqi_V_name = Neprebishtë
+| sqi_V_FULL_NAME_RO = Neprebishtë Neprebishte Nepërbishtë
+| sqi_V_FULL_NAME_ND_RO = Neprebishte Neprebishte Neperbishte
+| sqi_V_SORT_NAME_RG = NEPREBISHTE NEPREBISHTE NEPERBISHTE
+| sqi_V_FULL_NAME_RG = Neprebishtë Neprebishte Nepërbishtë
+| sqi_V_FULL_NAME_ND_RG = Neprebishte Neprebishte Neperbishte
+| srp_N_name = Neprebište
+| srp_N_FULL_NAME_RO = Neprebište
+| srp_N_FULL_NAME_ND_RO = Neprebiste
+| srp_N_SORT_NAME_RG = NEPREBISTE
+| srp_N_FULL_NAME_RG = Neprebište
+| srp_N_FULL_NAME_ND_RG = Neprebiste
+| srp_NS_name = Непребиште
+| srp_NS_FULL_NAME_RO = Непребиште
+| srp_NS_FULL_NAME_ND_RO = Непребиште
+| srp_NS_SORT_NAME_RG = НЕПРЕБИШТЕ
+| srp_NS_FULL_NAME_RG = Непребиште
+| srp_NS_FULL_NAME_ND_RG = Непребиште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.738889
  | Lartësia            = 
 }}
-'''Nepërbisht''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Nepërbisht''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

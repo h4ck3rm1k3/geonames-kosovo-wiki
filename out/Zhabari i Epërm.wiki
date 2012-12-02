@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zhabari i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZHABARIIEPERM
- | FULL_NAME_RO = Zhabari i Epërm
- | FULL_NAME_ND_RO=Zhabari i Eperm
- | SORT_NAME_RG=ZHABARIIEPERM
- | FULL_NAME_RG=Zhabari i Epërm
- | FULL_NAME_ND_RG=Zhabari i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zhabari i Epërm
+| sqi_D_FULL_NAME_RO = Zhabari i Epërm
+| sqi_D_FULL_NAME_ND_RO = Zhabari i Eperm
+| sqi_D_SORT_NAME_RG = ZHABARIIEPERM
+| sqi_D_FULL_NAME_RG = Zhabari i Epërm
+| sqi_D_FULL_NAME_ND_RG = Zhabari i Eperm
+| sqi_V_name = Zhabarë
+| sqi_V_FULL_NAME_RO = Zhabarë Zabari i Epërm Zhabar i Epërm
+| sqi_V_FULL_NAME_ND_RO = Zhabare Zabari i Eperm Zhabar i Eperm
+| sqi_V_SORT_NAME_RG = ZHABARE ZABARIIEPERM ZHABARIEPERM
+| sqi_V_FULL_NAME_RG = Zhabarë Zabari i Epërm Zhabar i Epërm
+| sqi_V_FULL_NAME_ND_RG = Zhabare Zabari i Eperm Zhabar i Eperm
+| srp_N_name = Gornje Žabare
+| srp_N_FULL_NAME_RO = Gornje Žabare
+| srp_N_FULL_NAME_ND_RO = Gornje Zabare
+| srp_N_SORT_NAME_RG = GORNJEZABARE
+| srp_N_FULL_NAME_RG = Gornje Žabare
+| srp_N_FULL_NAME_ND_RG = Gornje Zabare
+| srp_NS_name = Горње Жабаре
+| srp_NS_FULL_NAME_RO = Горње Жабаре
+| srp_NS_FULL_NAME_ND_RO = Горње Жабаре
+| srp_NS_SORT_NAME_RG = ГОРЊЕЖАБАРЕ
+| srp_NS_FULL_NAME_RG = Горње Жабаре
+| srp_NS_FULL_NAME_ND_RG = Горње Жабаре
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.831667
  | Lartësia            = 
 }}
-'''Zhabari i Epërm''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Zhabari i Epërm''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

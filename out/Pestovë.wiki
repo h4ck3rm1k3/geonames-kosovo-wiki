@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pestovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PESTOVE
- | FULL_NAME_RO = Pestovë
- | FULL_NAME_ND_RO=Pestove
- | SORT_NAME_RG=PESTOVE
- | FULL_NAME_RG=Pestovë
- | FULL_NAME_ND_RG=Pestove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pestovë
+| sqi_N_FULL_NAME_RO = Pestovë
+| sqi_N_FULL_NAME_ND_RO = Pestove
+| sqi_N_SORT_NAME_RG = PESTOVE
+| sqi_N_FULL_NAME_RG = Pestovë
+| sqi_N_FULL_NAME_ND_RG = Pestove
+| srp_N_name = Pestovo
+| srp_N_FULL_NAME_RO = Pestovo
+| srp_N_FULL_NAME_ND_RO = Pestovo
+| srp_N_SORT_NAME_RG = PESTOVO
+| srp_N_FULL_NAME_RG = Pestovo
+| srp_N_FULL_NAME_ND_RG = Pestovo
+| srp_NS_name = Пестово
+| srp_NS_FULL_NAME_RO = Пестово
+| srp_NS_FULL_NAME_ND_RO = Пестово
+| srp_NS_SORT_NAME_RG = ПЕСТОВО
+| srp_NS_FULL_NAME_RG = Пестово
+| srp_NS_FULL_NAME_ND_RG = Пестово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.000899
  | Lartësia            = 
 }}
-'''Pestovë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Pestovë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Raçë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RACE
- | FULL_NAME_RO = Raçë
- | FULL_NAME_ND_RO=Race
- | SORT_NAME_RG=RACE
- | FULL_NAME_RG=Raçë
- | FULL_NAME_ND_RG=Race
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Raçë
+| sqi_N_FULL_NAME_RO = Raçë
+| sqi_N_FULL_NAME_ND_RO = Race
+| sqi_N_SORT_NAME_RG = RACE
+| sqi_N_FULL_NAME_RG = Raçë
+| sqi_N_FULL_NAME_ND_RG = Race
+| sqi_V_name = Raqë
+| sqi_V_FULL_NAME_RO = Raqë Raqa
+| sqi_V_FULL_NAME_ND_RO = Raqe Raqa
+| sqi_V_SORT_NAME_RG = RAQE RAQA
+| sqi_V_FULL_NAME_RG = Raqë Raqa
+| sqi_V_FULL_NAME_ND_RG = Raqe Raqa
+| srp_N_name = Rača
+| srp_N_FULL_NAME_RO = Rača
+| srp_N_FULL_NAME_ND_RO = Raca
+| srp_N_SORT_NAME_RG = RACA
+| srp_N_FULL_NAME_RG = Rača
+| srp_N_FULL_NAME_ND_RG = Raca
+| srp_NS_name = Рача
+| srp_NS_FULL_NAME_RO = Рача
+| srp_NS_FULL_NAME_ND_RO = Рача
+| srp_NS_SORT_NAME_RG = РАЧА
+| srp_NS_FULL_NAME_RG = Рача
+| srp_NS_FULL_NAME_ND_RG = Рача
+| srp_VS_name = Раћа
+| srp_VS_FULL_NAME_RO = Раћа
+| srp_VS_FULL_NAME_ND_RO = Раћа
+| srp_VS_SORT_NAME_RG = РАЋА
+| srp_VS_FULL_NAME_RG = Раћа
+| srp_VS_FULL_NAME_ND_RG = Раћа
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.451667
  | Lartësia            = 
 }}
-'''Raçë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Raçë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

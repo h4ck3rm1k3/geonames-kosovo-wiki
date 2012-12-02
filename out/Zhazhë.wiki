@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zhazhë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZHAZHE
- | FULL_NAME_RO = Zhazhë
- | FULL_NAME_ND_RO=Zhazhe
- | SORT_NAME_RG=ZHAZHE
- | FULL_NAME_RG=Zhazhë
- | FULL_NAME_ND_RG=Zhazhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zhazhë
+| sqi_N_FULL_NAME_RO = Zhazhë
+| sqi_N_FULL_NAME_ND_RO = Zhazhe
+| sqi_N_SORT_NAME_RG = ZHAZHE
+| sqi_N_FULL_NAME_RG = Zhazhë
+| sqi_N_FULL_NAME_ND_RG = Zhazhe
+| sqi_V_name = Zhahë
+| sqi_V_FULL_NAME_RO = Zhahë
+| sqi_V_FULL_NAME_ND_RO = Zhahe
+| sqi_V_SORT_NAME_RG = ZHAHE
+| sqi_V_FULL_NAME_RG = Zhahë
+| sqi_V_FULL_NAME_ND_RG = Zhahe
+| srp_N_name = Žaža
+| srp_N_FULL_NAME_RO = Žaža
+| srp_N_FULL_NAME_ND_RO = Zaza
+| srp_N_SORT_NAME_RG = ZAZA
+| srp_N_FULL_NAME_RG = Žaža
+| srp_N_FULL_NAME_ND_RG = Zaza
+| srp_NS_name = Жажа
+| srp_NS_FULL_NAME_RO = Жажа
+| srp_NS_FULL_NAME_ND_RO = Жажа
+| srp_NS_SORT_NAME_RG = ЖАЖА
+| srp_NS_FULL_NAME_RG = Жажа
+| srp_NS_FULL_NAME_ND_RG = Жажа
+| srp_V_name = Žoža
+| srp_V_FULL_NAME_RO = Žoža Žaže
+| srp_V_FULL_NAME_ND_RO = Zoza Zaze
+| srp_V_SORT_NAME_RG = ZOZA ZAZE
+| srp_V_FULL_NAME_RG = Žoža Žaže
+| srp_V_FULL_NAME_ND_RG = Zoza Zaze
+| srp_VS_name = Жожа
+| srp_VS_FULL_NAME_RO = Жожа Жаже
+| srp_VS_FULL_NAME_ND_RO = Жожа Жаже
+| srp_VS_SORT_NAME_RG = ЖОЖА ЖАЖЕ
+| srp_VS_FULL_NAME_RG = Жожа Жаже
+| srp_VS_FULL_NAME_ND_RG = Жожа Жаже
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.867222
  | Lartësia            = 
 }}
-'''Zhazhë''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Zhazhë''' është një [[Fshat Vogel]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

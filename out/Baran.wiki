@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Baran
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BARAN
- | FULL_NAME_RO = Baran
- | FULL_NAME_ND_RO=Baran
- | SORT_NAME_RG=BARAN
- | FULL_NAME_RG=Baran
- | FULL_NAME_ND_RG=Baran
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Baran
+| sqi_N_FULL_NAME_RO = Baran
+| sqi_N_FULL_NAME_ND_RO = Baran
+| sqi_N_SORT_NAME_RG = BARAN
+| sqi_N_FULL_NAME_RG = Baran
+| sqi_N_FULL_NAME_ND_RG = Baran
+| srp_N_name = Barane
+| srp_N_FULL_NAME_RO = Barane
+| srp_N_FULL_NAME_ND_RO = Barane
+| srp_N_SORT_NAME_RG = BARANE
+| srp_N_FULL_NAME_RG = Barane
+| srp_N_FULL_NAME_ND_RG = Barane
+| srp_NS_name = Баране
+| srp_NS_FULL_NAME_RO = Баране
+| srp_NS_FULL_NAME_ND_RO = Баране
+| srp_NS_SORT_NAME_RG = БАРАНЕ
+| srp_NS_FULL_NAME_RG = Баране
+| srp_NS_FULL_NAME_ND_RG = Баране
+| srp_V_name = Donji Barani
+| srp_V_FULL_NAME_RO = Donji Barani Donje Barane
+| srp_V_FULL_NAME_ND_RO = Donji Barani Donje Barane
+| srp_V_SORT_NAME_RG = DONJIBARANI DONJEBARANE
+| srp_V_FULL_NAME_RG = Donji Barani Donje Barane
+| srp_V_FULL_NAME_ND_RG = Donji Barani Donje Barane
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.418611
  | Lartësia            = 
 }}
-'''Baran''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Baran''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

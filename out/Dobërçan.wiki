@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dobërçan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DOBERCAN
- | FULL_NAME_RO = Dobërçan
- | FULL_NAME_ND_RO=Dobercan
- | SORT_NAME_RG=DOBERCAN
- | FULL_NAME_RG=Dobërçan
- | FULL_NAME_ND_RG=Dobercan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Dobërçan
+| sqi_D_FULL_NAME_RO = Dobërçan
+| sqi_D_FULL_NAME_ND_RO = Dobercan
+| sqi_D_SORT_NAME_RG = DOBERCAN
+| sqi_D_FULL_NAME_RG = Dobërçan
+| sqi_D_FULL_NAME_ND_RG = Dobercan
+| sqi_V_name = Dobërçani
+| sqi_V_FULL_NAME_RO = Dobërçani Miresh Miroshi Dobërqan
+| sqi_V_FULL_NAME_ND_RO = Dobercani Miresh Miroshi Doberqan
+| sqi_V_SORT_NAME_RG = DOBERCANI MIRESH MIROSHI DOBERQAN
+| sqi_V_FULL_NAME_RG = Dobërçani Miresh Miroshi Dobërqan
+| sqi_V_FULL_NAME_ND_RG = Dobercani Miresh Miroshi Doberqan
+| srp_N_name = Dobrčane
+| srp_N_FULL_NAME_RO = Dobrčane
+| srp_N_FULL_NAME_ND_RO = Dobrcane
+| srp_N_SORT_NAME_RG = DOBRCANE
+| srp_N_FULL_NAME_RG = Dobrčane
+| srp_N_FULL_NAME_ND_RG = Dobrcane
+| srp_NS_name = Добрчане
+| srp_NS_FULL_NAME_RO = Добрчане
+| srp_NS_FULL_NAME_ND_RO = Добрчане
+| srp_NS_SORT_NAME_RG = ДОБРЧАНЕ
+| srp_NS_FULL_NAME_RG = Добрчане
+| srp_NS_FULL_NAME_ND_RG = Добрчане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.569722
  | Lartësia            = 
 }}
-'''Dobërçan''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Dobërçan''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

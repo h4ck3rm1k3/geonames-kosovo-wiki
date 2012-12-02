@@ -1,26 +1,28 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zabërxhë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZABERXHE
- | FULL_NAME_RO = Zabërxhë
- | FULL_NAME_ND_RO=Zaberxhe
- | SORT_NAME_RG=ZABERXHE
- | FULL_NAME_RG=Zabërxhë
- | FULL_NAME_ND_RG=Zaberxhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zabërxhë
+| sqi_D_FULL_NAME_RO = Zabërxhë
+| sqi_D_FULL_NAME_ND_RO = Zaberxhe
+| sqi_D_SORT_NAME_RG = ZABERXHE
+| sqi_D_FULL_NAME_RG = Zabërxhë
+| sqi_D_FULL_NAME_ND_RG = Zaberxhe
+| srp_N_name = Zabrđe
+| srp_N_FULL_NAME_RO = Zabrđe
+| srp_N_FULL_NAME_ND_RO = Zabrde
+| srp_N_SORT_NAME_RG = ZABRDE
+| srp_N_FULL_NAME_RG = Zabrđe
+| srp_N_FULL_NAME_ND_RG = Zabrde
+| srp_NS_name = Забрђе
+| srp_NS_FULL_NAME_RO = Забрђе
+| srp_NS_FULL_NAME_ND_RO = Забрђе
+| srp_NS_SORT_NAME_RG = ЗАБРЂЕ
+| srp_NS_FULL_NAME_RG = Забрђе
+| srp_NS_FULL_NAME_ND_RG = Забрђе
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Novobërdë
+ | Komuna              = Lipjan
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +32,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.991667
- | Gjatësia            = 20.929167
+ | Gjerësia            = 43.108889
+ | Gjatësia            = 20.829167
  | Lartësia            = 
 }}
-'''Zabërxhë''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Zabërxhë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Novobërdë}}
+{{Komuna Lipjan}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Novobërdë]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
 [[Kategoria:Vendbanime në Kosovës]]

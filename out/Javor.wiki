@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Javor
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JAVOR
- | FULL_NAME_RO = Javor
- | FULL_NAME_ND_RO=Javor
- | SORT_NAME_RG=JAVOR
- | FULL_NAME_RG=Javor
- | FULL_NAME_ND_RG=Javor
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Javor
+| sqi_N_FULL_NAME_RO = Javor
+| sqi_N_FULL_NAME_ND_RO = Javor
+| sqi_N_SORT_NAME_RG = JAVOR
+| sqi_N_FULL_NAME_RG = Javor
+| sqi_N_FULL_NAME_ND_RG = Javor
+| srp_N_name = Javor
+| srp_N_FULL_NAME_RO = Javor
+| srp_N_FULL_NAME_ND_RO = Javor
+| srp_N_SORT_NAME_RG = JAVOR
+| srp_N_FULL_NAME_RG = Javor
+| srp_N_FULL_NAME_ND_RG = Javor
+| srp_NS_name = Јавор
+| srp_NS_FULL_NAME_RO = Јавор
+| srp_NS_FULL_NAME_ND_RO = Јавор
+| srp_NS_SORT_NAME_RG = ЈАВОР
+| srp_NS_FULL_NAME_RG = Јавор
+| srp_NS_FULL_NAME_ND_RG = Јавор
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.881389
  | Lartësia            = 
 }}
-'''Javor''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Javor''' është një [[Fshat Vogel]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

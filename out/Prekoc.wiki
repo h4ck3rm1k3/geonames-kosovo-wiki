@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prekoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PREKOC
- | FULL_NAME_RO = Prekoc
- | FULL_NAME_ND_RO=Prekoc
- | SORT_NAME_RG=PREKOC
- | FULL_NAME_RG=Prekoc
- | FULL_NAME_ND_RG=Prekoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Prekoc
+| sqi_N_FULL_NAME_RO = Prekoc
+| sqi_N_FULL_NAME_ND_RO = Prekoc
+| sqi_N_SORT_NAME_RG = PREKOC
+| sqi_N_FULL_NAME_RG = Prekoc
+| sqi_N_FULL_NAME_ND_RG = Prekoc
+| sqi_V_name = Përkoc
+| sqi_V_FULL_NAME_RO = Përkoc Prekovc
+| sqi_V_FULL_NAME_ND_RO = Perkoc Prekovc
+| sqi_V_SORT_NAME_RG = PERKOC PREKOVC
+| sqi_V_FULL_NAME_RG = Përkoc Prekovc
+| sqi_V_FULL_NAME_ND_RG = Perkoc Prekovc
+| srp_N_name = Prekovce
+| srp_N_FULL_NAME_RO = Prekovce
+| srp_N_FULL_NAME_ND_RO = Prekovce
+| srp_N_SORT_NAME_RG = PREKOVCE
+| srp_N_FULL_NAME_RG = Prekovce
+| srp_N_FULL_NAME_ND_RG = Prekovce
+| srp_NS_name = Прековце
+| srp_NS_FULL_NAME_RO = Прековце
+| srp_NS_FULL_NAME_ND_RO = Прековце
+| srp_NS_SORT_NAME_RG = ПРЕКОВЦЕ
+| srp_NS_FULL_NAME_RG = Прековце
+| srp_NS_FULL_NAME_ND_RG = Прековце
+| srp_V_name = Prejakovce
+| srp_V_FULL_NAME_RO = Prejakovce Prekoci
+| srp_V_FULL_NAME_ND_RO = Prejakovce Prekoci
+| srp_V_SORT_NAME_RG = PREJAKOVCE PREKOCI
+| srp_V_FULL_NAME_RG = Prejakovce Prekoci
+| srp_V_FULL_NAME_ND_RG = Prejakovce Prekoci
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.4
  | Lartësia            = 
 }}
-'''Prekoc''' është një [[]] në [[Obiliq]] të [[Kosovës]].
+'''Prekoc''' është një [[Fshat Vogel]] në [[Obiliq]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kishnarekë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KISHNAREKE
- | FULL_NAME_RO = Kishnarekë
- | FULL_NAME_ND_RO=Kishnareke
- | SORT_NAME_RG=KISHNAREKE
- | FULL_NAME_RG=Kishnarekë
- | FULL_NAME_ND_RG=Kishnareke
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kishnarekë
+| sqi_N_FULL_NAME_RO = Kishnarekë
+| sqi_N_FULL_NAME_ND_RO = Kishnareke
+| sqi_N_SORT_NAME_RG = KISHNAREKE
+| sqi_N_FULL_NAME_RG = Kishnarekë
+| sqi_N_FULL_NAME_ND_RG = Kishnareke
+| sqi_V_name = Kisha e Nrekës
+| sqi_V_FULL_NAME_RO = Kisha e Nrekës Lumishtë Kizhareka Kishna Reka Lumishta Kërzharekë
+| sqi_V_FULL_NAME_ND_RO = Kisha e Nrekes Lumishte Kizhareka Kishna Reka Lumishta Kerzhareke
+| sqi_V_SORT_NAME_RG = KISHAENREKES LUMISHTE KIZHAREKA KISHNAREKA LUMISHTA KERZHAREKE
+| sqi_V_FULL_NAME_RG = Kisha e Nrekës Lumishtë Kizhareka Kishna Reka Lumishta Kërzharekë
+| sqi_V_FULL_NAME_ND_RG = Kisha e Nrekes Lumishte Kizhareka Kishna Reka Lumishta Kerzhareke
+| srp_N_name = Kišna Reka
+| srp_N_FULL_NAME_RO = Kišna Reka
+| srp_N_FULL_NAME_ND_RO = Kisna Reka
+| srp_N_SORT_NAME_RG = KISNAREKA
+| srp_N_FULL_NAME_RG = Kišna Reka
+| srp_N_FULL_NAME_ND_RG = Kisna Reka
+| srp_NS_name = Кишна Река
+| srp_NS_FULL_NAME_RO = Кишна Река
+| srp_NS_FULL_NAME_ND_RO = Кишна Река
+| srp_NS_SORT_NAME_RG = КИШНАРЕКА
+| srp_NS_FULL_NAME_RG = Кишна Река
+| srp_NS_FULL_NAME_ND_RG = Кишна Река
+| srp_V_name = Kržna Reka
+| srp_V_FULL_NAME_RO = Kržna Reka
+| srp_V_FULL_NAME_ND_RO = Krzna Reka
+| srp_V_SORT_NAME_RG = KRZNAREKA
+| srp_V_FULL_NAME_RG = Kržna Reka
+| srp_V_FULL_NAME_ND_RG = Krzna Reka
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.890833
  | Lartësia            = 
 }}
-'''Kishnarekë''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Kishnarekë''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

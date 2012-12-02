@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vërtomicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VERTOMICE
- | FULL_NAME_RO = Vërtomicë
- | FULL_NAME_ND_RO=Vertomice
- | SORT_NAME_RG=VERTOMICE
- | FULL_NAME_RG=Vërtomicë
- | FULL_NAME_ND_RG=Vertomice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Vërtomicë
+| sqi_D_FULL_NAME_RO = Vërtomicë
+| sqi_D_FULL_NAME_ND_RO = Vertomice
+| sqi_D_SORT_NAME_RG = VERTOMICE
+| sqi_D_FULL_NAME_RG = Vërtomicë
+| sqi_D_FULL_NAME_ND_RG = Vertomice
+| sqi_V_name = Vërtemicë
+| sqi_V_FULL_NAME_RO = Vërtemicë Vërtolnicë Vërtollnicë
+| sqi_V_FULL_NAME_ND_RO = Vertemice Vertolnice Vertollnice
+| sqi_V_SORT_NAME_RG = VERTEMICE VERTOLNICE VERTOLLNICE
+| sqi_V_FULL_NAME_RG = Vërtemicë Vërtolnicë Vërtollnicë
+| sqi_V_FULL_NAME_ND_RG = Vertemice Vertolnice Vertollnice
+| srp_N_name = Vrtolnica
+| srp_N_FULL_NAME_RO = Vrtolnica
+| srp_N_FULL_NAME_ND_RO = Vrtolnica
+| srp_N_SORT_NAME_RG = VRTOLNICA
+| srp_N_FULL_NAME_RG = Vrtolnica
+| srp_N_FULL_NAME_ND_RG = Vrtolnica
+| srp_NS_name = Вртолница
+| srp_NS_FULL_NAME_RO = Вртолница
+| srp_NS_FULL_NAME_ND_RO = Вртолница
+| srp_NS_SORT_NAME_RG = ВРТОЛНИЦА
+| srp_NS_FULL_NAME_RG = Вртолница
+| srp_NS_FULL_NAME_ND_RG = Вртолница
+| srp_V_name = Vrtomica
+| srp_V_FULL_NAME_RO = Vrtomica
+| srp_V_FULL_NAME_ND_RO = Vrtomica
+| srp_V_SORT_NAME_RG = VRTOMICA
+| srp_V_FULL_NAME_RG = Vrtomica
+| srp_V_FULL_NAME_ND_RG = Vrtomica
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.287222
  | Lartësia            = 
 }}
-'''Vërtomicë''' është një [[]] në [[]] të [[Kosovës]].
+'''Vërtomicë''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

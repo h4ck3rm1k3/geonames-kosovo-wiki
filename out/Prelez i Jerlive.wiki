@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prelez i Jerlive
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PRELEZIJERLIVE
- | FULL_NAME_RO = Prelez i Jerlive
- | FULL_NAME_ND_RO=Prelez i Jerlive
- | SORT_NAME_RG=PRELEZIJERLIVE
- | FULL_NAME_RG=Prelez i Jerlive
- | FULL_NAME_ND_RG=Prelez i Jerlive
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Prelez i Jerlive
+| sqi_D_FULL_NAME_RO = Prelez i Jerlive
+| sqi_D_FULL_NAME_ND_RO = Prelez i Jerlive
+| sqi_D_SORT_NAME_RG = PRELEZIJERLIVE
+| sqi_D_FULL_NAME_RG = Prelez i Jerlive
+| sqi_D_FULL_NAME_ND_RG = Prelez i Jerlive
+| sqi_V_name = Jerliprelez
+| sqi_V_FULL_NAME_RO = Jerliprelez
+| sqi_V_FULL_NAME_ND_RO = Jerliprelez
+| sqi_V_SORT_NAME_RG = JERLIPRELEZ
+| sqi_V_FULL_NAME_RG = Jerliprelez
+| sqi_V_FULL_NAME_ND_RG = Jerliprelez
+| srp_N_name = Jerli Prelez
+| srp_N_FULL_NAME_RO = Jerli Prelez
+| srp_N_FULL_NAME_ND_RO = Jerli Prelez
+| srp_N_SORT_NAME_RG = JERLIPRELEZ
+| srp_N_FULL_NAME_RG = Jerli Prelez
+| srp_N_FULL_NAME_ND_RG = Jerli Prelez
+| srp_NS_name = Јерли Прелез
+| srp_NS_FULL_NAME_RO = Јерли Прелез
+| srp_NS_FULL_NAME_ND_RO = Јерли Прелез
+| srp_NS_SORT_NAME_RG = ЈЕРЛИПРЕЛЕЗ
+| srp_NS_FULL_NAME_RG = Јерли Прелез
+| srp_NS_FULL_NAME_ND_RG = Јерли Прелез
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.161111
  | Lartësia            = 
 }}
-'''Prelez i Jerlive''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Prelez i Jerlive''' është një [[Fshat Vogel]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

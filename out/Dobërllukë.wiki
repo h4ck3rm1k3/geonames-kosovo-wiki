@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dobërllukë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DOBERLLUKE
- | FULL_NAME_RO = Dobërllukë
- | FULL_NAME_ND_RO=Doberlluke
- | SORT_NAME_RG=DOBERLLUKE
- | FULL_NAME_RG=Dobërllukë
- | FULL_NAME_ND_RG=Doberlluke
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dobërllukë
+| sqi_N_FULL_NAME_RO = Dobërllukë
+| sqi_N_FULL_NAME_ND_RO = Doberlluke
+| sqi_N_SORT_NAME_RG = DOBERLLUKE
+| sqi_N_FULL_NAME_RG = Dobërllukë
+| sqi_N_FULL_NAME_ND_RG = Doberlluke
+| sqi_V_name = Dobrilluk
+| sqi_V_FULL_NAME_RO = Dobrilluk Dobrëlluk Dobrilluc
+| sqi_V_FULL_NAME_ND_RO = Dobrilluk Dobrelluk Dobrilluc
+| sqi_V_SORT_NAME_RG = DOBRILLUK DOBRELLUK DOBRILLUC
+| sqi_V_FULL_NAME_RG = Dobrilluk Dobrëlluk Dobrilluc
+| sqi_V_FULL_NAME_ND_RG = Dobrilluk Dobrelluk Dobrilluc
+| srp_N_name = Dobra Luka
+| srp_N_FULL_NAME_RO = Dobra Luka
+| srp_N_FULL_NAME_ND_RO = Dobra Luka
+| srp_N_SORT_NAME_RG = DOBRALUKA
+| srp_N_FULL_NAME_RG = Dobra Luka
+| srp_N_FULL_NAME_ND_RG = Dobra Luka
+| srp_NS_name = Добра Лука
+| srp_NS_FULL_NAME_RO = Добра Лука
+| srp_NS_FULL_NAME_ND_RO = Добра Лука
+| srp_NS_SORT_NAME_RG = ДОБРАЛУКА
+| srp_NS_FULL_NAME_RG = Добра Лука
+| srp_NS_FULL_NAME_ND_RG = Добра Лука
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.946389
  | Lartësia            = 
 }}
-'''Dobërllukë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Dobërllukë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

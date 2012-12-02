@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gaçkë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GACKE
- | FULL_NAME_RO = Gaçkë
- | FULL_NAME_ND_RO=Gacke
- | SORT_NAME_RG=GACKE
- | FULL_NAME_RG=Gaçkë
- | FULL_NAME_ND_RG=Gacke
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gaçkë
+| sqi_D_FULL_NAME_RO = Gaçkë
+| sqi_D_FULL_NAME_ND_RO = Gacke
+| sqi_D_SORT_NAME_RG = GACKE
+| sqi_D_FULL_NAME_RG = Gaçkë
+| sqi_D_FULL_NAME_ND_RG = Gacke
+| sqi_V_name = Gatnë
+| sqi_V_FULL_NAME_RO = Gatnë
+| sqi_V_FULL_NAME_ND_RO = Gatne
+| sqi_V_SORT_NAME_RG = GATNE
+| sqi_V_FULL_NAME_RG = Gatnë
+| sqi_V_FULL_NAME_ND_RG = Gatne
+| srp_N_name = Gatnje
+| srp_N_FULL_NAME_RO = Gatnje
+| srp_N_FULL_NAME_ND_RO = Gatnje
+| srp_N_SORT_NAME_RG = GATNJE
+| srp_N_FULL_NAME_RG = Gatnje
+| srp_N_FULL_NAME_ND_RG = Gatnje
+| srp_NS_name = Гатње
+| srp_NS_FULL_NAME_RO = Гатње
+| srp_NS_FULL_NAME_ND_RO = Гатње
+| srp_NS_SORT_NAME_RG = ГАТЊЕ
+| srp_NS_FULL_NAME_RG = Гатње
+| srp_NS_FULL_NAME_ND_RG = Гатње
+| srp_V_name = Gornje Gatnje
+| srp_V_FULL_NAME_RO = Gornje Gatnje Donje Gatnje
+| srp_V_FULL_NAME_ND_RO = Gornje Gatnje Donje Gatnje
+| srp_V_SORT_NAME_RG = GORNJEGATNJE DONJEGATNJE
+| srp_V_FULL_NAME_RG = Gornje Gatnje Donje Gatnje
+| srp_V_FULL_NAME_ND_RG = Gornje Gatnje Donje Gatnje
+| std_V_name = Gatnja
+| std_V_FULL_NAME_RO = Gatnja
+| std_V_FULL_NAME_ND_RO = Gatnja
+| std_V_SORT_NAME_RG = GATNJA
+| std_V_FULL_NAME_RG = Gatnja
+| std_V_FULL_NAME_ND_RG = Gatnja
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.153611
  | Lartësia            = 
 }}
-'''Gaçkë''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Gaçkë''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

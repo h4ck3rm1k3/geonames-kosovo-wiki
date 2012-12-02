@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pagarushë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PAGARUSHE
- | FULL_NAME_RO = Pagarushë
- | FULL_NAME_ND_RO=Pagarushe
- | SORT_NAME_RG=PAGARUSHE
- | FULL_NAME_RG=Pagarushë
- | FULL_NAME_ND_RG=Pagarushe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pagarushë
+| sqi_N_FULL_NAME_RO = Pagarushë
+| sqi_N_FULL_NAME_ND_RO = Pagarushe
+| sqi_N_SORT_NAME_RG = PAGARUSHE
+| sqi_N_FULL_NAME_RG = Pagarushë
+| sqi_N_FULL_NAME_ND_RG = Pagarushe
+| sqi_V_name = Pagarusha
+| sqi_V_FULL_NAME_RO = Pagarusha
+| sqi_V_FULL_NAME_ND_RO = Pagarusha
+| sqi_V_SORT_NAME_RG = PAGARUSHA
+| sqi_V_FULL_NAME_RG = Pagarusha
+| sqi_V_FULL_NAME_ND_RG = Pagarusha
+| srp_N_name = Pagaruša
+| srp_N_FULL_NAME_RO = Pagaruša
+| srp_N_FULL_NAME_ND_RO = Pagarusa
+| srp_N_SORT_NAME_RG = PAGARUSA
+| srp_N_FULL_NAME_RG = Pagaruša
+| srp_N_FULL_NAME_ND_RG = Pagarusa
+| srp_NS_name = Пагаруша
+| srp_NS_FULL_NAME_RO = Пагаруша
+| srp_NS_FULL_NAME_ND_RO = Пагаруша
+| srp_NS_SORT_NAME_RG = ПАГАРУША
+| srp_NS_FULL_NAME_RG = Пагаруша
+| srp_NS_FULL_NAME_ND_RG = Пагаруша
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.742222
  | Lartësia            = 
 }}
-'''Pagarushë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Pagarushë''' është një [[Fshat Vogel]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

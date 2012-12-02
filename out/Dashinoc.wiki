@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dashinoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DASHINOC
- | FULL_NAME_RO = Dashinoc
- | FULL_NAME_ND_RO=Dashinoc
- | SORT_NAME_RG=DASHINOC
- | FULL_NAME_RG=Dashinoc
- | FULL_NAME_ND_RG=Dashinoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dashinoc
+| sqi_N_FULL_NAME_RO = Dashinoc
+| sqi_N_FULL_NAME_ND_RO = Dashinoc
+| sqi_N_SORT_NAME_RG = DASHINOC
+| sqi_N_FULL_NAME_RG = Dashinoc
+| sqi_N_FULL_NAME_ND_RG = Dashinoc
+| sqi_V_name = Dashinoci
+| sqi_V_FULL_NAME_RO = Dashinoci
+| sqi_V_FULL_NAME_ND_RO = Dashinoci
+| sqi_V_SORT_NAME_RG = DASHINOCI
+| sqi_V_FULL_NAME_RG = Dashinoci
+| sqi_V_FULL_NAME_ND_RG = Dashinoci
+| srp_N_name = Dašinovac
+| srp_N_FULL_NAME_RO = Dašinovac
+| srp_N_FULL_NAME_ND_RO = Dasinovac
+| srp_N_SORT_NAME_RG = DASINOVAC
+| srp_N_FULL_NAME_RG = Dašinovac
+| srp_N_FULL_NAME_ND_RG = Dasinovac
+| srp_NS_name = Дашиновац
+| srp_NS_FULL_NAME_RO = Дашиновац
+| srp_NS_FULL_NAME_ND_RO = Дашиновац
+| srp_NS_SORT_NAME_RG = ДАШИНОВАЦ
+| srp_NS_FULL_NAME_RG = Дашиновац
+| srp_NS_FULL_NAME_ND_RG = Дашиновац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.398056
  | Lartësia            = 
 }}
-'''Dashinoc''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Dashinoc''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

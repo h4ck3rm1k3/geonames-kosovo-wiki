@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rançiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RANCIQ
- | FULL_NAME_RO = Rançiq
- | FULL_NAME_ND_RO=Ranciq
- | SORT_NAME_RG=RANCIQ
- | FULL_NAME_RG=Rançiq
- | FULL_NAME_ND_RG=Ranciq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rançiq
+| sqi_N_FULL_NAME_RO = Rançiq
+| sqi_N_FULL_NAME_ND_RO = Ranciq
+| sqi_N_SORT_NAME_RG = RANCIQ
+| sqi_N_FULL_NAME_RG = Rançiq
+| sqi_N_FULL_NAME_ND_RG = Ranciq
+| srp_N_name = Rančiće
+| srp_N_FULL_NAME_RO = Rančiće
+| srp_N_FULL_NAME_ND_RO = Rancice
+| srp_N_SORT_NAME_RG = RANCICE
+| srp_N_FULL_NAME_RG = Rančiće
+| srp_N_FULL_NAME_ND_RG = Rancice
+| srp_NS_name = Ранчиће
+| srp_NS_FULL_NAME_RO = Ранчиће
+| srp_NS_FULL_NAME_ND_RO = Ранчиће
+| srp_NS_SORT_NAME_RG = РАНЧИЋЕ
+| srp_NS_FULL_NAME_RG = Ранчиће
+| srp_NS_FULL_NAME_ND_RG = Ранчиће
+| srp_V_name = Raičiće
+| srp_V_FULL_NAME_RO = Raičiće
+| srp_V_FULL_NAME_ND_RO = Raicice
+| srp_V_SORT_NAME_RG = RAICICE
+| srp_V_FULL_NAME_RG = Raičiće
+| srp_V_FULL_NAME_ND_RG = Raicice
+| srp_VS_name = Раичиће
+| srp_VS_FULL_NAME_RO = Раичиће
+| srp_VS_FULL_NAME_ND_RO = Раичиће
+| srp_VS_SORT_NAME_RG = РАИЧИЋЕ
+| srp_VS_FULL_NAME_RG = Раичиће
+| srp_VS_FULL_NAME_ND_RG = Раичиће
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.656944
  | Lartësia            = 
 }}
-'''Rançiq''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Rançiq''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rashincë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RASHINCE
- | FULL_NAME_RO = Rashincë
- | FULL_NAME_ND_RO=Rashince
- | SORT_NAME_RG=RASHINCE
- | FULL_NAME_RG=Rashincë
- | FULL_NAME_ND_RG=Rashince
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rashincë
+| sqi_N_FULL_NAME_RO = Rashincë
+| sqi_N_FULL_NAME_ND_RO = Rashince
+| sqi_N_SORT_NAME_RG = RASHINCE
+| sqi_N_FULL_NAME_RG = Rashincë
+| sqi_N_FULL_NAME_ND_RG = Rashince
+| srp_N_name = Rašince
+| srp_N_FULL_NAME_RO = Rašince
+| srp_N_FULL_NAME_ND_RO = Rasince
+| srp_N_SORT_NAME_RG = RASINCE
+| srp_N_FULL_NAME_RG = Rašince
+| srp_N_FULL_NAME_ND_RG = Rasince
+| srp_NS_name = Рашинце
+| srp_NS_FULL_NAME_RO = Рашинце
+| srp_NS_FULL_NAME_ND_RO = Рашинце
+| srp_NS_SORT_NAME_RG = РАШИНЦЕ
+| srp_NS_FULL_NAME_RG = Рашинце
+| srp_NS_FULL_NAME_ND_RG = Рашинце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.075556
  | Lartësia            = 
 }}
-'''Rashincë''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Rashincë''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

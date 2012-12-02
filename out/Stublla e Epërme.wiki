@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stublla e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STUBLLAEEPERME
- | FULL_NAME_RO = Stublla e Epërme
- | FULL_NAME_ND_RO=Stublla e Eperme
- | SORT_NAME_RG=STUBLLAEEPERME
- | FULL_NAME_RG=Stublla e Epërme
- | FULL_NAME_ND_RG=Stublla e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Stublla e Epërme
+| sqi_D_FULL_NAME_RO = Stublla e Epërme
+| sqi_D_FULL_NAME_ND_RO = Stublla e Eperme
+| sqi_D_SORT_NAME_RG = STUBLLAEEPERME
+| sqi_D_FULL_NAME_RG = Stublla e Epërme
+| sqi_D_FULL_NAME_ND_RG = Stublla e Eperme
+| sqi_V_name = Stubella e Epërme
+| sqi_V_FULL_NAME_RO = Stubella e Epërme Stubëll e Epërme
+| sqi_V_FULL_NAME_ND_RO = Stubella e Eperme Stubell e Eperme
+| sqi_V_SORT_NAME_RG = STUBELLAEEPERME STUBELLEEPERME
+| sqi_V_FULL_NAME_RG = Stubella e Epërme Stubëll e Epërme
+| sqi_V_FULL_NAME_ND_RG = Stubella e Eperme Stubell e Eperme
+| srp_NS_name = Горња Стубла
+| srp_NS_FULL_NAME_RO = Горња Стубла
+| srp_NS_FULL_NAME_ND_RO = Горња Стубла
+| srp_NS_SORT_NAME_RG = ГОРЊАСТУБЛА
+| srp_NS_FULL_NAME_RG = Горња Стубла
+| srp_NS_FULL_NAME_ND_RG = Горња Стубла
+| srp_V_name = Stubla
+| srp_V_FULL_NAME_RO = Stubla
+| srp_V_FULL_NAME_ND_RO = Stubla
+| srp_V_SORT_NAME_RG = STUBLA
+| srp_V_FULL_NAME_RG = Stubla
+| srp_V_FULL_NAME_ND_RG = Stubla
+| srp_VS_name = Стубла
+| srp_VS_FULL_NAME_RO = Стубла
+| srp_VS_FULL_NAME_ND_RO = Стубла
+| srp_VS_SORT_NAME_RG = СТУБЛА
+| srp_VS_FULL_NAME_RG = Стубла
+| srp_VS_FULL_NAME_ND_RG = Стубла
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.463889
  | Lartësia            = 
 }}
-'''Stublla e Epërme''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Stublla e Epërme''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Strazhë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STRAZHE
- | FULL_NAME_RO = Strazhë
- | FULL_NAME_ND_RO=Strazhe
- | SORT_NAME_RG=STRAZHE
- | FULL_NAME_RG=Strazhë
- | FULL_NAME_ND_RG=Strazhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Strazhë
+| sqi_N_FULL_NAME_RO = Strazhë
+| sqi_N_FULL_NAME_ND_RO = Strazhe
+| sqi_N_SORT_NAME_RG = STRAZHE
+| sqi_N_FULL_NAME_RG = Strazhë
+| sqi_N_FULL_NAME_ND_RG = Strazhe
+| srp_N_name = Straža
+| srp_N_FULL_NAME_RO = Straža
+| srp_N_FULL_NAME_ND_RO = Straza
+| srp_N_SORT_NAME_RG = STRAZA
+| srp_N_FULL_NAME_RG = Straža
+| srp_N_FULL_NAME_ND_RG = Straza
+| srp_NS_name = Стража
+| srp_NS_FULL_NAME_RO = Стража
+| srp_NS_FULL_NAME_ND_RO = Стража
+| srp_NS_SORT_NAME_RG = СТРАЖА
+| srp_NS_FULL_NAME_RG = Стража
+| srp_NS_FULL_NAME_ND_RG = Стража
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.434096
  | Lartësia            = 
 }}
-'''Strazhë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Strazhë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

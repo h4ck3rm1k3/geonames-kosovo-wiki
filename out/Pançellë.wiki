@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pançellë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PANCELLE
- | FULL_NAME_RO = Pançellë
- | FULL_NAME_ND_RO=Pancelle
- | SORT_NAME_RG=PANCELLE
- | FULL_NAME_RG=Pançellë
- | FULL_NAME_ND_RG=Pancelle
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pançellë
+| sqi_N_FULL_NAME_RO = Pançellë
+| sqi_N_FULL_NAME_ND_RO = Pancelle
+| sqi_N_SORT_NAME_RG = PANCELLE
+| sqi_N_FULL_NAME_RG = Pançellë
+| sqi_N_FULL_NAME_ND_RG = Pancelle
+| sqi_V_name = Pançela
+| sqi_V_FULL_NAME_RO = Pançela Pançelë Panqela Panqelë
+| sqi_V_FULL_NAME_ND_RO = Pancela Pancele Panqela Panqele
+| sqi_V_SORT_NAME_RG = PANCELA PANCELE PANQELA PANQELE
+| sqi_V_FULL_NAME_RG = Pançela Pançelë Panqela Panqelë
+| sqi_V_FULL_NAME_ND_RG = Pancela Pancele Panqela Panqele
+| srp_N_name = Pančelo
+| srp_N_FULL_NAME_RO = Pančelo
+| srp_N_FULL_NAME_ND_RO = Pancelo
+| srp_N_SORT_NAME_RG = PANCELO
+| srp_N_FULL_NAME_RG = Pančelo
+| srp_N_FULL_NAME_ND_RG = Pancelo
+| srp_NS_name = Панчело
+| srp_NS_FULL_NAME_RO = Панчело
+| srp_NS_FULL_NAME_ND_RO = Панчело
+| srp_NS_SORT_NAME_RG = ПАНЧЕЛО
+| srp_NS_FULL_NAME_RG = Панчело
+| srp_NS_FULL_NAME_ND_RG = Панчело
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.568056
  | Lartësia            = 
 }}
-'''Pançellë''' është një [[]] në [[]] të [[Kosovës]].
+'''Pançellë''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

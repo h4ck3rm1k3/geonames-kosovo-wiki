@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sërboc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SERBOC
- | FULL_NAME_RO = Sërboc
- | FULL_NAME_ND_RO=Serboc
- | SORT_NAME_RG=SERBOC
- | FULL_NAME_RG=Sërboc
- | FULL_NAME_ND_RG=Serboc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sërboc
+| sqi_N_FULL_NAME_RO = Sërboc
+| sqi_N_FULL_NAME_ND_RO = Serboc
+| sqi_N_SORT_NAME_RG = SERBOC
+| sqi_N_FULL_NAME_RG = Sërboc
+| sqi_N_FULL_NAME_ND_RG = Serboc
+| sqi_V_name = Serbovec
+| sqi_V_FULL_NAME_RO = Serbovec Srbovc Sërboci
+| sqi_V_FULL_NAME_ND_RO = Serbovec Srbovc Serboci
+| sqi_V_SORT_NAME_RG = SERBOVEC SRBOVC SERBOCI
+| sqi_V_FULL_NAME_RG = Serbovec Srbovc Sërboci
+| sqi_V_FULL_NAME_ND_RG = Serbovec Srbovc Serboci
+| srp_N_name = Srbovac
+| srp_N_FULL_NAME_RO = Srbovac
+| srp_N_FULL_NAME_ND_RO = Srbovac
+| srp_N_SORT_NAME_RG = SRBOVAC
+| srp_N_FULL_NAME_RG = Srbovac
+| srp_N_FULL_NAME_ND_RG = Srbovac
+| srp_NS_name = Србовац
+| srp_NS_FULL_NAME_RO = Србовац
+| srp_NS_FULL_NAME_ND_RO = Србовац
+| srp_NS_SORT_NAME_RG = СРБОВАЦ
+| srp_NS_FULL_NAME_RG = Србовац
+| srp_NS_FULL_NAME_ND_RG = Србовац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.838333
  | Lartësia            = 
 }}
-'''Sërboc''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Sërboc''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zylfaj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZYLFAJ
- | FULL_NAME_RO = Zylfaj
- | FULL_NAME_ND_RO=Zylfaj
- | SORT_NAME_RG=ZYLFAJ
- | FULL_NAME_RG=Zylfaj
- | FULL_NAME_ND_RG=Zylfaj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zylfaj
+| sqi_N_FULL_NAME_RO = Zylfaj
+| sqi_N_FULL_NAME_ND_RO = Zylfaj
+| sqi_N_SORT_NAME_RG = ZYLFAJ
+| sqi_N_FULL_NAME_RG = Zylfaj
+| sqi_N_FULL_NAME_ND_RG = Zylfaj
+| srp_N_name = Zulfaj
+| srp_N_FULL_NAME_RO = Zulfaj
+| srp_N_FULL_NAME_ND_RO = Zulfaj
+| srp_N_SORT_NAME_RG = ZULFAJ
+| srp_N_FULL_NAME_RG = Zulfaj
+| srp_N_FULL_NAME_ND_RG = Zulfaj
+| srp_NS_name = Зулфај
+| srp_NS_FULL_NAME_RO = Зулфај
+| srp_NS_FULL_NAME_ND_RO = Зулфај
+| srp_NS_SORT_NAME_RG = ЗУЛФАЈ
+| srp_NS_FULL_NAME_RG = Зулфај
+| srp_NS_FULL_NAME_ND_RG = Зулфај
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.406667
  | Lartësia            = 
 }}
-'''Zylfaj''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Zylfaj''' është një [[Fshat Vogel]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

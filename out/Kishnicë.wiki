@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kishnicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KISHNICE
- | FULL_NAME_RO = Kishnicë
- | FULL_NAME_ND_RO=Kishnice
- | SORT_NAME_RG=KISHNICE
- | FULL_NAME_RG=Kishnicë
- | FULL_NAME_ND_RG=Kishnice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kishnicë
+| sqi_N_FULL_NAME_RO = Kishnicë
+| sqi_N_FULL_NAME_ND_RO = Kishnice
+| sqi_N_SORT_NAME_RG = KISHNICE
+| sqi_N_FULL_NAME_RG = Kishnicë
+| sqi_N_FULL_NAME_ND_RG = Kishnice
+| srp_N_name = Kišnica
+| srp_N_FULL_NAME_RO = Kišnica
+| srp_N_FULL_NAME_ND_RO = Kisnica
+| srp_N_SORT_NAME_RG = KISNICA
+| srp_N_FULL_NAME_RG = Kišnica
+| srp_N_FULL_NAME_ND_RG = Kisnica
+| srp_NS_name = Кишница
+| srp_NS_FULL_NAME_RO = Кишница
+| srp_NS_FULL_NAME_ND_RO = Кишница
+| srp_NS_SORT_NAME_RG = КИШНИЦА
+| srp_NS_FULL_NAME_RG = Кишница
+| srp_NS_FULL_NAME_ND_RG = Кишница
+| srp_V_name = Kižnica
+| srp_V_FULL_NAME_RO = Kižnica
+| srp_V_FULL_NAME_ND_RO = Kiznica
+| srp_V_SORT_NAME_RG = KIZNICA
+| srp_V_FULL_NAME_RG = Kižnica
+| srp_V_FULL_NAME_ND_RG = Kiznica
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.218889
  | Lartësia            = 
 }}
-'''Kishnicë''' është një [[]] në [[]] të [[Kosovës]].
+'''Kishnicë''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

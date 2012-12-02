@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gjylekar
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GJYLEKAR
- | FULL_NAME_RO = Gjylekar
- | FULL_NAME_ND_RO=Gjylekar
- | SORT_NAME_RG=GJYLEKAR
- | FULL_NAME_RG=Gjylekar
- | FULL_NAME_ND_RG=Gjylekar
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gjylekar
+| sqi_N_FULL_NAME_RO = Gjylekar
+| sqi_N_FULL_NAME_ND_RO = Gjylekar
+| sqi_N_SORT_NAME_RG = GJYLEKAR
+| sqi_N_FULL_NAME_RG = Gjylekar
+| sqi_N_FULL_NAME_ND_RG = Gjylekar
+| sqi_V_name = Gjylekarë
+| sqi_V_FULL_NAME_RO = Gjylekarë Skifteraj
+| sqi_V_FULL_NAME_ND_RO = Gjylekare Skifteraj
+| sqi_V_SORT_NAME_RG = GJYLEKARE SKIFTERAJ
+| sqi_V_FULL_NAME_RG = Gjylekarë Skifteraj
+| sqi_V_FULL_NAME_ND_RG = Gjylekare Skifteraj
+| srp_N_name = Ðelekare
+| srp_N_FULL_NAME_RO = Ðelekare
+| srp_N_FULL_NAME_ND_RO = Delekare
+| srp_N_SORT_NAME_RG = DELEKARE
+| srp_N_FULL_NAME_RG = Ðelekare
+| srp_N_FULL_NAME_ND_RG = Delekare
+| srp_NS_name = Ђелекаре
+| srp_NS_FULL_NAME_RO = Ђелекаре
+| srp_NS_FULL_NAME_ND_RO = Ђелекаре
+| srp_NS_SORT_NAME_RG = ЂЕЛЕКАРЕ
+| srp_NS_FULL_NAME_RG = Ђелекаре
+| srp_NS_FULL_NAME_ND_RG = Ђелекаре
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.427778
  | Lartësia            = 
 }}
-'''Gjylekar''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Gjylekar''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

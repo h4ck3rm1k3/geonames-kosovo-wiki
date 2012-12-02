@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llapushnik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLAPUSHNIK
- | FULL_NAME_RO = Llapushnik
- | FULL_NAME_ND_RO=Llapushnik
- | SORT_NAME_RG=LLAPUSHNIK
- | FULL_NAME_RG=Llapushnik
- | FULL_NAME_ND_RG=Llapushnik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Llapushnik
+| sqi_N_FULL_NAME_RO = Llapushnik
+| sqi_N_FULL_NAME_ND_RO = Llapushnik
+| sqi_N_SORT_NAME_RG = LLAPUSHNIK
+| sqi_N_FULL_NAME_RG = Llapushnik
+| sqi_N_FULL_NAME_ND_RG = Llapushnik
+| sqi_V_name = Llapushniku
+| sqi_V_FULL_NAME_RO = Llapushniku
+| sqi_V_FULL_NAME_ND_RO = Llapushniku
+| sqi_V_SORT_NAME_RG = LLAPUSHNIKU
+| sqi_V_FULL_NAME_RG = Llapushniku
+| sqi_V_FULL_NAME_ND_RG = Llapushniku
+| srp_N_name = Lapušnik
+| srp_N_FULL_NAME_RO = Lapušnik
+| srp_N_FULL_NAME_ND_RO = Lapusnik
+| srp_N_SORT_NAME_RG = LAPUSNIK
+| srp_N_FULL_NAME_RG = Lapušnik
+| srp_N_FULL_NAME_ND_RG = Lapusnik
+| srp_NS_name = Лапушник
+| srp_NS_FULL_NAME_RO = Лапушник
+| srp_NS_FULL_NAME_ND_RO = Лапушник
+| srp_NS_SORT_NAME_RG = ЛАПУШНИК
+| srp_NS_FULL_NAME_RG = Лапушник
+| srp_NS_FULL_NAME_ND_RG = Лапушник
+| srp_V_name = Lopušnik
+| srp_V_FULL_NAME_RO = Lopušnik
+| srp_V_FULL_NAME_ND_RO = Lopusnik
+| srp_V_SORT_NAME_RG = LOPUSNIK
+| srp_V_FULL_NAME_RG = Lopušnik
+| srp_V_FULL_NAME_ND_RG = Lopusnik
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.843889
  | Lartësia            = 
 }}
-'''Llapushnik''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Llapushnik''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prugoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PRUGOC
- | FULL_NAME_RO = Prugoc
- | FULL_NAME_ND_RO=Prugoc
- | SORT_NAME_RG=PRUGOC
- | FULL_NAME_RG=Prugoc
- | FULL_NAME_ND_RG=Prugoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Prugoc
+| sqi_N_FULL_NAME_RO = Prugoc
+| sqi_N_FULL_NAME_ND_RO = Prugoc
+| sqi_N_SORT_NAME_RG = PRUGOC
+| sqi_N_FULL_NAME_RG = Prugoc
+| sqi_N_FULL_NAME_ND_RG = Prugoc
+| sqi_V_name = Prugovce
+| sqi_V_FULL_NAME_RO = Prugovce
+| sqi_V_FULL_NAME_ND_RO = Prugovce
+| sqi_V_SORT_NAME_RG = PRUGOVCE
+| sqi_V_FULL_NAME_RG = Prugovce
+| sqi_V_FULL_NAME_ND_RG = Prugovce
+| srp_N_name = Prugovac
+| srp_N_FULL_NAME_RO = Prugovac
+| srp_N_FULL_NAME_ND_RO = Prugovac
+| srp_N_SORT_NAME_RG = PRUGOVAC
+| srp_N_FULL_NAME_RG = Prugovac
+| srp_N_FULL_NAME_ND_RG = Prugovac
+| srp_NS_name = Пруговац
+| srp_NS_FULL_NAME_RO = Пруговац
+| srp_NS_FULL_NAME_ND_RO = Пруговац
+| srp_NS_SORT_NAME_RG = ПРУГОВАЦ
+| srp_NS_FULL_NAME_RG = Пруговац
+| srp_NS_FULL_NAME_ND_RG = Пруговац
+| srp_V_name = Prugovne
+| srp_V_FULL_NAME_RO = Prugovne
+| srp_V_FULL_NAME_ND_RO = Prugovne
+| srp_V_SORT_NAME_RG = PRUGOVNE
+| srp_V_FULL_NAME_RG = Prugovne
+| srp_V_FULL_NAME_ND_RG = Prugovne
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.12031
  | Lartësia            = 
 }}
-'''Prugoc''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Prugoc''' është një [[Fshat Vogel]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

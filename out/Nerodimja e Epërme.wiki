@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nerodimja e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NERODIMJAEEPERME
- | FULL_NAME_RO = Nerodimja e Epërme
- | FULL_NAME_ND_RO=Nerodimja e Eperme
- | SORT_NAME_RG=NERODIMJAEEPERME
- | FULL_NAME_RG=Nerodimja e Epërme
- | FULL_NAME_ND_RG=Nerodimja e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Nerodimja e Epërme
+| sqi_D_FULL_NAME_RO = Nerodimja e Epërme
+| sqi_D_FULL_NAME_ND_RO = Nerodimja e Eperme
+| sqi_D_SORT_NAME_RG = NERODIMJAEEPERME
+| sqi_D_FULL_NAME_RG = Nerodimja e Epërme
+| sqi_D_FULL_NAME_ND_RG = Nerodimja e Eperme
+| sqi_V_name = Neredime e Eperme
+| sqi_V_FULL_NAME_RO = Neredime e Eperme Nerodime e Epërme
+| sqi_V_FULL_NAME_ND_RO = Neredime e Eperme Nerodime e Eperme
+| sqi_V_SORT_NAME_RG = NEREDIMEEEPERME NERODIMEEEPERME
+| sqi_V_FULL_NAME_RG = Neredime e Eperme Nerodime e Epërme
+| sqi_V_FULL_NAME_ND_RG = Neredime e Eperme Nerodime e Eperme
+| srp_N_name = Gornje Nerodimlje
+| srp_N_FULL_NAME_RO = Gornje Nerodimlje
+| srp_N_FULL_NAME_ND_RO = Gornje Nerodimlje
+| srp_N_SORT_NAME_RG = GORNJENERODIMLJE
+| srp_N_FULL_NAME_RG = Gornje Nerodimlje
+| srp_N_FULL_NAME_ND_RG = Gornje Nerodimlje
+| srp_NS_name = Горње Неродимље
+| srp_NS_FULL_NAME_RO = Горње Неродимље
+| srp_NS_FULL_NAME_ND_RO = Горње Неродимље
+| srp_NS_SORT_NAME_RG = ГОРЊЕНЕРОДИМЉЕ
+| srp_NS_FULL_NAME_RG = Горње Неродимље
+| srp_NS_FULL_NAME_ND_RG = Горње Неродимље
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.078611
  | Lartësia            = 
 }}
-'''Nerodimja e Epërme''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Nerodimja e Epërme''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

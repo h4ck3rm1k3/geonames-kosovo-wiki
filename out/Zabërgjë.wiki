@@ -1,26 +1,34 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zabërgjë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZABERGJE
- | FULL_NAME_RO = Zabërgjë
- | FULL_NAME_ND_RO=Zabergje
- | SORT_NAME_RG=ZABERGJE
- | FULL_NAME_RG=Zabërgjë
- | FULL_NAME_ND_RG=Zabergje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zabërgjë
+| sqi_N_FULL_NAME_RO = Zabërgjë
+| sqi_N_FULL_NAME_ND_RO = Zabergje
+| sqi_N_SORT_NAME_RG = ZABERGJE
+| sqi_N_FULL_NAME_RG = Zabërgjë
+| sqi_N_FULL_NAME_ND_RG = Zabergje
+| sqi_V_name = Zabërxhë
+| sqi_V_FULL_NAME_RO = Zabërxhë Zabrigjë
+| sqi_V_FULL_NAME_ND_RO = Zaberxhe Zabrigje
+| sqi_V_SORT_NAME_RG = ZABERXHE ZABRIGJE
+| sqi_V_FULL_NAME_RG = Zabërxhë Zabrigjë
+| sqi_V_FULL_NAME_ND_RG = Zaberxhe Zabrigje
+| srp_N_name = Zabrđe
+| srp_N_FULL_NAME_RO = Zabrđe
+| srp_N_FULL_NAME_ND_RO = Zabrde
+| srp_N_SORT_NAME_RG = ZABRDE
+| srp_N_FULL_NAME_RG = Zabrđe
+| srp_N_FULL_NAME_ND_RG = Zabrde
+| srp_NS_name = Забрђе
+| srp_NS_FULL_NAME_RO = Забрђе
+| srp_NS_FULL_NAME_ND_RO = Забрђе
+| srp_NS_SORT_NAME_RG = ЗАБРЂЕ
+| srp_NS_FULL_NAME_RG = Забрђе
+| srp_NS_FULL_NAME_ND_RG = Забрђе
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Albanik
+ | Komuna              = Novobërdë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +38,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.593333
- | Gjatësia            = 20.7075
+ | Gjerësia            = 42.991667
+ | Gjatësia            = 20.929167
  | Lartësia            = 
 }}
-'''Zabërgjë''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Zabërgjë''' është një [[Fshat Vogel]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Albanik}}
+{{Komuna Novobërdë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
 [[Kategoria:Vendbanime në Kosovës]]

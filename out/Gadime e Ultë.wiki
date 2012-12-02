@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gadime e Ultë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GADIMEEULTE
- | FULL_NAME_RO = Gadime e Ultë
- | FULL_NAME_ND_RO=Gadime e Ulte
- | SORT_NAME_RG=GADIMEEULTE
- | FULL_NAME_RG=Gadime e Ultë
- | FULL_NAME_ND_RG=Gadime e Ulte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gadime e Ultë
+| sqi_D_FULL_NAME_RO = Gadime e Ultë
+| sqi_D_FULL_NAME_ND_RO = Gadime e Ulte
+| sqi_D_SORT_NAME_RG = GADIMEEULTE
+| sqi_D_FULL_NAME_RG = Gadime e Ultë
+| sqi_D_FULL_NAME_ND_RG = Gadime e Ulte
+| sqi_V_name = Gadime e Poshtëme
+| sqi_V_FULL_NAME_RO = Gadime e Poshtëme Gadime e Poshtme Gadime e Ulët Gadimla e Ultë
+| sqi_V_FULL_NAME_ND_RO = Gadime e Poshteme Gadime e Poshtme Gadime e Ulet Gadimla e Ulte
+| sqi_V_SORT_NAME_RG = GADIMEEPOSHTEME GADIMEEPOSHTME GADIMEEULET GADIMLAEULTE
+| sqi_V_FULL_NAME_RG = Gadime e Poshtëme Gadime e Poshtme Gadime e Ulët Gadimla e Ultë
+| sqi_V_FULL_NAME_ND_RG = Gadime e Poshteme Gadime e Poshtme Gadime e Ulet Gadimla e Ulte
+| srp_N_name = Donje Gadimlje
+| srp_N_FULL_NAME_RO = Donje Gadimlje
+| srp_N_FULL_NAME_ND_RO = Donje Gadimlje
+| srp_N_SORT_NAME_RG = DONJEGADIMLJE
+| srp_N_FULL_NAME_RG = Donje Gadimlje
+| srp_N_FULL_NAME_ND_RG = Donje Gadimlje
+| srp_NS_name = Доње Гадимље
+| srp_NS_FULL_NAME_RO = Доње Гадимље
+| srp_NS_FULL_NAME_ND_RO = Доње Гадимље
+| srp_NS_SORT_NAME_RG = ДОЊЕГАДИМЉЕ
+| srp_NS_FULL_NAME_RG = Доње Гадимље
+| srp_NS_FULL_NAME_ND_RG = Доње Гадимље
+| srp_V_name = Donja Gadimlja
+| srp_V_FULL_NAME_RO = Donja Gadimlja
+| srp_V_FULL_NAME_ND_RO = Donja Gadimlja
+| srp_V_SORT_NAME_RG = DONJAGADIMLJA
+| srp_V_FULL_NAME_RG = Donja Gadimlja
+| srp_V_FULL_NAME_ND_RG = Donja Gadimlja
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.206389
  | Lartësia            = 
 }}
-'''Gadime e Ultë''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Gadime e Ultë''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

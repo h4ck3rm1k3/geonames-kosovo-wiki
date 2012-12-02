@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Brusnik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BRUSNIK
- | FULL_NAME_RO = Brusnik
- | FULL_NAME_ND_RO=Brusnik
- | SORT_NAME_RG=BRUSNIK
- | FULL_NAME_RG=Brusnik
- | FULL_NAME_ND_RG=Brusnik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Brusnik
+| sqi_N_FULL_NAME_RO = Brusnik
+| sqi_N_FULL_NAME_ND_RO = Brusnik
+| sqi_N_SORT_NAME_RG = BRUSNIK
+| sqi_N_FULL_NAME_RG = Brusnik
+| sqi_N_FULL_NAME_ND_RG = Brusnik
+| srp_N_name = Brusnik
+| srp_N_FULL_NAME_RO = Brusnik
+| srp_N_FULL_NAME_ND_RO = Brusnik
+| srp_N_SORT_NAME_RG = BRUSNIK
+| srp_N_FULL_NAME_RG = Brusnik
+| srp_N_FULL_NAME_ND_RG = Brusnik
+| srp_NS_name = Брусник
+| srp_NS_FULL_NAME_RO = Брусник
+| srp_NS_FULL_NAME_ND_RO = Брусник
+| srp_NS_SORT_NAME_RG = БРУСНИК
+| srp_NS_FULL_NAME_RG = Брусник
+| srp_NS_FULL_NAME_ND_RG = Брусник
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.920278
  | Lartësia            = 
 }}
-'''Brusnik''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Brusnik''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

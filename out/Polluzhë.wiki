@@ -1,26 +1,40 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Polluzhë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POLLUZHE
- | FULL_NAME_RO = Polluzhë
- | FULL_NAME_ND_RO=Polluzhe
- | SORT_NAME_RG=POLLUZHE
- | FULL_NAME_RG=Polluzhë
- | FULL_NAME_ND_RG=Polluzhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Polluzhë
+| sqi_N_FULL_NAME_RO = Polluzhë
+| sqi_N_FULL_NAME_ND_RO = Polluzhe
+| sqi_N_SORT_NAME_RG = POLLUZHE
+| sqi_N_FULL_NAME_RG = Polluzhë
+| sqi_N_FULL_NAME_ND_RG = Polluzhe
+| sqi_V_name = Poluzhe
+| sqi_V_FULL_NAME_RO = Poluzhe
+| sqi_V_FULL_NAME_ND_RO = Poluzhe
+| sqi_V_SORT_NAME_RG = POLUZHE
+| sqi_V_FULL_NAME_RG = Poluzhe
+| sqi_V_FULL_NAME_ND_RG = Poluzhe
+| srp_N_name = Poluža
+| srp_N_FULL_NAME_RO = Poluža
+| srp_N_FULL_NAME_ND_RO = Poluza
+| srp_N_SORT_NAME_RG = POLUZA
+| srp_N_FULL_NAME_RG = Poluža
+| srp_N_FULL_NAME_ND_RG = Poluza
+| srp_NS_name = Полужа
+| srp_NS_FULL_NAME_RO = Полужа
+| srp_NS_FULL_NAME_ND_RO = Полужа
+| srp_NS_SORT_NAME_RG = ПОЛУЖА
+| srp_NS_FULL_NAME_RG = Полужа
+| srp_NS_FULL_NAME_ND_RG = Полужа
+| srp_V_name = Poluže
+| srp_V_FULL_NAME_RO = Poluže
+| srp_V_FULL_NAME_ND_RO = Poluze
+| srp_V_SORT_NAME_RG = POLUZE
+| srp_V_FULL_NAME_RG = Poluže
+| srp_V_FULL_NAME_ND_RG = Poluze
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Kaçanik
+ | Komuna              = Skënderaj
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +44,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.689722
- | Gjatësia            = 20.83
+ | Gjerësia            = 42.452778
+ | Gjatësia            = 20.563889
  | Lartësia            = 
 }}
-'''Polluzhë''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Polluzhë''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Kaçanik}}
+{{Komuna Skënderaj}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Kaçanik]]
+[[Kategoria:Fshatra në Kommunes Skënderaj]]
 [[Kategoria:Vendbanime në Kosovës]]

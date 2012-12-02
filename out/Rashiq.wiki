@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rashiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RASHIQ
- | FULL_NAME_RO = Rashiq
- | FULL_NAME_ND_RO=Rashiq
- | SORT_NAME_RG=RASHIQ
- | FULL_NAME_RG=Rashiq
- | FULL_NAME_ND_RG=Rashiq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rashiq
+| sqi_N_FULL_NAME_RO = Rashiq
+| sqi_N_FULL_NAME_ND_RO = Rashiq
+| sqi_N_SORT_NAME_RG = RASHIQ
+| sqi_N_FULL_NAME_RG = Rashiq
+| sqi_N_FULL_NAME_ND_RG = Rashiq
+| srp_N_name = Rašić
+| srp_N_FULL_NAME_RO = Rašić
+| srp_N_FULL_NAME_ND_RO = Rasic
+| srp_N_SORT_NAME_RG = RASIC
+| srp_N_FULL_NAME_RG = Rašić
+| srp_N_FULL_NAME_ND_RG = Rasic
+| srp_NS_name = Рашић
+| srp_NS_FULL_NAME_RO = Рашић
+| srp_NS_FULL_NAME_ND_RO = Рашић
+| srp_NS_SORT_NAME_RG = РАШИЋ
+| srp_NS_FULL_NAME_RG = Рашић
+| srp_NS_FULL_NAME_ND_RG = Рашић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.376944
  | Lartësia            = 
 }}
-'''Rashiq''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Rashiq''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Buçan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BUCAN
- | FULL_NAME_RO = Buçan
- | FULL_NAME_ND_RO=Bucan
- | SORT_NAME_RG=BUCAN
- | FULL_NAME_RG=Buçan
- | FULL_NAME_ND_RG=Bucan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Buçan
+| sqi_N_FULL_NAME_RO = Buçan
+| sqi_N_FULL_NAME_ND_RO = Bucan
+| sqi_N_SORT_NAME_RG = BUCAN
+| sqi_N_FULL_NAME_RG = Buçan
+| sqi_N_FULL_NAME_ND_RG = Bucan
+| srp_N_name = Bučane
+| srp_N_FULL_NAME_RO = Bučane
+| srp_N_FULL_NAME_ND_RO = Bucane
+| srp_N_SORT_NAME_RG = BUCANE
+| srp_N_FULL_NAME_RG = Bučane
+| srp_N_FULL_NAME_ND_RG = Bucane
+| srp_NS_name = Бућане
+| srp_NS_FULL_NAME_RO = Бућане
+| srp_NS_FULL_NAME_ND_RO = Бућане
+| srp_NS_SORT_NAME_RG = БУЋАНЕ
+| srp_NS_FULL_NAME_RG = Бућане
+| srp_NS_FULL_NAME_ND_RG = Бућане
+| srp_V_name = Bučani
+| srp_V_FULL_NAME_RO = Bučani
+| srp_V_FULL_NAME_ND_RO = Bucani
+| srp_V_SORT_NAME_RG = BUCANI
+| srp_V_FULL_NAME_RG = Bučani
+| srp_V_FULL_NAME_ND_RG = Bucani
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.452778
  | Lartësia            = 
 }}
-'''Buçan''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Buçan''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

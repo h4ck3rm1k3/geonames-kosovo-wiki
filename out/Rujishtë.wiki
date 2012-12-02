@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rujishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RUJISHTE
- | FULL_NAME_RO = Rujishtë
- | FULL_NAME_ND_RO=Rujishte
- | SORT_NAME_RG=RUJISHTE
- | FULL_NAME_RG=Rujishtë
- | FULL_NAME_ND_RG=Rujishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rujishtë
+| sqi_N_FULL_NAME_RO = Rujishtë
+| sqi_N_FULL_NAME_ND_RO = Rujishte
+| sqi_N_SORT_NAME_RG = RUJISHTE
+| sqi_N_FULL_NAME_RG = Rujishtë
+| sqi_N_FULL_NAME_ND_RG = Rujishte
+| sqi_V_name = Ruishtë
+| sqi_V_FULL_NAME_RO = Ruishtë Rujisht
+| sqi_V_FULL_NAME_ND_RO = Ruishte Rujisht
+| sqi_V_SORT_NAME_RG = RUISHTE RUJISHT
+| sqi_V_FULL_NAME_RG = Ruishtë Rujisht
+| sqi_V_FULL_NAME_ND_RG = Ruishte Rujisht
+| srp_N_name = Rujište
+| srp_N_FULL_NAME_RO = Rujište
+| srp_N_FULL_NAME_ND_RO = Rujiste
+| srp_N_SORT_NAME_RG = RUJISTE
+| srp_N_FULL_NAME_RG = Rujište
+| srp_N_FULL_NAME_ND_RG = Rujiste
+| srp_NS_name = Рујиште
+| srp_NS_FULL_NAME_RO = Рујиште
+| srp_NS_FULL_NAME_ND_RO = Рујиште
+| srp_NS_SORT_NAME_RG = РУЈИШТЕ
+| srp_NS_FULL_NAME_RG = Рујиште
+| srp_NS_FULL_NAME_ND_RG = Рујиште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.749167
  | Lartësia            = 
 }}
-'''Rujishtë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Rujishtë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

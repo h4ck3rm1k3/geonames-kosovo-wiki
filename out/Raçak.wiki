@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Raçak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RACAK
- | FULL_NAME_RO = Raçak
- | FULL_NAME_ND_RO=Racak
- | SORT_NAME_RG=RACAK
- | FULL_NAME_RG=Raçak
- | FULL_NAME_ND_RG=Racak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Raçak
+| sqi_N_FULL_NAME_RO = Raçak
+| sqi_N_FULL_NAME_ND_RO = Racak
+| sqi_N_SORT_NAME_RG = RACAK
+| sqi_N_FULL_NAME_RG = Raçak
+| sqi_N_FULL_NAME_ND_RG = Racak
+| sqi_V_name = Reçak
+| sqi_V_FULL_NAME_RO = Reçak
+| sqi_V_FULL_NAME_ND_RO = Recak
+| sqi_V_SORT_NAME_RG = RECAK
+| sqi_V_FULL_NAME_RG = Reçak
+| sqi_V_FULL_NAME_ND_RG = Recak
+| srp_N_name = Račak
+| srp_N_FULL_NAME_RO = Račak
+| srp_N_FULL_NAME_ND_RO = Racak
+| srp_N_SORT_NAME_RG = RACAK
+| srp_N_FULL_NAME_RG = Račak
+| srp_N_FULL_NAME_ND_RG = Racak
+| srp_NS_name = Рачак
+| srp_NS_FULL_NAME_RO = Рачак
+| srp_NS_FULL_NAME_ND_RO = Рачак
+| srp_NS_SORT_NAME_RG = РАЧАК
+| srp_NS_FULL_NAME_RG = Рачак
+| srp_NS_FULL_NAME_ND_RG = Рачак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.016389
  | Lartësia            = 
 }}
-'''Raçak''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Raçak''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

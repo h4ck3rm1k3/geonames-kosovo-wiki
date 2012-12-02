@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rapçë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RAPCE
- | FULL_NAME_RO = Rapçë
- | FULL_NAME_ND_RO=Rapce
- | SORT_NAME_RG=RAPCE
- | FULL_NAME_RG=Rapçë
- | FULL_NAME_ND_RG=Rapce
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Rapçë
+| sqi_D_FULL_NAME_RO = Rapçë
+| sqi_D_FULL_NAME_ND_RO = Rapce
+| sqi_D_SORT_NAME_RG = RAPCE
+| sqi_D_FULL_NAME_RG = Rapçë
+| sqi_D_FULL_NAME_ND_RG = Rapce
+| sqi_V_name = Rapqë
+| sqi_V_FULL_NAME_RO = Rapqë
+| sqi_V_FULL_NAME_ND_RO = Rapqe
+| sqi_V_SORT_NAME_RG = RAPQE
+| sqi_V_FULL_NAME_RG = Rapqë
+| sqi_V_FULL_NAME_ND_RG = Rapqe
+| srp_N_name = Rapča
+| srp_N_FULL_NAME_RO = Rapča
+| srp_N_FULL_NAME_ND_RO = Rapca
+| srp_N_SORT_NAME_RG = RAPCA
+| srp_N_FULL_NAME_RG = Rapča
+| srp_N_FULL_NAME_ND_RG = Rapca
+| srp_NS_name = Рапча
+| srp_NS_FULL_NAME_RO = Рапча
+| srp_NS_FULL_NAME_ND_RO = Рапча
+| srp_NS_SORT_NAME_RG = РАПЧА
+| srp_NS_FULL_NAME_RG = Рапча
+| srp_NS_FULL_NAME_ND_RG = Рапча
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.618056
  | Lartësia            = 
 }}
-'''Rapçë''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Rapçë''' është një [[Fshat Vogel]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

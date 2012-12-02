@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tërn
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TERN
- | FULL_NAME_RO = Tërn
- | FULL_NAME_ND_RO=Tern
- | SORT_NAME_RG=TERN
- | FULL_NAME_RG=Tërn
- | FULL_NAME_ND_RG=Tern
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Tërn
+| sqi_N_FULL_NAME_RO = Tërn
+| sqi_N_FULL_NAME_ND_RO = Tern
+| sqi_N_SORT_NAME_RG = TERN
+| sqi_N_FULL_NAME_RG = Tërn
+| sqi_N_FULL_NAME_ND_RG = Tern
+| sqi_V_name = Tërna
+| sqi_V_FULL_NAME_RO = Tërna Tërrn
+| sqi_V_FULL_NAME_ND_RO = Terna Terrn
+| sqi_V_SORT_NAME_RG = TERNA TERRN
+| sqi_V_FULL_NAME_RG = Tërna Tërrn
+| sqi_V_FULL_NAME_ND_RG = Terna Terrn
+| srp_N_name = Trn
+| srp_N_FULL_NAME_RO = Trn
+| srp_N_FULL_NAME_ND_RO = Trn
+| srp_N_SORT_NAME_RG = TRN
+| srp_N_FULL_NAME_RG = Trn
+| srp_N_FULL_NAME_ND_RG = Trn
+| srp_NS_name = Трн
+| srp_NS_FULL_NAME_RO = Трн
+| srp_NS_FULL_NAME_ND_RO = Трн
+| srp_NS_SORT_NAME_RG = ТРН
+| srp_NS_FULL_NAME_RG = Трн
+| srp_NS_FULL_NAME_ND_RG = Трн
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.129444
  | Lartësia            = 
 }}
-'''Tërn''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Tërn''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

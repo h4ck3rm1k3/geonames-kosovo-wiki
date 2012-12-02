@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Buzez
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BUZEZ
- | FULL_NAME_RO = Buzez
- | FULL_NAME_ND_RO=Buzez
- | SORT_NAME_RG=BUZEZ
- | FULL_NAME_RG=Buzez
- | FULL_NAME_ND_RG=Buzez
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Buzez
+| sqi_N_FULL_NAME_RO = Buzez
+| sqi_N_FULL_NAME_ND_RO = Buzez
+| sqi_N_SORT_NAME_RG = BUZEZ
+| sqi_N_FULL_NAME_RG = Buzez
+| sqi_N_FULL_NAME_ND_RG = Buzez
+| sqi_V_name = Buzës
+| sqi_V_FULL_NAME_RO = Buzës
+| sqi_V_FULL_NAME_ND_RO = Buzes
+| sqi_V_SORT_NAME_RG = BUZES
+| sqi_V_FULL_NAME_RG = Buzës
+| sqi_V_FULL_NAME_ND_RG = Buzes
+| srp_N_name = Buzec
+| srp_N_FULL_NAME_RO = Buzec
+| srp_N_FULL_NAME_ND_RO = Buzec
+| srp_N_SORT_NAME_RG = BUZEC
+| srp_N_FULL_NAME_RG = Buzec
+| srp_N_FULL_NAME_ND_RG = Buzec
+| srp_NS_name = Бузец
+| srp_NS_FULL_NAME_RO = Бузец
+| srp_NS_FULL_NAME_ND_RO = Бузец
+| srp_NS_SORT_NAME_RG = БУЗЕЦ
+| srp_NS_FULL_NAME_RG = Бузец
+| srp_NS_FULL_NAME_ND_RG = Бузец
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.703333
  | Lartësia            = 
 }}
-'''Buzez''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Buzez''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

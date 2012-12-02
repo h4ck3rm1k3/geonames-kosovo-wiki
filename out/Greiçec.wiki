@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Greiçec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GREICEC
- | FULL_NAME_RO = Greiçec
- | FULL_NAME_ND_RO=Greicec
- | SORT_NAME_RG=GREICEC
- | FULL_NAME_RG=Greiçec
- | FULL_NAME_ND_RG=Greicec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Greiçec
+| sqi_D_FULL_NAME_RO = Greiçec
+| sqi_D_FULL_NAME_ND_RO = Greicec
+| sqi_D_SORT_NAME_RG = GREICEC
+| sqi_D_FULL_NAME_RG = Greiçec
+| sqi_D_FULL_NAME_ND_RG = Greicec
+| sqi_V_name = Grejçec
+| sqi_V_FULL_NAME_RO = Grejçec Graçec Griçec Grejçevc
+| sqi_V_FULL_NAME_ND_RO = Grejcec Gracec Gricec Grejcevc
+| sqi_V_SORT_NAME_RG = GREJCEC GRACEC GRICEC GREJCEVC
+| sqi_V_FULL_NAME_RG = Grejçec Graçec Griçec Grejçevc
+| sqi_V_FULL_NAME_ND_RG = Grejcec Gracec Gricec Grejcevc
+| srp_N_name = Grejčevce
+| srp_N_FULL_NAME_RO = Grejčevce
+| srp_N_FULL_NAME_ND_RO = Grejcevce
+| srp_N_SORT_NAME_RG = GREJCEVCE
+| srp_N_FULL_NAME_RG = Grejčevce
+| srp_N_FULL_NAME_ND_RG = Grejcevce
+| srp_NS_name = Грејчевце
+| srp_NS_FULL_NAME_RO = Грејчевце
+| srp_NS_FULL_NAME_ND_RO = Грејчевце
+| srp_NS_SORT_NAME_RG = ГРЕЈЧЕВЦЕ
+| srp_NS_FULL_NAME_RG = Грејчевце
+| srp_NS_FULL_NAME_ND_RG = Грејчевце
+| srp_V_name = Grejčevice
+| srp_V_FULL_NAME_RO = Grejčevice Grečevci Grajčevce
+| srp_V_FULL_NAME_ND_RO = Grejcevice Grecevci Grajcevce
+| srp_V_SORT_NAME_RG = GREJCEVICE GRECEVCI GRAJCEVCE
+| srp_V_FULL_NAME_RG = Grejčevice Grečevci Grajčevce
+| srp_V_FULL_NAME_ND_RG = Grejcevice Grecevci Grajcevce
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.934167
  | Lartësia            = 
 }}
-'''Greiçec''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Greiçec''' është një [[Fshat Vogel]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

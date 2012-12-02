@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sojevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SOJEVE
- | FULL_NAME_RO = Sojevë
- | FULL_NAME_ND_RO=Sojeve
- | SORT_NAME_RG=SOJEVE
- | FULL_NAME_RG=Sojevë
- | FULL_NAME_ND_RG=Sojeve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sojevë
+| sqi_N_FULL_NAME_RO = Sojevë
+| sqi_N_FULL_NAME_ND_RO = Sojeve
+| sqi_N_SORT_NAME_RG = SOJEVE
+| sqi_N_FULL_NAME_RG = Sojevë
+| sqi_N_FULL_NAME_ND_RG = Sojeve
+| srp_N_name = Sojevo
+| srp_N_FULL_NAME_RO = Sojevo
+| srp_N_FULL_NAME_ND_RO = Sojevo
+| srp_N_SORT_NAME_RG = SOJEVO
+| srp_N_FULL_NAME_RG = Sojevo
+| srp_N_FULL_NAME_ND_RG = Sojevo
+| srp_NS_name = Сојево
+| srp_NS_FULL_NAME_RO = Сојево
+| srp_NS_FULL_NAME_ND_RO = Сојево
+| srp_NS_SORT_NAME_RG = СОЈЕВО
+| srp_NS_FULL_NAME_RG = Сојево
+| srp_NS_FULL_NAME_ND_RG = Сојево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.225833
  | Lartësia            = 
 }}
-'''Sojevë''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Sojevë''' është një [[Fshat Vogel]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

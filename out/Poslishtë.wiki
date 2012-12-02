@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Poslishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POSLISHTE
- | FULL_NAME_RO = Poslishtë
- | FULL_NAME_ND_RO=Poslishte
- | SORT_NAME_RG=POSLISHTE
- | FULL_NAME_RG=Poslishtë
- | FULL_NAME_ND_RG=Poslishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Poslishtë
+| sqi_N_FULL_NAME_RO = Poslishtë
+| sqi_N_FULL_NAME_ND_RO = Poslishte
+| sqi_N_SORT_NAME_RG = POSLISHTE
+| sqi_N_FULL_NAME_RG = Poslishtë
+| sqi_N_FULL_NAME_ND_RG = Poslishte
+| sqi_V_name = Polishte
+| sqi_V_FULL_NAME_RO = Polishte
+| sqi_V_FULL_NAME_ND_RO = Polishte
+| sqi_V_SORT_NAME_RG = POLISHTE
+| sqi_V_FULL_NAME_RG = Polishte
+| sqi_V_FULL_NAME_ND_RG = Polishte
+| srp_N_name = Poslište
+| srp_N_FULL_NAME_RO = Poslište
+| srp_N_FULL_NAME_ND_RO = Posliste
+| srp_N_SORT_NAME_RG = POSLISTE
+| srp_N_FULL_NAME_RG = Poslište
+| srp_N_FULL_NAME_ND_RG = Posliste
+| srp_NS_name = Послиште
+| srp_NS_FULL_NAME_RO = Послиште
+| srp_NS_FULL_NAME_ND_RO = Послиште
+| srp_NS_SORT_NAME_RG = ПОСЛИШТЕ
+| srp_NS_FULL_NAME_RG = Послиште
+| srp_NS_FULL_NAME_ND_RG = Послиште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.671389
  | Lartësia            = 
 }}
-'''Poslishtë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Poslishtë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

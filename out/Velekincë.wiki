@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Velekincë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VELEKINCE
- | FULL_NAME_RO = Velekincë
- | FULL_NAME_ND_RO=Velekince
- | SORT_NAME_RG=VELEKINCE
- | FULL_NAME_RG=Velekincë
- | FULL_NAME_ND_RG=Velekince
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Velekincë
+| sqi_N_FULL_NAME_RO = Velekincë
+| sqi_N_FULL_NAME_ND_RO = Velekince
+| sqi_N_SORT_NAME_RG = VELEKINCE
+| sqi_N_FULL_NAME_RG = Velekincë
+| sqi_N_FULL_NAME_ND_RG = Velekince
+| srp_N_name = Velekince
+| srp_N_FULL_NAME_RO = Velekince
+| srp_N_FULL_NAME_ND_RO = Velekince
+| srp_N_SORT_NAME_RG = VELEKINCE
+| srp_N_FULL_NAME_RG = Velekince
+| srp_N_FULL_NAME_ND_RG = Velekince
+| srp_NS_name = Велекинце
+| srp_NS_FULL_NAME_RO = Велекинце
+| srp_NS_FULL_NAME_ND_RO = Велекинце
+| srp_NS_SORT_NAME_RG = ВЕЛЕКИНЦЕ
+| srp_NS_FULL_NAME_RG = Велекинце
+| srp_NS_FULL_NAME_ND_RG = Велекинце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.478333
  | Lartësia            = 
 }}
-'''Velekincë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Velekincë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

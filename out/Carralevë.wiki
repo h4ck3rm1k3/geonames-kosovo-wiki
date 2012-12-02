@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Carralevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CARRALEVE
- | FULL_NAME_RO = Carralevë
- | FULL_NAME_ND_RO=Carraleve
- | SORT_NAME_RG=CARRALEVE
- | FULL_NAME_RG=Carralevë
- | FULL_NAME_ND_RG=Carraleve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Carralevë
+| sqi_N_FULL_NAME_RO = Carralevë
+| sqi_N_FULL_NAME_ND_RO = Carraleve
+| sqi_N_SORT_NAME_RG = CARRALEVE
+| sqi_N_FULL_NAME_RG = Carralevë
+| sqi_N_FULL_NAME_ND_RG = Carraleve
+| sqi_V_name = Caralevë
+| sqi_V_FULL_NAME_RO = Caralevë Cëralevë Caratevë
+| sqi_V_FULL_NAME_ND_RO = Caraleve Ceraleve Carateve
+| sqi_V_SORT_NAME_RG = CARALEVE CERALEVE CARATEVE
+| sqi_V_FULL_NAME_RG = Caralevë Cëralevë Caratevë
+| sqi_V_FULL_NAME_ND_RG = Caraleve Ceraleve Carateve
+| srp_N_name = Crnoljevo
+| srp_N_FULL_NAME_RO = Crnoljevo
+| srp_N_FULL_NAME_ND_RO = Crnoljevo
+| srp_N_SORT_NAME_RG = CRNOLJEVO
+| srp_N_FULL_NAME_RG = Crnoljevo
+| srp_N_FULL_NAME_ND_RG = Crnoljevo
+| srp_NS_name = Црнољево
+| srp_NS_FULL_NAME_RO = Црнољево
+| srp_NS_FULL_NAME_ND_RO = Црнољево
+| srp_NS_SORT_NAME_RG = ЦРНОЉЕВО
+| srp_NS_FULL_NAME_RG = Црнољево
+| srp_NS_FULL_NAME_ND_RG = Црнољево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.968056
  | Lartësia            = 
 }}
-'''Carralevë''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Carralevë''' është një [[Fshat Vogel]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

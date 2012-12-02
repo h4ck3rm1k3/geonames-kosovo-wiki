@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Orize
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ORIZE
- | FULL_NAME_RO = Orize
- | FULL_NAME_ND_RO=Orize
- | SORT_NAME_RG=ORIZE
- | FULL_NAME_RG=Orize
- | FULL_NAME_ND_RG=Orize
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Orize
+| sqi_N_FULL_NAME_RO = Orize
+| sqi_N_FULL_NAME_ND_RO = Orize
+| sqi_N_SORT_NAME_RG = ORIZE
+| sqi_N_FULL_NAME_RG = Orize
+| sqi_N_FULL_NAME_ND_RG = Orize
+| sqi_V_name = Oriza
+| sqi_V_FULL_NAME_RO = Oriza Orizë
+| sqi_V_FULL_NAME_ND_RO = Oriza Orize
+| sqi_V_SORT_NAME_RG = ORIZA ORIZE
+| sqi_V_FULL_NAME_RG = Oriza Orizë
+| sqi_V_FULL_NAME_ND_RG = Oriza Orize
+| srp_N_name = Meja-Orize
+| srp_N_FULL_NAME_RO = Meja-Orize
+| srp_N_FULL_NAME_ND_RO = Meja-Orize
+| srp_N_SORT_NAME_RG = MEJAORIZE
+| srp_N_FULL_NAME_RG = Meja-Orize
+| srp_N_FULL_NAME_ND_RG = Meja-Orize
+| srp_NS_name = Меја-Оризе
+| srp_NS_FULL_NAME_RO = Меја-Оризе
+| srp_NS_FULL_NAME_ND_RO = Меја-Оризе
+| srp_NS_SORT_NAME_RG = МЕЈАОРИЗЕ
+| srp_NS_FULL_NAME_RG = Меја-Оризе
+| srp_NS_FULL_NAME_ND_RG = Меја-Оризе
+| srp_V_name = Orize
+| srp_V_FULL_NAME_RO = Orize
+| srp_V_FULL_NAME_ND_RO = Orize
+| srp_V_SORT_NAME_RG = ORIZE
+| srp_V_FULL_NAME_RG = Orize
+| srp_V_FULL_NAME_ND_RG = Orize
+| srp_VS_name = Оризе
+| srp_VS_FULL_NAME_RO = Оризе
+| srp_VS_FULL_NAME_ND_RO = Оризе
+| srp_VS_SORT_NAME_RG = ОРИЗЕ
+| srp_VS_FULL_NAME_RG = Оризе
+| srp_VS_FULL_NAME_ND_RG = Оризе
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.386667
  | Lartësia            = 
 }}
-'''Orize''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Orize''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

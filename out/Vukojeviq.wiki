@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vukojeviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VUKOJEVIQ
- | FULL_NAME_RO = Vukojeviq
- | FULL_NAME_ND_RO=Vukojeviq
- | SORT_NAME_RG=VUKOJEVIQ
- | FULL_NAME_RG=Vukojeviq
- | FULL_NAME_ND_RG=Vukojeviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vukojeviq
+| sqi_N_FULL_NAME_RO = Vukojeviq
+| sqi_N_FULL_NAME_ND_RO = Vukojeviq
+| sqi_N_SORT_NAME_RG = VUKOJEVIQ
+| sqi_N_FULL_NAME_RG = Vukojeviq
+| sqi_N_FULL_NAME_ND_RG = Vukojeviq
+| srp_N_name = Vukojevići
+| srp_N_FULL_NAME_RO = Vukojevići
+| srp_N_FULL_NAME_ND_RO = Vukojevici
+| srp_N_SORT_NAME_RG = VUKOJEVICI
+| srp_N_FULL_NAME_RG = Vukojevići
+| srp_N_FULL_NAME_ND_RG = Vukojevici
+| srp_NS_name = Вукојевићи
+| srp_NS_FULL_NAME_RO = Вукојевићи
+| srp_NS_FULL_NAME_ND_RO = Вукојевићи
+| srp_NS_SORT_NAME_RG = ВУКОЈЕВИЋИ
+| srp_NS_FULL_NAME_RG = Вукојевићи
+| srp_NS_FULL_NAME_ND_RG = Вукојевићи
+| srp_V_name = Vukojeviće
+| srp_V_FULL_NAME_RO = Vukojeviće Vukovići
+| srp_V_FULL_NAME_ND_RO = Vukojevice Vukovici
+| srp_V_SORT_NAME_RG = VUKOJEVICE VUKOVICI
+| srp_V_FULL_NAME_RG = Vukojeviće Vukovići
+| srp_V_FULL_NAME_ND_RG = Vukojevice Vukovici
+| srp_VS_name = Вукојевиће
+| srp_VS_FULL_NAME_RO = Вукојевиће Вуковићи
+| srp_VS_FULL_NAME_ND_RO = Вукојевиће Вуковићи
+| srp_VS_SORT_NAME_RG = ВУКОЈЕВИЋЕ ВУКОВИЋИ
+| srp_VS_FULL_NAME_RG = Вукојевиће Вуковићи
+| srp_VS_FULL_NAME_ND_RG = Вукојевиће Вуковићи
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.560833
  | Lartësia            = 
 }}
-'''Vukojeviq''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Vukojeviq''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

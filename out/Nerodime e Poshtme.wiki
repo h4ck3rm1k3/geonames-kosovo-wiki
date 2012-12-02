@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nerodime e Poshtme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NERODIMEEPOSHTME
- | FULL_NAME_RO = Nerodime e Poshtme
- | FULL_NAME_ND_RO=Nerodime e Poshtme
- | SORT_NAME_RG=NERODIMEEPOSHTME
- | FULL_NAME_RG=Nerodime e Poshtme
- | FULL_NAME_ND_RG=Nerodime e Poshtme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Nerodime e Poshtme
+| sqi_D_FULL_NAME_RO = Nerodime e Poshtme
+| sqi_D_FULL_NAME_ND_RO = Nerodime e Poshtme
+| sqi_D_SORT_NAME_RG = NERODIMEEPOSHTME
+| sqi_D_FULL_NAME_RG = Nerodime e Poshtme
+| sqi_D_FULL_NAME_ND_RG = Nerodime e Poshtme
+| sqi_V_name = Neredime e Poshtme
+| sqi_V_FULL_NAME_RO = Neredime e Poshtme Nerodimja e Ultë Nerodimlja e Ultë Nerodime e Poshtëme
+| sqi_V_FULL_NAME_ND_RO = Neredime e Poshtme Nerodimja e Ulte Nerodimlja e Ulte Nerodime e Poshteme
+| sqi_V_SORT_NAME_RG = NEREDIMEEPOSHTME NERODIMJAEULTE NERODIMLJAEULTE NERODIMEEPOSHTEME
+| sqi_V_FULL_NAME_RG = Neredime e Poshtme Nerodimja e Ultë Nerodimlja e Ultë Nerodime e Poshtëme
+| sqi_V_FULL_NAME_ND_RG = Neredime e Poshtme Nerodimja e Ulte Nerodimlja e Ulte Nerodime e Poshteme
+| srp_N_name = Donje Nerodimlje
+| srp_N_FULL_NAME_RO = Donje Nerodimlje
+| srp_N_FULL_NAME_ND_RO = Donje Nerodimlje
+| srp_N_SORT_NAME_RG = DONJENERODIMLJE
+| srp_N_FULL_NAME_RG = Donje Nerodimlje
+| srp_N_FULL_NAME_ND_RG = Donje Nerodimlje
+| srp_NS_name = Доње Неродимље
+| srp_NS_FULL_NAME_RO = Доње Неродимље
+| srp_NS_FULL_NAME_ND_RO = Доње Неродимље
+| srp_NS_SORT_NAME_RG = ДОЊЕНЕРОДИМЉЕ
+| srp_NS_FULL_NAME_RG = Доње Неродимље
+| srp_NS_FULL_NAME_ND_RG = Доње Неродимље
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.093889
  | Lartësia            = 
 }}
-'''Nerodime e Poshtme''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Nerodime e Poshtme''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

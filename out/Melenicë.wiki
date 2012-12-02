@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Melenicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MELENICE
- | FULL_NAME_RO = Melenicë
- | FULL_NAME_ND_RO=Melenice
- | SORT_NAME_RG=MELENICE
- | FULL_NAME_RG=Melenicë
- | FULL_NAME_ND_RG=Melenice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Melenicë
+| sqi_N_FULL_NAME_RO = Melenicë
+| sqi_N_FULL_NAME_ND_RO = Melenice
+| sqi_N_SORT_NAME_RG = MELENICE
+| sqi_N_FULL_NAME_RG = Melenicë
+| sqi_N_FULL_NAME_ND_RG = Melenice
+| sqi_V_name = Melanica
+| sqi_V_FULL_NAME_RO = Melanica
+| sqi_V_FULL_NAME_ND_RO = Melanica
+| sqi_V_SORT_NAME_RG = MELANICA
+| sqi_V_FULL_NAME_RG = Melanica
+| sqi_V_FULL_NAME_ND_RG = Melanica
+| srp_N_name = Meljenica
+| srp_N_FULL_NAME_RO = Meljenica
+| srp_N_FULL_NAME_ND_RO = Meljenica
+| srp_N_SORT_NAME_RG = MELJENICA
+| srp_N_FULL_NAME_RG = Meljenica
+| srp_N_FULL_NAME_ND_RG = Meljenica
+| srp_NS_name = Мељеница
+| srp_NS_FULL_NAME_RO = Мељеница
+| srp_NS_FULL_NAME_ND_RO = Мељеница
+| srp_NS_SORT_NAME_RG = МЕЉЕНИЦА
+| srp_NS_FULL_NAME_RG = Мељеница
+| srp_NS_FULL_NAME_ND_RG = Мељеница
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.925
  | Lartësia            = 
 }}
-'''Melenicë''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Melenicë''' është një [[Fshat Vogel]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

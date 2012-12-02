@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kopiloviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOPILOVIQ
- | FULL_NAME_RO = Kopiloviq
- | FULL_NAME_ND_RO=Kopiloviq
- | SORT_NAME_RG=KOPILOVIQ
- | FULL_NAME_RG=Kopiloviq
- | FULL_NAME_ND_RG=Kopiloviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Kopiloviq
+| sqi_D_FULL_NAME_RO = Kopiloviq
+| sqi_D_FULL_NAME_ND_RO = Kopiloviq
+| sqi_D_SORT_NAME_RG = KOPILOVIQ
+| sqi_D_FULL_NAME_RG = Kopiloviq
+| sqi_D_FULL_NAME_ND_RG = Kopiloviq
+| srp_N_name = Kopilovići
+| srp_N_FULL_NAME_RO = Kopilovići
+| srp_N_FULL_NAME_ND_RO = Kopilovici
+| srp_N_SORT_NAME_RG = KOPILOVICI
+| srp_N_FULL_NAME_RG = Kopilovići
+| srp_N_FULL_NAME_ND_RG = Kopilovici
+| srp_NS_name = Копиловићи
+| srp_NS_FULL_NAME_RO = Копиловићи
+| srp_NS_FULL_NAME_ND_RO = Копиловићи
+| srp_NS_SORT_NAME_RG = КОПИЛОВИЋИ
+| srp_NS_FULL_NAME_RG = Копиловићи
+| srp_NS_FULL_NAME_ND_RG = Копиловићи
+| srp_V_name = Kopiloviće
+| srp_V_FULL_NAME_RO = Kopiloviće
+| srp_V_FULL_NAME_ND_RO = Kopilovice
+| srp_V_SORT_NAME_RG = KOPILOVICE
+| srp_V_FULL_NAME_RG = Kopiloviće
+| srp_V_FULL_NAME_ND_RG = Kopilovice
+| srp_VS_name = Копиловиће
+| srp_VS_FULL_NAME_RO = Копиловиће
+| srp_VS_FULL_NAME_ND_RO = Копиловиће
+| srp_VS_SORT_NAME_RG = КОПИЛОВИЋЕ
+| srp_VS_FULL_NAME_RG = Копиловиће
+| srp_VS_FULL_NAME_ND_RG = Копиловиће
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.611111
  | Lartësia            = 
 }}
-'''Kopiloviq''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Kopiloviq''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

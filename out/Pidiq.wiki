@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pidiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PIDIQ
- | FULL_NAME_RO = Pidiq
- | FULL_NAME_ND_RO=Pidiq
- | SORT_NAME_RG=PIDIQ
- | FULL_NAME_RG=Pidiq
- | FULL_NAME_ND_RG=Pidiq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pidiq
+| sqi_N_FULL_NAME_RO = Pidiq
+| sqi_N_FULL_NAME_ND_RO = Pidiq
+| sqi_N_SORT_NAME_RG = PIDIQ
+| sqi_N_FULL_NAME_RG = Pidiq
+| sqi_N_FULL_NAME_ND_RG = Pidiq
+| sqi_V_name = Pidiqi
+| sqi_V_FULL_NAME_RO = Pidiqi Pidiç
+| sqi_V_FULL_NAME_ND_RO = Pidiqi Pidic
+| sqi_V_SORT_NAME_RG = PIDIQI PIDIC
+| sqi_V_FULL_NAME_RG = Pidiqi Pidiç
+| sqi_V_FULL_NAME_ND_RG = Pidiqi Pidic
+| srp_N_name = Pidić
+| srp_N_FULL_NAME_RO = Pidić
+| srp_N_FULL_NAME_ND_RO = Pidic
+| srp_N_SORT_NAME_RG = PIDIC
+| srp_N_FULL_NAME_RG = Pidić
+| srp_N_FULL_NAME_ND_RG = Pidic
+| srp_NS_name = Пидић
+| srp_NS_FULL_NAME_RO = Пидић
+| srp_NS_FULL_NAME_ND_RO = Пидић
+| srp_NS_SORT_NAME_RG = ПИДИЋ
+| srp_NS_FULL_NAME_RG = Пидић
+| srp_NS_FULL_NAME_ND_RG = Пидић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.526389
  | Lartësia            = 
 }}
-'''Pidiq''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Pidiq''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Belicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BELICE
- | FULL_NAME_RO = Belicë
- | FULL_NAME_ND_RO=Belice
- | SORT_NAME_RG=BELICE
- | FULL_NAME_RG=Belicë
- | FULL_NAME_ND_RG=Belice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Belicë
+| sqi_D_FULL_NAME_RO = Belicë
+| sqi_D_FULL_NAME_ND_RO = Belice
+| sqi_D_SORT_NAME_RG = BELICE
+| sqi_D_FULL_NAME_RG = Belicë
+| sqi_D_FULL_NAME_ND_RG = Belice
+| sqi_V_name = Kodërbardh
+| sqi_V_FULL_NAME_RO = Kodërbardh Kodërbardhi
+| sqi_V_FULL_NAME_ND_RO = Koderbardh Koderbardhi
+| sqi_V_SORT_NAME_RG = KODERBARDH KODERBARDHI
+| sqi_V_FULL_NAME_RG = Kodërbardh Kodërbardhi
+| sqi_V_FULL_NAME_ND_RG = Koderbardh Koderbardhi
+| srp_N_name = Belica
+| srp_N_FULL_NAME_RO = Belica
+| srp_N_FULL_NAME_ND_RO = Belica
+| srp_N_SORT_NAME_RG = BELICA
+| srp_N_FULL_NAME_RG = Belica
+| srp_N_FULL_NAME_ND_RG = Belica
+| srp_NS_name = Белица
+| srp_NS_FULL_NAME_RO = Белица
+| srp_NS_FULL_NAME_ND_RO = Белица
+| srp_NS_SORT_NAME_RG = БЕЛИЦА
+| srp_NS_FULL_NAME_RG = Белица
+| srp_NS_FULL_NAME_ND_RG = Белица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.633333
  | Lartësia            = 
 }}
-'''Belicë''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Belicë''' është një [[Fshat Vogel]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

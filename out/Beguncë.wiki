@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Beguncë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BEGUNCE
- | FULL_NAME_RO = Beguncë
- | FULL_NAME_ND_RO=Begunce
- | SORT_NAME_RG=BEGUNCE
- | FULL_NAME_RG=Beguncë
- | FULL_NAME_ND_RG=Begunce
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Beguncë
+| sqi_N_FULL_NAME_RO = Beguncë
+| sqi_N_FULL_NAME_ND_RO = Begunce
+| sqi_N_SORT_NAME_RG = BEGUNCE
+| sqi_N_FULL_NAME_RG = Beguncë
+| sqi_N_FULL_NAME_ND_RG = Begunce
+| srp_N_name = Begunce
+| srp_N_FULL_NAME_RO = Begunce
+| srp_N_FULL_NAME_ND_RO = Begunce
+| srp_N_SORT_NAME_RG = BEGUNCE
+| srp_N_FULL_NAME_RG = Begunce
+| srp_N_FULL_NAME_ND_RG = Begunce
+| srp_NS_name = Бегунце
+| srp_NS_FULL_NAME_RO = Бегунце
+| srp_NS_FULL_NAME_ND_RO = Бегунце
+| srp_NS_SORT_NAME_RG = БЕГУНЦЕ
+| srp_NS_FULL_NAME_RG = Бегунце
+| srp_NS_FULL_NAME_ND_RG = Бегунце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.3875
  | Lartësia            = 
 }}
-'''Beguncë''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Beguncë''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

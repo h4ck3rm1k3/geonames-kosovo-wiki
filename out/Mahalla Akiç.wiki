@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mahalla Akiç
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAHALLAAKIC
- | FULL_NAME_RO = Mahalla Akiç
- | FULL_NAME_ND_RO=Mahalla Akic
- | SORT_NAME_RG=MAHALLAAKIC
- | FULL_NAME_RG=Mahalla Akiç
- | FULL_NAME_ND_RG=Mahalla Akic
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Mahalla Akiç
+| sqi_D_FULL_NAME_RO = Mahalla Akiç
+| sqi_D_FULL_NAME_ND_RO = Mahalla Akic
+| sqi_D_SORT_NAME_RG = MAHALLAAKIC
+| sqi_D_FULL_NAME_RG = Mahalla Akiç
+| sqi_D_FULL_NAME_ND_RG = Mahalla Akic
+| srp_N_name = Akič Mahala
+| srp_N_FULL_NAME_RO = Akič Mahala
+| srp_N_FULL_NAME_ND_RO = Akic Mahala
+| srp_N_SORT_NAME_RG = AKICMAHALA
+| srp_N_FULL_NAME_RG = Akič Mahala
+| srp_N_FULL_NAME_ND_RG = Akic Mahala
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 21.140817
  | Lartësia            = 
 }}
-'''Mahalla Akiç''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Mahalla Akiç''' është një [[Fshat Vogel]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

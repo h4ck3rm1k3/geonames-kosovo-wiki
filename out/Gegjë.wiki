@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gegjë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GEGJE
- | FULL_NAME_RO = Gegjë
- | FULL_NAME_ND_RO=Gegje
- | SORT_NAME_RG=GEGJE
- | FULL_NAME_RG=Gegjë
- | FULL_NAME_ND_RG=Gegje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gegjë
+| sqi_D_FULL_NAME_RO = Gegjë
+| sqi_D_FULL_NAME_ND_RO = Gegje
+| sqi_D_SORT_NAME_RG = GEGJE
+| sqi_D_FULL_NAME_RG = Gegjë
+| sqi_D_FULL_NAME_ND_RG = Gegje
+| sqi_V_name = Gexhë
+| sqi_V_FULL_NAME_RO = Gexhë
+| sqi_V_FULL_NAME_ND_RO = Gexhe
+| sqi_V_SORT_NAME_RG = GEXHE
+| sqi_V_FULL_NAME_RG = Gexhë
+| sqi_V_FULL_NAME_ND_RG = Gexhe
+| srp_N_name = Geđe
+| srp_N_FULL_NAME_RO = Geđe
+| srp_N_FULL_NAME_ND_RO = Gede
+| srp_N_SORT_NAME_RG = GEDE
+| srp_N_FULL_NAME_RG = Geđe
+| srp_N_FULL_NAME_ND_RG = Gede
+| srp_NS_name = Геђе
+| srp_NS_FULL_NAME_RO = Геђе
+| srp_NS_FULL_NAME_ND_RO = Геђе
+| srp_NS_SORT_NAME_RG = ГЕЂЕ
+| srp_NS_FULL_NAME_RG = Геђе
+| srp_NS_FULL_NAME_ND_RG = Геђе
+| srp_V_name = Geđa
+| srp_V_FULL_NAME_RO = Geđa
+| srp_V_FULL_NAME_ND_RO = Geda
+| srp_V_SORT_NAME_RG = GEDA
+| srp_V_FULL_NAME_RG = Geđa
+| srp_V_FULL_NAME_ND_RG = Geda
+| srp_VS_name = Геђа
+| srp_VS_FULL_NAME_RO = Геђа
+| srp_VS_FULL_NAME_ND_RO = Геђа
+| srp_VS_SORT_NAME_RG = ГЕЂА
+| srp_VS_FULL_NAME_RG = Геђа
+| srp_VS_FULL_NAME_ND_RG = Геђа
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.545
  | Lartësia            = 
 }}
-'''Gegjë''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Gegjë''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

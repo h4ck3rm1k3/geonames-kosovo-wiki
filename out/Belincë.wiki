@@ -1,26 +1,28 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Belincë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BELINCE
- | FULL_NAME_RO = Belincë
- | FULL_NAME_ND_RO=Belince
- | SORT_NAME_RG=BELINCE
- | FULL_NAME_RG=Belincë
- | FULL_NAME_ND_RG=Belince
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Belincë
+| sqi_N_FULL_NAME_RO = Belincë
+| sqi_N_FULL_NAME_ND_RO = Belince
+| sqi_N_SORT_NAME_RG = BELINCE
+| sqi_N_FULL_NAME_RG = Belincë
+| sqi_N_FULL_NAME_ND_RG = Belince
+| srp_N_name = Belince
+| srp_N_FULL_NAME_RO = Belince
+| srp_N_FULL_NAME_ND_RO = Belince
+| srp_N_SORT_NAME_RG = BELINCE
+| srp_N_FULL_NAME_RG = Belince
+| srp_N_FULL_NAME_ND_RG = Belince
+| srp_NS_name = Белинце
+| srp_NS_FULL_NAME_RO = Белинце
+| srp_NS_FULL_NAME_ND_RO = Белинце
+| srp_NS_SORT_NAME_RG = БЕЛИНЦЕ
+| srp_NS_FULL_NAME_RG = Белинце
+| srp_NS_FULL_NAME_ND_RG = Белинце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Istog
+ | Komuna              = Shtime
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +32,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.418056
- | Gjatësia            = 21.608333
+ | Gjerësia            = 42.442222
+ | Gjatësia            = 21.009167
  | Lartësia            = 
 }}
-'''Belincë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Belincë''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Istog}}
+{{Komuna Shtime}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Fshatra në Kommunes Shtime]]
 [[Kategoria:Vendbanime në Kosovës]]

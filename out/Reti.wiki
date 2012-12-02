@@ -1,26 +1,16 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Reti
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RETI
- | FULL_NAME_RO = Reti
- | FULL_NAME_ND_RO=Reti
- | SORT_NAME_RG=RETI
- | FULL_NAME_RG=Reti
- | FULL_NAME_ND_RG=Reti
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| srp_N_name = Reti
+| srp_N_FULL_NAME_RO = Reti
+| srp_N_FULL_NAME_ND_RO = Reti
+| srp_N_SORT_NAME_RG = RETI
+| srp_N_FULL_NAME_RG = Reti
+| srp_N_FULL_NAME_ND_RG = Reti
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Skënderaj
+ | Komuna              = 
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +20,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.3525
- | Gjatësia            = 20.701944
+ | Gjerësia            = 42.423333
+ | Gjatësia            = 21.535833
  | Lartësia            = 
 }}
-'''Reti''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Reti''' është një [[]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Skënderaj}}
+{{Komuna }}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Skënderaj]]
+[[Kategoria:Fshatra në Kommunes ]]
 [[Kategoria:Vendbanime në Kosovës]]

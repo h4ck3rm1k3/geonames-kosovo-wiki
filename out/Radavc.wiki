@@ -1,22 +1,48 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Radavc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RADAVC
- | FULL_NAME_RO = Radavc
- | FULL_NAME_ND_RO=Radavc
- | SORT_NAME_RG=RADAVC
- | FULL_NAME_RG=Radavc
- | FULL_NAME_ND_RG=Radavc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Radavc
+| sqi_D_FULL_NAME_RO = Radavc
+| sqi_D_FULL_NAME_ND_RO = Radavc
+| sqi_D_SORT_NAME_RG = RADAVC
+| sqi_D_FULL_NAME_RG = Radavc
+| sqi_D_FULL_NAME_ND_RG = Radavc
+| sqi_V_name = Radac
+| sqi_V_FULL_NAME_RO = Radac Radafc Burimi Radafci
+| sqi_V_FULL_NAME_ND_RO = Radac Radafc Burimi Radafci
+| sqi_V_SORT_NAME_RG = RADAC RADAFC BURIMI RADAFCI
+| sqi_V_FULL_NAME_RG = Radac Radafc Burimi Radafci
+| sqi_V_FULL_NAME_ND_RG = Radac Radafc Burimi Radafci
+| srp_N_name = Radovac
+| srp_N_FULL_NAME_RO = Radovac
+| srp_N_FULL_NAME_ND_RO = Radovac
+| srp_N_SORT_NAME_RG = RADOVAC
+| srp_N_FULL_NAME_RG = Radovac
+| srp_N_FULL_NAME_ND_RG = Radovac
+| srp_NS_name = Радовац
+| srp_NS_FULL_NAME_RO = Радовац
+| srp_NS_FULL_NAME_ND_RO = Радовац
+| srp_NS_SORT_NAME_RG = РАДОВАЦ
+| srp_NS_FULL_NAME_RG = Радовац
+| srp_NS_FULL_NAME_ND_RG = Радовац
+| srp_V_name = Radavac
+| srp_V_FULL_NAME_RO = Radavac
+| srp_V_FULL_NAME_ND_RO = Radavac
+| srp_V_SORT_NAME_RG = RADAVAC
+| srp_V_FULL_NAME_RG = Radavac
+| srp_V_FULL_NAME_ND_RG = Radavac
+| srp_VS_name = Радавац
+| srp_VS_FULL_NAME_RO = Радавац
+| srp_VS_FULL_NAME_ND_RO = Радавац
+| srp_VS_SORT_NAME_RG = РАДАВАЦ
+| srp_VS_FULL_NAME_RG = Радавац
+| srp_VS_FULL_NAME_ND_RG = Радавац
+| std_V_name = Radevc
+| std_V_FULL_NAME_RO = Radevc Radovce Radevce
+| std_V_FULL_NAME_ND_RO = Radevc Radovce Radevce
+| std_V_SORT_NAME_RG = RADEVC RADOVCE RADEVCE
+| std_V_FULL_NAME_RG = Radevc Radovce Radevce
+| std_V_FULL_NAME_ND_RG = Radevc Radovce Radevce
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +60,7 @@
  | Gjatësia            = 20.322222
  | Lartësia            = 
 }}
-'''Radavc''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Radavc''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

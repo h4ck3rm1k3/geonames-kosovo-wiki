@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Maznik
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAZNIK
- | FULL_NAME_RO = Maznik
- | FULL_NAME_ND_RO=Maznik
- | SORT_NAME_RG=MAZNIK
- | FULL_NAME_RG=Maznik
- | FULL_NAME_ND_RG=Maznik
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Maznik
+| sqi_N_FULL_NAME_RO = Maznik
+| sqi_N_FULL_NAME_ND_RO = Maznik
+| sqi_N_SORT_NAME_RG = MAZNIK
+| sqi_N_FULL_NAME_RG = Maznik
+| sqi_N_FULL_NAME_ND_RG = Maznik
+| sqi_V_name = Mazniku
+| sqi_V_FULL_NAME_RO = Mazniku
+| sqi_V_FULL_NAME_ND_RO = Mazniku
+| sqi_V_SORT_NAME_RG = MAZNIKU
+| sqi_V_FULL_NAME_RG = Mazniku
+| sqi_V_FULL_NAME_ND_RG = Mazniku
+| srp_N_name = Maznik
+| srp_N_FULL_NAME_RO = Maznik
+| srp_N_FULL_NAME_ND_RO = Maznik
+| srp_N_SORT_NAME_RG = MAZNIK
+| srp_N_FULL_NAME_RG = Maznik
+| srp_N_FULL_NAME_ND_RG = Maznik
+| srp_NS_name = Мазник
+| srp_NS_FULL_NAME_RO = Мазник
+| srp_NS_FULL_NAME_ND_RO = Мазник
+| srp_NS_SORT_NAME_RG = МАЗНИК
+| srp_NS_FULL_NAME_RG = Мазник
+| srp_NS_FULL_NAME_ND_RG = Мазник
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.449722
  | Lartësia            = 
 }}
-'''Maznik''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Maznik''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

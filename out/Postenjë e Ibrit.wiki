@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Postenjë e Ibrit
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POSTENJEEIBRIT
- | FULL_NAME_RO = Postenjë e Ibrit
- | FULL_NAME_ND_RO=Postenje e Ibrit
- | SORT_NAME_RG=POSTENJEEIBRIT
- | FULL_NAME_RG=Postenjë e Ibrit
- | FULL_NAME_ND_RG=Postenje e Ibrit
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Postenjë e Ibrit
+| sqi_D_FULL_NAME_RO = Postenjë e Ibrit
+| sqi_D_FULL_NAME_ND_RO = Postenje e Ibrit
+| sqi_D_SORT_NAME_RG = POSTENJEEIBRIT
+| sqi_D_FULL_NAME_RG = Postenjë e Ibrit
+| sqi_D_FULL_NAME_ND_RG = Postenje e Ibrit
+| sqi_V_name = Postenja e Ibrit
+| sqi_V_FULL_NAME_RO = Postenja e Ibrit Postenjë
+| sqi_V_FULL_NAME_ND_RO = Postenja e Ibrit Postenje
+| sqi_V_SORT_NAME_RG = POSTENJAEIBRIT POSTENJE
+| sqi_V_FULL_NAME_RG = Postenja e Ibrit Postenjë
+| sqi_V_FULL_NAME_ND_RG = Postenja e Ibrit Postenje
+| srp_N_name = Postenje
+| srp_N_FULL_NAME_RO = Postenje
+| srp_N_FULL_NAME_ND_RO = Postenje
+| srp_N_SORT_NAME_RG = POSTENJE
+| srp_N_FULL_NAME_RG = Postenje
+| srp_N_FULL_NAME_ND_RG = Postenje
+| srp_NS_name = Постење
+| srp_NS_FULL_NAME_RO = Постење
+| srp_NS_FULL_NAME_ND_RO = Постење
+| srp_NS_SORT_NAME_RG = ПОСТЕЊЕ
+| srp_NS_FULL_NAME_RG = Постење
+| srp_NS_FULL_NAME_ND_RG = Постење
+| srp_V_name = Ibarsko Postenje
+| srp_V_FULL_NAME_RO = Ibarsko Postenje
+| srp_V_FULL_NAME_ND_RO = Ibarsko Postenje
+| srp_V_SORT_NAME_RG = IBARSKOPOSTENJE
+| srp_V_FULL_NAME_RG = Ibarsko Postenje
+| srp_V_FULL_NAME_ND_RG = Ibarsko Postenje
+| srp_VS_name = Ибарско Постење
+| srp_VS_FULL_NAME_RO = Ибарско Постење
+| srp_VS_FULL_NAME_ND_RO = Ибарско Постење
+| srp_VS_SORT_NAME_RG = ИБАРСКОПОСТЕЊЕ
+| srp_VS_FULL_NAME_RG = Ибарско Постење
+| srp_VS_FULL_NAME_ND_RG = Ибарско Постење
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.699167
  | Lartësia            = 
 }}
-'''Postenjë e Ibrit''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Postenjë e Ibrit''' është një [[Fshat Vogel]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

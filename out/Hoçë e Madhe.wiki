@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Hoçë e Madhe
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      HOCEEMADHE
- | FULL_NAME_RO = Hoçë e Madhe
- | FULL_NAME_ND_RO=Hoce e Madhe
- | SORT_NAME_RG=HOCEEMADHE
- | FULL_NAME_RG=Hoçë e Madhe
- | FULL_NAME_ND_RG=Hoce e Madhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Hoçë e Madhe
+| sqi_N_FULL_NAME_RO = Hoçë e Madhe
+| sqi_N_FULL_NAME_ND_RO = Hoce e Madhe
+| sqi_N_SORT_NAME_RG = HOCEEMADHE
+| sqi_N_FULL_NAME_RG = Hoçë e Madhe
+| sqi_N_FULL_NAME_ND_RG = Hoce e Madhe
+| sqi_V_name = Vjellika Horça
+| sqi_V_FULL_NAME_RO = Vjellika Horça Hoça e Madhe
+| sqi_V_FULL_NAME_ND_RO = Vjellika Horca Hoca e Madhe
+| sqi_V_SORT_NAME_RG = VJELLIKAHORCA HOCAEMADHE
+| sqi_V_FULL_NAME_RG = Vjellika Horça Hoça e Madhe
+| sqi_V_FULL_NAME_ND_RG = Vjellika Horca Hoca e Madhe
+| srp_N_name = Velika Hoča
+| srp_N_FULL_NAME_RO = Velika Hoča
+| srp_N_FULL_NAME_ND_RO = Velika Hoca
+| srp_N_SORT_NAME_RG = VELIKAHOCA
+| srp_N_FULL_NAME_RG = Velika Hoča
+| srp_N_FULL_NAME_ND_RG = Velika Hoca
+| srp_NS_name = Велика Хоча
+| srp_NS_FULL_NAME_RO = Велика Хоча
+| srp_NS_FULL_NAME_ND_RO = Велика Хоча
+| srp_NS_SORT_NAME_RG = ВЕЛИКАХОЧА
+| srp_NS_FULL_NAME_RG = Велика Хоча
+| srp_NS_FULL_NAME_ND_RG = Велика Хоча
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.6775
  | Lartësia            = 
 }}
-'''Hoçë e Madhe''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Hoçë e Madhe''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

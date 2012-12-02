@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gumnasellë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GUMNASELLE
- | FULL_NAME_RO = Gumnasellë
- | FULL_NAME_ND_RO=Gumnaselle
- | SORT_NAME_RG=GUMNASELLE
- | FULL_NAME_RG=Gumnasellë
- | FULL_NAME_ND_RG=Gumnaselle
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gumnasellë
+| sqi_N_FULL_NAME_RO = Gumnasellë
+| sqi_N_FULL_NAME_ND_RO = Gumnaselle
+| sqi_N_SORT_NAME_RG = GUMNASELLE
+| sqi_N_FULL_NAME_RG = Gumnasellë
+| sqi_N_FULL_NAME_ND_RG = Gumnaselle
+| sqi_V_name = Gupno-Sello
+| sqi_V_FULL_NAME_RO = Gupno-Sello Guvnasellë
+| sqi_V_FULL_NAME_ND_RO = Gupno-Sello Guvnaselle
+| sqi_V_SORT_NAME_RG = GUPNOSELLO GUVNASELLE
+| sqi_V_FULL_NAME_RG = Gupno-Sello Guvnasellë
+| sqi_V_FULL_NAME_ND_RG = Gupno-Sello Guvnaselle
+| srp_N_name = Guvno Selo
+| srp_N_FULL_NAME_RO = Guvno Selo
+| srp_N_FULL_NAME_ND_RO = Guvno Selo
+| srp_N_SORT_NAME_RG = GUVNOSELO
+| srp_N_FULL_NAME_RG = Guvno Selo
+| srp_N_FULL_NAME_ND_RG = Guvno Selo
+| srp_NS_name = Гувно Село
+| srp_NS_FULL_NAME_RO = Гувно Село
+| srp_NS_FULL_NAME_ND_RO = Гувно Село
+| srp_NS_SORT_NAME_RG = ГУВНОСЕЛО
+| srp_NS_FULL_NAME_RG = Гувно Село
+| srp_NS_FULL_NAME_ND_RG = Гувно Село
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.163056
  | Lartësia            = 
 }}
-'''Gumnasellë''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Gumnasellë''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

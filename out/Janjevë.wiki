@@ -1,26 +1,28 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Janjevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JANJEVE
- | FULL_NAME_RO = Janjevë
- | FULL_NAME_ND_RO=Janjeve
- | SORT_NAME_RG=JANJEVE
- | FULL_NAME_RG=Janjevë
- | FULL_NAME_ND_RG=Janjeve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Janjevë
+| sqi_N_FULL_NAME_RO = Janjevë
+| sqi_N_FULL_NAME_ND_RO = Janjeve
+| sqi_N_SORT_NAME_RG = JANJEVE
+| sqi_N_FULL_NAME_RG = Janjevë
+| sqi_N_FULL_NAME_ND_RG = Janjeve
+| srp_N_name = Janjevo
+| srp_N_FULL_NAME_RO = Janjevo
+| srp_N_FULL_NAME_ND_RO = Janjevo
+| srp_N_SORT_NAME_RG = JANJEVO
+| srp_N_FULL_NAME_RG = Janjevo
+| srp_N_FULL_NAME_ND_RG = Janjevo
+| srp_NS_name = Јањево
+| srp_NS_FULL_NAME_RO = Јањево
+| srp_NS_FULL_NAME_ND_RO = Јањево
+| srp_NS_SORT_NAME_RG = ЈАЊЕВО
+| srp_NS_FULL_NAME_RG = Јањево
+| srp_NS_FULL_NAME_ND_RG = Јањево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Podujevë
+ | Komuna              = Malishevë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +32,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.914077
- | Gjatësia            = 21.154027
+ | Gjerësia            = 42.573889
+ | Gjatësia            = 21.248889
  | Lartësia            = 
 }}
-'''Janjevë''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Janjevë''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Podujevë}}
+{{Komuna Malishevë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Fshatra në Kommunes Malishevë]]
 [[Kategoria:Vendbanime në Kosovës]]

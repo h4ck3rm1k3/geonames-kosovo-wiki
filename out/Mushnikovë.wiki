@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mushnikovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MUSHNIKOVE
- | FULL_NAME_RO = Mushnikovë
- | FULL_NAME_ND_RO=Mushnikove
- | SORT_NAME_RG=MUSHNIKOVE
- | FULL_NAME_RG=Mushnikovë
- | FULL_NAME_ND_RG=Mushnikove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Mushnikovë
+| sqi_N_FULL_NAME_RO = Mushnikovë
+| sqi_N_FULL_NAME_ND_RO = Mushnikove
+| sqi_N_SORT_NAME_RG = MUSHNIKOVE
+| sqi_N_FULL_NAME_RG = Mushnikovë
+| sqi_N_FULL_NAME_ND_RG = Mushnikove
+| sqi_V_name = Mushnikova
+| sqi_V_FULL_NAME_RO = Mushnikova
+| sqi_V_FULL_NAME_ND_RO = Mushnikova
+| sqi_V_SORT_NAME_RG = MUSHNIKOVA
+| sqi_V_FULL_NAME_RG = Mushnikova
+| sqi_V_FULL_NAME_ND_RG = Mushnikova
+| srp_N_name = Mušnikovo
+| srp_N_FULL_NAME_RO = Mušnikovo
+| srp_N_FULL_NAME_ND_RO = Musnikovo
+| srp_N_SORT_NAME_RG = MUSNIKOVO
+| srp_N_FULL_NAME_RG = Mušnikovo
+| srp_N_FULL_NAME_ND_RG = Musnikovo
+| srp_NS_name = Мушниково
+| srp_NS_FULL_NAME_RO = Мушниково
+| srp_NS_FULL_NAME_ND_RO = Мушниково
+| srp_NS_SORT_NAME_RG = МУШНИКОВО
+| srp_NS_FULL_NAME_RG = Мушниково
+| srp_NS_FULL_NAME_ND_RG = Мушниково
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.893333
  | Lartësia            = 
 }}
-'''Mushnikovë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Mushnikovë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

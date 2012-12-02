@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Buçe
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BUCE
- | FULL_NAME_RO = Buçe
- | FULL_NAME_ND_RO=Buce
- | SORT_NAME_RG=BUCE
- | FULL_NAME_RG=Buçe
- | FULL_NAME_ND_RG=Buce
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Buçe
+| sqi_N_FULL_NAME_RO = Buçe
+| sqi_N_FULL_NAME_ND_RO = Buce
+| sqi_N_SORT_NAME_RG = BUCE
+| sqi_N_FULL_NAME_RG = Buçe
+| sqi_N_FULL_NAME_ND_RG = Buce
+| sqi_V_name = Buqe
+| sqi_V_FULL_NAME_RO = Buqe
+| sqi_V_FULL_NAME_ND_RO = Buqe
+| sqi_V_SORT_NAME_RG = BUQE
+| sqi_V_FULL_NAME_RG = Buqe
+| sqi_V_FULL_NAME_ND_RG = Buqe
+| srp_N_name = Buče
+| srp_N_FULL_NAME_RO = Buče
+| srp_N_FULL_NAME_ND_RO = Buce
+| srp_N_SORT_NAME_RG = BUCE
+| srp_N_FULL_NAME_RG = Buče
+| srp_N_FULL_NAME_ND_RG = Buce
+| srp_NS_name = Буче
+| srp_NS_FULL_NAME_RO = Буче
+| srp_NS_FULL_NAME_ND_RO = Буче
+| srp_NS_SORT_NAME_RG = БУЧЕ
+| srp_NS_FULL_NAME_RG = Буче
+| srp_NS_FULL_NAME_ND_RG = Буче
+| srp_V_name = Buča
+| srp_V_FULL_NAME_RO = Buča
+| srp_V_FULL_NAME_ND_RO = Buca
+| srp_V_SORT_NAME_RG = BUCA
+| srp_V_FULL_NAME_RG = Buča
+| srp_V_FULL_NAME_ND_RG = Buca
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.634444
  | Lartësia            = 
 }}
-'''Buçe''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Buçe''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

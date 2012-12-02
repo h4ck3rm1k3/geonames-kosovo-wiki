@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zabllaq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZABLLAQ
- | FULL_NAME_RO = Zabllaq
- | FULL_NAME_ND_RO=Zabllaq
- | SORT_NAME_RG=ZABLLAQ
- | FULL_NAME_RG=Zabllaq
- | FULL_NAME_ND_RG=Zabllaq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zabllaq
+| sqi_D_FULL_NAME_RO = Zabllaq
+| sqi_D_FULL_NAME_ND_RO = Zabllaq
+| sqi_D_SORT_NAME_RG = ZABLLAQ
+| sqi_D_FULL_NAME_RG = Zabllaq
+| sqi_D_FULL_NAME_ND_RG = Zabllaq
+| sqi_V_name = Blaç
+| sqi_V_FULL_NAME_RO = Blaç Blaçi Zabllaqi
+| sqi_V_FULL_NAME_ND_RO = Blac Blaci Zabllaqi
+| sqi_V_SORT_NAME_RG = BLAC BLACI ZABLLAQI
+| sqi_V_FULL_NAME_RG = Blaç Blaçi Zabllaqi
+| sqi_V_FULL_NAME_ND_RG = Blac Blaci Zabllaqi
+| srp_N_name = Zablaće
+| srp_N_FULL_NAME_RO = Zablaće
+| srp_N_FULL_NAME_ND_RO = Zablace
+| srp_N_SORT_NAME_RG = ZABLACE
+| srp_N_FULL_NAME_RG = Zablaće
+| srp_N_FULL_NAME_ND_RG = Zablace
+| srp_NS_name = Заблаће
+| srp_NS_FULL_NAME_RO = Заблаће
+| srp_NS_FULL_NAME_ND_RO = Заблаће
+| srp_NS_SORT_NAME_RG = ЗАБЛАЋЕ
+| srp_NS_FULL_NAME_RG = Заблаће
+| srp_NS_FULL_NAME_ND_RG = Заблаће
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.489722
  | Lartësia            = 
 }}
-'''Zabllaq''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Zabllaq''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

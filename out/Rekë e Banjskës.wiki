@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rekë e Banjskës
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      REKEEBANJSKES
- | FULL_NAME_RO = Rekë e Banjskës
- | FULL_NAME_ND_RO=Reke e Banjskes
- | SORT_NAME_RG=REKEEBANJSKES
- | FULL_NAME_RG=Rekë e Banjskës
- | FULL_NAME_ND_RG=Reke e Banjskes
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Rekë e Banjskës
+| sqi_D_FULL_NAME_RO = Rekë e Banjskës
+| sqi_D_FULL_NAME_ND_RO = Reke e Banjskes
+| sqi_D_SORT_NAME_RG = REKEEBANJSKES
+| sqi_D_FULL_NAME_RG = Rekë e Banjskës
+| sqi_D_FULL_NAME_ND_RG = Reke e Banjskes
+| srp_N_name = Banjska Reka
+| srp_N_FULL_NAME_RO = Banjska Reka
+| srp_N_FULL_NAME_ND_RO = Banjska Reka
+| srp_N_SORT_NAME_RG = BANJSKAREKA
+| srp_N_FULL_NAME_RG = Banjska Reka
+| srp_N_FULL_NAME_ND_RG = Banjska Reka
+| srp_NS_name = Бањска Река
+| srp_NS_FULL_NAME_RO = Бањска Река
+| srp_NS_FULL_NAME_ND_RO = Бањска Река
+| srp_NS_SORT_NAME_RG = БАЊСКАРЕКА
+| srp_NS_FULL_NAME_RG = Бањска Река
+| srp_NS_FULL_NAME_ND_RG = Бањска Река
+| srp_V_name = Bastanska Reka
+| srp_V_FULL_NAME_RO = Bastanska Reka Bištanska Reka
+| srp_V_FULL_NAME_ND_RO = Bastanska Reka Bistanska Reka
+| srp_V_SORT_NAME_RG = BASTANSKAREKA BISTANSKAREKA
+| srp_V_FULL_NAME_RG = Bastanska Reka Bištanska Reka
+| srp_V_FULL_NAME_ND_RG = Bastanska Reka Bistanska Reka
+| srp_VS_name = Биштанска Река
+| srp_VS_FULL_NAME_RO = Биштанска Река
+| srp_VS_FULL_NAME_ND_RO = Биштанска Река
+| srp_VS_SORT_NAME_RG = БИШТАНСКАРЕКА
+| srp_VS_FULL_NAME_RG = Биштанска Река
+| srp_VS_FULL_NAME_ND_RG = Биштанска Река
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.755556
  | Lartësia            = 
 }}
-'''Rekë e Banjskës''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Rekë e Banjskës''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

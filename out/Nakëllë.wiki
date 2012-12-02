@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nakëllë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NAKELLE
- | FULL_NAME_RO = Nakëllë
- | FULL_NAME_ND_RO=Nakelle
- | SORT_NAME_RG=NAKELLE
- | FULL_NAME_RG=Nakëllë
- | FULL_NAME_ND_RG=Nakelle
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Nakëllë
+| sqi_D_FULL_NAME_RO = Nakëllë
+| sqi_D_FULL_NAME_ND_RO = Nakelle
+| sqi_D_SORT_NAME_RG = NAKELLE
+| sqi_D_FULL_NAME_RG = Nakëllë
+| sqi_D_FULL_NAME_ND_RG = Nakelle
+| sqi_V_name = Nakillë
+| sqi_V_FULL_NAME_RO = Nakillë Nakëll Nakllë Naklle
+| sqi_V_FULL_NAME_ND_RO = Nakille Nakell Naklle Naklle
+| sqi_V_SORT_NAME_RG = NAKILLE NAKELL NAKLLE NAKLLE
+| sqi_V_FULL_NAME_RG = Nakillë Nakëll Nakllë Naklle
+| sqi_V_FULL_NAME_ND_RG = Nakille Nakell Naklle Naklle
+| srp_N_name = Donje Naklo
+| srp_N_FULL_NAME_RO = Donje Naklo
+| srp_N_FULL_NAME_ND_RO = Donje Naklo
+| srp_N_SORT_NAME_RG = DONJENAKLO
+| srp_N_FULL_NAME_RG = Donje Naklo
+| srp_N_FULL_NAME_ND_RG = Donje Naklo
+| srp_NS_name = Доње Накло
+| srp_NS_FULL_NAME_RO = Доње Накло
+| srp_NS_FULL_NAME_ND_RO = Доње Накло
+| srp_NS_SORT_NAME_RG = ДОЊЕНАКЛО
+| srp_NS_FULL_NAME_RG = Доње Накло
+| srp_NS_FULL_NAME_ND_RG = Доње Накло
+| srp_V_name = Naklo
+| srp_V_FULL_NAME_RO = Naklo
+| srp_V_FULL_NAME_ND_RO = Naklo
+| srp_V_SORT_NAME_RG = NAKLO
+| srp_V_FULL_NAME_RG = Naklo
+| srp_V_FULL_NAME_ND_RG = Naklo
+| srp_VS_name = Накло
+| srp_VS_FULL_NAME_RO = Накло
+| srp_VS_FULL_NAME_ND_RO = Накло
+| srp_VS_SORT_NAME_RG = НАКЛО
+| srp_VS_FULL_NAME_RG = Накло
+| srp_VS_FULL_NAME_ND_RG = Накло
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.381389
  | Lartësia            = 
 }}
-'''Nakëllë''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Nakëllë''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

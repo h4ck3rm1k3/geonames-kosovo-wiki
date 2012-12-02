@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shahiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHAHIQ
- | FULL_NAME_RO = Shahiq
- | FULL_NAME_ND_RO=Shahiq
- | SORT_NAME_RG=SHAHIQ
- | FULL_NAME_RG=Shahiq
- | FULL_NAME_ND_RG=Shahiq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shahiq
+| sqi_N_FULL_NAME_RO = Shahiq
+| sqi_N_FULL_NAME_ND_RO = Shahiq
+| sqi_N_SORT_NAME_RG = SHAHIQ
+| sqi_N_FULL_NAME_RG = Shahiq
+| sqi_N_FULL_NAME_ND_RG = Shahiq
+| sqi_V_name = Shahiqi
+| sqi_V_FULL_NAME_RO = Shahiqi Shaiq Shajiq
+| sqi_V_FULL_NAME_ND_RO = Shahiqi Shaiq Shajiq
+| sqi_V_SORT_NAME_RG = SHAHIQI SHAIQ SHAJIQ
+| sqi_V_FULL_NAME_RG = Shahiqi Shaiq Shajiq
+| sqi_V_FULL_NAME_ND_RG = Shahiqi Shaiq Shajiq
+| srp_N_name = Šaić
+| srp_N_FULL_NAME_RO = Šaić
+| srp_N_FULL_NAME_ND_RO = Saic
+| srp_N_SORT_NAME_RG = SAIC
+| srp_N_FULL_NAME_RG = Šaić
+| srp_N_FULL_NAME_ND_RG = Saic
+| srp_V_name = Šajić
+| srp_V_FULL_NAME_RO = Šajić
+| srp_V_FULL_NAME_ND_RO = Sajic
+| srp_V_SORT_NAME_RG = SAJIC
+| srp_V_FULL_NAME_RG = Šajić
+| srp_V_FULL_NAME_ND_RG = Sajic
+| srp_VS_name = Шајић
+| srp_VS_FULL_NAME_RO = Шајић
+| srp_VS_FULL_NAME_ND_RO = Шајић
+| srp_VS_SORT_NAME_RG = ШАЈИЋ
+| srp_VS_FULL_NAME_RG = Шајић
+| srp_VS_FULL_NAME_ND_RG = Шајић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.623611
  | Lartësia            = 
 }}
-'''Shahiq''' është një [[]] në [[Fushë Kosovë]] të [[Kosovës]].
+'''Shahiq''' është një [[Fshat Vogel]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

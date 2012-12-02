@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tërnavc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TERNAVC
- | FULL_NAME_RO = Tërnavc
- | FULL_NAME_ND_RO=Ternavc
- | SORT_NAME_RG=TERNAVC
- | FULL_NAME_RG=Tërnavc
- | FULL_NAME_ND_RG=Ternavc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Tërnavc
+| sqi_N_FULL_NAME_RO = Tërnavc
+| sqi_N_FULL_NAME_ND_RO = Ternavc
+| sqi_N_SORT_NAME_RG = TERNAVC
+| sqi_N_FULL_NAME_RG = Tërnavc
+| sqi_N_FULL_NAME_ND_RG = Ternavc
+| sqi_V_name = Tërnavë
+| sqi_V_FULL_NAME_RO = Tërnavë Tërnovë
+| sqi_V_FULL_NAME_ND_RO = Ternave Ternove
+| sqi_V_SORT_NAME_RG = TERNAVE TERNOVE
+| sqi_V_FULL_NAME_RG = Tërnavë Tërnovë
+| sqi_V_FULL_NAME_ND_RG = Ternave Ternove
+| srp_N_name = Trnavce
+| srp_N_FULL_NAME_RO = Trnavce
+| srp_N_FULL_NAME_ND_RO = Trnavce
+| srp_N_SORT_NAME_RG = TRNAVCE
+| srp_N_FULL_NAME_RG = Trnavce
+| srp_N_FULL_NAME_ND_RG = Trnavce
+| srp_NS_name = Трнавце
+| srp_NS_FULL_NAME_RO = Трнавце
+| srp_NS_FULL_NAME_ND_RO = Трнавце
+| srp_NS_SORT_NAME_RG = ТРНАВЦЕ
+| srp_NS_FULL_NAME_RG = Трнавце
+| srp_NS_FULL_NAME_ND_RG = Трнавце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.799722
  | Lartësia            = 
 }}
-'''Tërnavc''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Tërnavc''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

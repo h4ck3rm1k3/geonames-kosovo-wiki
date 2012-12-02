@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gushac
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GUSHAC
- | FULL_NAME_RO = Gushac
- | FULL_NAME_ND_RO=Gushac
- | SORT_NAME_RG=GUSHAC
- | FULL_NAME_RG=Gushac
- | FULL_NAME_ND_RG=Gushac
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gushac
+| sqi_D_FULL_NAME_RO = Gushac
+| sqi_D_FULL_NAME_ND_RO = Gushac
+| sqi_D_SORT_NAME_RG = GUSHAC
+| sqi_D_FULL_NAME_RG = Gushac
+| sqi_D_FULL_NAME_ND_RG = Gushac
+| srp_N_name = Gušavac
+| srp_N_FULL_NAME_RO = Gušavac
+| srp_N_FULL_NAME_ND_RO = Gusavac
+| srp_N_SORT_NAME_RG = GUSAVAC
+| srp_N_FULL_NAME_RG = Gušavac
+| srp_N_FULL_NAME_ND_RG = Gusavac
+| srp_NS_name = Гушавац
+| srp_NS_FULL_NAME_RO = Гушавац
+| srp_NS_FULL_NAME_ND_RO = Гушавац
+| srp_NS_SORT_NAME_RG = ГУШАВАЦ
+| srp_NS_FULL_NAME_RG = Гушавац
+| srp_NS_FULL_NAME_ND_RG = Гушавац
+| srp_V_name = Gušavci
+| srp_V_FULL_NAME_RO = Gušavci Guševac
+| srp_V_FULL_NAME_ND_RO = Gusavci Gusevac
+| srp_V_SORT_NAME_RG = GUSAVCI GUSEVAC
+| srp_V_FULL_NAME_RG = Gušavci Guševac
+| srp_V_FULL_NAME_ND_RG = Gusavci Gusevac
+| std_V_name = Gutavci
+| std_V_FULL_NAME_RO = Gutavci
+| std_V_FULL_NAME_ND_RO = Gutavci
+| std_V_SORT_NAME_RG = GUTAVCI
+| std_V_FULL_NAME_RG = Gutavci
+| std_V_FULL_NAME_ND_RG = Gutavci
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.824444
  | Lartësia            = 
 }}
-'''Gushac''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Gushac''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

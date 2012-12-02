@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vajnikë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VAJNIKE
- | FULL_NAME_RO = Vajnikë
- | FULL_NAME_ND_RO=Vajnike
- | SORT_NAME_RG=VAJNIKE
- | FULL_NAME_RG=Vajnikë
- | FULL_NAME_ND_RG=Vajnike
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vajnikë
+| sqi_N_FULL_NAME_RO = Vajnikë
+| sqi_N_FULL_NAME_ND_RO = Vajnike
+| sqi_N_SORT_NAME_RG = VAJNIKE
+| sqi_N_FULL_NAME_RG = Vajnikë
+| sqi_N_FULL_NAME_ND_RG = Vajnike
+| sqi_V_name = Voçnjak
+| sqi_V_FULL_NAME_RO = Voçnjak Vojnik
+| sqi_V_FULL_NAME_ND_RO = Vocnjak Vojnik
+| sqi_V_SORT_NAME_RG = VOCNJAK VOJNIK
+| sqi_V_FULL_NAME_RG = Voçnjak Vojnik
+| sqi_V_FULL_NAME_ND_RG = Vocnjak Vojnik
+| srp_N_name = Voćnjak
+| srp_N_FULL_NAME_RO = Voćnjak
+| srp_N_FULL_NAME_ND_RO = Vocnjak
+| srp_N_SORT_NAME_RG = VOCNJAK
+| srp_N_FULL_NAME_RG = Voćnjak
+| srp_N_FULL_NAME_ND_RG = Vocnjak
+| srp_NS_name = Воћњак
+| srp_NS_FULL_NAME_RO = Воћњак
+| srp_NS_FULL_NAME_ND_RO = Воћњак
+| srp_NS_SORT_NAME_RG = ВОЋЊАК
+| srp_NS_FULL_NAME_RG = Воћњак
+| srp_NS_FULL_NAME_ND_RG = Воћњак
+| srp_V_name = Voćnik
+| srp_V_FULL_NAME_RO = Voćnik
+| srp_V_FULL_NAME_ND_RO = Vocnik
+| srp_V_SORT_NAME_RG = VOCNIK
+| srp_V_FULL_NAME_RG = Voćnik
+| srp_V_FULL_NAME_ND_RG = Vocnik
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.663333
  | Lartësia            = 
 }}
-'''Vajnikë''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Vajnikë''' është një [[Fshat Vogel]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

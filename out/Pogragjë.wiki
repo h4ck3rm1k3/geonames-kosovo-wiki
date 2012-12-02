@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pogragjë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POGRAGJE
- | FULL_NAME_RO = Pogragjë
- | FULL_NAME_ND_RO=Pogragje
- | SORT_NAME_RG=POGRAGJE
- | FULL_NAME_RG=Pogragjë
- | FULL_NAME_ND_RG=Pogragje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pogragjë
+| sqi_N_FULL_NAME_RO = Pogragjë
+| sqi_N_FULL_NAME_ND_RO = Pogragje
+| sqi_N_SORT_NAME_RG = POGRAGJE
+| sqi_N_FULL_NAME_RG = Pogragjë
+| sqi_N_FULL_NAME_ND_RG = Pogragje
+| sqi_V_name = Pograxhë
+| sqi_V_FULL_NAME_RO = Pograxhë Gjytet-i Pograxha
+| sqi_V_FULL_NAME_ND_RO = Pograxhe Gjytet-i Pograxha
+| sqi_V_SORT_NAME_RG = POGRAXHE GJYTETI POGRAXHA
+| sqi_V_FULL_NAME_RG = Pograxhë Gjytet-i Pograxha
+| sqi_V_FULL_NAME_ND_RG = Pograxhe Gjytet-i Pograxha
+| srp_N_name = Podgrađe
+| srp_N_FULL_NAME_RO = Podgrađe
+| srp_N_FULL_NAME_ND_RO = Podgrade
+| srp_N_SORT_NAME_RG = PODGRADE
+| srp_N_FULL_NAME_RG = Podgrađe
+| srp_N_FULL_NAME_ND_RG = Podgrade
+| srp_NS_name = Подграђе
+| srp_NS_FULL_NAME_RO = Подграђе
+| srp_NS_FULL_NAME_ND_RO = Подграђе
+| srp_NS_SORT_NAME_RG = ПОДГРАЂЕ
+| srp_NS_FULL_NAME_RG = Подграђе
+| srp_NS_FULL_NAME_ND_RG = Подграђе
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.582778
  | Lartësia            = 
 }}
-'''Pogragjë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Pogragjë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

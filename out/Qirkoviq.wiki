@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Qirkoviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      QIRKOVIQ
- | FULL_NAME_RO = Qirkoviq
- | FULL_NAME_ND_RO=Qirkoviq
- | SORT_NAME_RG=QIRKOVIQ
- | FULL_NAME_RG=Qirkoviq
- | FULL_NAME_ND_RG=Qirkoviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Qirkoviq
+| sqi_N_FULL_NAME_RO = Qirkoviq
+| sqi_N_FULL_NAME_ND_RO = Qirkoviq
+| sqi_N_SORT_NAME_RG = QIRKOVIQ
+| sqi_N_FULL_NAME_RG = Qirkoviq
+| sqi_N_FULL_NAME_ND_RG = Qirkoviq
+| sqi_V_name = Qirkioviqi
+| sqi_V_FULL_NAME_RO = Qirkioviqi
+| sqi_V_FULL_NAME_ND_RO = Qirkioviqi
+| sqi_V_SORT_NAME_RG = QIRKIOVIQI
+| sqi_V_FULL_NAME_RG = Qirkioviqi
+| sqi_V_FULL_NAME_ND_RG = Qirkioviqi
+| srp_N_name = Ćirkoviće
+| srp_N_FULL_NAME_RO = Ćirkoviće
+| srp_N_FULL_NAME_ND_RO = Cirkovice
+| srp_N_SORT_NAME_RG = CIRKOVICE
+| srp_N_FULL_NAME_RG = Ćirkoviće
+| srp_N_FULL_NAME_ND_RG = Cirkovice
+| srp_NS_name = Ћирковиће
+| srp_NS_FULL_NAME_RO = Ћирковиће
+| srp_NS_FULL_NAME_ND_RO = Ћирковиће
+| srp_NS_SORT_NAME_RG = ЋИРКОВИЋЕ
+| srp_NS_FULL_NAME_RG = Ћирковиће
+| srp_NS_FULL_NAME_ND_RG = Ћирковиће
+| srp_V_name = Džepe
+| srp_V_FULL_NAME_RO = Džepe Donje Džepe Ćirkovići
+| srp_V_FULL_NAME_ND_RO = Dzepe Donje Dzepe Cirkovici
+| srp_V_SORT_NAME_RG = DZEPE DONJEDZEPE CIRKOVICI
+| srp_V_FULL_NAME_RG = Džepe Donje Džepe Ćirkovići
+| srp_V_FULL_NAME_ND_RG = Dzepe Donje Dzepe Cirkovici
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.732778
  | Lartësia            = 
 }}
-'''Qirkoviq''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Qirkoviq''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

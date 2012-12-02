@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Budrikë e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BUDRIKEEEPERME
- | FULL_NAME_RO = Budrikë e Epërme
- | FULL_NAME_ND_RO=Budrike e Eperme
- | SORT_NAME_RG=BUDRIKEEEPERME
- | FULL_NAME_RG=Budrikë e Epërme
- | FULL_NAME_ND_RG=Budrike e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Budrikë e Epërme
+| sqi_N_FULL_NAME_RO = Budrikë e Epërme
+| sqi_N_FULL_NAME_ND_RO = Budrike e Eperme
+| sqi_N_SORT_NAME_RG = BUDRIKEEEPERME
+| sqi_N_FULL_NAME_RG = Budrikë e Epërme
+| sqi_N_FULL_NAME_ND_RG = Budrike e Eperme
+| sqi_V_name = Budriga e Epërme
+| sqi_V_FULL_NAME_RO = Budriga e Epërme Budrika e Epërme
+| sqi_V_FULL_NAME_ND_RO = Budriga e Eperme Budrika e Eperme
+| sqi_V_SORT_NAME_RG = BUDRIGAEEPERME BUDRIKAEEPERME
+| sqi_V_FULL_NAME_RG = Budriga e Epërme Budrika e Epërme
+| sqi_V_FULL_NAME_ND_RG = Budriga e Eperme Budrika e Eperme
+| srp_N_name = Gornja Budriga
+| srp_N_FULL_NAME_RO = Gornja Budriga
+| srp_N_FULL_NAME_ND_RO = Gornja Budriga
+| srp_N_SORT_NAME_RG = GORNJABUDRIGA
+| srp_N_FULL_NAME_RG = Gornja Budriga
+| srp_N_FULL_NAME_ND_RG = Gornja Budriga
+| srp_NS_name = Горња Будрика
+| srp_NS_FULL_NAME_RO = Горња Будрика
+| srp_NS_FULL_NAME_ND_RO = Горња Будрика
+| srp_NS_SORT_NAME_RG = ГОРЊАБУДРИКА
+| srp_NS_FULL_NAME_RG = Горња Будрика
+| srp_NS_FULL_NAME_ND_RG = Горња Будрика
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.419167
  | Lartësia            = 
 }}
-'''Budrikë e Epërme''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Budrikë e Epërme''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

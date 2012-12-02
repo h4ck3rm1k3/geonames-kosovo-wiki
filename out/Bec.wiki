@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BEC
- | FULL_NAME_RO = Bec
- | FULL_NAME_ND_RO=Bec
- | SORT_NAME_RG=BEC
- | FULL_NAME_RG=Bec
- | FULL_NAME_ND_RG=Bec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bec
+| sqi_N_FULL_NAME_RO = Bec
+| sqi_N_FULL_NAME_ND_RO = Bec
+| sqi_N_SORT_NAME_RG = BEC
+| sqi_N_FULL_NAME_RG = Bec
+| sqi_N_FULL_NAME_ND_RG = Bec
+| srp_N_name = Bec
+| srp_N_FULL_NAME_RO = Bec
+| srp_N_FULL_NAME_ND_RO = Bec
+| srp_N_SORT_NAME_RG = BEC
+| srp_N_FULL_NAME_RG = Bec
+| srp_N_FULL_NAME_ND_RG = Bec
+| srp_NS_name = Бец
+| srp_NS_FULL_NAME_RO = Бец
+| srp_NS_FULL_NAME_ND_RO = Бец
+| srp_NS_SORT_NAME_RG = БЕЦ
+| srp_NS_FULL_NAME_RG = Бец
+| srp_NS_FULL_NAME_ND_RG = Бец
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.449444
  | Lartësia            = 
 }}
-'''Bec''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Bec''' është një [[Fshat Vogel]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

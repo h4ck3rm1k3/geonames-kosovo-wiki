@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gogolloc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GOGOLLOC
- | FULL_NAME_RO = Gogolloc
- | FULL_NAME_ND_RO=Gogolloc
- | SORT_NAME_RG=GOGOLLOC
- | FULL_NAME_RG=Gogolloc
- | FULL_NAME_ND_RG=Gogolloc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gogolloc
+| sqi_D_FULL_NAME_RO = Gogolloc
+| sqi_D_FULL_NAME_ND_RO = Gogolloc
+| sqi_D_SORT_NAME_RG = GOGOLLOC
+| sqi_D_FULL_NAME_RG = Gogolloc
+| sqi_D_FULL_NAME_ND_RG = Gogolloc
+| sqi_V_name = Gogollovc
+| sqi_V_FULL_NAME_RO = Gogollovc Gogollofc Gogollofci Gugullan Gugullani
+| sqi_V_FULL_NAME_ND_RO = Gogollovc Gogollofc Gogollofci Gugullan Gugullani
+| sqi_V_SORT_NAME_RG = GOGOLLOVC GOGOLLOFC GOGOLLOFCI GUGULLAN GUGULLANI
+| sqi_V_FULL_NAME_RG = Gogollovc Gogollofc Gogollofci Gugullan Gugullani
+| sqi_V_FULL_NAME_ND_RG = Gogollovc Gogollofc Gogollofci Gugullan Gugullani
+| srp_N_name = Gogolovce
+| srp_N_FULL_NAME_RO = Gogolovce
+| srp_N_FULL_NAME_ND_RO = Gogolovce
+| srp_N_SORT_NAME_RG = GOGOLOVCE
+| srp_N_FULL_NAME_RG = Gogolovce
+| srp_N_FULL_NAME_ND_RG = Gogolovce
+| srp_NS_name = Гоголовце
+| srp_NS_FULL_NAME_RO = Гоголовце
+| srp_NS_FULL_NAME_ND_RO = Гоголовце
+| srp_NS_SORT_NAME_RG = ГОГОЛОВЦЕ
+| srp_NS_FULL_NAME_RG = Гоголовце
+| srp_NS_FULL_NAME_ND_RG = Гоголовце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.543056
  | Lartësia            = 
 }}
-'''Gogolloc''' është një [[]] në [[Fushë Kosovë]] të [[Kosovës]].
+'''Gogolloc''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

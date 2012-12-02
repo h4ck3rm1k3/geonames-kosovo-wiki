@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tërstenë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TERSTENE
- | FULL_NAME_RO = Tërstenë
- | FULL_NAME_ND_RO=Terstene
- | SORT_NAME_RG=TERSTENE
- | FULL_NAME_RG=Tërstenë
- | FULL_NAME_ND_RG=Terstene
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Tërstenë
+| sqi_N_FULL_NAME_RO = Tërstenë
+| sqi_N_FULL_NAME_ND_RO = Terstene
+| sqi_N_SORT_NAME_RG = TERSTENE
+| sqi_N_FULL_NAME_RG = Tërstenë
+| sqi_N_FULL_NAME_ND_RG = Terstene
+| srp_N_name = Trstena
+| srp_N_FULL_NAME_RO = Trstena
+| srp_N_FULL_NAME_ND_RO = Trstena
+| srp_N_SORT_NAME_RG = TRSTENA
+| srp_N_FULL_NAME_RG = Trstena
+| srp_N_FULL_NAME_ND_RG = Trstena
+| srp_NS_name = Трстена
+| srp_NS_FULL_NAME_RO = Трстена
+| srp_NS_FULL_NAME_ND_RO = Трстена
+| srp_NS_SORT_NAME_RG = ТРСТЕНА
+| srp_NS_FULL_NAME_RG = Трстена
+| srp_NS_FULL_NAME_ND_RG = Трстена
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.9725
  | Lartësia            = 
 }}
-'''Tërstenë''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Tërstenë''' është një [[Fshat Vogel]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lladoc e Poshtëme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLADOCEPOSHTEME
- | FULL_NAME_RO = Lladoc e Poshtëme
- | FULL_NAME_ND_RO=Lladoc e Poshteme
- | SORT_NAME_RG=LLADOCEPOSHTEME
- | FULL_NAME_RG=Lladoc e Poshtëme
- | FULL_NAME_ND_RG=Lladoc e Poshteme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Lladoc e Poshtëme
+| sqi_D_FULL_NAME_RO = Lladoc e Poshtëme
+| sqi_D_FULL_NAME_ND_RO = Lladoc e Poshteme
+| sqi_D_SORT_NAME_RG = LLADOCEPOSHTEME
+| sqi_D_FULL_NAME_RG = Lladoc e Poshtëme
+| sqi_D_FULL_NAME_ND_RG = Lladoc e Poshteme
+| sqi_V_name = Mala e Poshtëme
+| sqi_V_FULL_NAME_RO = Mala e Poshtëme
+| sqi_V_FULL_NAME_ND_RO = Mala e Poshteme
+| sqi_V_SORT_NAME_RG = MALAEPOSHTEME
+| sqi_V_FULL_NAME_RG = Mala e Poshtëme
+| sqi_V_FULL_NAME_ND_RG = Mala e Poshteme
+| srp_N_name = Donja Ladovac
+| srp_N_FULL_NAME_RO = Donja Ladovac
+| srp_N_FULL_NAME_ND_RO = Donja Ladovac
+| srp_N_SORT_NAME_RG = DONJALADOVAC
+| srp_N_FULL_NAME_RG = Donja Ladovac
+| srp_N_FULL_NAME_ND_RG = Donja Ladovac
+| srp_V_name = Donja Mala
+| srp_V_FULL_NAME_RO = Donja Mala
+| srp_V_FULL_NAME_ND_RO = Donja Mala
+| srp_V_SORT_NAME_RG = DONJAMALA
+| srp_V_FULL_NAME_RG = Donja Mala
+| srp_V_FULL_NAME_ND_RG = Donja Mala
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -30,11 +38,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.880729
- | Gjatësia            = 21.248573
+ | Gjerësia            = 42.879809
+ | Gjatësia            = 21.235514
  | Lartësia            = 
 }}
-'''Lladoc e Poshtëme''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Lladoc e Poshtëme''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

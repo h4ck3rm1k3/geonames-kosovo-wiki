@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Manishincë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MANISHINCE
- | FULL_NAME_RO = Manishincë
- | FULL_NAME_ND_RO=Manishince
- | SORT_NAME_RG=MANISHINCE
- | FULL_NAME_RG=Manishincë
- | FULL_NAME_ND_RG=Manishince
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Manishincë
+| sqi_N_FULL_NAME_RO = Manishincë
+| sqi_N_FULL_NAME_ND_RO = Manishince
+| sqi_N_SORT_NAME_RG = MANISHINCE
+| sqi_N_FULL_NAME_RG = Manishincë
+| sqi_N_FULL_NAME_ND_RG = Manishince
+| sqi_V_name = Manishinicë
+| sqi_V_FULL_NAME_RO = Manishinicë Manishinc Manishinca
+| sqi_V_FULL_NAME_ND_RO = Manishinice Manishinc Manishinca
+| sqi_V_SORT_NAME_RG = MANISHINICE MANISHINC MANISHINCA
+| sqi_V_FULL_NAME_RG = Manishinicë Manishinc Manishinca
+| sqi_V_FULL_NAME_ND_RG = Manishinice Manishinc Manishinca
+| srp_N_name = Manišince
+| srp_N_FULL_NAME_RO = Manišince
+| srp_N_FULL_NAME_ND_RO = Manisince
+| srp_N_SORT_NAME_RG = MANISINCE
+| srp_N_FULL_NAME_RG = Manišince
+| srp_N_FULL_NAME_ND_RG = Manisince
+| srp_NS_name = Манишинце
+| srp_NS_FULL_NAME_RO = Манишинце
+| srp_NS_FULL_NAME_ND_RO = Манишинце
+| srp_NS_SORT_NAME_RG = МАНИШИНЦЕ
+| srp_NS_FULL_NAME_RG = Манишинце
+| srp_NS_FULL_NAME_ND_RG = Манишинце
+| srp_V_name = Manjšince
+| srp_V_FULL_NAME_RO = Manjšince
+| srp_V_FULL_NAME_ND_RO = Manjsince
+| srp_V_SORT_NAME_RG = MANJSINCE
+| srp_V_FULL_NAME_RG = Manjšince
+| srp_V_FULL_NAME_ND_RG = Manjsince
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.410278
  | Lartësia            = 
 }}
-'''Manishincë''' është një [[]] në [[Obiliq]] të [[Kosovës]].
+'''Manishincë''' është një [[Fshat]] në [[Obiliq]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

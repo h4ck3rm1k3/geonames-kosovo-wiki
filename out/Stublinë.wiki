@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stublinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STUBLINE
- | FULL_NAME_RO = Stublinë
- | FULL_NAME_ND_RO=Stubline
- | SORT_NAME_RG=STUBLINE
- | FULL_NAME_RG=Stublinë
- | FULL_NAME_ND_RG=Stubline
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Stublinë
+| sqi_D_FULL_NAME_RO = Stublinë
+| sqi_D_FULL_NAME_ND_RO = Stubline
+| sqi_D_SORT_NAME_RG = STUBLINE
+| sqi_D_FULL_NAME_RG = Stublinë
+| sqi_D_FULL_NAME_ND_RG = Stubline
+| sqi_V_name = Stublilnë
+| sqi_V_FULL_NAME_RO = Stublilnë Stubllinë
+| sqi_V_FULL_NAME_ND_RO = Stublilne Stublline
+| sqi_V_SORT_NAME_RG = STUBLILNE STUBLLINE
+| sqi_V_FULL_NAME_RG = Stublilnë Stubllinë
+| sqi_V_FULL_NAME_ND_RG = Stublilne Stublline
+| srp_N_name = Stublina
+| srp_N_FULL_NAME_RO = Stublina
+| srp_N_FULL_NAME_ND_RO = Stublina
+| srp_N_SORT_NAME_RG = STUBLINA
+| srp_N_FULL_NAME_RG = Stublina
+| srp_N_FULL_NAME_ND_RG = Stublina
+| srp_NS_name = Стублина
+| srp_NS_FULL_NAME_RO = Стублина
+| srp_NS_FULL_NAME_ND_RO = Стублина
+| srp_NS_SORT_NAME_RG = СТУБЛИНА
+| srp_NS_FULL_NAME_RG = Стублина
+| srp_NS_FULL_NAME_ND_RG = Стублина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.624722
  | Lartësia            = 
 }}
-'''Stublinë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Stublinë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

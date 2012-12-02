@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Billushë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BILLUSHE
- | FULL_NAME_RO = Billushë
- | FULL_NAME_ND_RO=Billushe
- | SORT_NAME_RG=BILLUSHE
- | FULL_NAME_RG=Billushë
- | FULL_NAME_ND_RG=Billushe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Billushë
+| sqi_N_FULL_NAME_RO = Billushë
+| sqi_N_FULL_NAME_ND_RO = Billushe
+| sqi_N_SORT_NAME_RG = BILLUSHE
+| sqi_N_FULL_NAME_RG = Billushë
+| sqi_N_FULL_NAME_ND_RG = Billushe
+| sqi_V_name = Bilushë
+| sqi_V_FULL_NAME_RO = Bilushë Bilusha Kushtrim Kushtrimi
+| sqi_V_FULL_NAME_ND_RO = Bilushe Bilusha Kushtrim Kushtrimi
+| sqi_V_SORT_NAME_RG = BILUSHE BILUSHA KUSHTRIM KUSHTRIMI
+| sqi_V_FULL_NAME_RG = Bilushë Bilusha Kushtrim Kushtrimi
+| sqi_V_FULL_NAME_ND_RG = Bilushe Bilusha Kushtrim Kushtrimi
+| srp_N_name = Biluša
+| srp_N_FULL_NAME_RO = Biluša
+| srp_N_FULL_NAME_ND_RO = Bilusa
+| srp_N_SORT_NAME_RG = BILUSA
+| srp_N_FULL_NAME_RG = Biluša
+| srp_N_FULL_NAME_ND_RG = Bilusa
+| srp_NS_name = Билуша
+| srp_NS_FULL_NAME_RO = Билуша
+| srp_NS_FULL_NAME_ND_RO = Билуша
+| srp_NS_SORT_NAME_RG = БИЛУША
+| srp_NS_FULL_NAME_RG = Билуша
+| srp_NS_FULL_NAME_ND_RG = Билуша
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.675556
  | Lartësia            = 
 }}
-'''Billushë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Billushë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

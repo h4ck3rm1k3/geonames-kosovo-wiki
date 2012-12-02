@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llugagji
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLUGAGJI
- | FULL_NAME_RO = Llugagji
- | FULL_NAME_ND_RO=Llugagji
- | SORT_NAME_RG=LLUGAGJI
- | FULL_NAME_RG=Llugagji
- | FULL_NAME_ND_RG=Llugagji
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Llugagji
+| sqi_D_FULL_NAME_RO = Llugagji
+| sqi_D_FULL_NAME_ND_RO = Llugagji
+| sqi_D_SORT_NAME_RG = LLUGAGJI
+| sqi_D_FULL_NAME_RG = Llugagji
+| sqi_D_FULL_NAME_ND_RG = Llugagji
+| sqi_V_name = Llugaxhi
+| sqi_V_FULL_NAME_RO = Llugaxhi
+| sqi_V_FULL_NAME_ND_RO = Llugaxhi
+| sqi_V_SORT_NAME_RG = LLUGAXHI
+| sqi_V_FULL_NAME_RG = Llugaxhi
+| sqi_V_FULL_NAME_ND_RG = Llugaxhi
+| srp_N_name = Lugađija
+| srp_N_FULL_NAME_RO = Lugađija
+| srp_N_FULL_NAME_ND_RO = Lugadija
+| srp_N_SORT_NAME_RG = LUGADIJA
+| srp_N_FULL_NAME_RG = Lugađija
+| srp_N_FULL_NAME_ND_RG = Lugadija
+| srp_NS_name = Лугхађија
+| srp_NS_FULL_NAME_RO = Лугхађија
+| srp_NS_FULL_NAME_ND_RO = Лугхађија
+| srp_NS_SORT_NAME_RG = ЛУГХАЂИЈА
+| srp_NS_FULL_NAME_RG = Лугхађија
+| srp_NS_FULL_NAME_ND_RG = Лугхађија
+| srp_V_name = Lukaćija
+| srp_V_FULL_NAME_RO = Lukaćija
+| srp_V_FULL_NAME_ND_RO = Lukacija
+| srp_V_SORT_NAME_RG = LUKACIJA
+| srp_V_FULL_NAME_RG = Lukaćija
+| srp_V_FULL_NAME_ND_RG = Lukacija
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.473056
  | Lartësia            = 
 }}
-'''Llugagji''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Llugagji''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Jabllanicë e Vogël
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JABLLANICEEVOGEL
- | FULL_NAME_RO = Jabllanicë e Vogël
- | FULL_NAME_ND_RO=Jabllanice e Vogel
- | SORT_NAME_RG=JABLLANICEEVOGEL
- | FULL_NAME_RG=Jabllanicë e Vogël
- | FULL_NAME_ND_RG=Jabllanice e Vogel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Jabllanicë e Vogël
+| sqi_N_FULL_NAME_RO = Jabllanicë e Vogël
+| sqi_N_FULL_NAME_ND_RO = Jabllanice e Vogel
+| sqi_N_SORT_NAME_RG = JABLLANICEEVOGEL
+| sqi_N_FULL_NAME_RG = Jabllanicë e Vogël
+| sqi_N_FULL_NAME_ND_RG = Jabllanice e Vogel
+| sqi_V_name = Jabllanica e Vogël
+| sqi_V_FULL_NAME_RO = Jabllanica e Vogël
+| sqi_V_FULL_NAME_ND_RO = Jabllanica e Vogel
+| sqi_V_SORT_NAME_RG = JABLLANICAEVOGEL
+| sqi_V_FULL_NAME_RG = Jabllanica e Vogël
+| sqi_V_FULL_NAME_ND_RG = Jabllanica e Vogel
+| srp_N_name = Mala Jablanica
+| srp_N_FULL_NAME_RO = Mala Jablanica
+| srp_N_FULL_NAME_ND_RO = Mala Jablanica
+| srp_N_SORT_NAME_RG = MALAJABLANICA
+| srp_N_FULL_NAME_RG = Mala Jablanica
+| srp_N_FULL_NAME_ND_RG = Mala Jablanica
+| srp_NS_name = Мала Јабланица
+| srp_NS_FULL_NAME_RO = Мала Јабланица
+| srp_NS_FULL_NAME_ND_RO = Мала Јабланица
+| srp_NS_SORT_NAME_RG = МАЛАЈАБЛАНИЦА
+| srp_NS_FULL_NAME_RG = Мала Јабланица
+| srp_NS_FULL_NAME_ND_RG = Мала Јабланица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.336389
  | Lartësia            = 
 }}
-'''Jabllanicë e Vogël''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Jabllanicë e Vogël''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tërrnav
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TERRNAV
- | FULL_NAME_RO = Tërrnav
- | FULL_NAME_ND_RO=Terrnav
- | SORT_NAME_RG=TERRNAV
- | FULL_NAME_RG=Tërrnav
- | FULL_NAME_ND_RG=Terrnav
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Tërrnav
+| sqi_N_FULL_NAME_RO = Tërrnav
+| sqi_N_FULL_NAME_ND_RO = Terrnav
+| sqi_N_SORT_NAME_RG = TERRNAV
+| sqi_N_FULL_NAME_RG = Tërrnav
+| sqi_N_FULL_NAME_ND_RG = Terrnav
+| sqi_V_name = Tërrnavë
+| sqi_V_FULL_NAME_RO = Tërrnavë Tërnay Tërrnava Shpat Shpati Tërnavë
+| sqi_V_FULL_NAME_ND_RO = Terrnave Ternay Terrnava Shpat Shpati Ternave
+| sqi_V_SORT_NAME_RG = TERRNAVE TERNAY TERRNAVA SHPAT SHPATI TERNAVE
+| sqi_V_FULL_NAME_RG = Tërrnavë Tërnay Tërrnava Shpat Shpati Tërnavë
+| sqi_V_FULL_NAME_ND_RG = Terrnave Ternay Terrnava Shpat Shpati Ternave
+| srp_N_name = Trnava
+| srp_N_FULL_NAME_RO = Trnava
+| srp_N_FULL_NAME_ND_RO = Trnava
+| srp_N_SORT_NAME_RG = TRNAVA
+| srp_N_FULL_NAME_RG = Trnava
+| srp_N_FULL_NAME_ND_RG = Trnava
+| srp_NS_name = Трнава
+| srp_NS_FULL_NAME_RO = Трнава
+| srp_NS_FULL_NAME_ND_RO = Трнава
+| srp_NS_SORT_NAME_RG = ТРНАВА
+| srp_NS_FULL_NAME_RG = Трнава
+| srp_NS_FULL_NAME_ND_RG = Трнава
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.201111
  | Lartësia            = 
 }}
-'''Tërrnav''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Tërrnav''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

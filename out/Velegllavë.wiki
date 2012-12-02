@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Velegllavë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VELEGLLAVE
- | FULL_NAME_RO = Velegllavë
- | FULL_NAME_ND_RO=Velegllave
- | SORT_NAME_RG=VELEGLLAVE
- | FULL_NAME_RG=Velegllavë
- | FULL_NAME_ND_RG=Velegllave
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Velegllavë
+| sqi_D_FULL_NAME_RO = Velegllavë
+| sqi_D_FULL_NAME_ND_RO = Velegllave
+| sqi_D_SORT_NAME_RG = VELEGLLAVE
+| sqi_D_FULL_NAME_RG = Velegllavë
+| sqi_D_FULL_NAME_ND_RG = Velegllave
+| sqi_V_name = Kreshtë
+| sqi_V_FULL_NAME_RO = Kreshtë Velegllava Kreshta
+| sqi_V_FULL_NAME_ND_RO = Kreshte Velegllava Kreshta
+| sqi_V_SORT_NAME_RG = KRESHTE VELEGLLAVA KRESHTA
+| sqi_V_FULL_NAME_RG = Kreshtë Velegllava Kreshta
+| sqi_V_FULL_NAME_ND_RG = Kreshte Velegllava Kreshta
+| srp_N_name = Veljeglava
+| srp_N_FULL_NAME_RO = Veljeglava
+| srp_N_FULL_NAME_ND_RO = Veljeglava
+| srp_N_SORT_NAME_RG = VELJEGLAVA
+| srp_N_FULL_NAME_RG = Veljeglava
+| srp_N_FULL_NAME_ND_RG = Veljeglava
+| srp_NS_name = Вељеглава
+| srp_NS_FULL_NAME_RO = Вељеглава
+| srp_NS_FULL_NAME_ND_RO = Вељеглава
+| srp_NS_SORT_NAME_RG = ВЕЉЕГЛАВА
+| srp_NS_FULL_NAME_RG = Вељеглава
+| srp_NS_FULL_NAME_ND_RG = Вељеглава
+| srp_V_name = Velja Glava
+| srp_V_FULL_NAME_RO = Velja Glava
+| srp_V_FULL_NAME_ND_RO = Velja Glava
+| srp_V_SORT_NAME_RG = VELJAGLAVA
+| srp_V_FULL_NAME_RG = Velja Glava
+| srp_V_FULL_NAME_ND_RG = Velja Glava
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.710278
  | Lartësia            = 
 }}
-'''Velegllavë''' është një [[]] në [[Fushë Kosovë]] të [[Kosovës]].
+'''Velegllavë''' është një [[Fshat Vogel]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Beçuk
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BECUK
- | FULL_NAME_RO = Beçuk
- | FULL_NAME_ND_RO=Becuk
- | SORT_NAME_RG=BECUK
- | FULL_NAME_RG=Beçuk
- | FULL_NAME_ND_RG=Becuk
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Beçuk
+| sqi_D_FULL_NAME_RO = Beçuk
+| sqi_D_FULL_NAME_ND_RO = Becuk
+| sqi_D_SORT_NAME_RG = BECUK
+| sqi_D_FULL_NAME_RG = Beçuk
+| sqi_D_FULL_NAME_ND_RG = Becuk
+| sqi_V_name = Bequk
+| sqi_V_FULL_NAME_RO = Bequk
+| sqi_V_FULL_NAME_ND_RO = Bequk
+| sqi_V_SORT_NAME_RG = BEQUK
+| sqi_V_FULL_NAME_RG = Bequk
+| sqi_V_FULL_NAME_ND_RG = Bequk
+| srp_N_name = Benčuk
+| srp_N_FULL_NAME_RO = Benčuk
+| srp_N_FULL_NAME_ND_RO = Bencuk
+| srp_N_SORT_NAME_RG = BENCUK
+| srp_N_FULL_NAME_RG = Benčuk
+| srp_N_FULL_NAME_ND_RG = Bencuk
+| srp_NS_name = Бенчук
+| srp_NS_FULL_NAME_RO = Бенчук
+| srp_NS_FULL_NAME_ND_RO = Бенчук
+| srp_NS_SORT_NAME_RG = БЕНЧУК
+| srp_NS_FULL_NAME_RG = Бенчук
+| srp_NS_FULL_NAME_ND_RG = Бенчук
+| srp_V_name = Bečuk
+| srp_V_FULL_NAME_RO = Bečuk
+| srp_V_FULL_NAME_ND_RO = Becuk
+| srp_V_SORT_NAME_RG = BECUK
+| srp_V_FULL_NAME_RG = Bečuk
+| srp_V_FULL_NAME_ND_RG = Becuk
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.970833
  | Lartësia            = 
 }}
-'''Beçuk''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Beçuk''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

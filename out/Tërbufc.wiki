@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tërbufc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TERBUFC
- | FULL_NAME_RO = Tërbufc
- | FULL_NAME_ND_RO=Terbufc
- | SORT_NAME_RG=TERBUFC
- | FULL_NAME_RG=Tërbufc
- | FULL_NAME_ND_RG=Terbufc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Tërbufc
+| sqi_D_FULL_NAME_RO = Tërbufc
+| sqi_D_FULL_NAME_ND_RO = Terbufc
+| sqi_D_SORT_NAME_RG = TERBUFC
+| sqi_D_FULL_NAME_RG = Tërbufc
+| sqi_D_FULL_NAME_ND_RG = Terbufc
+| sqi_V_name = Tërbuc
+| sqi_V_FULL_NAME_RO = Tërbuc
+| sqi_V_FULL_NAME_ND_RO = Terbuc
+| sqi_V_SORT_NAME_RG = TERBUC
+| sqi_V_FULL_NAME_RG = Tërbuc
+| sqi_V_FULL_NAME_ND_RG = Terbuc
+| srp_N_name = Trbuvce
+| srp_N_FULL_NAME_RO = Trbuvce
+| srp_N_FULL_NAME_ND_RO = Trbuvce
+| srp_N_SORT_NAME_RG = TRBUVCE
+| srp_N_FULL_NAME_RG = Trbuvce
+| srp_N_FULL_NAME_ND_RG = Trbuvce
+| srp_NS_name = Трбувце
+| srp_NS_FULL_NAME_RO = Трбувце
+| srp_NS_FULL_NAME_ND_RO = Трбувце
+| srp_NS_SORT_NAME_RG = ТРБУВЦЕ
+| srp_NS_FULL_NAME_RG = Трбувце
+| srp_NS_FULL_NAME_ND_RG = Трбувце
+| srp_V_name = Trbovce
+| srp_V_FULL_NAME_RO = Trbovce Turbovce
+| srp_V_FULL_NAME_ND_RO = Trbovce Turbovce
+| srp_V_SORT_NAME_RG = TRBOVCE TURBOVCE
+| srp_V_FULL_NAME_RG = Trbovce Turbovce
+| srp_V_FULL_NAME_ND_RG = Trbovce Turbovce
+| srp_VS_name = Трбовце
+| srp_VS_FULL_NAME_RO = Трбовце Турбовце
+| srp_VS_FULL_NAME_ND_RO = Трбовце Турбовце
+| srp_VS_SORT_NAME_RG = ТРБОВЦЕ ТУРБОВЦЕ
+| srp_VS_FULL_NAME_RG = Трбовце Турбовце
+| srp_VS_FULL_NAME_ND_RG = Трбовце Турбовце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.281693
  | Lartësia            = 
 }}
-'''Tërbufc''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Tërbufc''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

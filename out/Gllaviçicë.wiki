@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gllaviçicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GLLAVICICE
- | FULL_NAME_RO = Gllaviçicë
- | FULL_NAME_ND_RO=Gllavicice
- | SORT_NAME_RG=GLLAVICICE
- | FULL_NAME_RG=Gllaviçicë
- | FULL_NAME_ND_RG=Gllavicice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gllaviçicë
+| sqi_N_FULL_NAME_RO = Gllaviçicë
+| sqi_N_FULL_NAME_ND_RO = Gllavicice
+| sqi_N_SORT_NAME_RG = GLLAVICICE
+| sqi_N_FULL_NAME_RG = Gllaviçicë
+| sqi_N_FULL_NAME_ND_RG = Gllavicice
+| sqi_V_name = Gllavigjicë
+| sqi_V_FULL_NAME_RO = Gllavigjicë
+| sqi_V_FULL_NAME_ND_RO = Gllavigjice
+| sqi_V_SORT_NAME_RG = GLLAVIGJICE
+| sqi_V_FULL_NAME_RG = Gllavigjicë
+| sqi_V_FULL_NAME_ND_RG = Gllavigjice
+| srp_N_name = Glavičica
+| srp_N_FULL_NAME_RO = Glavičica
+| srp_N_FULL_NAME_ND_RO = Glavicica
+| srp_N_SORT_NAME_RG = GLAVICICA
+| srp_N_FULL_NAME_RG = Glavičica
+| srp_N_FULL_NAME_ND_RG = Glavicica
+| srp_NS_name = Главичица
+| srp_NS_FULL_NAME_RO = Главичица
+| srp_NS_FULL_NAME_ND_RO = Главичица
+| srp_NS_SORT_NAME_RG = ГЛАВИЧИЦА
+| srp_NS_FULL_NAME_RG = Главичица
+| srp_NS_FULL_NAME_ND_RG = Главичица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.424444
  | Lartësia            = 
 }}
-'''Gllaviçicë''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Gllaviçicë''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

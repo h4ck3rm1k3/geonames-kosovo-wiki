@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stançiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STANCIQ
- | FULL_NAME_RO = Stançiq
- | FULL_NAME_ND_RO=Stanciq
- | SORT_NAME_RG=STANCIQ
- | FULL_NAME_RG=Stançiq
- | FULL_NAME_ND_RG=Stanciq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Stançiq
+| sqi_N_FULL_NAME_RO = Stançiq
+| sqi_N_FULL_NAME_ND_RO = Stanciq
+| sqi_N_SORT_NAME_RG = STANCIQ
+| sqi_N_FULL_NAME_RG = Stançiq
+| sqi_N_FULL_NAME_ND_RG = Stanciq
+| sqi_V_name = Stançiqi
+| sqi_V_FULL_NAME_RO = Stançiqi
+| sqi_V_FULL_NAME_ND_RO = Stanciqi
+| sqi_V_SORT_NAME_RG = STANCIQI
+| sqi_V_FULL_NAME_RG = Stançiqi
+| sqi_V_FULL_NAME_ND_RG = Stanciqi
+| srp_N_name = Stančić
+| srp_N_FULL_NAME_RO = Stančić
+| srp_N_FULL_NAME_ND_RO = Stancic
+| srp_N_SORT_NAME_RG = STANCIC
+| srp_N_FULL_NAME_RG = Stančić
+| srp_N_FULL_NAME_ND_RG = Stancic
+| srp_NS_name = Станчић
+| srp_NS_FULL_NAME_RO = Станчић
+| srp_NS_FULL_NAME_ND_RO = Станчић
+| srp_NS_SORT_NAME_RG = СТАНЧИЋ
+| srp_NS_FULL_NAME_RG = Станчић
+| srp_NS_FULL_NAME_ND_RG = Станчић
+| std_V_name = Stani
+| std_V_FULL_NAME_RO = Stani
+| std_V_FULL_NAME_ND_RO = Stani
+| std_V_SORT_NAME_RG = STANI
+| std_V_FULL_NAME_RG = Stani
+| std_V_FULL_NAME_ND_RG = Stani
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.518889
  | Lartësia            = 
 }}
-'''Stançiq''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Stançiq''' është një [[Fshat Vogel]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

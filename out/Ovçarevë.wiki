@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ovçarevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      OVCAREVE
- | FULL_NAME_RO = Ovçarevë
- | FULL_NAME_ND_RO=Ovcareve
- | SORT_NAME_RG=OVCAREVE
- | FULL_NAME_RG=Ovçarevë
- | FULL_NAME_ND_RG=Ovcareve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Ovçarevë
+| sqi_D_FULL_NAME_RO = Ovçarevë
+| sqi_D_FULL_NAME_ND_RO = Ovcareve
+| sqi_D_SORT_NAME_RG = OVCAREVE
+| sqi_D_FULL_NAME_RG = Ovçarevë
+| sqi_D_FULL_NAME_ND_RG = Ovcareve
+| sqi_V_name = Ovqarevë
+| sqi_V_FULL_NAME_RO = Ovqarevë Açarevë Aqarevë Oqarevo Aqareva
+| sqi_V_FULL_NAME_ND_RO = Ovqareve Acareve Aqareve Oqarevo Aqareva
+| sqi_V_SORT_NAME_RG = OVQAREVE ACAREVE AQAREVE OQAREVO AQAREVA
+| sqi_V_FULL_NAME_RG = Ovqarevë Açarevë Aqarevë Oqarevo Aqareva
+| sqi_V_FULL_NAME_ND_RG = Ovqareve Acareve Aqareve Oqarevo Aqareva
+| srp_N_name = Ovčarevo
+| srp_N_FULL_NAME_RO = Ovčarevo
+| srp_N_FULL_NAME_ND_RO = Ovcarevo
+| srp_N_SORT_NAME_RG = OVCAREVO
+| srp_N_FULL_NAME_RG = Ovčarevo
+| srp_N_FULL_NAME_ND_RG = Ovcarevo
+| srp_NS_name = Овчарево
+| srp_NS_FULL_NAME_RO = Овчарево
+| srp_NS_FULL_NAME_ND_RO = Овчарево
+| srp_NS_SORT_NAME_RG = ОВЧАРЕВО
+| srp_NS_FULL_NAME_RG = Овчарево
+| srp_NS_FULL_NAME_ND_RG = Овчарево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.716667
  | Lartësia            = 
 }}
-'''Ovçarevë''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Ovçarevë''' është një [[Fshat Vogel]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Radeshë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RADESHE
- | FULL_NAME_RO = Radeshë
- | FULL_NAME_ND_RO=Radeshe
- | SORT_NAME_RG=RADESHE
- | FULL_NAME_RG=Radeshë
- | FULL_NAME_ND_RG=Radeshe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Radeshë
+| sqi_N_FULL_NAME_RO = Radeshë
+| sqi_N_FULL_NAME_ND_RO = Radeshe
+| sqi_N_SORT_NAME_RG = RADESHE
+| sqi_N_FULL_NAME_RG = Radeshë
+| sqi_N_FULL_NAME_ND_RG = Radeshe
+| sqi_V_name = Radesh
+| sqi_V_FULL_NAME_RO = Radesh Radesha Ardesh Ardeshi
+| sqi_V_FULL_NAME_ND_RO = Radesh Radesha Ardesh Ardeshi
+| sqi_V_SORT_NAME_RG = RADESH RADESHA ARDESH ARDESHI
+| sqi_V_FULL_NAME_RG = Radesh Radesha Ardesh Ardeshi
+| sqi_V_FULL_NAME_ND_RG = Radesh Radesha Ardesh Ardeshi
+| srp_N_name = Radeša
+| srp_N_FULL_NAME_RO = Radeša
+| srp_N_FULL_NAME_ND_RO = Radesa
+| srp_N_SORT_NAME_RG = RADESA
+| srp_N_FULL_NAME_RG = Radeša
+| srp_N_FULL_NAME_ND_RG = Radesa
+| srp_NS_name = Радеша
+| srp_NS_FULL_NAME_RO = Радеша
+| srp_NS_FULL_NAME_ND_RO = Радеша
+| srp_NS_SORT_NAME_RG = РАДЕША
+| srp_NS_FULL_NAME_RG = Радеша
+| srp_NS_FULL_NAME_ND_RG = Радеша
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.7
  | Lartësia            = 
 }}
-'''Radeshë''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Radeshë''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

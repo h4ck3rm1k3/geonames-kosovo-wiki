@@ -1,26 +1,40 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llugaxhi
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLUGAXHI
- | FULL_NAME_RO = Llugaxhi
- | FULL_NAME_ND_RO=Llugaxhi
- | SORT_NAME_RG=LLUGAXHI
- | FULL_NAME_RG=Llugaxhi
- | FULL_NAME_ND_RG=Llugaxhi
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Llugaxhi
+| sqi_D_FULL_NAME_RO = Llugaxhi
+| sqi_D_FULL_NAME_ND_RO = Llugaxhi
+| sqi_D_SORT_NAME_RG = LLUGAXHI
+| sqi_D_FULL_NAME_RG = Llugaxhi
+| sqi_D_FULL_NAME_ND_RG = Llugaxhi
+| srp_N_name = Lugađija
+| srp_N_FULL_NAME_RO = Lugađija
+| srp_N_FULL_NAME_ND_RO = Lugadija
+| srp_N_SORT_NAME_RG = LUGADIJA
+| srp_N_FULL_NAME_RG = Lugađija
+| srp_N_FULL_NAME_ND_RG = Lugadija
+| srp_NS_name = Лугађија
+| srp_NS_FULL_NAME_RO = Лугађија
+| srp_NS_FULL_NAME_ND_RO = Лугађија
+| srp_NS_SORT_NAME_RG = ЛУГАЂИЈА
+| srp_NS_FULL_NAME_RG = Лугађија
+| srp_NS_FULL_NAME_ND_RG = Лугађија
+| srp_V_name = Lugadžija
+| srp_V_FULL_NAME_RO = Lugadžija
+| srp_V_FULL_NAME_ND_RO = Lugadzija
+| srp_V_SORT_NAME_RG = LUGADZIJA
+| srp_V_FULL_NAME_RG = Lugadžija
+| srp_V_FULL_NAME_ND_RG = Lugadzija
+| srp_VS_name = Лугаџија
+| srp_VS_FULL_NAME_RO = Лугаџија
+| srp_VS_FULL_NAME_ND_RO = Лугаџија
+| srp_VS_SORT_NAME_RG = ЛУГАЏИЈА
+| srp_VS_FULL_NAME_RG = Лугаџија
+| srp_VS_FULL_NAME_ND_RG = Лугаџија
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Malishevë
+ | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +44,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.488611
- | Gjatësia            = 21.173056
+ | Gjerësia            = 42.633056
+ | Gjatësia            = 20.439444
  | Lartësia            = 
 }}
-'''Llugaxhi''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Llugaxhi''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Malishevë}}
+{{Komuna Pejë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Malishevë]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
 [[Kategoria:Vendbanime në Kosovës]]

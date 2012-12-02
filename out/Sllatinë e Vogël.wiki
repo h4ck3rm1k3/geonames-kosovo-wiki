@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sllatinë e Vogël
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SLLATINEEVOGEL
- | FULL_NAME_RO = Sllatinë e Vogël
- | FULL_NAME_ND_RO=Sllatine e Vogel
- | SORT_NAME_RG=SLLATINEEVOGEL
- | FULL_NAME_RG=Sllatinë e Vogël
- | FULL_NAME_ND_RG=Sllatine e Vogel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sllatinë e Vogël
+| sqi_N_FULL_NAME_RO = Sllatinë e Vogël
+| sqi_N_FULL_NAME_ND_RO = Sllatine e Vogel
+| sqi_N_SORT_NAME_RG = SLLATINEEVOGEL
+| sqi_N_FULL_NAME_RG = Sllatinë e Vogël
+| sqi_N_FULL_NAME_ND_RG = Sllatine e Vogel
+| sqi_V_name = Albana e Vogël
+| sqi_V_FULL_NAME_RO = Albana e Vogël Sllatina e Vogël
+| sqi_V_FULL_NAME_ND_RO = Albana e Vogel Sllatina e Vogel
+| sqi_V_SORT_NAME_RG = ALBANAEVOGEL SLLATINAEVOGEL
+| sqi_V_FULL_NAME_RG = Albana e Vogël Sllatina e Vogël
+| sqi_V_FULL_NAME_ND_RG = Albana e Vogel Sllatina e Vogel
+| srp_N_name = Mala Slatina
+| srp_N_FULL_NAME_RO = Mala Slatina
+| srp_N_FULL_NAME_ND_RO = Mala Slatina
+| srp_N_SORT_NAME_RG = MALASLATINA
+| srp_N_FULL_NAME_RG = Mala Slatina
+| srp_N_FULL_NAME_ND_RG = Mala Slatina
+| srp_NS_name = Мала Слатина
+| srp_NS_FULL_NAME_RO = Мала Слатина
+| srp_NS_FULL_NAME_ND_RO = Мала Слатина
+| srp_NS_SORT_NAME_RG = МАЛАСЛАТИНА
+| srp_NS_FULL_NAME_RG = Мала Слатина
+| srp_NS_FULL_NAME_ND_RG = Мала Слатина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.028113
  | Lartësia            = 
 }}
-'''Sllatinë e Vogël''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
+'''Sllatinë e Vogël''' është një [[Fshat]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

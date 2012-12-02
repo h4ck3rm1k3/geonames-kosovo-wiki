@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Capar
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CAPAR
- | FULL_NAME_RO = Capar
- | FULL_NAME_ND_RO=Capar
- | SORT_NAME_RG=CAPAR
- | FULL_NAME_RG=Capar
- | FULL_NAME_ND_RG=Capar
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Capar
+| sqi_D_FULL_NAME_RO = Capar
+| sqi_D_FULL_NAME_ND_RO = Capar
+| sqi_D_SORT_NAME_RG = CAPAR
+| sqi_D_FULL_NAME_RG = Capar
+| sqi_D_FULL_NAME_ND_RG = Capar
+| sqi_V_name = Capari
+| sqi_V_FULL_NAME_RO = Capari
+| sqi_V_FULL_NAME_ND_RO = Capari
+| sqi_V_SORT_NAME_RG = CAPARI
+| sqi_V_FULL_NAME_RG = Capari
+| sqi_V_FULL_NAME_ND_RG = Capari
+| srp_N_name = Sapar
+| srp_N_FULL_NAME_RO = Sapar
+| srp_N_FULL_NAME_ND_RO = Sapar
+| srp_N_SORT_NAME_RG = SAPAR
+| srp_N_FULL_NAME_RG = Sapar
+| srp_N_FULL_NAME_ND_RG = Sapar
+| srp_NS_name = Сапар
+| srp_NS_FULL_NAME_RO = Сапар
+| srp_NS_FULL_NAME_ND_RO = Сапар
+| srp_NS_SORT_NAME_RG = САПАР
+| srp_NS_FULL_NAME_RG = Сапар
+| srp_NS_FULL_NAME_ND_RG = Сапар
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.548333
  | Lartësia            = 
 }}
-'''Capar''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Capar''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stranë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STRANE
- | FULL_NAME_RO = Stranë
- | FULL_NAME_ND_RO=Strane
- | SORT_NAME_RG=STRANE
- | FULL_NAME_RG=Stranë
- | FULL_NAME_ND_RG=Strane
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Stranë
+| sqi_N_FULL_NAME_RO = Stranë
+| sqi_N_FULL_NAME_ND_RO = Strane
+| sqi_N_SORT_NAME_RG = STRANE
+| sqi_N_FULL_NAME_RG = Stranë
+| sqi_N_FULL_NAME_ND_RG = Strane
+| srp_N_name = Strana
+| srp_N_FULL_NAME_RO = Strana
+| srp_N_FULL_NAME_ND_RO = Strana
+| srp_N_SORT_NAME_RG = STRANA
+| srp_N_FULL_NAME_RG = Strana
+| srp_N_FULL_NAME_ND_RG = Strana
+| srp_NS_name = Страна
+| srp_NS_FULL_NAME_RO = Страна
+| srp_NS_FULL_NAME_ND_RO = Страна
+| srp_NS_SORT_NAME_RG = СТРАНА
+| srp_NS_FULL_NAME_RG = Страна
+| srp_NS_FULL_NAME_ND_RG = Страна
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.917222
  | Lartësia            = 
 }}
-'''Stranë''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Stranë''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

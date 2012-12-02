@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Akrashticë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      AKRASHTICE
- | FULL_NAME_RO = Akrashticë
- | FULL_NAME_ND_RO=Akrashtice
- | SORT_NAME_RG=AKRASHTICE
- | FULL_NAME_RG=Akrashticë
- | FULL_NAME_ND_RG=Akrashtice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Akrashticë
+| sqi_N_FULL_NAME_RO = Akrashticë
+| sqi_N_FULL_NAME_ND_RO = Akrashtice
+| sqi_N_SORT_NAME_RG = AKRASHTICE
+| sqi_N_FULL_NAME_RG = Akrashticë
+| sqi_N_FULL_NAME_ND_RG = Akrashtice
+| sqi_V_name = Okrashticë
+| sqi_V_FULL_NAME_RO = Okrashticë
+| sqi_V_FULL_NAME_ND_RO = Okrashtice
+| sqi_V_SORT_NAME_RG = OKRASHTICE
+| sqi_V_FULL_NAME_RG = Okrashticë
+| sqi_V_FULL_NAME_ND_RG = Okrashtice
+| srp_N_name = Okraštica
+| srp_N_FULL_NAME_RO = Okraštica
+| srp_N_FULL_NAME_ND_RO = Okrastica
+| srp_N_SORT_NAME_RG = OKRASTICA
+| srp_N_FULL_NAME_RG = Okraštica
+| srp_N_FULL_NAME_ND_RG = Okrastica
+| srp_NS_name = Окраштица
+| srp_NS_FULL_NAME_RO = Окраштица
+| srp_NS_FULL_NAME_ND_RO = Окраштица
+| srp_NS_SORT_NAME_RG = ОКРАШТИЦА
+| srp_NS_FULL_NAME_RG = Окраштица
+| srp_NS_FULL_NAME_ND_RG = Окраштица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.909444
  | Lartësia            = 
 }}
-'''Akrashticë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Akrashticë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

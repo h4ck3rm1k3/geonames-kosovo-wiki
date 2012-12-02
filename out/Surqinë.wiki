@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Surqinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SURQINE
- | FULL_NAME_RO = Surqinë
- | FULL_NAME_ND_RO=Surqine
- | SORT_NAME_RG=SURQINE
- | FULL_NAME_RG=Surqinë
- | FULL_NAME_ND_RG=Surqine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Surqinë
+| sqi_N_FULL_NAME_RO = Surqinë
+| sqi_N_FULL_NAME_ND_RO = Surqine
+| sqi_N_SORT_NAME_RG = SURQINE
+| sqi_N_FULL_NAME_RG = Surqinë
+| sqi_N_FULL_NAME_ND_RG = Surqine
+| sqi_V_name = Svrcina
+| sqi_V_FULL_NAME_RO = Svrcina
+| sqi_V_FULL_NAME_ND_RO = Svrcina
+| sqi_V_SORT_NAME_RG = SVRCINA
+| sqi_V_FULL_NAME_RG = Svrcina
+| sqi_V_FULL_NAME_ND_RG = Svrcina
+| srp_N_name = Svrčina
+| srp_N_FULL_NAME_RO = Svrčina
+| srp_N_FULL_NAME_ND_RO = Svrcina
+| srp_N_SORT_NAME_RG = SVRCINA
+| srp_N_FULL_NAME_RG = Svrčina
+| srp_N_FULL_NAME_ND_RG = Svrcina
+| srp_NS_name = Сврчина
+| srp_NS_FULL_NAME_RO = Сврчина
+| srp_NS_FULL_NAME_ND_RO = Сврчина
+| srp_NS_SORT_NAME_RG = СВРЧИНА
+| srp_NS_FULL_NAME_RG = Сврчина
+| srp_NS_FULL_NAME_ND_RG = Сврчина
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.180278
  | Lartësia            = 
 }}
-'''Surqinë''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Surqinë''' është një [[Fshat Vogel]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

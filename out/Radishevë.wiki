@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Radishevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RADISHEVE
- | FULL_NAME_RO = Radishevë
- | FULL_NAME_ND_RO=Radisheve
- | SORT_NAME_RG=RADISHEVE
- | FULL_NAME_RG=Radishevë
- | FULL_NAME_ND_RG=Radisheve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Radishevë
+| sqi_N_FULL_NAME_RO = Radishevë
+| sqi_N_FULL_NAME_ND_RO = Radisheve
+| sqi_N_SORT_NAME_RG = RADISHEVE
+| sqi_N_FULL_NAME_RG = Radishevë
+| sqi_N_FULL_NAME_ND_RG = Radisheve
+| srp_N_name = Radiševo
+| srp_N_FULL_NAME_RO = Radiševo
+| srp_N_FULL_NAME_ND_RO = Radisevo
+| srp_N_SORT_NAME_RG = RADISEVO
+| srp_N_FULL_NAME_RG = Radiševo
+| srp_N_FULL_NAME_ND_RG = Radisevo
+| srp_NS_name = Радишево
+| srp_NS_FULL_NAME_RO = Радишево
+| srp_NS_FULL_NAME_ND_RO = Радишево
+| srp_NS_SORT_NAME_RG = РАДИШЕВО
+| srp_NS_FULL_NAME_RG = Радишево
+| srp_NS_FULL_NAME_ND_RG = Радишево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.696111
  | Lartësia            = 
 }}
-'''Radishevë''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Radishevë''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

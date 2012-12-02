@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Livadicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LIVADICE
- | FULL_NAME_RO = Livadicë
- | FULL_NAME_ND_RO=Livadice
- | SORT_NAME_RG=LIVADICE
- | FULL_NAME_RG=Livadicë
- | FULL_NAME_ND_RG=Livadice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Livadicë
+| sqi_N_FULL_NAME_RO = Livadicë
+| sqi_N_FULL_NAME_ND_RO = Livadice
+| sqi_N_SORT_NAME_RG = LIVADICE
+| sqi_N_FULL_NAME_RG = Livadicë
+| sqi_N_FULL_NAME_ND_RG = Livadice
+| sqi_V_name = Livadhi
+| sqi_V_FULL_NAME_RO = Livadhi Livadhia Livadhia e Poshtme
+| sqi_V_FULL_NAME_ND_RO = Livadhi Livadhia Livadhia e Poshtme
+| sqi_V_SORT_NAME_RG = LIVADHI LIVADHIA LIVADHIAEPOSHTME
+| sqi_V_FULL_NAME_RG = Livadhi Livadhia Livadhia e Poshtme
+| sqi_V_FULL_NAME_ND_RG = Livadhi Livadhia Livadhia e Poshtme
+| srp_N_name = Livadica
+| srp_N_FULL_NAME_RO = Livadica
+| srp_N_FULL_NAME_ND_RO = Livadica
+| srp_N_SORT_NAME_RG = LIVADICA
+| srp_N_FULL_NAME_RG = Livadica
+| srp_N_FULL_NAME_ND_RG = Livadica
+| srp_NS_name = Ливадица
+| srp_NS_FULL_NAME_RO = Ливадица
+| srp_NS_FULL_NAME_ND_RO = Ливадица
+| srp_NS_SORT_NAME_RG = ЛИВАДИЦА
+| srp_NS_FULL_NAME_RG = Ливадица
+| srp_NS_FULL_NAME_ND_RG = Ливадица
+| srp_V_name = Livadce
+| srp_V_FULL_NAME_RO = Livadce
+| srp_V_FULL_NAME_ND_RO = Livadce
+| srp_V_SORT_NAME_RG = LIVADCE
+| srp_V_FULL_NAME_RG = Livadce
+| srp_V_FULL_NAME_ND_RG = Livadce
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.226667
  | Lartësia            = 
 }}
-'''Livadicë''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Livadicë''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

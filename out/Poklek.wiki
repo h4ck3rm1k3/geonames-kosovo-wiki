@@ -1,22 +1,48 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Poklek
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POKLEK
- | FULL_NAME_RO = Poklek
- | FULL_NAME_ND_RO=Poklek
- | SORT_NAME_RG=POKLEK
- | FULL_NAME_RG=Poklek
- | FULL_NAME_ND_RG=Poklek
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Poklek
+| sqi_D_FULL_NAME_RO = Poklek
+| sqi_D_FULL_NAME_ND_RO = Poklek
+| sqi_D_SORT_NAME_RG = POKLEK
+| sqi_D_FULL_NAME_RG = Poklek
+| sqi_D_FULL_NAME_ND_RG = Poklek
+| sqi_V_name = Plojë
+| sqi_V_FULL_NAME_RO = Plojë Poklek i Vjetër
+| sqi_V_FULL_NAME_ND_RO = Ploje Poklek i Vjeter
+| sqi_V_SORT_NAME_RG = PLOJE POKLEKIVJETER
+| sqi_V_FULL_NAME_RG = Plojë Poklek i Vjetër
+| sqi_V_FULL_NAME_ND_RG = Ploje Poklek i Vjeter
+| srp_N_name = Poklek
+| srp_N_FULL_NAME_RO = Poklek
+| srp_N_FULL_NAME_ND_RO = Poklek
+| srp_N_SORT_NAME_RG = POKLEK
+| srp_N_FULL_NAME_RG = Poklek
+| srp_N_FULL_NAME_ND_RG = Poklek
+| srp_NS_name = Поклек
+| srp_NS_FULL_NAME_RO = Поклек
+| srp_NS_FULL_NAME_ND_RO = Поклек
+| srp_NS_SORT_NAME_RG = ПОКЛЕК
+| srp_NS_FULL_NAME_RG = Поклек
+| srp_NS_FULL_NAME_ND_RG = Поклек
+| srp_V_name = Stari Poklek
+| srp_V_FULL_NAME_RO = Stari Poklek
+| srp_V_FULL_NAME_ND_RO = Stari Poklek
+| srp_V_SORT_NAME_RG = STARIPOKLEK
+| srp_V_FULL_NAME_RG = Stari Poklek
+| srp_V_FULL_NAME_ND_RG = Stari Poklek
+| srp_VS_name = Стари Поклек
+| srp_VS_FULL_NAME_RO = Стари Поклек
+| srp_VS_FULL_NAME_ND_RO = Стари Поклек
+| srp_VS_SORT_NAME_RG = СТАРИПОКЛЕК
+| srp_VS_FULL_NAME_RG = Стари Поклек
+| srp_VS_FULL_NAME_ND_RG = Стари Поклек
+| std_V_name = Pokleku
+| std_V_FULL_NAME_RO = Pokleku Ploja
+| std_V_FULL_NAME_ND_RO = Pokleku Ploja
+| std_V_SORT_NAME_RG = POKLEKU PLOJA
+| std_V_FULL_NAME_RG = Pokleku Ploja
+| std_V_FULL_NAME_ND_RG = Pokleku Ploja
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +60,7 @@
  | Gjatësia            = 20.913056
  | Lartësia            = 
 }}
-'''Poklek''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Poklek''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

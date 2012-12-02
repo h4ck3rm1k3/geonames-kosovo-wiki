@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prelloc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PRELLOC
- | FULL_NAME_RO = Prelloc
- | FULL_NAME_ND_RO=Prelloc
- | SORT_NAME_RG=PRELLOC
- | FULL_NAME_RG=Prelloc
- | FULL_NAME_ND_RG=Prelloc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Prelloc
+| sqi_N_FULL_NAME_RO = Prelloc
+| sqi_N_FULL_NAME_ND_RO = Prelloc
+| sqi_N_SORT_NAME_RG = PRELLOC
+| sqi_N_FULL_NAME_RG = Prelloc
+| sqi_N_FULL_NAME_ND_RG = Prelloc
+| sqi_V_name = Prellovc
+| sqi_V_FULL_NAME_RO = Prellovc
+| sqi_V_FULL_NAME_ND_RO = Prellovc
+| sqi_V_SORT_NAME_RG = PRELLOVC
+| sqi_V_FULL_NAME_RG = Prellovc
+| sqi_V_FULL_NAME_ND_RG = Prellovc
+| srp_N_name = Prelovac
+| srp_N_FULL_NAME_RO = Prelovac
+| srp_N_FULL_NAME_ND_RO = Prelovac
+| srp_N_SORT_NAME_RG = PRELOVAC
+| srp_N_FULL_NAME_RG = Prelovac
+| srp_N_FULL_NAME_ND_RG = Prelovac
+| srp_NS_name = Преловац
+| srp_NS_FULL_NAME_RO = Преловац
+| srp_NS_FULL_NAME_ND_RO = Преловац
+| srp_NS_SORT_NAME_RG = ПРЕЛОВАЦ
+| srp_NS_FULL_NAME_RG = Преловац
+| srp_NS_FULL_NAME_ND_RG = Преловац
+| std_V_name = Prelovce
+| std_V_FULL_NAME_RO = Prelovce
+| std_V_FULL_NAME_ND_RO = Prelovce
+| std_V_SORT_NAME_RG = PRELOVCE
+| std_V_FULL_NAME_RG = Prelovce
+| std_V_FULL_NAME_ND_RG = Prelovce
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.890278
  | Lartësia            = 
 }}
-'''Prelloc''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Prelloc''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kopiliq i Poshtëm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOPILIQIPOSHTEM
- | FULL_NAME_RO = Kopiliq i Poshtëm
- | FULL_NAME_ND_RO=Kopiliq i Poshtem
- | SORT_NAME_RG=KOPILIQIPOSHTEM
- | FULL_NAME_RG=Kopiliq i Poshtëm
- | FULL_NAME_ND_RG=Kopiliq i Poshtem
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kopiliq i Poshtëm
+| sqi_N_FULL_NAME_RO = Kopiliq i Poshtëm
+| sqi_N_FULL_NAME_ND_RO = Kopiliq i Poshtem
+| sqi_N_SORT_NAME_RG = KOPILIQIPOSHTEM
+| sqi_N_FULL_NAME_RG = Kopiliq i Poshtëm
+| sqi_N_FULL_NAME_ND_RG = Kopiliq i Poshtem
+| sqi_V_name = Obili i Ultë
+| sqi_V_FULL_NAME_RO = Obili i Ultë Obliqi i Poshtëm
+| sqi_V_FULL_NAME_ND_RO = Obili i Ulte Obliqi i Poshtem
+| sqi_V_SORT_NAME_RG = OBILIIULTE OBLIQIIPOSHTEM
+| sqi_V_FULL_NAME_RG = Obili i Ultë Obliqi i Poshtëm
+| sqi_V_FULL_NAME_ND_RG = Obili i Ulte Obliqi i Poshtem
+| srp_N_name = Donji Obilić
+| srp_N_FULL_NAME_RO = Donji Obilić
+| srp_N_FULL_NAME_ND_RO = Donji Obilic
+| srp_N_SORT_NAME_RG = DONJIOBILIC
+| srp_N_FULL_NAME_RG = Donji Obilić
+| srp_N_FULL_NAME_ND_RG = Donji Obilic
+| srp_NS_name = Доњи Обилић
+| srp_NS_FULL_NAME_RO = Доњи Обилић
+| srp_NS_FULL_NAME_ND_RO = Доњи Обилић
+| srp_NS_SORT_NAME_RG = ДОЊИОБИЛИЋ
+| srp_NS_FULL_NAME_RG = Доњи Обилић
+| srp_NS_FULL_NAME_ND_RG = Доњи Обилић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.713889
  | Lartësia            = 
 }}
-'''Kopiliq i Poshtëm''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Kopiliq i Poshtëm''' është një [[Fshat Vogel]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

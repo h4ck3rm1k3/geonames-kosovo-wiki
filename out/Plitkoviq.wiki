@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Plitkoviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PLITKOVIQ
- | FULL_NAME_RO = Plitkoviq
- | FULL_NAME_ND_RO=Plitkoviq
- | SORT_NAME_RG=PLITKOVIQ
- | FULL_NAME_RG=Plitkoviq
- | FULL_NAME_ND_RG=Plitkoviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Plitkoviq
+| sqi_N_FULL_NAME_RO = Plitkoviq
+| sqi_N_FULL_NAME_ND_RO = Plitkoviq
+| sqi_N_SORT_NAME_RG = PLITKOVIQ
+| sqi_N_FULL_NAME_RG = Plitkoviq
+| sqi_N_FULL_NAME_ND_RG = Plitkoviq
+| sqi_V_name = Plidkoviçi
+| sqi_V_FULL_NAME_RO = Plidkoviçi
+| sqi_V_FULL_NAME_ND_RO = Plidkovici
+| sqi_V_SORT_NAME_RG = PLIDKOVICI
+| sqi_V_FULL_NAME_RG = Plidkoviçi
+| sqi_V_FULL_NAME_ND_RG = Plidkovici
+| srp_N_name = Plitković
+| srp_N_FULL_NAME_RO = Plitković
+| srp_N_FULL_NAME_ND_RO = Plitkovic
+| srp_N_SORT_NAME_RG = PLITKOVIC
+| srp_N_FULL_NAME_RG = Plitković
+| srp_N_FULL_NAME_ND_RG = Plitkovic
+| srp_NS_name = Плитковић
+| srp_NS_FULL_NAME_RO = Плитковић
+| srp_NS_FULL_NAME_ND_RO = Плитковић
+| srp_NS_SORT_NAME_RG = ПЛИТКОВИЋ
+| srp_NS_FULL_NAME_RG = Плитковић
+| srp_NS_FULL_NAME_ND_RG = Плитковић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.286667
  | Lartësia            = 
 }}
-'''Plitkoviq''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Plitkoviq''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

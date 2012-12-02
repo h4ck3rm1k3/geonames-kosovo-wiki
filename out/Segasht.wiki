@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Segasht
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SEGASHT
- | FULL_NAME_RO = Segasht
- | FULL_NAME_ND_RO=Segasht
- | SORT_NAME_RG=SEGASHT
- | FULL_NAME_RG=Segasht
- | FULL_NAME_ND_RG=Segasht
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Segasht
+| sqi_D_FULL_NAME_RO = Segasht
+| sqi_D_FULL_NAME_ND_RO = Segasht
+| sqi_D_SORT_NAME_RG = SEGASHT
+| sqi_D_FULL_NAME_RG = Segasht
+| sqi_D_FULL_NAME_ND_RG = Segasht
+| srp_N_name = Segaš
+| srp_N_FULL_NAME_RO = Segaš
+| srp_N_FULL_NAME_ND_RO = Segas
+| srp_N_SORT_NAME_RG = SEGAS
+| srp_N_FULL_NAME_RG = Segaš
+| srp_N_FULL_NAME_ND_RG = Segas
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +30,7 @@
  | Gjatësia            = 21.078056
  | Lartësia            = 
 }}
-'''Segasht''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Segasht''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

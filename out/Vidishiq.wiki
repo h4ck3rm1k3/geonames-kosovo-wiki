@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vidishiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VIDISHIQ
- | FULL_NAME_RO = Vidishiq
- | FULL_NAME_ND_RO=Vidishiq
- | SORT_NAME_RG=VIDISHIQ
- | FULL_NAME_RG=Vidishiq
- | FULL_NAME_ND_RG=Vidishiq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vidishiq
+| sqi_N_FULL_NAME_RO = Vidishiq
+| sqi_N_FULL_NAME_ND_RO = Vidishiq
+| sqi_N_SORT_NAME_RG = VIDISHIQ
+| sqi_N_FULL_NAME_RG = Vidishiq
+| sqi_N_FULL_NAME_ND_RG = Vidishiq
+| srp_N_name = Vidušić
+| srp_N_FULL_NAME_RO = Vidušić
+| srp_N_FULL_NAME_ND_RO = Vidusic
+| srp_N_SORT_NAME_RG = VIDUSIC
+| srp_N_FULL_NAME_RG = Vidušić
+| srp_N_FULL_NAME_ND_RG = Vidusic
+| srp_NS_name = Видушић
+| srp_NS_FULL_NAME_RO = Видушић
+| srp_NS_FULL_NAME_ND_RO = Видушић
+| srp_NS_SORT_NAME_RG = ВИДУШИЋ
+| srp_NS_FULL_NAME_RG = Видушић
+| srp_NS_FULL_NAME_ND_RG = Видушић
+| srp_V_name = Vitušić
+| srp_V_FULL_NAME_RO = Vitušić
+| srp_V_FULL_NAME_ND_RO = Vitusic
+| srp_V_SORT_NAME_RG = VITUSIC
+| srp_V_FULL_NAME_RG = Vitušić
+| srp_V_FULL_NAME_ND_RG = Vitusic
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.949444
  | Lartësia            = 
 }}
-'''Vidishiq''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Vidishiq''' është një [[Fshat Vogel]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

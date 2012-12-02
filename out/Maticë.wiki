@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Maticë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MATICE
- | FULL_NAME_RO = Maticë
- | FULL_NAME_ND_RO=Matice
- | SORT_NAME_RG=MATICE
- | FULL_NAME_RG=Maticë
- | FULL_NAME_ND_RG=Matice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Maticë
+| sqi_N_FULL_NAME_RO = Maticë
+| sqi_N_FULL_NAME_ND_RO = Matice
+| sqi_N_SORT_NAME_RG = MATICE
+| sqi_N_FULL_NAME_RG = Maticë
+| sqi_N_FULL_NAME_ND_RG = Matice
+| srp_N_name = Matica
+| srp_N_FULL_NAME_RO = Matica
+| srp_N_FULL_NAME_ND_RO = Matica
+| srp_N_SORT_NAME_RG = MATICA
+| srp_N_FULL_NAME_RG = Matica
+| srp_N_FULL_NAME_ND_RG = Matica
+| srp_NS_name = Матица
+| srp_NS_FULL_NAME_RO = Матица
+| srp_NS_FULL_NAME_ND_RO = Матица
+| srp_NS_SORT_NAME_RG = МАТИЦА
+| srp_NS_FULL_NAME_RG = Матица
+| srp_NS_FULL_NAME_ND_RG = Матица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.819444
  | Lartësia            = 
 }}
-'''Maticë''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Maticë''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

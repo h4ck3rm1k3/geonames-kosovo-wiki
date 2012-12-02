@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Biti e Poshtme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BITIEPOSHTME
- | FULL_NAME_RO = Biti e Poshtme
- | FULL_NAME_ND_RO=Biti e Poshtme
- | SORT_NAME_RG=BITIEPOSHTME
- | FULL_NAME_RG=Biti e Poshtme
- | FULL_NAME_ND_RG=Biti e Poshtme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Biti e Poshtme
+| sqi_N_FULL_NAME_RO = Biti e Poshtme
+| sqi_N_FULL_NAME_ND_RO = Biti e Poshtme
+| sqi_N_SORT_NAME_RG = BITIEPOSHTME
+| sqi_N_FULL_NAME_RG = Biti e Poshtme
+| sqi_N_FULL_NAME_ND_RG = Biti e Poshtme
+| sqi_V_name = Biti e Poshtëme
+| sqi_V_FULL_NAME_RO = Biti e Poshtëme Bitia e Poshtëme
+| sqi_V_FULL_NAME_ND_RO = Biti e Poshteme Bitia e Poshteme
+| sqi_V_SORT_NAME_RG = BITIEPOSHTEME BITIAEPOSHTEME
+| sqi_V_FULL_NAME_RG = Biti e Poshtëme Bitia e Poshtëme
+| sqi_V_FULL_NAME_ND_RG = Biti e Poshteme Bitia e Poshteme
+| srp_N_name = Donja Bitinja
+| srp_N_FULL_NAME_RO = Donja Bitinja
+| srp_N_FULL_NAME_ND_RO = Donja Bitinja
+| srp_N_SORT_NAME_RG = DONJABITINJA
+| srp_N_FULL_NAME_RG = Donja Bitinja
+| srp_N_FULL_NAME_ND_RG = Donja Bitinja
+| srp_NS_name = Доња Битиња
+| srp_NS_FULL_NAME_RO = Доња Битиња
+| srp_NS_FULL_NAME_ND_RO = Доња Битиња
+| srp_NS_SORT_NAME_RG = ДОЊАБИТИЊА
+| srp_NS_FULL_NAME_RG = Доња Битиња
+| srp_NS_FULL_NAME_ND_RG = Доња Битиња
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.043056
  | Lartësia            = 
 }}
-'''Biti e Poshtme''' është një [[]] në [[Shtërpcë]] të [[Kosovës]].
+'''Biti e Poshtme''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

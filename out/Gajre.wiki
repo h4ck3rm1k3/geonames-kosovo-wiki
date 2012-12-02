@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gajre
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GAJRE
- | FULL_NAME_RO = Gajre
- | FULL_NAME_ND_RO=Gajre
- | SORT_NAME_RG=GAJRE
- | FULL_NAME_RG=Gajre
- | FULL_NAME_ND_RG=Gajre
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gajrë
+| sqi_D_FULL_NAME_RO = Gajrë
+| sqi_D_FULL_NAME_ND_RO = Gajre
+| sqi_D_SORT_NAME_RG = GAJRE
+| sqi_D_FULL_NAME_RG = Gajrë
+| sqi_D_FULL_NAME_ND_RG = Gajre
+| sqi_N_name = Gajre
+| sqi_N_FULL_NAME_RO = Gajre
+| sqi_N_FULL_NAME_ND_RO = Gajre
+| sqi_N_SORT_NAME_RG = GAJRE
+| sqi_N_FULL_NAME_RG = Gajre
+| sqi_N_FULL_NAME_ND_RG = Gajre
+| srp_N_name = Gajre
+| srp_N_FULL_NAME_RO = Gajre
+| srp_N_FULL_NAME_ND_RO = Gajre
+| srp_N_SORT_NAME_RG = GAJRE
+| srp_N_FULL_NAME_RG = Gajre
+| srp_N_FULL_NAME_ND_RG = Gajre
+| srp_NS_name = Гајре
+| srp_NS_FULL_NAME_RO = Гајре
+| srp_NS_FULL_NAME_ND_RO = Гајре
+| srp_NS_SORT_NAME_RG = ГАЈРЕ
+| srp_NS_FULL_NAME_RG = Гајре
+| srp_NS_FULL_NAME_ND_RG = Гајре
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.251389
  | Lartësia            = 
 }}
-'''Gajre''' është një [[]] në [[Klinë]] të [[Kosovës]].
+'''Gajre''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

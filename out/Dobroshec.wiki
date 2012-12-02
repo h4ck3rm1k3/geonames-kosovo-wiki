@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dobroshec
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DOBROSHEC
- | FULL_NAME_RO = Dobroshec
- | FULL_NAME_ND_RO=Dobroshec
- | SORT_NAME_RG=DOBROSHEC
- | FULL_NAME_RG=Dobroshec
- | FULL_NAME_ND_RG=Dobroshec
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dobroshec
+| sqi_N_FULL_NAME_RO = Dobroshec
+| sqi_N_FULL_NAME_ND_RO = Dobroshec
+| sqi_N_SORT_NAME_RG = DOBROSHEC
+| sqi_N_FULL_NAME_RG = Dobroshec
+| sqi_N_FULL_NAME_ND_RG = Dobroshec
+| sqi_V_name = Dobroshefc
+| sqi_V_FULL_NAME_RO = Dobroshefc Dobrasheci Dritani Dritan Dobrashec
+| sqi_V_FULL_NAME_ND_RO = Dobroshefc Dobrasheci Dritani Dritan Dobrashec
+| sqi_V_SORT_NAME_RG = DOBROSHEFC DOBRASHECI DRITANI DRITAN DOBRASHEC
+| sqi_V_FULL_NAME_RG = Dobroshefc Dobrasheci Dritani Dritan Dobrashec
+| sqi_V_FULL_NAME_ND_RG = Dobroshefc Dobrasheci Dritani Dritan Dobrashec
+| srp_N_name = Dobroševac
+| srp_N_FULL_NAME_RO = Dobroševac
+| srp_N_FULL_NAME_ND_RO = Dobrosevac
+| srp_N_SORT_NAME_RG = DOBROSEVAC
+| srp_N_FULL_NAME_RG = Dobroševac
+| srp_N_FULL_NAME_ND_RG = Dobrosevac
+| srp_NS_name = Доброшевац
+| srp_NS_FULL_NAME_RO = Доброшевац
+| srp_NS_FULL_NAME_ND_RO = Доброшевац
+| srp_NS_SORT_NAME_RG = ДОБРОШЕВАЦ
+| srp_NS_FULL_NAME_RG = Доброшевац
+| srp_NS_FULL_NAME_ND_RG = Доброшевац
+| srp_V_name = Dobroševci
+| srp_V_FULL_NAME_RO = Dobroševci
+| srp_V_FULL_NAME_ND_RO = Dobrosevci
+| srp_V_SORT_NAME_RG = DOBROSEVCI
+| srp_V_FULL_NAME_RG = Dobroševci
+| srp_V_FULL_NAME_ND_RG = Dobrosevci
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.9375
  | Lartësia            = 
 }}
-'''Dobroshec''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Dobroshec''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

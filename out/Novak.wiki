@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Novak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NOVAK
- | FULL_NAME_RO = Novak
- | FULL_NAME_ND_RO=Novak
- | SORT_NAME_RG=NOVAK
- | FULL_NAME_RG=Novak
- | FULL_NAME_ND_RG=Novak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Novak
+| sqi_N_FULL_NAME_RO = Novak
+| sqi_N_FULL_NAME_ND_RO = Novak
+| sqi_N_SORT_NAME_RG = NOVAK
+| sqi_N_FULL_NAME_RG = Novak
+| sqi_N_FULL_NAME_ND_RG = Novak
+| srp_N_name = Novake
+| srp_N_FULL_NAME_RO = Novake
+| srp_N_FULL_NAME_ND_RO = Novake
+| srp_N_SORT_NAME_RG = NOVAKE
+| srp_N_FULL_NAME_RG = Novake
+| srp_N_FULL_NAME_ND_RG = Novake
+| srp_NS_name = Новаке
+| srp_NS_FULL_NAME_RO = Новаке
+| srp_NS_FULL_NAME_ND_RO = Новаке
+| srp_NS_SORT_NAME_RG = НОВАКЕ
+| srp_NS_FULL_NAME_RG = Новаке
+| srp_NS_FULL_NAME_ND_RG = Новаке
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.756389
  | Lartësia            = 
 }}
-'''Novak''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Novak''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shalinovicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHALINOVICE
- | FULL_NAME_RO = Shalinovicë
- | FULL_NAME_ND_RO=Shalinovice
- | SORT_NAME_RG=SHALINOVICE
- | FULL_NAME_RG=Shalinovicë
- | FULL_NAME_ND_RG=Shalinovice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Shalinovicë
+| sqi_D_FULL_NAME_RO = Shalinovicë
+| sqi_D_FULL_NAME_ND_RO = Shalinovice
+| sqi_D_SORT_NAME_RG = SHALINOVICE
+| sqi_D_FULL_NAME_RG = Shalinovicë
+| sqi_D_FULL_NAME_ND_RG = Shalinovice
+| sqi_V_name = Shalës
+| sqi_V_FULL_NAME_RO = Shalës Shalësi Shalinoc Sholinovac Shalinoci Shalinovc
+| sqi_V_FULL_NAME_ND_RO = Shales Shalesi Shalinoc Sholinovac Shalinoci Shalinovc
+| sqi_V_SORT_NAME_RG = SHALES SHALESI SHALINOC SHOLINOVAC SHALINOCI SHALINOVC
+| sqi_V_FULL_NAME_RG = Shalës Shalësi Shalinoc Sholinovac Shalinoci Shalinovc
+| sqi_V_FULL_NAME_ND_RG = Shales Shalesi Shalinoc Sholinovac Shalinoci Shalinovc
+| srp_N_name = Šaljinovica
+| srp_N_FULL_NAME_RO = Šaljinovica
+| srp_N_FULL_NAME_ND_RO = Saljinovica
+| srp_N_SORT_NAME_RG = SALJINOVICA
+| srp_N_FULL_NAME_RG = Šaljinovica
+| srp_N_FULL_NAME_ND_RG = Saljinovica
+| srp_NS_name = Шаљиновица
+| srp_NS_FULL_NAME_RO = Шаљиновица
+| srp_NS_FULL_NAME_ND_RO = Шаљиновица
+| srp_NS_SORT_NAME_RG = ШАЉИНОВИЦА
+| srp_NS_FULL_NAME_RG = Шаљиновица
+| srp_NS_FULL_NAME_ND_RG = Шаљиновица
+| srp_V_name = Šaljinovac
+| srp_V_FULL_NAME_RO = Šaljinovac
+| srp_V_FULL_NAME_ND_RO = Saljinovac
+| srp_V_SORT_NAME_RG = SALJINOVAC
+| srp_V_FULL_NAME_RG = Šaljinovac
+| srp_V_FULL_NAME_ND_RG = Saljinovac
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.535556
  | Lartësia            = 
 }}
-'''Shalinovicë''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Shalinovicë''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

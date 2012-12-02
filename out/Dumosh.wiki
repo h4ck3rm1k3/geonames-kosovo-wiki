@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dumosh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DUMOSH
- | FULL_NAME_RO = Dumosh
- | FULL_NAME_ND_RO=Dumosh
- | SORT_NAME_RG=DUMOSH
- | FULL_NAME_RG=Dumosh
- | FULL_NAME_ND_RG=Dumosh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dumosh
+| sqi_N_FULL_NAME_RO = Dumosh
+| sqi_N_FULL_NAME_ND_RO = Dumosh
+| sqi_N_SORT_NAME_RG = DUMOSH
+| sqi_N_FULL_NAME_RG = Dumosh
+| sqi_N_FULL_NAME_ND_RG = Dumosh
+| sqi_V_name = Dumoshi
+| sqi_V_FULL_NAME_RO = Dumoshi
+| sqi_V_FULL_NAME_ND_RO = Dumoshi
+| sqi_V_SORT_NAME_RG = DUMOSHI
+| sqi_V_FULL_NAME_RG = Dumoshi
+| sqi_V_FULL_NAME_ND_RG = Dumoshi
+| srp_N_name = Dumoš
+| srp_N_FULL_NAME_RO = Dumoš
+| srp_N_FULL_NAME_ND_RO = Dumos
+| srp_N_SORT_NAME_RG = DUMOS
+| srp_N_FULL_NAME_RG = Dumoš
+| srp_N_FULL_NAME_ND_RG = Dumos
+| srp_NS_name = Думош
+| srp_NS_FULL_NAME_RO = Думош
+| srp_NS_FULL_NAME_ND_RO = Думош
+| srp_NS_SORT_NAME_RG = ДУМОШ
+| srp_NS_FULL_NAME_RG = Думош
+| srp_NS_FULL_NAME_ND_RG = Думош
+| srp_V_name = Dumaš
+| srp_V_FULL_NAME_RO = Dumaš
+| srp_V_FULL_NAME_ND_RO = Dumas
+| srp_V_SORT_NAME_RG = DUMAS
+| srp_V_FULL_NAME_RG = Dumaš
+| srp_V_FULL_NAME_ND_RG = Dumas
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.217222
  | Lartësia            = 
 }}
-'''Dumosh''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Dumosh''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

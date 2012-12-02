@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Studime e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STUDIMEEEPERME
- | FULL_NAME_RO = Studime e Epërme
- | FULL_NAME_ND_RO=Studime e Eperme
- | SORT_NAME_RG=STUDIMEEEPERME
- | FULL_NAME_RG=Studime e Epërme
- | FULL_NAME_ND_RG=Studime e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Studime e Epërme
+| sqi_N_FULL_NAME_RO = Studime e Epërme
+| sqi_N_FULL_NAME_ND_RO = Studime e Eperme
+| sqi_N_SORT_NAME_RG = STUDIMEEEPERME
+| sqi_N_FULL_NAME_RG = Studime e Epërme
+| sqi_N_FULL_NAME_ND_RG = Studime e Eperme
+| sqi_V_name = Studimla e Epërme
+| sqi_V_FULL_NAME_RO = Studimla e Epërme
+| sqi_V_FULL_NAME_ND_RO = Studimla e Eperme
+| sqi_V_SORT_NAME_RG = STUDIMLAEEPERME
+| sqi_V_FULL_NAME_RG = Studimla e Epërme
+| sqi_V_FULL_NAME_ND_RG = Studimla e Eperme
+| srp_N_name = Gornja Sudimlja
+| srp_N_FULL_NAME_RO = Gornja Sudimlja
+| srp_N_FULL_NAME_ND_RO = Gornja Sudimlja
+| srp_N_SORT_NAME_RG = GORNJASUDIMLJA
+| srp_N_FULL_NAME_RG = Gornja Sudimlja
+| srp_N_FULL_NAME_ND_RG = Gornja Sudimlja
+| srp_NS_name = Горња Судимља
+| srp_NS_FULL_NAME_RO = Горња Судимља
+| srp_NS_FULL_NAME_ND_RO = Горња Судимља
+| srp_NS_SORT_NAME_RG = ГОРЊАСУДИМЉА
+| srp_NS_FULL_NAME_RG = Горња Судимља
+| srp_NS_FULL_NAME_ND_RG = Горња Судимља
+| srp_V_name = Gornje Studimlje
+| srp_V_FULL_NAME_RO = Gornje Studimlje Gornja Studimlja
+| srp_V_FULL_NAME_ND_RO = Gornje Studimlje Gornja Studimlja
+| srp_V_SORT_NAME_RG = GORNJESTUDIMLJE GORNJASTUDIMLJA
+| srp_V_FULL_NAME_RG = Gornje Studimlje Gornja Studimlja
+| srp_V_FULL_NAME_ND_RG = Gornje Studimlje Gornja Studimlja
+| srp_VS_name = Горња Студимља
+| srp_VS_FULL_NAME_RO = Горња Студимља
+| srp_VS_FULL_NAME_ND_RO = Горња Студимља
+| srp_VS_SORT_NAME_RG = ГОРЊАСТУДИМЉА
+| srp_VS_FULL_NAME_RG = Горња Студимља
+| srp_VS_FULL_NAME_ND_RG = Горња Студимља
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.031667
  | Lartësia            = 
 }}
-'''Studime e Epërme''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Studime e Epërme''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Krushevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KRUSHEVE
- | FULL_NAME_RO = Krushevë
- | FULL_NAME_ND_RO=Krusheve
- | SORT_NAME_RG=KRUSHEVE
- | FULL_NAME_RG=Krushevë
- | FULL_NAME_ND_RG=Krusheve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Krushevë
+| sqi_D_FULL_NAME_RO = Krushevë
+| sqi_D_FULL_NAME_ND_RO = Krusheve
+| sqi_D_SORT_NAME_RG = KRUSHEVE
+| sqi_D_FULL_NAME_RG = Krushevë
+| sqi_D_FULL_NAME_ND_RG = Krusheve
+| sqi_V_name = Krushevo
+| sqi_V_FULL_NAME_RO = Krushevo Kryshefc Krusheva Krushe Krushja Krushevc
+| sqi_V_FULL_NAME_ND_RO = Krushevo Kryshefc Krusheva Krushe Krushja Krushevc
+| sqi_V_SORT_NAME_RG = KRUSHEVO KRYSHEFC KRUSHEVA KRUSHE KRUSHJA KRUSHEVC
+| sqi_V_FULL_NAME_RG = Krushevo Kryshefc Krusheva Krushe Krushja Krushevc
+| sqi_V_FULL_NAME_ND_RG = Krushevo Kryshefc Krusheva Krushe Krushja Krushevc
+| srp_N_name = Kruševo
+| srp_N_FULL_NAME_RO = Kruševo
+| srp_N_FULL_NAME_ND_RO = Krusevo
+| srp_N_SORT_NAME_RG = KRUSEVO
+| srp_N_FULL_NAME_RG = Kruševo
+| srp_N_FULL_NAME_ND_RG = Krusevo
+| srp_NS_name = Крушево
+| srp_NS_FULL_NAME_RO = Крушево
+| srp_NS_FULL_NAME_ND_RO = Крушево
+| srp_NS_SORT_NAME_RG = КРУШЕВО
+| srp_NS_FULL_NAME_RG = Крушево
+| srp_NS_FULL_NAME_ND_RG = Крушево
+| srp_V_name = Krušovo
+| srp_V_FULL_NAME_RO = Krušovo
+| srp_V_FULL_NAME_ND_RO = Krusovo
+| srp_V_SORT_NAME_RG = KRUSOVO
+| srp_V_FULL_NAME_RG = Krušovo
+| srp_V_FULL_NAME_ND_RG = Krusovo
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.638889
  | Lartësia            = 
 }}
-'''Krushevë''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Krushevë''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

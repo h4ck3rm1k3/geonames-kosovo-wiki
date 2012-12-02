@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dedi
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DEDI
- | FULL_NAME_RO = Dedi
- | FULL_NAME_ND_RO=Dedi
- | SORT_NAME_RG=DEDI
- | FULL_NAME_RG=Dedi
- | FULL_NAME_ND_RG=Dedi
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dedi
+| sqi_N_FULL_NAME_RO = Dedi
+| sqi_N_FULL_NAME_ND_RO = Dedi
+| sqi_N_SORT_NAME_RG = DEDI
+| sqi_N_FULL_NAME_RG = Dedi
+| sqi_N_FULL_NAME_ND_RG = Dedi
+| srp_N_name = Dedinje
+| srp_N_FULL_NAME_RO = Dedinje
+| srp_N_FULL_NAME_ND_RO = Dedinje
+| srp_N_SORT_NAME_RG = DEDINJE
+| srp_N_FULL_NAME_RG = Dedinje
+| srp_N_FULL_NAME_ND_RG = Dedinje
+| srp_NS_name = Дедиње
+| srp_NS_FULL_NAME_RO = Дедиње
+| srp_NS_FULL_NAME_ND_RO = Дедиње
+| srp_NS_SORT_NAME_RG = ДЕДИЊЕ
+| srp_NS_FULL_NAME_RG = Дедиње
+| srp_NS_FULL_NAME_ND_RG = Дедиње
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.903333
  | Lartësia            = 
 }}
-'''Dedi''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Dedi''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

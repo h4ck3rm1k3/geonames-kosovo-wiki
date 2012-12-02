@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Treboviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TREBOVIQ
- | FULL_NAME_RO = Treboviq
- | FULL_NAME_ND_RO=Treboviq
- | SORT_NAME_RG=TREBOVIQ
- | FULL_NAME_RG=Treboviq
- | FULL_NAME_ND_RG=Treboviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Treboviq
+| sqi_N_FULL_NAME_RO = Treboviq
+| sqi_N_FULL_NAME_ND_RO = Treboviq
+| sqi_N_SORT_NAME_RG = TREBOVIQ
+| sqi_N_FULL_NAME_RG = Treboviq
+| sqi_N_FULL_NAME_ND_RG = Treboviq
+| sqi_V_name = Tërboviq
+| sqi_V_FULL_NAME_RO = Tërboviq Trepiq Tropoviq Tropoviqi Fusha
+| sqi_V_FULL_NAME_ND_RO = Terboviq Trepiq Tropoviq Tropoviqi Fusha
+| sqi_V_SORT_NAME_RG = TERBOVIQ TREPIQ TROPOVIQ TROPOVIQI FUSHA
+| sqi_V_FULL_NAME_RG = Tërboviq Trepiq Tropoviq Tropoviqi Fusha
+| sqi_V_FULL_NAME_ND_RG = Terboviq Trepiq Tropoviq Tropoviqi Fusha
+| srp_N_name = Trebović
+| srp_N_FULL_NAME_RO = Trebović
+| srp_N_FULL_NAME_ND_RO = Trebovic
+| srp_N_SORT_NAME_RG = TREBOVIC
+| srp_N_FULL_NAME_RG = Trebović
+| srp_N_FULL_NAME_ND_RG = Trebovic
+| srp_NS_name = Требовић
+| srp_NS_FULL_NAME_RO = Требовић
+| srp_NS_FULL_NAME_ND_RO = Требовић
+| srp_NS_SORT_NAME_RG = ТРЕБОВИЋ
+| srp_NS_FULL_NAME_RG = Требовић
+| srp_NS_FULL_NAME_ND_RG = Требовић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.352778
  | Lartësia            = 
 }}
-'''Treboviq''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Treboviq''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

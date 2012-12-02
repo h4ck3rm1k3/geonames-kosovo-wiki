@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zatriq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZATRIQ
- | FULL_NAME_RO = Zatriq
- | FULL_NAME_ND_RO=Zatriq
- | SORT_NAME_RG=ZATRIQ
- | FULL_NAME_RG=Zatriq
- | FULL_NAME_ND_RG=Zatriq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zatriq
+| sqi_N_FULL_NAME_RO = Zatriq
+| sqi_N_FULL_NAME_ND_RO = Zatriq
+| sqi_N_SORT_NAME_RG = ZATRIQ
+| sqi_N_FULL_NAME_RG = Zatriq
+| sqi_N_FULL_NAME_ND_RG = Zatriq
+| srp_N_name = Zatrić
+| srp_N_FULL_NAME_RO = Zatrić
+| srp_N_FULL_NAME_ND_RO = Zatric
+| srp_N_SORT_NAME_RG = ZATRIC
+| srp_N_FULL_NAME_RG = Zatrić
+| srp_N_FULL_NAME_ND_RG = Zatric
+| srp_NS_name = Затрић
+| srp_NS_FULL_NAME_RO = Затрић
+| srp_NS_FULL_NAME_ND_RO = Затрић
+| srp_NS_SORT_NAME_RG = ЗАТРИЋ
+| srp_NS_FULL_NAME_RG = Затрић
+| srp_NS_FULL_NAME_ND_RG = Затрић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.626111
  | Lartësia            = 
 }}
-'''Zatriq''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Zatriq''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tunel i Parë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TUNELIPARE
- | FULL_NAME_RO = Tunel i Parë
- | FULL_NAME_ND_RO=Tunel i Pare
- | SORT_NAME_RG=TUNELIPARE
- | FULL_NAME_RG=Tunel i Parë
- | FULL_NAME_ND_RG=Tunel i Pare
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Tunel i Parë
+| sqi_N_FULL_NAME_RO = Tunel i Parë
+| sqi_N_FULL_NAME_ND_RO = Tunel i Pare
+| sqi_N_SORT_NAME_RG = TUNELIPARE
+| sqi_N_FULL_NAME_RG = Tunel i Parë
+| sqi_N_FULL_NAME_ND_RG = Tunel i Pare
+| srp_N_name = Prvi Tunel
+| srp_N_FULL_NAME_RO = Prvi Tunel
+| srp_N_FULL_NAME_ND_RO = Prvi Tunel
+| srp_N_SORT_NAME_RG = PRVITUNEL
+| srp_N_FULL_NAME_RG = Prvi Tunel
+| srp_N_FULL_NAME_ND_RG = Prvi Tunel
+| srp_NS_name = Први Тунел
+| srp_NS_FULL_NAME_RO = Први Тунел
+| srp_NS_FULL_NAME_ND_RO = Први Тунел
+| srp_NS_SORT_NAME_RG = ПРВИТУНЕЛ
+| srp_NS_FULL_NAME_RG = Први Тунел
+| srp_NS_FULL_NAME_ND_RG = Први Тунел
+| srp_V_name = Kolonija Prvi Tunel
+| srp_V_FULL_NAME_RO = Kolonija Prvi Tunel
+| srp_V_FULL_NAME_ND_RO = Kolonija Prvi Tunel
+| srp_V_SORT_NAME_RG = KOLONIJAPRVITUNEL
+| srp_V_FULL_NAME_RG = Kolonija Prvi Tunel
+| srp_V_FULL_NAME_ND_RG = Kolonija Prvi Tunel
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.898333
  | Lartësia            = 
 }}
-'''Tunel i Parë''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Tunel i Parë''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

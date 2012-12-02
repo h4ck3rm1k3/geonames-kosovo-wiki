@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gllarevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GLLAREVE
- | FULL_NAME_RO = Gllarevë
- | FULL_NAME_ND_RO=Gllareve
- | SORT_NAME_RG=GLLAREVE
- | FULL_NAME_RG=Gllarevë
- | FULL_NAME_ND_RG=Gllareve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gllarevë
+| sqi_N_FULL_NAME_RO = Gllarevë
+| sqi_N_FULL_NAME_ND_RO = Gllareve
+| sqi_N_SORT_NAME_RG = GLLAREVE
+| sqi_N_FULL_NAME_RG = Gllarevë
+| sqi_N_FULL_NAME_ND_RG = Gllareve
+| sqi_V_name = Qëndresa
+| sqi_V_FULL_NAME_RO = Qëndresa Qëndresë Gllareva
+| sqi_V_FULL_NAME_ND_RO = Qendresa Qendrese Gllareva
+| sqi_V_SORT_NAME_RG = QENDRESA QENDRESE GLLAREVA
+| sqi_V_FULL_NAME_RG = Qëndresa Qëndresë Gllareva
+| sqi_V_FULL_NAME_ND_RG = Qendresa Qendrese Gllareva
+| srp_N_name = Iglarevo
+| srp_N_FULL_NAME_RO = Iglarevo
+| srp_N_FULL_NAME_ND_RO = Iglarevo
+| srp_N_SORT_NAME_RG = IGLAREVO
+| srp_N_FULL_NAME_RG = Iglarevo
+| srp_N_FULL_NAME_ND_RG = Iglarevo
+| srp_NS_name = Игларево
+| srp_NS_FULL_NAME_RO = Игларево
+| srp_NS_FULL_NAME_ND_RO = Игларево
+| srp_NS_SORT_NAME_RG = ИГЛАРЕВО
+| srp_NS_FULL_NAME_RG = Игларево
+| srp_NS_FULL_NAME_ND_RG = Игларево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.675278
  | Lartësia            = 
 }}
-'''Gllarevë''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Gllarevë''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

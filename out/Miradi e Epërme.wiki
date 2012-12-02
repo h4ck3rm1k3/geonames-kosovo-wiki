@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Miradi e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MIRADIEEPERME
- | FULL_NAME_RO = Miradi e Epërme
- | FULL_NAME_ND_RO=Miradi e Eperme
- | SORT_NAME_RG=MIRADIEEPERME
- | FULL_NAME_RG=Miradi e Epërme
- | FULL_NAME_ND_RG=Miradi e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Miradi e Epërme
+| sqi_N_FULL_NAME_RO = Miradi e Epërme
+| sqi_N_FULL_NAME_ND_RO = Miradi e Eperme
+| sqi_N_SORT_NAME_RG = MIRADIEEPERME
+| sqi_N_FULL_NAME_RG = Miradi e Epërme
+| sqi_N_FULL_NAME_ND_RG = Miradi e Eperme
+| sqi_V_name = Dobreva e Epërme
+| sqi_V_FULL_NAME_RO = Dobreva e Epërme Miradie e Epërme Dobrevë e Epërme
+| sqi_V_FULL_NAME_ND_RO = Dobreva e Eperme Miradie e Eperme Dobreve e Eperme
+| sqi_V_SORT_NAME_RG = DOBREVAEEPERME MIRADIEEEPERME DOBREVEEEPERME
+| sqi_V_FULL_NAME_RG = Dobreva e Epërme Miradie e Epërme Dobrevë e Epërme
+| sqi_V_FULL_NAME_ND_RG = Dobreva e Eperme Miradie e Eperme Dobreve e Eperme
+| srp_N_name = Gornje Dobrevo
+| srp_N_FULL_NAME_RO = Gornje Dobrevo
+| srp_N_FULL_NAME_ND_RO = Gornje Dobrevo
+| srp_N_SORT_NAME_RG = GORNJEDOBREVO
+| srp_N_FULL_NAME_RG = Gornje Dobrevo
+| srp_N_FULL_NAME_ND_RG = Gornje Dobrevo
+| srp_NS_name = Горње Добрево
+| srp_NS_FULL_NAME_RO = Горње Добрево
+| srp_NS_FULL_NAME_ND_RO = Горње Добрево
+| srp_NS_SORT_NAME_RG = ГОРЊЕДОБРЕВО
+| srp_NS_FULL_NAME_RG = Горње Добрево
+| srp_NS_FULL_NAME_ND_RG = Горње Добрево
+| srp_V_name = Dobrevo
+| srp_V_FULL_NAME_RO = Dobrevo
+| srp_V_FULL_NAME_ND_RO = Dobrevo
+| srp_V_SORT_NAME_RG = DOBREVO
+| srp_V_FULL_NAME_RG = Dobrevo
+| srp_V_FULL_NAME_ND_RG = Dobrevo
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.09
  | Lartësia            = 
 }}
-'''Miradi e Epërme''' është një [[]] në [[Gllogovc]] të [[Kosovës]].
+'''Miradi e Epërme''' është një [[Fshat]] në [[Gllogovc]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

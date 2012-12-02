@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sheremet
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHEREMET
- | FULL_NAME_RO = Sheremet
- | FULL_NAME_ND_RO=Sheremet
- | SORT_NAME_RG=SHEREMET
- | FULL_NAME_RG=Sheremet
- | FULL_NAME_ND_RG=Sheremet
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sheremet
+| sqi_N_FULL_NAME_RO = Sheremet
+| sqi_N_FULL_NAME_ND_RO = Sheremet
+| sqi_N_SORT_NAME_RG = SHEREMET
+| sqi_N_FULL_NAME_RG = Sheremet
+| sqi_N_FULL_NAME_ND_RG = Sheremet
+| sqi_V_name = Sheremetaj
+| sqi_V_FULL_NAME_RO = Sheremetaj
+| sqi_V_FULL_NAME_ND_RO = Sheremetaj
+| sqi_V_SORT_NAME_RG = SHEREMETAJ
+| sqi_V_FULL_NAME_RG = Sheremetaj
+| sqi_V_FULL_NAME_ND_RG = Sheremetaj
+| srp_N_name = Šeremet
+| srp_N_FULL_NAME_RO = Šeremet
+| srp_N_FULL_NAME_ND_RO = Seremet
+| srp_N_SORT_NAME_RG = SEREMET
+| srp_N_FULL_NAME_RG = Šeremet
+| srp_N_FULL_NAME_ND_RG = Seremet
+| srp_NS_name = Шеремет
+| srp_NS_FULL_NAME_RO = Шеремет
+| srp_NS_FULL_NAME_ND_RO = Шеремет
+| srp_NS_SORT_NAME_RG = ШЕРЕМЕТ
+| srp_NS_FULL_NAME_RG = Шеремет
+| srp_NS_FULL_NAME_ND_RG = Шеремет
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.330278
  | Lartësia            = 
 }}
-'''Sheremet''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Sheremet''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

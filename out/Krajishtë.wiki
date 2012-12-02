@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Krajishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KRAJISHTE
- | FULL_NAME_RO = Krajishtë
- | FULL_NAME_ND_RO=Krajishte
- | SORT_NAME_RG=KRAJISHTE
- | FULL_NAME_RG=Krajishtë
- | FULL_NAME_ND_RG=Krajishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Krajishtë
+| sqi_D_FULL_NAME_RO = Krajishtë
+| sqi_D_FULL_NAME_ND_RO = Krajishte
+| sqi_D_SORT_NAME_RG = KRAJISHTE
+| sqi_D_FULL_NAME_RG = Krajishtë
+| sqi_D_FULL_NAME_ND_RG = Krajishte
+| sqi_V_name = Kraishte
+| sqi_V_FULL_NAME_RO = Kraishte Kraishtë
+| sqi_V_FULL_NAME_ND_RO = Kraishte Kraishte
+| sqi_V_SORT_NAME_RG = KRAISHTE KRAISHTE
+| sqi_V_FULL_NAME_RG = Kraishte Kraishtë
+| sqi_V_FULL_NAME_ND_RG = Kraishte Kraishte
+| srp_N_name = Krajište
+| srp_N_FULL_NAME_RO = Krajište
+| srp_N_FULL_NAME_ND_RO = Krajiste
+| srp_N_SORT_NAME_RG = KRAJISTE
+| srp_N_FULL_NAME_RG = Krajište
+| srp_N_FULL_NAME_ND_RG = Krajiste
+| srp_NS_name = Крајиште
+| srp_NS_FULL_NAME_RO = Крајиште
+| srp_NS_FULL_NAME_ND_RO = Крајиште
+| srp_NS_SORT_NAME_RG = КРАЈИШТЕ
+| srp_NS_FULL_NAME_RG = Крајиште
+| srp_NS_FULL_NAME_ND_RG = Крајиште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.047778
  | Lartësia            = 
 }}
-'''Krajishtë''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Krajishtë''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

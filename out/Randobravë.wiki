@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Randobravë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RANDOBRAVE
- | FULL_NAME_RO = Randobravë
- | FULL_NAME_ND_RO=Randobrave
- | SORT_NAME_RG=RANDOBRAVE
- | FULL_NAME_RG=Randobravë
- | FULL_NAME_ND_RG=Randobrave
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Randobravë
+| sqi_N_FULL_NAME_RO = Randobravë
+| sqi_N_FULL_NAME_ND_RO = Randobrave
+| sqi_N_SORT_NAME_RG = RANDOBRAVE
+| sqi_N_FULL_NAME_RG = Randobravë
+| sqi_N_FULL_NAME_ND_RG = Randobrave
+| sqi_V_name = Randubravë
+| sqi_V_FULL_NAME_RO = Randubravë
+| sqi_V_FULL_NAME_ND_RO = Randubrave
+| sqi_V_SORT_NAME_RG = RANDUBRAVE
+| sqi_V_FULL_NAME_RG = Randubravë
+| sqi_V_FULL_NAME_ND_RG = Randubrave
+| srp_N_name = Randubrava
+| srp_N_FULL_NAME_RO = Randubrava
+| srp_N_FULL_NAME_ND_RO = Randubrava
+| srp_N_SORT_NAME_RG = RANDUBRAVA
+| srp_N_FULL_NAME_RG = Randubrava
+| srp_N_FULL_NAME_ND_RG = Randubrava
+| srp_NS_name = Рандубрава
+| srp_NS_FULL_NAME_RO = Рандубрава
+| srp_NS_FULL_NAME_ND_RO = Рандубрава
+| srp_NS_SORT_NAME_RG = РАНДУБРАВА
+| srp_NS_FULL_NAME_RG = Рандубрава
+| srp_NS_FULL_NAME_ND_RG = Рандубрава
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.670833
  | Lartësia            = 
 }}
-'''Randobravë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Randobravë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

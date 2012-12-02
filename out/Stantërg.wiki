@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Stantërg
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      STANTERG
- | FULL_NAME_RO = Stantërg
- | FULL_NAME_ND_RO=Stanterg
- | SORT_NAME_RG=STANTERG
- | FULL_NAME_RG=Stantërg
- | FULL_NAME_ND_RG=Stanterg
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Stantërg
+| sqi_N_FULL_NAME_RO = Stantërg
+| sqi_N_FULL_NAME_ND_RO = Stanterg
+| sqi_N_SORT_NAME_RG = STANTERG
+| sqi_N_FULL_NAME_RG = Stantërg
+| sqi_N_FULL_NAME_ND_RG = Stanterg
+| sqi_V_name = Staritërg
+| sqi_V_FULL_NAME_RO = Staritërg Stantërg Fshati
+| sqi_V_FULL_NAME_ND_RO = Stariterg Stanterg Fshati
+| sqi_V_SORT_NAME_RG = STARITERG STANTERGFSHATI
+| sqi_V_FULL_NAME_RG = Staritërg Stantërg Fshati
+| sqi_V_FULL_NAME_ND_RG = Stariterg Stanterg Fshati
+| srp_N_name = Stari Trg
+| srp_N_FULL_NAME_RO = Stari Trg
+| srp_N_FULL_NAME_ND_RO = Stari Trg
+| srp_N_SORT_NAME_RG = STARITRG
+| srp_N_FULL_NAME_RG = Stari Trg
+| srp_N_FULL_NAME_ND_RG = Stari Trg
+| srp_NS_name = Стари Трг
+| srp_NS_FULL_NAME_RO = Стари Трг
+| srp_NS_FULL_NAME_ND_RO = Стари Трг
+| srp_NS_SORT_NAME_RG = СТАРИТРГ
+| srp_NS_FULL_NAME_RG = Стари Трг
+| srp_NS_FULL_NAME_ND_RG = Стари Трг
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.920556
  | Lartësia            = 
 }}
-'''Stantërg''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Stantërg''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

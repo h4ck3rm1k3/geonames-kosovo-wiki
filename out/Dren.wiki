@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dren
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DREN
- | FULL_NAME_RO = Dren
- | FULL_NAME_ND_RO=Dren
- | SORT_NAME_RG=DREN
- | FULL_NAME_RG=Dren
- | FULL_NAME_ND_RG=Dren
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dren
+| sqi_N_FULL_NAME_RO = Dren
+| sqi_N_FULL_NAME_ND_RO = Dren
+| sqi_N_SORT_NAME_RG = DREN
+| sqi_N_FULL_NAME_RG = Dren
+| sqi_N_FULL_NAME_ND_RG = Dren
+| srp_N_name = Dren
+| srp_N_FULL_NAME_RO = Dren
+| srp_N_FULL_NAME_ND_RO = Dren
+| srp_N_SORT_NAME_RG = DREN
+| srp_N_FULL_NAME_RG = Dren
+| srp_N_FULL_NAME_ND_RG = Dren
+| srp_NS_name = Дрен
+| srp_NS_FULL_NAME_RO = Дрен
+| srp_NS_FULL_NAME_ND_RO = Дрен
+| srp_NS_SORT_NAME_RG = ДРЕН
+| srp_NS_FULL_NAME_RG = Дрен
+| srp_NS_FULL_NAME_ND_RG = Дрен
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.768611
  | Lartësia            = 
 }}
-'''Dren''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Dren''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

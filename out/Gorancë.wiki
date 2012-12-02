@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gorancë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GORANCE
- | FULL_NAME_RO = Gorancë
- | FULL_NAME_ND_RO=Gorance
- | SORT_NAME_RG=GORANCE
- | FULL_NAME_RG=Gorancë
- | FULL_NAME_ND_RG=Gorance
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Gorancë
+| sqi_N_FULL_NAME_RO = Gorancë
+| sqi_N_FULL_NAME_ND_RO = Gorance
+| sqi_N_SORT_NAME_RG = GORANCE
+| sqi_N_FULL_NAME_RG = Gorancë
+| sqi_N_FULL_NAME_ND_RG = Gorance
+| sqi_V_name = Garancë
+| sqi_V_FULL_NAME_RO = Garancë Malësi
+| sqi_V_FULL_NAME_ND_RO = Garance Malesi
+| sqi_V_SORT_NAME_RG = GARANCE MALESI
+| sqi_V_FULL_NAME_RG = Garancë Malësi
+| sqi_V_FULL_NAME_ND_RG = Garance Malesi
+| srp_N_name = Gorance
+| srp_N_FULL_NAME_RO = Gorance
+| srp_N_FULL_NAME_ND_RO = Gorance
+| srp_N_SORT_NAME_RG = GORANCE
+| srp_N_FULL_NAME_RG = Gorance
+| srp_N_FULL_NAME_ND_RG = Gorance
+| srp_NS_name = Горанце
+| srp_NS_FULL_NAME_RO = Горанце
+| srp_NS_FULL_NAME_ND_RO = Горанце
+| srp_NS_SORT_NAME_RG = ГОРАНЦЕ
+| srp_NS_FULL_NAME_RG = Горанце
+| srp_NS_FULL_NAME_ND_RG = Горанце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.233333
  | Lartësia            = 
 }}
-'''Gorancë''' është një [[]] në [[]] të [[Kosovës]].
+'''Gorancë''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

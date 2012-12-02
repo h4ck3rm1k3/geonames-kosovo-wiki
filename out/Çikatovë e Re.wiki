@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Çikatovë e Re
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CIKATOVEERE
- | FULL_NAME_RO = Çikatovë e Re
- | FULL_NAME_ND_RO=Cikatove e Re
- | SORT_NAME_RG=CIKATOVEERE
- | FULL_NAME_RG=Çikatovë e Re
- | FULL_NAME_ND_RG=Cikatove e Re
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Çikatovë e Re
+| sqi_N_FULL_NAME_RO = Çikatovë e Re
+| sqi_N_FULL_NAME_ND_RO = Cikatove e Re
+| sqi_N_SORT_NAME_RG = CIKATOVEERE
+| sqi_N_FULL_NAME_RG = Çikatovë e Re
+| sqi_N_FULL_NAME_ND_RG = Cikatove e Re
+| sqi_V_name = Cikatovë e Re
+| sqi_V_FULL_NAME_RO = Cikatovë e Re Qikatovë e Re
+| sqi_V_FULL_NAME_ND_RO = Cikatove e Re Qikatove e Re
+| sqi_V_SORT_NAME_RG = CIKATOVEERE QIKATOVEERE
+| sqi_V_FULL_NAME_RG = Cikatovë e Re Qikatovë e Re
+| sqi_V_FULL_NAME_ND_RG = Cikatove e Re Qikatove e Re
+| srp_N_name = Novo Čikatovo
+| srp_N_FULL_NAME_RO = Novo Čikatovo
+| srp_N_FULL_NAME_ND_RO = Novo Cikatovo
+| srp_N_SORT_NAME_RG = NOVOCIKATOVO
+| srp_N_FULL_NAME_RG = Novo Čikatovo
+| srp_N_FULL_NAME_ND_RG = Novo Cikatovo
+| srp_NS_name = Ново Чикатово
+| srp_NS_FULL_NAME_RO = Ново Чикатово
+| srp_NS_FULL_NAME_ND_RO = Ново Чикатово
+| srp_NS_SORT_NAME_RG = НОВОЧИКАТОВО
+| srp_NS_FULL_NAME_RG = Ново Чикатово
+| srp_NS_FULL_NAME_ND_RG = Ново Чикатово
+| srp_V_name = Novo Ćikatovo
+| srp_V_FULL_NAME_RO = Novo Ćikatovo
+| srp_V_FULL_NAME_ND_RO = Novo Cikatovo
+| srp_V_SORT_NAME_RG = NOVOCIKATOVO
+| srp_V_FULL_NAME_RG = Novo Ćikatovo
+| srp_V_FULL_NAME_ND_RG = Novo Cikatovo
+| srp_VS_name = Ново Ћикатово
+| srp_VS_FULL_NAME_RO = Ново Ћикатово
+| srp_VS_FULL_NAME_ND_RO = Ново Ћикатово
+| srp_VS_SORT_NAME_RG = НОВОЋИКАТОВО
+| srp_VS_FULL_NAME_RG = Ново Ћикатово
+| srp_VS_FULL_NAME_ND_RG = Ново Ћикатово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.881944
  | Lartësia            = 
 }}
-'''Çikatovë e Re''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Çikatovë e Re''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llozhan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLOZHAN
- | FULL_NAME_RO = Llozhan
- | FULL_NAME_ND_RO=Llozhan
- | SORT_NAME_RG=LLOZHAN
- | FULL_NAME_RG=Llozhan
- | FULL_NAME_ND_RG=Llozhan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Llozhan
+| sqi_D_FULL_NAME_RO = Llozhan
+| sqi_D_FULL_NAME_ND_RO = Llozhan
+| sqi_D_SORT_NAME_RG = LLOZHAN
+| sqi_D_FULL_NAME_RG = Llozhan
+| sqi_D_FULL_NAME_ND_RG = Llozhan
+| sqi_V_name = Lozhanë
+| sqi_V_FULL_NAME_RO = Lozhanë Lushan Loshani Llozhani
+| sqi_V_FULL_NAME_ND_RO = Lozhane Lushan Loshani Llozhani
+| sqi_V_SORT_NAME_RG = LOZHANE LUSHAN LOSHANI LLOZHANI
+| sqi_V_FULL_NAME_RG = Lozhanë Lushan Loshani Llozhani
+| sqi_V_FULL_NAME_ND_RG = Lozhane Lushan Loshani Llozhani
+| srp_N_name = Ložane
+| srp_N_FULL_NAME_RO = Ložane
+| srp_N_FULL_NAME_ND_RO = Lozane
+| srp_N_SORT_NAME_RG = LOZANE
+| srp_N_FULL_NAME_RG = Ložane
+| srp_N_FULL_NAME_ND_RG = Lozane
+| srp_NS_name = Ложане
+| srp_NS_FULL_NAME_RO = Ложане
+| srp_NS_FULL_NAME_ND_RO = Ложане
+| srp_NS_SORT_NAME_RG = ЛОЖАНЕ
+| srp_NS_FULL_NAME_RG = Ложане
+| srp_NS_FULL_NAME_ND_RG = Ложане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.369722
  | Lartësia            = 
 }}
-'''Llozhan''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Llozhan''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

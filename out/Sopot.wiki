@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sopot
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SOPOT
- | FULL_NAME_RO = Sopot
- | FULL_NAME_ND_RO=Sopot
- | SORT_NAME_RG=SOPOT
- | FULL_NAME_RG=Sopot
- | FULL_NAME_ND_RG=Sopot
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sopot
+| sqi_N_FULL_NAME_RO = Sopot
+| sqi_N_FULL_NAME_ND_RO = Sopot
+| sqi_N_SORT_NAME_RG = SOPOT
+| sqi_N_FULL_NAME_RG = Sopot
+| sqi_N_FULL_NAME_ND_RG = Sopot
+| srp_N_name = Sopot
+| srp_N_FULL_NAME_RO = Sopot
+| srp_N_FULL_NAME_ND_RO = Sopot
+| srp_N_SORT_NAME_RG = SOPOT
+| srp_N_FULL_NAME_RG = Sopot
+| srp_N_FULL_NAME_ND_RG = Sopot
+| srp_NS_name = Сопот
+| srp_NS_FULL_NAME_RO = Сопот
+| srp_NS_FULL_NAME_ND_RO = Сопот
+| srp_NS_SORT_NAME_RG = СОПОТ
+| srp_NS_FULL_NAME_RG = Сопот
+| srp_NS_FULL_NAME_ND_RG = Сопот
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.4225
  | Lartësia            = 
 }}
-'''Sopot''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Sopot''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Osek Hylë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      OSEKHYLE
- | FULL_NAME_RO = Osek Hylë
- | FULL_NAME_ND_RO=Osek Hyle
- | SORT_NAME_RG=OSEKHYLE
- | FULL_NAME_RG=Osek Hylë
- | FULL_NAME_ND_RG=Osek Hyle
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Osek Hylë
+| sqi_D_FULL_NAME_RO = Osek Hylë
+| sqi_D_FULL_NAME_ND_RO = Osek Hyle
+| sqi_D_SORT_NAME_RG = OSEKHYLE
+| sqi_D_FULL_NAME_RG = Osek Hylë
+| sqi_D_FULL_NAME_ND_RG = Osek Hyle
+| sqi_V_name = Osek Hilë
+| sqi_V_FULL_NAME_RO = Osek Hilë
+| sqi_V_FULL_NAME_ND_RO = Osek Hile
+| sqi_V_SORT_NAME_RG = OSEKHILE
+| sqi_V_FULL_NAME_RG = Osek Hilë
+| sqi_V_FULL_NAME_ND_RG = Osek Hile
+| srp_N_name = Osek Hilja
+| srp_N_FULL_NAME_RO = Osek Hilja
+| srp_N_FULL_NAME_ND_RO = Osek Hilja
+| srp_N_SORT_NAME_RG = OSEKHILJA
+| srp_N_FULL_NAME_RG = Osek Hilja
+| srp_N_FULL_NAME_ND_RG = Osek Hilja
+| srp_NS_name = Осек Хиља
+| srp_NS_FULL_NAME_RO = Осек Хиља
+| srp_NS_FULL_NAME_ND_RO = Осек Хиља
+| srp_NS_SORT_NAME_RG = ОСЕКХИЉА
+| srp_NS_FULL_NAME_RG = Осек Хиља
+| srp_NS_FULL_NAME_ND_RG = Осек Хиља
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.391667
  | Lartësia            = 
 }}
-'''Osek Hylë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Osek Hylë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zhitkoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZHITKOC
- | FULL_NAME_RO = Zhitkoc
- | FULL_NAME_ND_RO=Zhitkoc
- | SORT_NAME_RG=ZHITKOC
- | FULL_NAME_RG=Zhitkoc
- | FULL_NAME_ND_RG=Zhitkoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zhitkoc
+| sqi_N_FULL_NAME_RO = Zhitkoc
+| sqi_N_FULL_NAME_ND_RO = Zhitkoc
+| sqi_N_SORT_NAME_RG = ZHITKOC
+| sqi_N_FULL_NAME_RG = Zhitkoc
+| sqi_N_FULL_NAME_ND_RG = Zhitkoc
+| sqi_V_name = Zhitkofc
+| sqi_V_FULL_NAME_RO = Zhitkofc Zhitkovc Zitkovc
+| sqi_V_FULL_NAME_ND_RO = Zhitkofc Zhitkovc Zitkovc
+| sqi_V_SORT_NAME_RG = ZHITKOFC ZHITKOVC ZITKOVC
+| sqi_V_FULL_NAME_RG = Zhitkofc Zhitkovc Zitkovc
+| sqi_V_FULL_NAME_ND_RG = Zhitkofc Zhitkovc Zitkovc
+| srp_N_name = Žitkovac
+| srp_N_FULL_NAME_RO = Žitkovac
+| srp_N_FULL_NAME_ND_RO = Zitkovac
+| srp_N_SORT_NAME_RG = ZITKOVAC
+| srp_N_FULL_NAME_RG = Žitkovac
+| srp_N_FULL_NAME_ND_RG = Zitkovac
+| srp_NS_name = Житковац
+| srp_NS_FULL_NAME_RO = Житковац
+| srp_NS_FULL_NAME_ND_RO = Житковац
+| srp_NS_SORT_NAME_RG = ЖИТКОВАЦ
+| srp_NS_FULL_NAME_RG = Житковац
+| srp_NS_FULL_NAME_ND_RG = Житковац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.823889
  | Lartësia            = 
 }}
-'''Zhitkoc''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Zhitkoc''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

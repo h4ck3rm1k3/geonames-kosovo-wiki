@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Cërkolez
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CERKOLEZ
- | FULL_NAME_RO = Cërkolez
- | FULL_NAME_ND_RO=Cerkolez
- | SORT_NAME_RG=CERKOLEZ
- | FULL_NAME_RG=Cërkolez
- | FULL_NAME_ND_RG=Cerkolez
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Cërkolez
+| sqi_N_FULL_NAME_RO = Cërkolez
+| sqi_N_FULL_NAME_ND_RO = Cerkolez
+| sqi_N_SORT_NAME_RG = CERKOLEZ
+| sqi_N_FULL_NAME_RG = Cërkolez
+| sqi_N_FULL_NAME_ND_RG = Cerkolez
+| sqi_V_name = Cërkolezi
+| sqi_V_FULL_NAME_RO = Cërkolezi
+| sqi_V_FULL_NAME_ND_RO = Cerkolezi
+| sqi_V_SORT_NAME_RG = CERKOLEZI
+| sqi_V_FULL_NAME_RG = Cërkolezi
+| sqi_V_FULL_NAME_ND_RG = Cerkolezi
+| srp_N_name = Crkolez
+| srp_N_FULL_NAME_RO = Crkolez
+| srp_N_FULL_NAME_ND_RO = Crkolez
+| srp_N_SORT_NAME_RG = CRKOLEZ
+| srp_N_FULL_NAME_RG = Crkolez
+| srp_N_FULL_NAME_ND_RG = Crkolez
+| srp_NS_name = Црколез
+| srp_NS_FULL_NAME_RO = Црколез
+| srp_NS_FULL_NAME_ND_RO = Црколез
+| srp_NS_SORT_NAME_RG = ЦРКОЛЕЗ
+| srp_NS_FULL_NAME_RG = Црколез
+| srp_NS_FULL_NAME_ND_RG = Црколез
+| std_V_name = Lezaj
+| std_V_FULL_NAME_RO = Lezaj
+| std_V_FULL_NAME_ND_RO = Lezaj
+| std_V_SORT_NAME_RG = LEZAJ
+| std_V_FULL_NAME_RG = Lezaj
+| std_V_FULL_NAME_ND_RG = Lezaj
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.633333
  | Lartësia            = 
 }}
-'''Cërkolez''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Cërkolez''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

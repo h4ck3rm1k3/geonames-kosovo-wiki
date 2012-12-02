@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Qyshk
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      QYSHK
- | FULL_NAME_RO = Qyshk
- | FULL_NAME_ND_RO=Qyshk
- | SORT_NAME_RG=QYSHK
- | FULL_NAME_RG=Qyshk
- | FULL_NAME_ND_RG=Qyshk
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Qyshk
+| sqi_D_FULL_NAME_RO = Qyshk
+| sqi_D_FULL_NAME_ND_RO = Qyshk
+| sqi_D_SORT_NAME_RG = QYSHK
+| sqi_D_FULL_NAME_RG = Qyshk
+| sqi_D_FULL_NAME_ND_RG = Qyshk
+| sqi_V_name = Çyshk
+| sqi_V_FULL_NAME_RO = Çyshk Ãushkë Çushkë Qushkë
+| sqi_V_FULL_NAME_ND_RO = Cyshk ¿ushke Cushke Qushke
+| sqi_V_SORT_NAME_RG = CYSHK ¿USHKE CUSHKE QUSHKE
+| sqi_V_FULL_NAME_RG = Çyshk Ãushkë Çushkë Qushkë
+| sqi_V_FULL_NAME_ND_RG = Cyshk ¿ushke Cushke Qushke
+| srp_N_name = Ćuška
+| srp_N_FULL_NAME_RO = Ćuška
+| srp_N_FULL_NAME_ND_RO = Cuska
+| srp_N_SORT_NAME_RG = CUSKA
+| srp_N_FULL_NAME_RG = Ćuška
+| srp_N_FULL_NAME_ND_RG = Cuska
+| srp_NS_name = Ћушка
+| srp_NS_FULL_NAME_RO = Ћушка
+| srp_NS_FULL_NAME_ND_RO = Ћушка
+| srp_NS_SORT_NAME_RG = ЋУШКА
+| srp_NS_FULL_NAME_RG = Ћушка
+| srp_NS_FULL_NAME_ND_RG = Ћушка
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.338889
  | Lartësia            = 
 }}
-'''Qyshk''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Qyshk''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

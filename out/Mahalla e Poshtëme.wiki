@@ -1,22 +1,18 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mahalla e Poshtëme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MAHALLAEPOSHTEME
- | FULL_NAME_RO = Mahalla e Poshtëme
- | FULL_NAME_ND_RO=Mahalla e Poshteme
- | SORT_NAME_RG=MAHALLAEPOSHTEME
- | FULL_NAME_RG=Mahalla e Poshtëme
- | FULL_NAME_ND_RG=Mahalla e Poshteme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Mahalla e Poshtëme
+| sqi_D_FULL_NAME_RO = Mahalla e Poshtëme
+| sqi_D_FULL_NAME_ND_RO = Mahalla e Poshteme
+| sqi_D_SORT_NAME_RG = MAHALLAEPOSHTEME
+| sqi_D_FULL_NAME_RG = Mahalla e Poshtëme
+| sqi_D_FULL_NAME_ND_RG = Mahalla e Poshteme
+| srp_N_name = Donja Mahala
+| srp_N_FULL_NAME_RO = Donja Mahala
+| srp_N_FULL_NAME_ND_RO = Donja Mahala
+| srp_N_SORT_NAME_RG = DONJAMAHALA
+| srp_N_FULL_NAME_RG = Donja Mahala
+| srp_N_FULL_NAME_ND_RG = Donja Mahala
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -30,11 +26,11 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.917833
- | Gjatësia            = 21.142564
+ | Gjerësia            = 42.988851
+ | Gjatësia            = 21.157981
  | Lartësia            = 
 }}
-'''Mahalla e Poshtëme''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Mahalla e Poshtëme''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

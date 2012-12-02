@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kozaricë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOZARICE
- | FULL_NAME_RO = Kozaricë
- | FULL_NAME_ND_RO=Kozarice
- | SORT_NAME_RG=KOZARICE
- | FULL_NAME_RG=Kozaricë
- | FULL_NAME_ND_RG=Kozarice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kozaricë
+| sqi_N_FULL_NAME_RO = Kozaricë
+| sqi_N_FULL_NAME_ND_RO = Kozarice
+| sqi_N_SORT_NAME_RG = KOZARICE
+| sqi_N_FULL_NAME_RG = Kozaricë
+| sqi_N_FULL_NAME_ND_RG = Kozarice
+| srp_N_name = Kozarica
+| srp_N_FULL_NAME_RO = Kozarica
+| srp_N_FULL_NAME_ND_RO = Kozarica
+| srp_N_SORT_NAME_RG = KOZARICA
+| srp_N_FULL_NAME_RG = Kozarica
+| srp_N_FULL_NAME_ND_RG = Kozarica
+| srp_NS_name = Козарица
+| srp_NS_FULL_NAME_RO = Козарица
+| srp_NS_FULL_NAME_ND_RO = Козарица
+| srp_NS_SORT_NAME_RG = КОЗАРИЦА
+| srp_NS_FULL_NAME_RG = Козарица
+| srp_NS_FULL_NAME_ND_RG = Козарица
+| srp_V_name = Kozarica Mahala
+| srp_V_FULL_NAME_RO = Kozarica Mahala
+| srp_V_FULL_NAME_ND_RO = Kozarica Mahala
+| srp_V_SORT_NAME_RG = KOZARICAMAHALA
+| srp_V_FULL_NAME_RG = Kozarica Mahala
+| srp_V_FULL_NAME_ND_RG = Kozarica Mahala
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.114167
  | Lartësia            = 
 }}
-'''Kozaricë''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Kozaricë''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Grejkoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GREJKOC
- | FULL_NAME_RO = Grejkoc
- | FULL_NAME_ND_RO=Grejkoc
- | SORT_NAME_RG=GREJKOC
- | FULL_NAME_RG=Grejkoc
- | FULL_NAME_ND_RG=Grejkoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Grejkoc
+| sqi_N_FULL_NAME_RO = Grejkoc
+| sqi_N_FULL_NAME_ND_RO = Grejkoc
+| sqi_N_SORT_NAME_RG = GREJKOC
+| sqi_N_FULL_NAME_RG = Grejkoc
+| sqi_N_FULL_NAME_ND_RG = Grejkoc
+| sqi_V_name = Grejkovc
+| sqi_V_FULL_NAME_RO = Grejkovc Greikoc
+| sqi_V_FULL_NAME_ND_RO = Grejkovc Greikoc
+| sqi_V_SORT_NAME_RG = GREJKOVC GREIKOC
+| sqi_V_FULL_NAME_RG = Grejkovc Greikoc
+| sqi_V_FULL_NAME_ND_RG = Grejkovc Greikoc
+| srp_N_name = Grekovce
+| srp_N_FULL_NAME_RO = Grekovce
+| srp_N_FULL_NAME_ND_RO = Grekovce
+| srp_N_SORT_NAME_RG = GREKOVCE
+| srp_N_FULL_NAME_RG = Grekovce
+| srp_N_FULL_NAME_ND_RG = Grekovce
+| srp_NS_name = Грејковце
+| srp_NS_FULL_NAME_RO = Грејковце
+| srp_NS_FULL_NAME_ND_RO = Грејковце
+| srp_NS_SORT_NAME_RG = ГРЕЈКОВЦЕ
+| srp_NS_FULL_NAME_RG = Грејковце
+| srp_NS_FULL_NAME_ND_RG = Грејковце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.826389
  | Lartësia            = 
 }}
-'''Grejkoc''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Grejkoc''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

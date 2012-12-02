@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Drobesh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DROBESH
- | FULL_NAME_RO = Drobesh
- | FULL_NAME_ND_RO=Drobesh
- | SORT_NAME_RG=DROBESH
- | FULL_NAME_RG=Drobesh
- | FULL_NAME_ND_RG=Drobesh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Drobesh
+| sqi_N_FULL_NAME_RO = Drobesh
+| sqi_N_FULL_NAME_ND_RO = Drobesh
+| sqi_N_SORT_NAME_RG = DROBESH
+| sqi_N_FULL_NAME_RG = Drobesh
+| sqi_N_FULL_NAME_ND_RG = Drobesh
+| sqi_V_name = Drobeshi
+| sqi_V_FULL_NAME_RO = Drobeshi Drobeshë
+| sqi_V_FULL_NAME_ND_RO = Drobeshi Drobeshe
+| sqi_V_SORT_NAME_RG = DROBESHI DROBESHE
+| sqi_V_FULL_NAME_RG = Drobeshi Drobeshë
+| sqi_V_FULL_NAME_ND_RG = Drobeshi Drobeshe
+| srp_N_name = Drobeš
+| srp_N_FULL_NAME_RO = Drobeš
+| srp_N_FULL_NAME_ND_RO = Drobes
+| srp_N_SORT_NAME_RG = DROBES
+| srp_N_FULL_NAME_RG = Drobeš
+| srp_N_FULL_NAME_ND_RG = Drobes
+| srp_NS_name = Дробеш
+| srp_NS_FULL_NAME_RO = Дробеш
+| srp_NS_FULL_NAME_ND_RO = Дробеш
+| srp_NS_SORT_NAME_RG = ДРОБЕШ
+| srp_NS_FULL_NAME_RG = Дробеш
+| srp_NS_FULL_NAME_ND_RG = Дробеш
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.336111
  | Lartësia            = 
 }}
-'''Drobesh''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Drobesh''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

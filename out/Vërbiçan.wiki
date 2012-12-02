@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vërbiçan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VERBICAN
- | FULL_NAME_RO = Vërbiçan
- | FULL_NAME_ND_RO=Verbican
- | SORT_NAME_RG=VERBICAN
- | FULL_NAME_RG=Vërbiçan
- | FULL_NAME_ND_RG=Verbican
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Vërbiçan
+| sqi_D_FULL_NAME_RO = Vërbiçan
+| sqi_D_FULL_NAME_ND_RO = Verbican
+| sqi_D_SORT_NAME_RG = VERBICAN
+| sqi_D_FULL_NAME_RG = Vërbiçan
+| sqi_D_FULL_NAME_ND_RG = Verbican
+| sqi_V_name = Vërbiqan
+| sqi_V_FULL_NAME_RO = Vërbiqan Urbiçan
+| sqi_V_FULL_NAME_ND_RO = Verbiqan Urbican
+| sqi_V_SORT_NAME_RG = VERBIQAN URBICAN
+| sqi_V_FULL_NAME_RG = Vërbiqan Urbiçan
+| sqi_V_FULL_NAME_ND_RG = Verbiqan Urbican
+| srp_N_name = Vrbičane
+| srp_N_FULL_NAME_RO = Vrbičane
+| srp_N_FULL_NAME_ND_RO = Vrbicane
+| srp_N_SORT_NAME_RG = VRBICANE
+| srp_N_FULL_NAME_RG = Vrbičane
+| srp_N_FULL_NAME_ND_RG = Vrbicane
+| srp_NS_name = Врбичане
+| srp_NS_FULL_NAME_RO = Врбичане
+| srp_NS_FULL_NAME_ND_RO = Врбичане
+| srp_NS_SORT_NAME_RG = ВРБИЧАНЕ
+| srp_NS_FULL_NAME_RG = Врбичане
+| srp_NS_FULL_NAME_ND_RG = Врбичане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.790833
  | Lartësia            = 
 }}
-'''Vërbiçan''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Vërbiçan''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

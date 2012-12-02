@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pirq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PIRQ
- | FULL_NAME_RO = Pirq
- | FULL_NAME_ND_RO=Pirq
- | SORT_NAME_RG=PIRQ
- | FULL_NAME_RG=Pirq
- | FULL_NAME_ND_RG=Pirq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pirq
+| sqi_N_FULL_NAME_RO = Pirq
+| sqi_N_FULL_NAME_ND_RO = Pirq
+| sqi_N_SORT_NAME_RG = PIRQ
+| sqi_N_FULL_NAME_RG = Pirq
+| sqi_N_FULL_NAME_ND_RG = Pirq
+| srp_N_name = Pirče
+| srp_N_FULL_NAME_RO = Pirče
+| srp_N_FULL_NAME_ND_RO = Pirce
+| srp_N_SORT_NAME_RG = PIRCE
+| srp_N_FULL_NAME_RG = Pirče
+| srp_N_FULL_NAME_ND_RG = Pirce
+| srp_NS_name = Пирће
+| srp_NS_FULL_NAME_RO = Пирће
+| srp_NS_FULL_NAME_ND_RO = Пирће
+| srp_NS_SORT_NAME_RG = ПИРЋЕ
+| srp_NS_FULL_NAME_RG = Пирће
+| srp_NS_FULL_NAME_ND_RG = Пирће
+| srp_V_name = Pirča
+| srp_V_FULL_NAME_RO = Pirča
+| srp_V_FULL_NAME_ND_RO = Pirca
+| srp_V_SORT_NAME_RG = PIRCA
+| srp_V_FULL_NAME_RG = Pirča
+| srp_V_FULL_NAME_ND_RG = Pirca
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.869722
  | Lartësia            = 
 }}
-'''Pirq''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Pirq''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

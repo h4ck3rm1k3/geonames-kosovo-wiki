@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pasomë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PASOME
- | FULL_NAME_RO = Pasomë
- | FULL_NAME_ND_RO=Pasome
- | SORT_NAME_RG=PASOME
- | FULL_NAME_RG=Pasomë
- | FULL_NAME_ND_RG=Pasome
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pasomë
+| sqi_N_FULL_NAME_RO = Pasomë
+| sqi_N_FULL_NAME_ND_RO = Pasome
+| sqi_N_SORT_NAME_RG = PASOME
+| sqi_N_FULL_NAME_RG = Pasomë
+| sqi_N_FULL_NAME_ND_RG = Pasome
+| srp_N_name = Pasoma
+| srp_N_FULL_NAME_RO = Pasoma
+| srp_N_FULL_NAME_ND_RO = Pasoma
+| srp_N_SORT_NAME_RG = PASOMA
+| srp_N_FULL_NAME_RG = Pasoma
+| srp_N_FULL_NAME_ND_RG = Pasoma
+| srp_NS_name = Пасома
+| srp_NS_FULL_NAME_RO = Пасома
+| srp_NS_FULL_NAME_ND_RO = Пасома
+| srp_NS_SORT_NAME_RG = ПАСОМА
+| srp_NS_FULL_NAME_RG = Пасома
+| srp_NS_FULL_NAME_ND_RG = Пасома
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.956389
  | Lartësia            = 
 }}
-'''Pasomë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Pasomë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

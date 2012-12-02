@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bushincë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BUSHINCE
- | FULL_NAME_RO = Bushincë
- | FULL_NAME_ND_RO=Bushince
- | SORT_NAME_RG=BUSHINCE
- | FULL_NAME_RG=Bushincë
- | FULL_NAME_ND_RG=Bushince
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bushincë
+| sqi_N_FULL_NAME_RO = Bushincë
+| sqi_N_FULL_NAME_ND_RO = Bushince
+| sqi_N_SORT_NAME_RG = BUSHINCE
+| sqi_N_FULL_NAME_RG = Bushincë
+| sqi_N_FULL_NAME_ND_RG = Bushince
+| sqi_V_name = Bushinca
+| sqi_V_FULL_NAME_RO = Bushinca Bushat Bushati
+| sqi_V_FULL_NAME_ND_RO = Bushinca Bushat Bushati
+| sqi_V_SORT_NAME_RG = BUSHINCA BUSHAT BUSHATI
+| sqi_V_FULL_NAME_RG = Bushinca Bushat Bushati
+| sqi_V_FULL_NAME_ND_RG = Bushinca Bushat Bushati
+| srp_N_name = Bušince
+| srp_N_FULL_NAME_RO = Bušince
+| srp_N_FULL_NAME_ND_RO = Busince
+| srp_N_SORT_NAME_RG = BUSINCE
+| srp_N_FULL_NAME_RG = Bušince
+| srp_N_FULL_NAME_ND_RG = Busince
+| srp_NS_name = Бушинце
+| srp_NS_FULL_NAME_RO = Бушинце
+| srp_NS_FULL_NAME_ND_RO = Бушинце
+| srp_NS_SORT_NAME_RG = БУШИНЦЕ
+| srp_NS_FULL_NAME_RG = Бушинце
+| srp_NS_FULL_NAME_ND_RG = Бушинце
+| srp_V_name = Bušinjce
+| srp_V_FULL_NAME_RO = Bušinjce Mahala Staro Butince
+| srp_V_FULL_NAME_ND_RO = Businjce Mahala Staro Butince
+| srp_V_SORT_NAME_RG = BUSINJCE MAHALASTAROBUTINCE
+| srp_V_FULL_NAME_RG = Bušinjce Mahala Staro Butince
+| srp_V_FULL_NAME_ND_RG = Businjce Mahala Staro Butince
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.506944
  | Lartësia            = 
 }}
-'''Bushincë''' është një [[]] në [[Fushë Kosovë]] të [[Kosovës]].
+'''Bushincë''' është një [[Fshat Vogel]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

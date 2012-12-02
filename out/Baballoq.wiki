@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Baballoq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BABALLOQ
- | FULL_NAME_RO = Baballoq
- | FULL_NAME_ND_RO=Baballoq
- | SORT_NAME_RG=BABALLOQ
- | FULL_NAME_RG=Baballoq
- | FULL_NAME_ND_RG=Baballoq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Baballoq
+| sqi_N_FULL_NAME_RO = Baballoq
+| sqi_N_FULL_NAME_ND_RO = Baballoq
+| sqi_N_SORT_NAME_RG = BABALLOQ
+| sqi_N_FULL_NAME_RG = Baballoq
+| sqi_N_FULL_NAME_ND_RG = Baballoq
+| sqi_V_name = Babaj-Laç
+| sqi_V_FULL_NAME_RO = Babaj-Laç
+| sqi_V_FULL_NAME_ND_RO = Babaj-Lac
+| sqi_V_SORT_NAME_RG = BABAJLAC
+| sqi_V_FULL_NAME_RG = Babaj-Laç
+| sqi_V_FULL_NAME_ND_RG = Babaj-Lac
+| srp_N_name = Babaloć
+| srp_N_FULL_NAME_RO = Babaloć
+| srp_N_FULL_NAME_ND_RO = Babaloc
+| srp_N_SORT_NAME_RG = BABALOC
+| srp_N_FULL_NAME_RG = Babaloć
+| srp_N_FULL_NAME_ND_RG = Babaloc
+| srp_NS_name = Бабалоћ
+| srp_NS_FULL_NAME_RO = Бабалоћ
+| srp_NS_FULL_NAME_ND_RO = Бабалоћ
+| srp_NS_SORT_NAME_RG = БАБАЛОЋ
+| srp_NS_FULL_NAME_RG = Бабалоћ
+| srp_NS_FULL_NAME_ND_RG = Бабалоћ
+| srp_V_name = Babajloć
+| srp_V_FULL_NAME_RO = Babajloć
+| srp_V_FULL_NAME_ND_RO = Babajloc
+| srp_V_SORT_NAME_RG = BABAJLOC
+| srp_V_FULL_NAME_RG = Babajloć
+| srp_V_FULL_NAME_ND_RG = Babajloc
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.348889
  | Lartësia            = 
 }}
-'''Baballoq''' është një [[]] në [[Deçan]] të [[Kosovës]].
+'''Baballoq''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

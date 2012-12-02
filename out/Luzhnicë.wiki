@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Luzhnicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LUZHNICE
- | FULL_NAME_RO = Luzhnicë
- | FULL_NAME_ND_RO=Luzhnice
- | SORT_NAME_RG=LUZHNICE
- | FULL_NAME_RG=Luzhnicë
- | FULL_NAME_ND_RG=Luzhnice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Luzhnicë
+| sqi_N_FULL_NAME_RO = Luzhnicë
+| sqi_N_FULL_NAME_ND_RO = Luzhnice
+| sqi_N_SORT_NAME_RG = LUZHNICE
+| sqi_N_FULL_NAME_RG = Luzhnicë
+| sqi_N_FULL_NAME_ND_RG = Luzhnice
+| sqi_V_name = Lluzhinicë
+| sqi_V_FULL_NAME_RO = Lluzhinicë Lushicë Luzhnica
+| sqi_V_FULL_NAME_ND_RO = Lluzhinice Lushice Luzhnica
+| sqi_V_SORT_NAME_RG = LLUZHINICE LUSHICE LUZHNICA
+| sqi_V_FULL_NAME_RG = Lluzhinicë Lushicë Luzhnica
+| sqi_V_FULL_NAME_ND_RG = Lluzhinice Lushice Luzhnica
+| srp_N_name = Lužnica
+| srp_N_FULL_NAME_RO = Lužnica
+| srp_N_FULL_NAME_ND_RO = Luznica
+| srp_N_SORT_NAME_RG = LUZNICA
+| srp_N_FULL_NAME_RG = Lužnica
+| srp_N_FULL_NAME_ND_RG = Luznica
+| srp_NS_name = Лужница
+| srp_NS_FULL_NAME_RO = Лужница
+| srp_NS_FULL_NAME_ND_RO = Лужница
+| srp_NS_SORT_NAME_RG = ЛУЖНИЦА
+| srp_NS_FULL_NAME_RG = Лужница
+| srp_NS_FULL_NAME_ND_RG = Лужница
+| srp_V_name = Ljužnica
+| srp_V_FULL_NAME_RO = Ljužnica
+| srp_V_FULL_NAME_ND_RO = Ljuznica
+| srp_V_SORT_NAME_RG = LJUZNICA
+| srp_V_FULL_NAME_RG = Ljužnica
+| srp_V_FULL_NAME_ND_RG = Ljuznica
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.894722
  | Lartësia            = 
 }}
-'''Luzhnicë''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Luzhnicë''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

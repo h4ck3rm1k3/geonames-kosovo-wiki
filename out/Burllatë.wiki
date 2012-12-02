@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Burllatë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BURLLATE
- | FULL_NAME_RO = Burllatë
- | FULL_NAME_ND_RO=Burllate
- | SORT_NAME_RG=BURLLATE
- | FULL_NAME_RG=Burllatë
- | FULL_NAME_ND_RG=Burllate
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Burllatë
+| sqi_N_FULL_NAME_RO = Burllatë
+| sqi_N_FULL_NAME_ND_RO = Burllate
+| sqi_N_SORT_NAME_RG = BURLLATE
+| sqi_N_FULL_NAME_RG = Burllatë
+| sqi_N_FULL_NAME_ND_RG = Burllate
+| srp_N_name = Burlate
+| srp_N_FULL_NAME_RO = Burlate
+| srp_N_FULL_NAME_ND_RO = Burlate
+| srp_N_SORT_NAME_RG = BURLATE
+| srp_N_FULL_NAME_RG = Burlate
+| srp_N_FULL_NAME_ND_RG = Burlate
+| srp_NS_name = Бурлате
+| srp_NS_FULL_NAME_RO = Бурлате
+| srp_NS_FULL_NAME_ND_RO = Бурлате
+| srp_NS_SORT_NAME_RG = БУРЛАТЕ
+| srp_NS_FULL_NAME_RG = Бурлате
+| srp_NS_FULL_NAME_ND_RG = Бурлате
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.597778
  | Lartësia            = 
 }}
-'''Burllatë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Burllatë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

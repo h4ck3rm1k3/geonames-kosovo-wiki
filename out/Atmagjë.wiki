@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Atmagjë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ATMAGJE
- | FULL_NAME_RO = Atmagjë
- | FULL_NAME_ND_RO=Atmagje
- | SORT_NAME_RG=ATMAGJE
- | FULL_NAME_RG=Atmagjë
- | FULL_NAME_ND_RG=Atmagje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Atmagjë
+| sqi_N_FULL_NAME_RO = Atmagjë
+| sqi_N_FULL_NAME_ND_RO = Atmagje
+| sqi_N_SORT_NAME_RG = ATMAGJE
+| sqi_N_FULL_NAME_RG = Atmagjë
+| sqi_N_FULL_NAME_ND_RG = Atmagje
+| sqi_V_name = Hatmaxhë
+| sqi_V_FULL_NAME_RO = Hatmaxhë
+| sqi_V_FULL_NAME_ND_RO = Hatmaxhe
+| sqi_V_SORT_NAME_RG = HATMAXHE
+| sqi_V_FULL_NAME_RG = Hatmaxhë
+| sqi_V_FULL_NAME_ND_RG = Hatmaxhe
+| srp_N_name = Atmađa
+| srp_N_FULL_NAME_RO = Atmađa
+| srp_N_FULL_NAME_ND_RO = Atmada
+| srp_N_SORT_NAME_RG = ATMADA
+| srp_N_FULL_NAME_RG = Atmađa
+| srp_N_FULL_NAME_ND_RG = Atmada
+| srp_NS_name = Атмађа
+| srp_NS_FULL_NAME_RO = Атмађа
+| srp_NS_FULL_NAME_ND_RO = Атмађа
+| srp_NS_SORT_NAME_RG = АТМАЂА
+| srp_NS_FULL_NAME_RG = Атмађа
+| srp_NS_FULL_NAME_ND_RG = Атмађа
+| srp_V_name = Atmadža
+| srp_V_FULL_NAME_RO = Atmadža
+| srp_V_FULL_NAME_ND_RO = Atmadza
+| srp_V_SORT_NAME_RG = ATMADZA
+| srp_V_FULL_NAME_RG = Atmadža
+| srp_V_FULL_NAME_ND_RG = Atmadza
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.681667
  | Lartësia            = 
 }}
-'''Atmagjë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Atmagjë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

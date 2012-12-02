@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dvorishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DVORISHTE
- | FULL_NAME_RO = Dvorishtë
- | FULL_NAME_ND_RO=Dvorishte
- | SORT_NAME_RG=DVORISHTE
- | FULL_NAME_RG=Dvorishtë
- | FULL_NAME_ND_RG=Dvorishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dvorishtë
+| sqi_N_FULL_NAME_RO = Dvorishtë
+| sqi_N_FULL_NAME_ND_RO = Dvorishte
+| sqi_N_SORT_NAME_RG = DVORISHTE
+| sqi_N_FULL_NAME_RG = Dvorishtë
+| sqi_N_FULL_NAME_ND_RG = Dvorishte
+| sqi_V_name = Mavrishtë
+| sqi_V_FULL_NAME_RO = Mavrishtë Dvorishta Mavrishta
+| sqi_V_FULL_NAME_ND_RO = Mavrishte Dvorishta Mavrishta
+| sqi_V_SORT_NAME_RG = MAVRISHTE DVORISHTA MAVRISHTA
+| sqi_V_FULL_NAME_RG = Mavrishtë Dvorishta Mavrishta
+| sqi_V_FULL_NAME_ND_RG = Mavrishte Dvorishta Mavrishta
+| srp_N_name = Dvorište
+| srp_N_FULL_NAME_RO = Dvorište
+| srp_N_FULL_NAME_ND_RO = Dvoriste
+| srp_N_SORT_NAME_RG = DVORISTE
+| srp_N_FULL_NAME_RG = Dvorište
+| srp_N_FULL_NAME_ND_RG = Dvoriste
+| srp_NS_name = Двориште
+| srp_NS_FULL_NAME_RO = Двориште
+| srp_NS_FULL_NAME_ND_RO = Двориште
+| srp_NS_SORT_NAME_RG = ДВОРИШТЕ
+| srp_NS_FULL_NAME_RG = Двориште
+| srp_NS_FULL_NAME_ND_RG = Двориште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.127222
  | Lartësia            = 
 }}
-'''Dvorishtë''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Dvorishtë''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

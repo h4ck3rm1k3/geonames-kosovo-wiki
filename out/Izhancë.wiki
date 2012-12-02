@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Izhancë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      IZHANCE
- | FULL_NAME_RO = Izhancë
- | FULL_NAME_ND_RO=Izhance
- | SORT_NAME_RG=IZHANCE
- | FULL_NAME_RG=Izhancë
- | FULL_NAME_ND_RG=Izhance
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Izhancë
+| sqi_N_FULL_NAME_RO = Izhancë
+| sqi_N_FULL_NAME_ND_RO = Izhance
+| sqi_N_SORT_NAME_RG = IZHANCE
+| sqi_N_FULL_NAME_RG = Izhancë
+| sqi_N_FULL_NAME_ND_RG = Izhance
+| sqi_V_name = Izhanc
+| sqi_V_FULL_NAME_RO = Izhanc
+| sqi_V_FULL_NAME_ND_RO = Izhanc
+| sqi_V_SORT_NAME_RG = IZHANC
+| sqi_V_FULL_NAME_RG = Izhanc
+| sqi_V_FULL_NAME_ND_RG = Izhanc
+| srp_N_name = Ižance
+| srp_N_FULL_NAME_RO = Ižance
+| srp_N_FULL_NAME_ND_RO = Izance
+| srp_N_SORT_NAME_RG = IZANCE
+| srp_N_FULL_NAME_RG = Ižance
+| srp_N_FULL_NAME_ND_RG = Izance
+| srp_NS_name = Ижанце
+| srp_NS_FULL_NAME_RO = Ижанце
+| srp_NS_FULL_NAME_ND_RO = Ижанце
+| srp_NS_SORT_NAME_RG = ИЖАНЦЕ
+| srp_NS_FULL_NAME_RG = Ижанце
+| srp_NS_FULL_NAME_ND_RG = Ижанце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.103611
  | Lartësia            = 
 }}
-'''Izhancë''' është një [[]] në [[Shtërpcë]] të [[Kosovës]].
+'''Izhancë''' është një [[Fshat Vogel]] në [[Shtërpcë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

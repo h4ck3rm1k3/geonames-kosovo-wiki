@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Nosalë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      NOSALE
- | FULL_NAME_RO = Nosalë
- | FULL_NAME_ND_RO=Nosale
- | SORT_NAME_RG=NOSALE
- | FULL_NAME_RG=Nosalë
- | FULL_NAME_ND_RG=Nosale
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Nosalë
+| sqi_D_FULL_NAME_RO = Nosalë
+| sqi_D_FULL_NAME_ND_RO = Nosale
+| sqi_D_SORT_NAME_RG = NOSALE
+| sqi_D_FULL_NAME_RG = Nosalë
+| sqi_D_FULL_NAME_ND_RG = Nosale
+| sqi_V_name = Nasalë
+| sqi_V_FULL_NAME_RO = Nasalë
+| sqi_V_FULL_NAME_ND_RO = Nasale
+| sqi_V_SORT_NAME_RG = NASALE
+| sqi_V_FULL_NAME_RG = Nasalë
+| sqi_V_FULL_NAME_ND_RG = Nasale
+| srp_N_name = Nosalje
+| srp_N_FULL_NAME_RO = Nosalje
+| srp_N_FULL_NAME_ND_RO = Nosalje
+| srp_N_SORT_NAME_RG = NOSALJE
+| srp_N_FULL_NAME_RG = Nosalje
+| srp_N_FULL_NAME_ND_RG = Nosalje
+| srp_NS_name = Носаље
+| srp_NS_FULL_NAME_RO = Носаље
+| srp_NS_FULL_NAME_ND_RO = Носаље
+| srp_NS_SORT_NAME_RG = НОСАЉЕ
+| srp_NS_FULL_NAME_RG = Носаље
+| srp_NS_FULL_NAME_ND_RG = Носаље
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.446111
  | Lartësia            = 
 }}
-'''Nosalë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Nosalë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

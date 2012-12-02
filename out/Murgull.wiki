@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Murgull
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MURGULL
- | FULL_NAME_RO = Murgull
- | FULL_NAME_ND_RO=Murgull
- | SORT_NAME_RG=MURGULL
- | FULL_NAME_RG=Murgull
- | FULL_NAME_ND_RG=Murgull
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Murgull
+| sqi_N_FULL_NAME_RO = Murgull
+| sqi_N_FULL_NAME_ND_RO = Murgull
+| sqi_N_SORT_NAME_RG = MURGULL
+| sqi_N_FULL_NAME_RG = Murgull
+| sqi_N_FULL_NAME_ND_RG = Murgull
+| sqi_V_name = Murgullë
+| sqi_V_FULL_NAME_RO = Murgullë Murgulla Murqulla
+| sqi_V_FULL_NAME_ND_RO = Murgulle Murgulla Murqulla
+| sqi_V_SORT_NAME_RG = MURGULLE MURGULLA MURQULLA
+| sqi_V_FULL_NAME_RG = Murgullë Murgulla Murqulla
+| sqi_V_FULL_NAME_ND_RG = Murgulle Murgulla Murqulla
+| srp_N_name = Murgula
+| srp_N_FULL_NAME_RO = Murgula
+| srp_N_FULL_NAME_ND_RO = Murgula
+| srp_N_SORT_NAME_RG = MURGULA
+| srp_N_FULL_NAME_RG = Murgula
+| srp_N_FULL_NAME_ND_RG = Murgula
+| srp_NS_name = Мургула
+| srp_NS_FULL_NAME_RO = Мургула
+| srp_NS_FULL_NAME_ND_RO = Мургула
+| srp_NS_SORT_NAME_RG = МУРГУЛА
+| srp_NS_FULL_NAME_RG = Мургула
+| srp_NS_FULL_NAME_ND_RG = Мургула
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.0475
  | Lartësia            = 
 }}
-'''Murgull''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Murgull''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dobërdol
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DOBERDOL
- | FULL_NAME_RO = Dobërdol
- | FULL_NAME_ND_RO=Doberdol
- | SORT_NAME_RG=DOBERDOL
- | FULL_NAME_RG=Dobërdol
- | FULL_NAME_ND_RG=Doberdol
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Dobërdol
+| sqi_D_FULL_NAME_RO = Dobërdol
+| sqi_D_FULL_NAME_ND_RO = Doberdol
+| sqi_D_SORT_NAME_RG = DOBERDOL
+| sqi_D_FULL_NAME_RG = Dobërdol
+| sqi_D_FULL_NAME_ND_RG = Doberdol
+| sqi_V_name = Dobidol
+| sqi_V_FULL_NAME_RO = Dobidol Dobridoll
+| sqi_V_FULL_NAME_ND_RO = Dobidol Dobridoll
+| sqi_V_SORT_NAME_RG = DOBIDOL DOBRIDOLL
+| sqi_V_FULL_NAME_RG = Dobidol Dobridoll
+| sqi_V_FULL_NAME_ND_RG = Dobidol Dobridoll
+| srp_N_name = Dobridol
+| srp_N_FULL_NAME_RO = Dobridol
+| srp_N_FULL_NAME_ND_RO = Dobridol
+| srp_N_SORT_NAME_RG = DOBRIDOL
+| srp_N_FULL_NAME_RG = Dobridol
+| srp_N_FULL_NAME_ND_RG = Dobridol
+| srp_NS_name = Добри Дол
+| srp_NS_FULL_NAME_RO = Добри Дол
+| srp_NS_FULL_NAME_ND_RO = Добри Дол
+| srp_NS_SORT_NAME_RG = ДОБРИДОЛ
+| srp_NS_FULL_NAME_RG = Добри Дол
+| srp_NS_FULL_NAME_ND_RG = Добри Дол
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.535
  | Lartësia            = 
 }}
-'''Dobërdol''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Dobërdol''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

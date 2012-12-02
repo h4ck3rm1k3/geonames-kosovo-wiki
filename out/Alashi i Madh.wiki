@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Alashi i Madh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ALASHIIMADH
- | FULL_NAME_RO = Alashi i Madh
- | FULL_NAME_ND_RO=Alashi i Madh
- | SORT_NAME_RG=ALASHIIMADH
- | FULL_NAME_RG=Alashi i Madh
- | FULL_NAME_ND_RG=Alashi i Madh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Alashi i Madh
+| sqi_N_FULL_NAME_RO = Alashi i Madh
+| sqi_N_FULL_NAME_ND_RO = Alashi i Madh
+| sqi_N_SORT_NAME_RG = ALASHIIMADH
+| sqi_N_FULL_NAME_RG = Alashi i Madh
+| sqi_N_FULL_NAME_ND_RG = Alashi i Madh
+| sqi_V_name = Hallaç i Madh
+| sqi_V_FULL_NAME_RO = Hallaç i Madh
+| sqi_V_FULL_NAME_ND_RO = Hallac i Madh
+| sqi_V_SORT_NAME_RG = HALLACIMADH
+| sqi_V_FULL_NAME_RG = Hallaç i Madh
+| sqi_V_FULL_NAME_ND_RG = Hallac i Madh
+| srp_N_name = Veliki Alaš
+| srp_N_FULL_NAME_RO = Veliki Alaš
+| srp_N_FULL_NAME_ND_RO = Veliki Alas
+| srp_N_SORT_NAME_RG = VELIKIALAS
+| srp_N_FULL_NAME_RG = Veliki Alaš
+| srp_N_FULL_NAME_ND_RG = Veliki Alas
+| srp_NS_name = Велики Алаш
+| srp_NS_FULL_NAME_RO = Велики Алаш
+| srp_NS_FULL_NAME_ND_RO = Велики Алаш
+| srp_NS_SORT_NAME_RG = ВЕЛИКИАЛАШ
+| srp_NS_FULL_NAME_RG = Велики Алаш
+| srp_NS_FULL_NAME_ND_RG = Велики Алаш
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.085278
  | Lartësia            = 
 }}
-'''Alashi i Madh''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Alashi i Madh''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

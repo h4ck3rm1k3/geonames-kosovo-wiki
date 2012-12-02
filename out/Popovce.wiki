@@ -1,26 +1,16 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Popovce
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      POPOVCE
- | FULL_NAME_RO = Popovce
- | FULL_NAME_ND_RO=Popovce
- | SORT_NAME_RG=POPOVCE
- | FULL_NAME_RG=Popovce
- | FULL_NAME_ND_RG=Popovce
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| srp_N_name = Popovce
+| srp_N_FULL_NAME_RO = Popovce
+| srp_N_FULL_NAME_ND_RO = Popovce
+| srp_N_SORT_NAME_RG = POPOVCE
+| srp_N_FULL_NAME_RG = Popovce
+| srp_N_FULL_NAME_ND_RG = Popovce
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Lipjan
+ | Komuna              = Shtërpcë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +20,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 43.081667
- | Gjatësia            = 20.792778
+ | Gjerësia            = 42.261944
+ | Gjatësia            = 21.031667
  | Lartësia            = 
 }}
-'''Popovce''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Popovce''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Lipjan}}
+{{Komuna Shtërpcë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Fshatra në Kommunes Shtërpcë]]
 [[Kategoria:Vendbanime në Kosovës]]

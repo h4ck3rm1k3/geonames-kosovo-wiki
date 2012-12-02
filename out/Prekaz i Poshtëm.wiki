@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Prekaz i Poshtëm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PREKAZIPOSHTEM
- | FULL_NAME_RO = Prekaz i Poshtëm
- | FULL_NAME_ND_RO=Prekaz i Poshtem
- | SORT_NAME_RG=PREKAZIPOSHTEM
- | FULL_NAME_RG=Prekaz i Poshtëm
- | FULL_NAME_ND_RG=Prekaz i Poshtem
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Prekaz i Poshtëm
+| sqi_D_FULL_NAME_RO = Prekaz i Poshtëm
+| sqi_D_FULL_NAME_ND_RO = Prekaz i Poshtem
+| sqi_D_SORT_NAME_RG = PREKAZIPOSHTEM
+| sqi_D_FULL_NAME_RG = Prekaz i Poshtëm
+| sqi_D_FULL_NAME_ND_RG = Prekaz i Poshtem
+| sqi_V_name = Prekazi i Poshtëm
+| sqi_V_FULL_NAME_RO = Prekazi i Poshtëm Prekazi i Ultë
+| sqi_V_FULL_NAME_ND_RO = Prekazi i Poshtem Prekazi i Ulte
+| sqi_V_SORT_NAME_RG = PREKAZIIPOSHTEM PREKAZIIULTE
+| sqi_V_FULL_NAME_RG = Prekazi i Poshtëm Prekazi i Ultë
+| sqi_V_FULL_NAME_ND_RG = Prekazi i Poshtem Prekazi i Ulte
+| srp_N_name = Donje Prekaze
+| srp_N_FULL_NAME_RO = Donje Prekaze
+| srp_N_FULL_NAME_ND_RO = Donje Prekaze
+| srp_N_SORT_NAME_RG = DONJEPREKAZE
+| srp_N_FULL_NAME_RG = Donje Prekaze
+| srp_N_FULL_NAME_ND_RG = Donje Prekaze
+| srp_NS_name = Доње Преказе
+| srp_NS_FULL_NAME_RO = Доње Преказе
+| srp_NS_FULL_NAME_ND_RO = Доње Преказе
+| srp_NS_SORT_NAME_RG = ДОЊЕПРЕКАЗЕ
+| srp_NS_FULL_NAME_RG = Доње Преказе
+| srp_NS_FULL_NAME_ND_RG = Доње Преказе
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.820278
  | Lartësia            = 
 }}
-'''Prekaz i Poshtëm''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Prekaz i Poshtëm''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

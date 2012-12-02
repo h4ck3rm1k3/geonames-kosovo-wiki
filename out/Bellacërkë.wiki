@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bellacërkë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BELLACERKE
- | FULL_NAME_RO = Bellacërkë
- | FULL_NAME_ND_RO=Bellacerke
- | SORT_NAME_RG=BELLACERKE
- | FULL_NAME_RG=Bellacërkë
- | FULL_NAME_ND_RG=Bellacerke
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bellacërkë
+| sqi_N_FULL_NAME_RO = Bellacërkë
+| sqi_N_FULL_NAME_ND_RO = Bellacerke
+| sqi_N_SORT_NAME_RG = BELLACERKE
+| sqi_N_FULL_NAME_RG = Bellacërkë
+| sqi_N_FULL_NAME_ND_RG = Bellacerke
+| sqi_V_name = Bellacrkvë
+| sqi_V_FULL_NAME_RO = Bellacrkvë Belacërk
+| sqi_V_FULL_NAME_ND_RO = Bellacrkve Belacerk
+| sqi_V_SORT_NAME_RG = BELLACRKVE BELACERK
+| sqi_V_FULL_NAME_RG = Bellacrkvë Belacërk
+| sqi_V_FULL_NAME_ND_RG = Bellacrkve Belacerk
+| srp_N_name = Bela Crkva
+| srp_N_FULL_NAME_RO = Bela Crkva
+| srp_N_FULL_NAME_ND_RO = Bela Crkva
+| srp_N_SORT_NAME_RG = BELACRKVA
+| srp_N_FULL_NAME_RG = Bela Crkva
+| srp_N_FULL_NAME_ND_RG = Bela Crkva
+| srp_NS_name = Бела Црква
+| srp_NS_FULL_NAME_RO = Бела Црква
+| srp_NS_FULL_NAME_ND_RO = Бела Црква
+| srp_NS_SORT_NAME_RG = БЕЛАЦРКВА
+| srp_NS_FULL_NAME_RG = Бела Црква
+| srp_NS_FULL_NAME_ND_RG = Бела Црква
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.595556
  | Lartësia            = 
 }}
-'''Bellacërkë''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Bellacërkë''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shlivovicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHLIVOVICE
- | FULL_NAME_RO = Shlivovicë
- | FULL_NAME_ND_RO=Shlivovice
- | SORT_NAME_RG=SHLIVOVICE
- | FULL_NAME_RG=Shlivovicë
- | FULL_NAME_ND_RG=Shlivovice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shlivovicë
+| sqi_N_FULL_NAME_RO = Shlivovicë
+| sqi_N_FULL_NAME_ND_RO = Shlivovice
+| sqi_N_SORT_NAME_RG = SHLIVOVICE
+| sqi_N_FULL_NAME_RG = Shlivovicë
+| sqi_N_FULL_NAME_ND_RG = Shlivovice
+| srp_N_name = Šljivovica
+| srp_N_FULL_NAME_RO = Šljivovica
+| srp_N_FULL_NAME_ND_RO = Sljivovica
+| srp_N_SORT_NAME_RG = SLJIVOVICA
+| srp_N_FULL_NAME_RG = Šljivovica
+| srp_N_FULL_NAME_ND_RG = Sljivovica
+| srp_NS_name = Шљивовица
+| srp_NS_FULL_NAME_RO = Шљивовица
+| srp_NS_FULL_NAME_ND_RO = Шљивовица
+| srp_NS_SORT_NAME_RG = ШЉИВОВИЦА
+| srp_NS_FULL_NAME_RG = Шљивовица
+| srp_NS_FULL_NAME_ND_RG = Шљивовица
+| srp_V_name = Šlivovica
+| srp_V_FULL_NAME_RO = Šlivovica
+| srp_V_FULL_NAME_ND_RO = Slivovica
+| srp_V_SORT_NAME_RG = SLIVOVICA
+| srp_V_FULL_NAME_RG = Šlivovica
+| srp_V_FULL_NAME_ND_RG = Slivovica
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.994896
  | Lartësia            = 
 }}
-'''Shlivovicë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Shlivovicë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

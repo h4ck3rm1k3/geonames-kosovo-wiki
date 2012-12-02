@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kërstoc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KERSTOC
- | FULL_NAME_RO = Kërstoc
- | FULL_NAME_ND_RO=Kerstoc
- | SORT_NAME_RG=KERSTOC
- | FULL_NAME_RG=Kërstoc
- | FULL_NAME_ND_RG=Kerstoc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kërstoc
+| sqi_N_FULL_NAME_RO = Kërstoc
+| sqi_N_FULL_NAME_ND_RO = Kerstoc
+| sqi_N_SORT_NAME_RG = KERSTOC
+| sqi_N_FULL_NAME_RG = Kërstoc
+| sqi_N_FULL_NAME_ND_RG = Kerstoc
+| sqi_V_name = Kërstovc
+| sqi_V_FULL_NAME_RO = Kërstovc
+| sqi_V_FULL_NAME_ND_RO = Kerstovc
+| sqi_V_SORT_NAME_RG = KERSTOVC
+| sqi_V_FULL_NAME_RG = Kërstovc
+| sqi_V_FULL_NAME_ND_RG = Kerstovc
+| srp_N_name = Krstovac
+| srp_N_FULL_NAME_RO = Krstovac
+| srp_N_FULL_NAME_ND_RO = Krstovac
+| srp_N_SORT_NAME_RG = KRSTOVAC
+| srp_N_FULL_NAME_RG = Krstovac
+| srp_N_FULL_NAME_ND_RG = Krstovac
+| srp_NS_name = Крстовац
+| srp_NS_FULL_NAME_RO = Крстовац
+| srp_NS_FULL_NAME_ND_RO = Крстовац
+| srp_NS_SORT_NAME_RG = КРСТОВАЦ
+| srp_NS_FULL_NAME_RG = Крстовац
+| srp_NS_FULL_NAME_ND_RG = Крстовац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.436944
  | Lartësia            = 
 }}
-'''Kërstoc''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Kërstoc''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

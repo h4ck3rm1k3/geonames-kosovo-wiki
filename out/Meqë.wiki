@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Meqë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MEQE
- | FULL_NAME_RO = Meqë
- | FULL_NAME_ND_RO=Meqe
- | SORT_NAME_RG=MEQE
- | FULL_NAME_RG=Meqë
- | FULL_NAME_ND_RG=Meqe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Meqë
+| sqi_N_FULL_NAME_RO = Meqë
+| sqi_N_FULL_NAME_ND_RO = Meqe
+| sqi_N_SORT_NAME_RG = MEQE
+| sqi_N_FULL_NAME_RG = Meqë
+| sqi_N_FULL_NAME_ND_RG = Meqe
+| sqi_V_name = Meqe
+| sqi_V_FULL_NAME_RO = Meqe
+| sqi_V_FULL_NAME_ND_RO = Meqe
+| sqi_V_SORT_NAME_RG = MEQE
+| sqi_V_FULL_NAME_RG = Meqe
+| sqi_V_FULL_NAME_ND_RG = Meqe
+| srp_N_name = Meće
+| srp_N_FULL_NAME_RO = Meće
+| srp_N_FULL_NAME_ND_RO = Mece
+| srp_N_SORT_NAME_RG = MECE
+| srp_N_FULL_NAME_RG = Meće
+| srp_N_FULL_NAME_ND_RG = Mece
+| srp_NS_name = Мећа
+| srp_NS_FULL_NAME_RO = Мећа
+| srp_NS_FULL_NAME_ND_RO = Мећа
+| srp_NS_SORT_NAME_RG = МЕЋА
+| srp_NS_FULL_NAME_RG = Мећа
+| srp_NS_FULL_NAME_ND_RG = Мећа
+| srp_V_name = Meća
+| srp_V_FULL_NAME_RO = Meća
+| srp_V_FULL_NAME_ND_RO = Meca
+| srp_V_SORT_NAME_RG = MECA
+| srp_V_FULL_NAME_RG = Meća
+| srp_V_FULL_NAME_ND_RG = Meca
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.499722
  | Lartësia            = 
 }}
-'''Meqë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Meqë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

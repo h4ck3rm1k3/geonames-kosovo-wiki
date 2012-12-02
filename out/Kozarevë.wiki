@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kozarevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOZAREVE
- | FULL_NAME_RO = Kozarevë
- | FULL_NAME_ND_RO=Kozareve
- | SORT_NAME_RG=KOZAREVE
- | FULL_NAME_RG=Kozarevë
- | FULL_NAME_ND_RG=Kozareve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kozarevë
+| sqi_N_FULL_NAME_RO = Kozarevë
+| sqi_N_FULL_NAME_ND_RO = Kozareve
+| sqi_N_SORT_NAME_RG = KOZAREVE
+| sqi_N_FULL_NAME_RG = Kozarevë
+| sqi_N_FULL_NAME_ND_RG = Kozareve
+| sqi_V_name = Kosarevë
+| sqi_V_FULL_NAME_RO = Kosarevë Kozarevo
+| sqi_V_FULL_NAME_ND_RO = Kosareve Kozarevo
+| sqi_V_SORT_NAME_RG = KOSAREVE KOZAREVO
+| sqi_V_FULL_NAME_RG = Kosarevë Kozarevo
+| sqi_V_FULL_NAME_ND_RG = Kosareve Kozarevo
+| srp_N_name = Kozarevo
+| srp_N_FULL_NAME_RO = Kozarevo
+| srp_N_FULL_NAME_ND_RO = Kozarevo
+| srp_N_SORT_NAME_RG = KOZAREVO
+| srp_N_FULL_NAME_RG = Kozarevo
+| srp_N_FULL_NAME_ND_RG = Kozarevo
+| srp_NS_name = Козарево
+| srp_NS_FULL_NAME_RO = Козарево
+| srp_NS_FULL_NAME_ND_RO = Козарево
+| srp_NS_SORT_NAME_RG = КОЗАРЕВО
+| srp_NS_FULL_NAME_RG = Козарево
+| srp_NS_FULL_NAME_ND_RG = Козарево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.735
  | Lartësia            = 
 }}
-'''Kozarevë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Kozarevë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

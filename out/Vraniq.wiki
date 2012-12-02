@@ -1,26 +1,40 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vraniq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VRANIQ
- | FULL_NAME_RO = Vraniq
- | FULL_NAME_ND_RO=Vraniq
- | SORT_NAME_RG=VRANIQ
- | FULL_NAME_RG=Vraniq
- | FULL_NAME_ND_RG=Vraniq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Vraniq
+| sqi_D_FULL_NAME_RO = Vraniq
+| sqi_D_FULL_NAME_ND_RO = Vraniq
+| sqi_D_SORT_NAME_RG = VRANIQ
+| sqi_D_FULL_NAME_RG = Vraniq
+| sqi_D_FULL_NAME_ND_RG = Vraniq
+| sqi_V_name = Vraniç
+| sqi_V_FULL_NAME_RO = Vraniç Uraniq
+| sqi_V_FULL_NAME_ND_RO = Vranic Uraniq
+| sqi_V_SORT_NAME_RG = VRANIC URANIQ
+| sqi_V_FULL_NAME_RG = Vraniç Uraniq
+| sqi_V_FULL_NAME_ND_RG = Vranic Uraniq
+| srp_N_name = Vranić
+| srp_N_FULL_NAME_RO = Vranić
+| srp_N_FULL_NAME_ND_RO = Vranic
+| srp_N_SORT_NAME_RG = VRANIC
+| srp_N_FULL_NAME_RG = Vranić
+| srp_N_FULL_NAME_ND_RG = Vranic
+| srp_NS_name = Вранић
+| srp_NS_FULL_NAME_RO = Вранић
+| srp_NS_FULL_NAME_ND_RO = Вранић
+| srp_NS_SORT_NAME_RG = ВРАНИЋ
+| srp_NS_FULL_NAME_RG = Вранић
+| srp_NS_FULL_NAME_ND_RG = Вранић
+| srp_V_name = Vraniće
+| srp_V_FULL_NAME_RO = Vraniće Vranići
+| srp_V_FULL_NAME_ND_RO = Vranice Vranici
+| srp_V_SORT_NAME_RG = VRANICE VRANICI
+| srp_V_FULL_NAME_RG = Vraniće Vranići
+| srp_V_FULL_NAME_ND_RG = Vranice Vranici
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Dragash
+ | Komuna              = Ferizaj
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +44,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.043889
- | Gjatësia            = 20.63
+ | Gjerësia            = 42.325556
+ | Gjatësia            = 20.919167
  | Lartësia            = 
 }}
-'''Vraniq''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Vraniq''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Dragash}}
+{{Komuna Ferizaj}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Dragash]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
 [[Kategoria:Vendbanime në Kosovës]]

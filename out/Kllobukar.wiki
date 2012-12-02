@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kllobukar
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KLLOBUKAR
- | FULL_NAME_RO = Kllobukar
- | FULL_NAME_ND_RO=Kllobukar
- | SORT_NAME_RG=KLLOBUKAR
- | FULL_NAME_RG=Kllobukar
- | FULL_NAME_ND_RG=Kllobukar
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kllobukar
+| sqi_N_FULL_NAME_RO = Kllobukar
+| sqi_N_FULL_NAME_ND_RO = Kllobukar
+| sqi_N_SORT_NAME_RG = KLLOBUKAR
+| sqi_N_FULL_NAME_RG = Kllobukar
+| sqi_N_FULL_NAME_ND_RG = Kllobukar
+| srp_N_name = Klobukar
+| srp_N_FULL_NAME_RO = Klobukar
+| srp_N_FULL_NAME_ND_RO = Klobukar
+| srp_N_SORT_NAME_RG = KLOBUKAR
+| srp_N_FULL_NAME_RG = Klobukar
+| srp_N_FULL_NAME_ND_RG = Klobukar
+| srp_NS_name = Клобукар
+| srp_NS_FULL_NAME_RO = Клобукар
+| srp_NS_FULL_NAME_ND_RO = Клобукар
+| srp_NS_SORT_NAME_RG = КЛОБУКАР
+| srp_NS_FULL_NAME_RG = Клобукар
+| srp_NS_FULL_NAME_ND_RG = Клобукар
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.472222
  | Lartësia            = 
 }}
-'''Kllobukar''' është një [[]] në [[Obiliq]] të [[Kosovës]].
+'''Kllobukar''' është një [[Fshat Vogel]] në [[Obiliq]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

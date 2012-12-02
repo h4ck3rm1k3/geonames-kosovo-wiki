@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mihaliq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MIHALIQ
- | FULL_NAME_RO = Mihaliq
- | FULL_NAME_ND_RO=Mihaliq
- | SORT_NAME_RG=MIHALIQ
- | FULL_NAME_RG=Mihaliq
- | FULL_NAME_ND_RG=Mihaliq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Mihaliq
+| sqi_N_FULL_NAME_RO = Mihaliq
+| sqi_N_FULL_NAME_ND_RO = Mihaliq
+| sqi_N_SORT_NAME_RG = MIHALIQ
+| sqi_N_FULL_NAME_RG = Mihaliq
+| sqi_N_FULL_NAME_ND_RG = Mihaliq
+| sqi_V_name = Mikaliq
+| sqi_V_FULL_NAME_RO = Mikaliq
+| sqi_V_FULL_NAME_ND_RO = Mikaliq
+| sqi_V_SORT_NAME_RG = MIKALIQ
+| sqi_V_FULL_NAME_RG = Mikaliq
+| sqi_V_FULL_NAME_ND_RG = Mikaliq
+| srp_N_name = Mijalić
+| srp_N_FULL_NAME_RO = Mijalić
+| srp_N_FULL_NAME_ND_RO = Mijalic
+| srp_N_SORT_NAME_RG = MIJALIC
+| srp_N_FULL_NAME_RG = Mijalić
+| srp_N_FULL_NAME_ND_RG = Mijalic
+| srp_NS_name = Мијалић
+| srp_NS_FULL_NAME_RO = Мијалић
+| srp_NS_FULL_NAME_ND_RO = Мијалић
+| srp_NS_SORT_NAME_RG = МИЈАЛИЋ
+| srp_NS_FULL_NAME_RG = Мијалић
+| srp_NS_FULL_NAME_ND_RG = Мијалић
+| srp_V_name = Čifči Mijalić
+| srp_V_FULL_NAME_RO = Čifči Mijalić Topal Mihalić
+| srp_V_FULL_NAME_ND_RO = Cifci Mijalic Topal Mihalic
+| srp_V_SORT_NAME_RG = CIFCIMIJALIC TOPALMIHALIC
+| srp_V_FULL_NAME_RG = Čifči Mijalić Topal Mihalić
+| srp_V_FULL_NAME_ND_RG = Cifci Mijalic Topal Mihalic
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.999149
  | Lartësia            = 
 }}
-'''Mihaliq''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Mihaliq''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llashticë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLASHTICE
- | FULL_NAME_RO = Llashticë
- | FULL_NAME_ND_RO=Llashtice
- | SORT_NAME_RG=LLASHTICE
- | FULL_NAME_RG=Llashticë
- | FULL_NAME_ND_RG=Llashtice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Llashticë
+| sqi_D_FULL_NAME_RO = Llashticë
+| sqi_D_FULL_NAME_ND_RO = Llashtice
+| sqi_D_SORT_NAME_RG = LLASHTICE
+| sqi_D_FULL_NAME_RG = Llashticë
+| sqi_D_FULL_NAME_ND_RG = Llashtice
+| sqi_V_name = Llashtica
+| sqi_V_FULL_NAME_RO = Llashtica Lashtica Vlashticë
+| sqi_V_FULL_NAME_ND_RO = Llashtica Lashtica Vlashtice
+| sqi_V_SORT_NAME_RG = LLASHTICA LASHTICA VLASHTICE
+| sqi_V_FULL_NAME_RG = Llashtica Lashtica Vlashticë
+| sqi_V_FULL_NAME_ND_RG = Llashtica Lashtica Vlashtice
+| srp_N_name = Vlaštica
+| srp_N_FULL_NAME_RO = Vlaštica
+| srp_N_FULL_NAME_ND_RO = Vlastica
+| srp_N_SORT_NAME_RG = VLASTICA
+| srp_N_FULL_NAME_RG = Vlaštica
+| srp_N_FULL_NAME_ND_RG = Vlastica
+| srp_NS_name = Влаштица
+| srp_NS_FULL_NAME_RO = Влаштица
+| srp_NS_FULL_NAME_ND_RO = Влаштица
+| srp_NS_SORT_NAME_RG = ВЛАШТИЦА
+| srp_NS_FULL_NAME_RG = Влаштица
+| srp_NS_FULL_NAME_ND_RG = Влаштица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.505
  | Lartësia            = 
 }}
-'''Llashticë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Llashticë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

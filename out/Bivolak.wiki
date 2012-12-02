@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bivolak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BIVOLAK
- | FULL_NAME_RO = Bivolak
- | FULL_NAME_ND_RO=Bivolak
- | SORT_NAME_RG=BIVOLAK
- | FULL_NAME_RG=Bivolak
- | FULL_NAME_ND_RG=Bivolak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bivolak
+| sqi_N_FULL_NAME_RO = Bivolak
+| sqi_N_FULL_NAME_ND_RO = Bivolak
+| sqi_N_SORT_NAME_RG = BIVOLAK
+| sqi_N_FULL_NAME_RG = Bivolak
+| sqi_N_FULL_NAME_ND_RG = Bivolak
+| srp_N_name = Bivoljak
+| srp_N_FULL_NAME_RO = Bivoljak
+| srp_N_FULL_NAME_ND_RO = Bivoljak
+| srp_N_SORT_NAME_RG = BIVOLJAK
+| srp_N_FULL_NAME_RG = Bivoljak
+| srp_N_FULL_NAME_ND_RG = Bivoljak
+| srp_NS_name = Бивољак
+| srp_NS_FULL_NAME_RO = Бивољак
+| srp_NS_FULL_NAME_ND_RO = Бивољак
+| srp_NS_SORT_NAME_RG = БИВОЉАК
+| srp_NS_FULL_NAME_RG = Бивољак
+| srp_NS_FULL_NAME_ND_RG = Бивољак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.008247
  | Lartësia            = 
 }}
-'''Bivolak''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Bivolak''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

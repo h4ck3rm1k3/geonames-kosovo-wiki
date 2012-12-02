@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Manastirc
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MANASTIRC
- | FULL_NAME_RO = Manastirc
- | FULL_NAME_ND_RO=Manastirc
- | SORT_NAME_RG=MANASTIRC
- | FULL_NAME_RG=Manastirc
- | FULL_NAME_ND_RG=Manastirc
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Manastirc
+| sqi_N_FULL_NAME_RO = Manastirc
+| sqi_N_FULL_NAME_ND_RO = Manastirc
+| sqi_N_SORT_NAME_RG = MANASTIRC
+| sqi_N_FULL_NAME_RG = Manastirc
+| sqi_N_FULL_NAME_ND_RG = Manastirc
+| srp_N_name = Manastirce
+| srp_N_FULL_NAME_RO = Manastirce
+| srp_N_FULL_NAME_ND_RO = Manastirce
+| srp_N_SORT_NAME_RG = MANASTIRCE
+| srp_N_FULL_NAME_RG = Manastirce
+| srp_N_FULL_NAME_ND_RG = Manastirce
+| srp_NS_name = Манастирце
+| srp_NS_FULL_NAME_RO = Манастирце
+| srp_NS_FULL_NAME_ND_RO = Манастирце
+| srp_NS_SORT_NAME_RG = МАНАСТИРЦЕ
+| srp_NS_FULL_NAME_RG = Манастирце
+| srp_NS_FULL_NAME_ND_RG = Манастирце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.108889
  | Lartësia            = 
 }}
-'''Manastirc''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Manastirc''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

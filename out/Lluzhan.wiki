@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lluzhan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLUZHAN
- | FULL_NAME_RO = Lluzhan
- | FULL_NAME_ND_RO=Lluzhan
- | SORT_NAME_RG=LLUZHAN
- | FULL_NAME_RG=Lluzhan
- | FULL_NAME_ND_RG=Lluzhan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lluzhan
+| sqi_N_FULL_NAME_RO = Lluzhan
+| sqi_N_FULL_NAME_ND_RO = Lluzhan
+| sqi_N_SORT_NAME_RG = LLUZHAN
+| sqi_N_FULL_NAME_RG = Lluzhan
+| sqi_N_FULL_NAME_ND_RG = Lluzhan
+| sqi_V_name = Llabucë
+| sqi_V_FULL_NAME_RO = Llabucë Lluzhane Lluzhani Llabuca
+| sqi_V_FULL_NAME_ND_RO = Llabuce Lluzhane Lluzhani Llabuca
+| sqi_V_SORT_NAME_RG = LLABUCE LLUZHANE LLUZHANI LLABUCA
+| sqi_V_FULL_NAME_RG = Llabucë Lluzhane Lluzhani Llabuca
+| sqi_V_FULL_NAME_ND_RG = Llabuce Lluzhane Lluzhani Llabuca
+| srp_N_name = Lužane
+| srp_N_FULL_NAME_RO = Lužane
+| srp_N_FULL_NAME_ND_RO = Luzane
+| srp_N_SORT_NAME_RG = LUZANE
+| srp_N_FULL_NAME_RG = Lužane
+| srp_N_FULL_NAME_ND_RG = Luzane
+| srp_NS_name = Лужане
+| srp_NS_FULL_NAME_RO = Лужане
+| srp_NS_FULL_NAME_ND_RO = Лужане
+| srp_NS_SORT_NAME_RG = ЛУЖАНЕ
+| srp_NS_FULL_NAME_RG = Лужане
+| srp_NS_FULL_NAME_ND_RG = Лужане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.168611
  | Lartësia            = 
 }}
-'''Lluzhan''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Lluzhan''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

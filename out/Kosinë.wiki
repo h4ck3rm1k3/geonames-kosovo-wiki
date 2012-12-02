@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kosinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOSINE
- | FULL_NAME_RO = Kosinë
- | FULL_NAME_ND_RO=Kosine
- | SORT_NAME_RG=KOSINE
- | FULL_NAME_RG=Kosinë
- | FULL_NAME_ND_RG=Kosine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kosinë
+| sqi_N_FULL_NAME_RO = Kosinë
+| sqi_N_FULL_NAME_ND_RO = Kosine
+| sqi_N_SORT_NAME_RG = KOSINE
+| sqi_N_FULL_NAME_RG = Kosinë
+| sqi_N_FULL_NAME_ND_RG = Kosine
+| srp_N_name = Kosin
+| srp_N_FULL_NAME_RO = Kosin
+| srp_N_FULL_NAME_ND_RO = Kosin
+| srp_N_SORT_NAME_RG = KOSIN
+| srp_N_FULL_NAME_RG = Kosin
+| srp_N_FULL_NAME_ND_RG = Kosin
+| srp_NS_name = Косин
+| srp_NS_FULL_NAME_RO = Косин
+| srp_NS_FULL_NAME_ND_RO = Косин
+| srp_NS_SORT_NAME_RG = КОСИН
+| srp_NS_FULL_NAME_RG = Косин
+| srp_NS_FULL_NAME_ND_RG = Косин
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.130833
  | Lartësia            = 
 }}
-'''Kosinë''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Kosinë''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

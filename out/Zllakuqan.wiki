@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zllakuqan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZLLAKUQAN
- | FULL_NAME_RO = Zllakuqan
- | FULL_NAME_ND_RO=Zllakuqan
- | SORT_NAME_RG=ZLLAKUQAN
- | FULL_NAME_RG=Zllakuqan
- | FULL_NAME_ND_RG=Zllakuqan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zllakuqan
+| sqi_N_FULL_NAME_RO = Zllakuqan
+| sqi_N_FULL_NAME_ND_RO = Zllakuqan
+| sqi_N_SORT_NAME_RG = ZLLAKUQAN
+| sqi_N_FULL_NAME_RG = Zllakuqan
+| sqi_N_FULL_NAME_ND_RG = Zllakuqan
+| sqi_V_name = Zllakuqi
+| sqi_V_FULL_NAME_RO = Zllakuqi Zllokuqan
+| sqi_V_FULL_NAME_ND_RO = Zllakuqi Zllokuqan
+| sqi_V_SORT_NAME_RG = ZLLAKUQI ZLLOKUQAN
+| sqi_V_FULL_NAME_RG = Zllakuqi Zllokuqan
+| sqi_V_FULL_NAME_ND_RG = Zllakuqi Zllokuqan
+| srp_N_name = Zlokućane
+| srp_N_FULL_NAME_RO = Zlokućane
+| srp_N_FULL_NAME_ND_RO = Zlokucane
+| srp_N_SORT_NAME_RG = ZLOKUCANE
+| srp_N_FULL_NAME_RG = Zlokućane
+| srp_N_FULL_NAME_ND_RG = Zlokucane
+| srp_NS_name = Злокућане
+| srp_NS_FULL_NAME_RO = Злокућане
+| srp_NS_FULL_NAME_ND_RO = Злокућане
+| srp_NS_SORT_NAME_RG = ЗЛОКУЋАНЕ
+| srp_NS_FULL_NAME_RG = Злокућане
+| srp_NS_FULL_NAME_ND_RG = Злокућане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.021847
  | Lartësia            = 
 }}
-'''Zllakuqan''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Zllakuqan''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

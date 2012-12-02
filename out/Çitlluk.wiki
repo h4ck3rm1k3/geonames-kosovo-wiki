@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Çitlluk
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CITLLUK
- | FULL_NAME_RO = Çitlluk
- | FULL_NAME_ND_RO=Citlluk
- | SORT_NAME_RG=CITLLUK
- | FULL_NAME_RG=Çitlluk
- | FULL_NAME_ND_RG=Citlluk
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Çitlluk
+| sqi_N_FULL_NAME_RO = Çitlluk
+| sqi_N_FULL_NAME_ND_RO = Citlluk
+| sqi_N_SORT_NAME_RG = CITLLUK
+| sqi_N_FULL_NAME_RG = Çitlluk
+| sqi_N_FULL_NAME_ND_RG = Citlluk
+| srp_N_name = Čitluk
+| srp_N_FULL_NAME_RO = Čitluk
+| srp_N_FULL_NAME_ND_RO = Citluk
+| srp_N_SORT_NAME_RG = CITLUK
+| srp_N_FULL_NAME_RG = Čitluk
+| srp_N_FULL_NAME_ND_RG = Citluk
+| srp_NS_name = Читлук
+| srp_NS_FULL_NAME_RO = Читлук
+| srp_NS_FULL_NAME_ND_RO = Читлук
+| srp_NS_SORT_NAME_RG = ЧИТЛУК
+| srp_NS_FULL_NAME_RG = Читлук
+| srp_NS_FULL_NAME_ND_RG = Читлук
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.709167
  | Lartësia            = 
 }}
-'''Çitlluk''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Çitlluk''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

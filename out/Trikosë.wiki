@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Trikosë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TRIKOSE
- | FULL_NAME_RO = Trikosë
- | FULL_NAME_ND_RO=Trikose
- | SORT_NAME_RG=TRIKOSE
- | FULL_NAME_RG=Trikosë
- | FULL_NAME_ND_RG=Trikose
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Trikosë
+| sqi_D_FULL_NAME_RO = Trikosë
+| sqi_D_FULL_NAME_ND_RO = Trikose
+| sqi_D_SORT_NAME_RG = TRIKOSE
+| sqi_D_FULL_NAME_RG = Trikosë
+| sqi_D_FULL_NAME_ND_RG = Trikose
+| srp_N_name = Trikose
+| srp_N_FULL_NAME_RO = Trikose
+| srp_N_FULL_NAME_ND_RO = Trikose
+| srp_N_SORT_NAME_RG = TRIKOSE
+| srp_N_FULL_NAME_RG = Trikose
+| srp_N_FULL_NAME_ND_RG = Trikose
+| srp_NS_name = Трикосе
+| srp_NS_FULL_NAME_RO = Трикосе
+| srp_NS_FULL_NAME_ND_RO = Трикосе
+| srp_NS_SORT_NAME_RG = ТРИКОСЕ
+| srp_NS_FULL_NAME_RG = Трикосе
+| srp_NS_FULL_NAME_ND_RG = Трикосе
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.831389
  | Lartësia            = 
 }}
-'''Trikosë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Trikosë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

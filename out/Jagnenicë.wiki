@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Jagnenicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      JAGNENICE
- | FULL_NAME_RO = Jagnenicë
- | FULL_NAME_ND_RO=Jagnenice
- | SORT_NAME_RG=JAGNENICE
- | FULL_NAME_RG=Jagnenicë
- | FULL_NAME_ND_RG=Jagnenice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Jagnenicë
+| sqi_N_FULL_NAME_RO = Jagnenicë
+| sqi_N_FULL_NAME_ND_RO = Jagnenice
+| sqi_N_SORT_NAME_RG = JAGNENICE
+| sqi_N_FULL_NAME_RG = Jagnenicë
+| sqi_N_FULL_NAME_ND_RG = Jagnenice
+| srp_N_name = Jagnjenica
+| srp_N_FULL_NAME_RO = Jagnjenica
+| srp_N_FULL_NAME_ND_RO = Jagnjenica
+| srp_N_SORT_NAME_RG = JAGNJENICA
+| srp_N_FULL_NAME_RG = Jagnjenica
+| srp_N_FULL_NAME_ND_RG = Jagnjenica
+| srp_NS_name = Јагњеница
+| srp_NS_FULL_NAME_RO = Јагњеница
+| srp_NS_FULL_NAME_ND_RO = Јагњеница
+| srp_NS_SORT_NAME_RG = ЈАГЊЕНИЦА
+| srp_NS_FULL_NAME_RG = Јагњеница
+| srp_NS_FULL_NAME_ND_RG = Јагњеница
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.751111
  | Lartësia            = 
 }}
-'''Jagnenicë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Jagnenicë''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Velezhë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VELEZHE
- | FULL_NAME_RO = Velezhë
- | FULL_NAME_ND_RO=Velezhe
- | SORT_NAME_RG=VELEZHE
- | FULL_NAME_RG=Velezhë
- | FULL_NAME_ND_RG=Velezhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Velezhë
+| sqi_N_FULL_NAME_RO = Velezhë
+| sqi_N_FULL_NAME_ND_RO = Velezhe
+| sqi_N_SORT_NAME_RG = VELEZHE
+| sqi_N_FULL_NAME_RG = Velezhë
+| sqi_N_FULL_NAME_ND_RG = Velezhe
+| sqi_V_name = Velezh
+| sqi_V_FULL_NAME_RO = Velezh Velezha
+| sqi_V_FULL_NAME_ND_RO = Velezh Velezha
+| sqi_V_SORT_NAME_RG = VELEZH VELEZHA
+| sqi_V_FULL_NAME_RG = Velezh Velezha
+| sqi_V_FULL_NAME_ND_RG = Velezh Velezha
+| srp_N_name = Veleža
+| srp_N_FULL_NAME_RO = Veleža
+| srp_N_FULL_NAME_ND_RO = Veleza
+| srp_N_SORT_NAME_RG = VELEZA
+| srp_N_FULL_NAME_RG = Veleža
+| srp_N_FULL_NAME_ND_RG = Veleza
+| srp_NS_name = Вележа
+| srp_NS_FULL_NAME_RO = Вележа
+| srp_NS_FULL_NAME_ND_RO = Вележа
+| srp_NS_SORT_NAME_RG = ВЕЛЕЖА
+| srp_NS_FULL_NAME_RG = Вележа
+| srp_NS_FULL_NAME_ND_RG = Вележа
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.737778
  | Lartësia            = 
 }}
-'''Velezhë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Velezhë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

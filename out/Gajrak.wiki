@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gajrak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GAJRAK
- | FULL_NAME_RO = Gajrak
- | FULL_NAME_ND_RO=Gajrak
- | SORT_NAME_RG=GAJRAK
- | FULL_NAME_RG=Gajrak
- | FULL_NAME_ND_RG=Gajrak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gajrak
+| sqi_D_FULL_NAME_RO = Gajrak
+| sqi_D_FULL_NAME_ND_RO = Gajrak
+| sqi_D_SORT_NAME_RG = GAJRAK
+| sqi_D_FULL_NAME_RG = Gajrak
+| sqi_D_FULL_NAME_ND_RG = Gajrak
+| srp_N_name = Gajrak
+| srp_N_FULL_NAME_RO = Gajrak
+| srp_N_FULL_NAME_ND_RO = Gajrak
+| srp_N_SORT_NAME_RG = GAJRAK
+| srp_N_FULL_NAME_RG = Gajrak
+| srp_N_FULL_NAME_ND_RG = Gajrak
+| srp_NS_name = Гајрак
+| srp_NS_FULL_NAME_RO = Гајрак
+| srp_NS_FULL_NAME_ND_RO = Гајрак
+| srp_NS_SORT_NAME_RG = ГАЈРАК
+| srp_NS_FULL_NAME_RG = Гајрак
+| srp_NS_FULL_NAME_ND_RG = Гајрак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.752222
  | Lartësia            = 
 }}
-'''Gajrak''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Gajrak''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

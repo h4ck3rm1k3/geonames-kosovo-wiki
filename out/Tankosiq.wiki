@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tankosiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TANKOSIQ
- | FULL_NAME_RO = Tankosiq
- | FULL_NAME_ND_RO=Tankosiq
- | SORT_NAME_RG=TANKOSIQ
- | FULL_NAME_RG=Tankosiq
- | FULL_NAME_ND_RG=Tankosiq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Tankosiq
+| sqi_N_FULL_NAME_RO = Tankosiq
+| sqi_N_FULL_NAME_ND_RO = Tankosiq
+| sqi_N_SORT_NAME_RG = TANKOSIQ
+| sqi_N_FULL_NAME_RG = Tankosiq
+| sqi_N_FULL_NAME_ND_RG = Tankosiq
+| srp_N_name = Tankosić
+| srp_N_FULL_NAME_RO = Tankosić
+| srp_N_FULL_NAME_ND_RO = Tankosic
+| srp_N_SORT_NAME_RG = TANKOSIC
+| srp_N_FULL_NAME_RG = Tankosić
+| srp_N_FULL_NAME_ND_RG = Tankosic
+| srp_NS_name = Танкосић
+| srp_NS_FULL_NAME_RO = Танкосић
+| srp_NS_FULL_NAME_ND_RO = Танкосић
+| srp_NS_SORT_NAME_RG = ТАНКОСИЋ
+| srp_NS_FULL_NAME_RG = Танкосић
+| srp_NS_FULL_NAME_ND_RG = Танкосић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.289167
  | Lartësia            = 
 }}
-'''Tankosiq''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Tankosiq''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

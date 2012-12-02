@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Talinoc i Muhaxherëve
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TALINOCIMUHAXHEREVE
- | FULL_NAME_RO = Talinoc i Muhaxherëve
- | FULL_NAME_ND_RO=Talinoc i Muhaxhereve
- | SORT_NAME_RG=TALINOCIMUHAXHEREVE
- | FULL_NAME_RG=Talinoc i Muhaxherëve
- | FULL_NAME_ND_RG=Talinoc i Muhaxhereve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Talinoc i Muhaxherëve
+| sqi_D_FULL_NAME_RO = Talinoc i Muhaxherëve
+| sqi_D_FULL_NAME_ND_RO = Talinoc i Muhaxhereve
+| sqi_D_SORT_NAME_RG = TALINOCIMUHAXHEREVE
+| sqi_D_FULL_NAME_RG = Talinoc i Muhaxherëve
+| sqi_D_FULL_NAME_ND_RG = Talinoc i Muhaxhereve
+| sqi_V_name = Muhaxher
+| sqi_V_FULL_NAME_RO = Muhaxher Muhaxher-talinovc
+| sqi_V_FULL_NAME_ND_RO = Muhaxher Muhaxher-talinovc
+| sqi_V_SORT_NAME_RG = MUHAXHER MUHAXHERTALINOVC
+| sqi_V_FULL_NAME_RG = Muhaxher Muhaxher-talinovc
+| sqi_V_FULL_NAME_ND_RG = Muhaxher Muhaxher-talinovc
+| srp_N_name = Muhadžer Talinovac
+| srp_N_FULL_NAME_RO = Muhadžer Talinovac
+| srp_N_FULL_NAME_ND_RO = Muhadzer Talinovac
+| srp_N_SORT_NAME_RG = MUHADZERTALINOVAC
+| srp_N_FULL_NAME_RG = Muhadžer Talinovac
+| srp_N_FULL_NAME_ND_RG = Muhadzer Talinovac
+| srp_NS_name = Мухаџер Талиновац
+| srp_NS_FULL_NAME_RO = Мухаџер Талиновац
+| srp_NS_FULL_NAME_ND_RO = Мухаџер Талиновац
+| srp_NS_SORT_NAME_RG = МУХАЏЕРТАЛИНОВАЦ
+| srp_NS_FULL_NAME_RG = Мухаџер Талиновац
+| srp_NS_FULL_NAME_ND_RG = Мухаџер Талиновац
+| srp_V_name = Muhađer Talinovac
+| srp_V_FULL_NAME_RO = Muhađer Talinovac Muadžir Talinovci
+| srp_V_FULL_NAME_ND_RO = Muhader Talinovac Muadzir Talinovci
+| srp_V_SORT_NAME_RG = MUHADERTALINOVAC MUADZIRTALINOVCI
+| srp_V_FULL_NAME_RG = Muhađer Talinovac Muadžir Talinovci
+| srp_V_FULL_NAME_ND_RG = Muhader Talinovac Muadzir Talinovci
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.174722
  | Lartësia            = 
 }}
-'''Talinoc i Muhaxherëve''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Talinoc i Muhaxherëve''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

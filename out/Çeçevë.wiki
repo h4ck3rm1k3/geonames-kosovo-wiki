@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Çeçevë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CECEVE
- | FULL_NAME_RO = Çeçevë
- | FULL_NAME_ND_RO=Ceceve
- | SORT_NAME_RG=CECEVE
- | FULL_NAME_RG=Çeçevë
- | FULL_NAME_ND_RG=Ceceve
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Çeçevë
+| sqi_D_FULL_NAME_RO = Çeçevë
+| sqi_D_FULL_NAME_ND_RO = Ceceve
+| sqi_D_SORT_NAME_RG = CECEVE
+| sqi_D_FULL_NAME_RG = Çeçevë
+| sqi_D_FULL_NAME_ND_RG = Ceceve
+| sqi_V_name = Çeqovë
+| sqi_V_FULL_NAME_RO = Çeqovë Çeqevë
+| sqi_V_FULL_NAME_ND_RO = Ceqove Ceqeve
+| sqi_V_SORT_NAME_RG = CEQOVE CEQEVE
+| sqi_V_FULL_NAME_RG = Çeqovë Çeqevë
+| sqi_V_FULL_NAME_ND_RG = Ceqove Ceqeve
+| srp_N_name = Čečevo
+| srp_N_FULL_NAME_RO = Čečevo
+| srp_N_FULL_NAME_ND_RO = Cecevo
+| srp_N_SORT_NAME_RG = CECEVO
+| srp_N_FULL_NAME_RG = Čečevo
+| srp_N_FULL_NAME_ND_RG = Cecevo
+| srp_NS_name = Чечево
+| srp_NS_FULL_NAME_RO = Чечево
+| srp_NS_FULL_NAME_ND_RO = Чечево
+| srp_NS_SORT_NAME_RG = ЧЕЧЕВО
+| srp_NS_FULL_NAME_RG = Чечево
+| srp_NS_FULL_NAME_ND_RG = Чечево
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.606667
  | Lartësia            = 
 }}
-'''Çeçevë''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Çeçevë''' është një [[Fshat Vogel]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

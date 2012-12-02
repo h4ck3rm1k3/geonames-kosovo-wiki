@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kosaqë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOSAQE
- | FULL_NAME_RO = Kosaqë
- | FULL_NAME_ND_RO=Kosaqe
- | SORT_NAME_RG=KOSAQE
- | FULL_NAME_RG=Kosaqë
- | FULL_NAME_ND_RG=Kosaqe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kosaqë
+| sqi_N_FULL_NAME_RO = Kosaqë
+| sqi_N_FULL_NAME_ND_RO = Kosaqe
+| sqi_N_SORT_NAME_RG = KOSAQE
+| sqi_N_FULL_NAME_RG = Kosaqë
+| sqi_N_FULL_NAME_ND_RG = Kosaqe
+| srp_N_name = Kosača
+| srp_N_FULL_NAME_RO = Kosača
+| srp_N_FULL_NAME_ND_RO = Kosaca
+| srp_N_SORT_NAME_RG = KOSACA
+| srp_N_FULL_NAME_RG = Kosača
+| srp_N_FULL_NAME_ND_RG = Kosaca
+| srp_NS_name = Косача
+| srp_NS_FULL_NAME_RO = Косача
+| srp_NS_FULL_NAME_ND_RO = Косача
+| srp_NS_SORT_NAME_RG = КОСАЧА
+| srp_NS_FULL_NAME_RG = Косача
+| srp_NS_FULL_NAME_ND_RG = Косача
+| srp_V_name = Kosace
+| srp_V_FULL_NAME_RO = Kosace
+| srp_V_FULL_NAME_ND_RO = Kosace
+| srp_V_SORT_NAME_RG = KOSACE
+| srp_V_FULL_NAME_RG = Kosace
+| srp_V_FULL_NAME_ND_RG = Kosace
+| srp_VS_name = Косаце
+| srp_VS_FULL_NAME_RO = Косаце
+| srp_VS_FULL_NAME_ND_RO = Косаце
+| srp_VS_SORT_NAME_RG = КОСАЦЕ
+| srp_VS_FULL_NAME_RG = Косаце
+| srp_VS_FULL_NAME_ND_RG = Косаце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.501111
  | Lartësia            = 
 }}
-'''Kosaqë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Kosaqë''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

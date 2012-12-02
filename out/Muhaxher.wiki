@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Muhaxher
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MUHAXHER
- | FULL_NAME_RO = Muhaxher
- | FULL_NAME_ND_RO=Muhaxher
- | SORT_NAME_RG=MUHAXHER
- | FULL_NAME_RG=Muhaxher
- | FULL_NAME_ND_RG=Muhaxher
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Muhaxher
+| sqi_N_FULL_NAME_RO = Muhaxher
+| sqi_N_FULL_NAME_ND_RO = Muhaxher
+| sqi_N_SORT_NAME_RG = MUHAXHER
+| sqi_N_FULL_NAME_RG = Muhaxher
+| sqi_N_FULL_NAME_ND_RG = Muhaxher
+| srp_N_name = Muhadžeri
+| srp_N_FULL_NAME_RO = Muhadžeri
+| srp_N_FULL_NAME_ND_RO = Muhadzeri
+| srp_N_SORT_NAME_RG = MUHADZERI
+| srp_N_FULL_NAME_RG = Muhadžeri
+| srp_N_FULL_NAME_ND_RG = Muhadzeri
+| srp_NS_name = Мухаџери
+| srp_NS_FULL_NAME_RO = Мухаџери
+| srp_NS_FULL_NAME_ND_RO = Мухаџери
+| srp_NS_SORT_NAME_RG = МУХАЏЕРИ
+| srp_NS_FULL_NAME_RG = Мухаџери
+| srp_NS_FULL_NAME_ND_RG = Мухаџери
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.092778
  | Lartësia            = 
 }}
-'''Muhaxher''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Muhaxher''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

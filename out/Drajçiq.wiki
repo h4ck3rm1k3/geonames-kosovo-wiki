@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Drajçiq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DRAJCIQ
- | FULL_NAME_RO = Drajçiq
- | FULL_NAME_ND_RO=Drajciq
- | SORT_NAME_RG=DRAJCIQ
- | FULL_NAME_RG=Drajçiq
- | FULL_NAME_ND_RG=Drajciq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Drajçiq
+| sqi_N_FULL_NAME_RO = Drajçiq
+| sqi_N_FULL_NAME_ND_RO = Drajciq
+| sqi_N_SORT_NAME_RG = DRAJCIQ
+| sqi_N_FULL_NAME_RG = Drajçiq
+| sqi_N_FULL_NAME_ND_RG = Drajciq
+| sqi_V_name = Drajçiqi
+| sqi_V_FULL_NAME_RO = Drajçiqi
+| sqi_V_FULL_NAME_ND_RO = Drajciqi
+| sqi_V_SORT_NAME_RG = DRAJCIQI
+| sqi_V_FULL_NAME_RG = Drajçiqi
+| sqi_V_FULL_NAME_ND_RG = Drajciqi
+| srp_N_name = Drajčići
+| srp_N_FULL_NAME_RO = Drajčići
+| srp_N_FULL_NAME_ND_RO = Drajcici
+| srp_N_SORT_NAME_RG = DRAJCICI
+| srp_N_FULL_NAME_RG = Drajčići
+| srp_N_FULL_NAME_ND_RG = Drajcici
+| srp_NS_name = Драјчићи
+| srp_NS_FULL_NAME_RO = Драјчићи
+| srp_NS_FULL_NAME_ND_RO = Драјчићи
+| srp_NS_SORT_NAME_RG = ДРАЈЧИЋИ
+| srp_NS_FULL_NAME_RG = Драјчићи
+| srp_NS_FULL_NAME_ND_RG = Драјчићи
+| srp_V_name = Drajčiće
+| srp_V_FULL_NAME_RO = Drajčiće
+| srp_V_FULL_NAME_ND_RO = Drajcice
+| srp_V_SORT_NAME_RG = DRAJCICE
+| srp_V_FULL_NAME_RG = Drajčiće
+| srp_V_FULL_NAME_ND_RG = Drajcice
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.875278
  | Lartësia            = 
 }}
-'''Drajçiq''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Drajçiq''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

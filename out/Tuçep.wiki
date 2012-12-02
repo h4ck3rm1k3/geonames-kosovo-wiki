@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tuçep
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TUCEP
- | FULL_NAME_RO = Tuçep
- | FULL_NAME_ND_RO=Tucep
- | SORT_NAME_RG=TUCEP
- | FULL_NAME_RG=Tuçep
- | FULL_NAME_ND_RG=Tucep
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Tuçep
+| sqi_N_FULL_NAME_RO = Tuçep
+| sqi_N_FULL_NAME_ND_RO = Tucep
+| sqi_N_SORT_NAME_RG = TUCEP
+| sqi_N_FULL_NAME_RG = Tuçep
+| sqi_N_FULL_NAME_ND_RG = Tucep
+| sqi_V_name = Tuçepi
+| sqi_V_FULL_NAME_RO = Tuçepi
+| sqi_V_FULL_NAME_ND_RO = Tucepi
+| sqi_V_SORT_NAME_RG = TUCEPI
+| sqi_V_FULL_NAME_RG = Tuçepi
+| sqi_V_FULL_NAME_ND_RG = Tucepi
+| srp_N_name = Tučep
+| srp_N_FULL_NAME_RO = Tučep
+| srp_N_FULL_NAME_ND_RO = Tucep
+| srp_N_SORT_NAME_RG = TUCEP
+| srp_N_FULL_NAME_RG = Tučep
+| srp_N_FULL_NAME_ND_RG = Tucep
+| srp_NS_name = Тучеп
+| srp_NS_FULL_NAME_RO = Тучеп
+| srp_NS_FULL_NAME_ND_RO = Тучеп
+| srp_NS_SORT_NAME_RG = ТУЧЕП
+| srp_NS_FULL_NAME_RG = Тучеп
+| srp_NS_FULL_NAME_ND_RG = Тучеп
+| srp_V_name = Tučepo
+| srp_V_FULL_NAME_RO = Tučepo
+| srp_V_FULL_NAME_ND_RO = Tucepo
+| srp_V_SORT_NAME_RG = TUCEPO
+| srp_V_FULL_NAME_RG = Tučepo
+| srp_V_FULL_NAME_ND_RG = Tucepo
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.576389
  | Lartësia            = 
 }}
-'''Tuçep''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Tuçep''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

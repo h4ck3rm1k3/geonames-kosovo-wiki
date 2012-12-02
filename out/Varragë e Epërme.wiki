@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Varragë e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VARRAGEEEPERME
- | FULL_NAME_RO = Varragë e Epërme
- | FULL_NAME_ND_RO=Varrage e Eperme
- | SORT_NAME_RG=VARRAGEEEPERME
- | FULL_NAME_RG=Varragë e Epërme
- | FULL_NAME_ND_RG=Varrage e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Varragë e Epërme
+| sqi_D_FULL_NAME_RO = Varragë e Epërme
+| sqi_D_FULL_NAME_ND_RO = Varrage e Eperme
+| sqi_D_SORT_NAME_RG = VARRAGEEEPERME
+| sqi_D_FULL_NAME_RG = Varragë e Epërme
+| sqi_D_FULL_NAME_ND_RG = Varrage e Eperme
+| sqi_V_name = Varagë e Epermë
+| sqi_V_FULL_NAME_RO = Varagë e Epermë
+| sqi_V_FULL_NAME_ND_RO = Varage e Eperme
+| sqi_V_SORT_NAME_RG = VARAGEEEPERME
+| sqi_V_FULL_NAME_RG = Varagë e Epermë
+| sqi_V_FULL_NAME_ND_RG = Varage e Eperme
+| srp_N_name = Gornje Varage
+| srp_N_FULL_NAME_RO = Gornje Varage
+| srp_N_FULL_NAME_ND_RO = Gornje Varage
+| srp_N_SORT_NAME_RG = GORNJEVARAGE
+| srp_N_FULL_NAME_RG = Gornje Varage
+| srp_N_FULL_NAME_ND_RG = Gornje Varage
+| srp_NS_name = Горње Вараге
+| srp_NS_FULL_NAME_RO = Горње Вараге
+| srp_NS_FULL_NAME_ND_RO = Горње Вараге
+| srp_NS_SORT_NAME_RG = ГОРЊЕВАРАГЕ
+| srp_NS_FULL_NAME_RG = Горње Вараге
+| srp_NS_FULL_NAME_ND_RG = Горње Вараге
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.578333
  | Lartësia            = 
 }}
-'''Varragë e Epërme''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Varragë e Epërme''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Baçkë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BACKE
- | FULL_NAME_RO = Baçkë
- | FULL_NAME_ND_RO=Backe
- | SORT_NAME_RG=BACKE
- | FULL_NAME_RG=Baçkë
- | FULL_NAME_ND_RG=Backe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Baçkë
+| sqi_D_FULL_NAME_RO = Baçkë
+| sqi_D_FULL_NAME_ND_RO = Backe
+| sqi_D_SORT_NAME_RG = BACKE
+| sqi_D_FULL_NAME_RG = Baçkë
+| sqi_D_FULL_NAME_ND_RG = Backe
+| sqi_V_name = Boçka
+| sqi_V_FULL_NAME_RO = Boçka Baqkë
+| sqi_V_FULL_NAME_ND_RO = Bocka Baqke
+| sqi_V_SORT_NAME_RG = BOCKA BAQKE
+| sqi_V_FULL_NAME_RG = Boçka Baqkë
+| sqi_V_FULL_NAME_ND_RG = Bocka Baqke
+| srp_N_name = Bačka
+| srp_N_FULL_NAME_RO = Bačka
+| srp_N_FULL_NAME_ND_RO = Backa
+| srp_N_SORT_NAME_RG = BACKA
+| srp_N_FULL_NAME_RG = Bačka
+| srp_N_FULL_NAME_ND_RG = Backa
+| srp_NS_name = Бачка
+| srp_NS_FULL_NAME_RO = Бачка
+| srp_NS_FULL_NAME_ND_RO = Бачка
+| srp_NS_SORT_NAME_RG = БАЧКА
+| srp_NS_FULL_NAME_RG = Бачка
+| srp_NS_FULL_NAME_ND_RG = Бачка
+| srp_V_name = Baćka
+| srp_V_FULL_NAME_RO = Baćka
+| srp_V_FULL_NAME_ND_RO = Backa
+| srp_V_SORT_NAME_RG = BACKA
+| srp_V_FULL_NAME_RG = Baćka
+| srp_V_FULL_NAME_ND_RG = Backa
+| srp_VS_name = Баћка
+| srp_VS_FULL_NAME_RO = Баћка
+| srp_VS_FULL_NAME_ND_RO = Баћка
+| srp_VS_SORT_NAME_RG = БАЋКА
+| srp_VS_FULL_NAME_RG = Баћка
+| srp_VS_FULL_NAME_ND_RG = Баћка
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.666944
  | Lartësia            = 
 }}
-'''Baçkë''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Baçkë''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

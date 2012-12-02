@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shkrel
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHKREL
- | FULL_NAME_RO = Shkrel
- | FULL_NAME_ND_RO=Shkrel
- | SORT_NAME_RG=SHKREL
- | FULL_NAME_RG=Shkrel
- | FULL_NAME_ND_RG=Shkrel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shkrel
+| sqi_N_FULL_NAME_RO = Shkrel
+| sqi_N_FULL_NAME_ND_RO = Shkrel
+| sqi_N_SORT_NAME_RG = SHKREL
+| sqi_N_FULL_NAME_RG = Shkrel
+| sqi_N_FULL_NAME_ND_RG = Shkrel
+| sqi_V_name = Shkreli
+| sqi_V_FULL_NAME_RO = Shkreli
+| sqi_V_FULL_NAME_ND_RO = Shkreli
+| sqi_V_SORT_NAME_RG = SHKRELI
+| sqi_V_FULL_NAME_RG = Shkreli
+| sqi_V_FULL_NAME_ND_RG = Shkreli
+| srp_N_name = Škrelje
+| srp_N_FULL_NAME_RO = Škrelje
+| srp_N_FULL_NAME_ND_RO = Skrelje
+| srp_N_SORT_NAME_RG = SKRELJE
+| srp_N_FULL_NAME_RG = Škrelje
+| srp_N_FULL_NAME_ND_RG = Skrelje
+| srp_NS_name = Шкреље
+| srp_NS_FULL_NAME_RO = Шкреље
+| srp_NS_FULL_NAME_ND_RO = Шкреље
+| srp_NS_SORT_NAME_RG = ШКРЕЉЕ
+| srp_NS_FULL_NAME_RG = Шкреље
+| srp_NS_FULL_NAME_ND_RG = Шкреље
+| srp_V_name = Škrelj
+| srp_V_FULL_NAME_RO = Škrelj
+| srp_V_FULL_NAME_ND_RO = Skrelj
+| srp_V_SORT_NAME_RG = SKRELJ
+| srp_V_FULL_NAME_RG = Škrelj
+| srp_V_FULL_NAME_ND_RG = Skrelj
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.080833
  | Lartësia            = 
 }}
-'''Shkrel''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Shkrel''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

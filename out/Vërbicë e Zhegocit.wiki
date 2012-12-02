@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vërbicë e Zhegocit
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VERBICEEZHEGOCIT
- | FULL_NAME_RO = Vërbicë e Zhegocit
- | FULL_NAME_ND_RO=Verbice e Zhegocit
- | SORT_NAME_RG=VERBICEEZHEGOCIT
- | FULL_NAME_RG=Vërbicë e Zhegocit
- | FULL_NAME_ND_RG=Verbice e Zhegocit
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Vërbicë e Zhegocit
+| sqi_D_FULL_NAME_RO = Vërbicë e Zhegocit
+| sqi_D_FULL_NAME_ND_RO = Verbice e Zhegocit
+| sqi_D_SORT_NAME_RG = VERBICEEZHEGOCIT
+| sqi_D_FULL_NAME_RG = Vërbicë e Zhegocit
+| sqi_D_FULL_NAME_ND_RG = Verbice e Zhegocit
+| sqi_V_name = Vërbicë e Zhegofcit
+| sqi_V_FULL_NAME_RO = Vërbicë e Zhegofcit Verbicë e Zhegovcit Vërbicë
+| sqi_V_FULL_NAME_ND_RO = Verbice e Zhegofcit Verbice e Zhegovcit Verbice
+| sqi_V_SORT_NAME_RG = VERBICEEZHEGOFCIT VERBICEEZHEGOVCIT VERBICE
+| sqi_V_FULL_NAME_RG = Vërbicë e Zhegofcit Verbicë e Zhegovcit Vërbicë
+| sqi_V_FULL_NAME_ND_RG = Verbice e Zhegofcit Verbice e Zhegovcit Verbice
+| srp_N_name = Žegovačka Vrbica
+| srp_N_FULL_NAME_RO = Žegovačka Vrbica
+| srp_N_FULL_NAME_ND_RO = Zegovacka Vrbica
+| srp_N_SORT_NAME_RG = ZEGOVACKAVRBICA
+| srp_N_FULL_NAME_RG = Žegovačka Vrbica
+| srp_N_FULL_NAME_ND_RG = Zegovacka Vrbica
+| srp_NS_name = Жеговачка Врбица
+| srp_NS_FULL_NAME_RO = Жеговачка Врбица
+| srp_NS_FULL_NAME_ND_RO = Жеговачка Врбица
+| srp_NS_SORT_NAME_RG = ЖЕГОВАЧКАВРБИЦА
+| srp_NS_FULL_NAME_RG = Жеговачка Врбица
+| srp_NS_FULL_NAME_ND_RG = Жеговачка Врбица
+| srp_V_name = Vrbica
+| srp_V_FULL_NAME_RO = Vrbica
+| srp_V_FULL_NAME_ND_RO = Vrbica
+| srp_V_SORT_NAME_RG = VRBICA
+| srp_V_FULL_NAME_RG = Vrbica
+| srp_V_FULL_NAME_ND_RG = Vrbica
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.318889
  | Lartësia            = 
 }}
-'''Vërbicë e Zhegocit''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Vërbicë e Zhegocit''' është një [[Fshat Vogel]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

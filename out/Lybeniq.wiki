@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lybeniq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LYBENIQ
- | FULL_NAME_RO = Lybeniq
- | FULL_NAME_ND_RO=Lybeniq
- | SORT_NAME_RG=LYBENIQ
- | FULL_NAME_RG=Lybeniq
- | FULL_NAME_ND_RG=Lybeniq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lybeniq
+| sqi_N_FULL_NAME_RO = Lybeniq
+| sqi_N_FULL_NAME_ND_RO = Lybeniq
+| sqi_N_SORT_NAME_RG = LYBENIQ
+| sqi_N_FULL_NAME_RG = Lybeniq
+| sqi_N_FULL_NAME_ND_RG = Lybeniq
+| sqi_V_name = Lupeniq
+| sqi_V_FULL_NAME_RO = Lupeniq Lybeniqi Drinishti
+| sqi_V_FULL_NAME_ND_RO = Lupeniq Lybeniqi Drinishti
+| sqi_V_SORT_NAME_RG = LUPENIQ LYBENIQI DRINISHTI
+| sqi_V_FULL_NAME_RG = Lupeniq Lybeniqi Drinishti
+| sqi_V_FULL_NAME_ND_RG = Lupeniq Lybeniqi Drinishti
+| srp_N_name = Ljubenić
+| srp_N_FULL_NAME_RO = Ljubenić
+| srp_N_FULL_NAME_ND_RO = Ljubenic
+| srp_N_SORT_NAME_RG = LJUBENIC
+| srp_N_FULL_NAME_RG = Ljubenić
+| srp_N_FULL_NAME_ND_RG = Ljubenic
+| srp_NS_name = Љубенић
+| srp_NS_FULL_NAME_RO = Љубенић
+| srp_NS_FULL_NAME_ND_RO = Љубенић
+| srp_NS_SORT_NAME_RG = ЉУБЕНИЋ
+| srp_NS_FULL_NAME_RG = Љубенић
+| srp_NS_FULL_NAME_ND_RG = Љубенић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.291389
  | Lartësia            = 
 }}
-'''Lybeniq''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Lybeniq''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

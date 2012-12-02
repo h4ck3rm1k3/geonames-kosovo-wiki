@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lubizhdë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LUBIZHDE
- | FULL_NAME_RO = Lubizhdë
- | FULL_NAME_ND_RO=Lubizhde
- | SORT_NAME_RG=LUBIZHDE
- | FULL_NAME_RG=Lubizhdë
- | FULL_NAME_ND_RG=Lubizhde
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lubizhdë
+| sqi_N_FULL_NAME_RO = Lubizhdë
+| sqi_N_FULL_NAME_ND_RO = Lubizhde
+| sqi_N_SORT_NAME_RG = LUBIZHDE
+| sqi_N_FULL_NAME_RG = Lubizhdë
+| sqi_N_FULL_NAME_ND_RG = Lubizhde
+| sqi_V_name = Lubizhdë e Hasit
+| sqi_V_FULL_NAME_RO = Lubizhdë e Hasit Lupishtë e Hasit Lubizhë e Hasit Lupishtë Lubizhda e Hasit
+| sqi_V_FULL_NAME_ND_RO = Lubizhde e Hasit Lupishte e Hasit Lubizhe e Hasit Lupishte Lubizhda e Hasit
+| sqi_V_SORT_NAME_RG = LUBIZHDEEHASIT LUPISHTEEHASIT LUBIZHEEHASIT LUPISHTE LUBIZHDAEHASIT
+| sqi_V_FULL_NAME_RG = Lubizhdë e Hasit Lupishtë e Hasit Lubizhë e Hasit Lupishtë Lubizhda e Hasit
+| sqi_V_FULL_NAME_ND_RG = Lubizhde e Hasit Lupishte e Hasit Lubizhe e Hasit Lupishte Lubizhda e Hasit
+| srp_N_name = Ljubižda
+| srp_N_FULL_NAME_RO = Ljubižda
+| srp_N_FULL_NAME_ND_RO = Ljubizda
+| srp_N_SORT_NAME_RG = LJUBIZDA
+| srp_N_FULL_NAME_RG = Ljubižda
+| srp_N_FULL_NAME_ND_RG = Ljubizda
+| srp_NS_name = Љубижда
+| srp_NS_FULL_NAME_RO = Љубижда
+| srp_NS_FULL_NAME_ND_RO = Љубижда
+| srp_NS_SORT_NAME_RG = ЉУБИЖДА
+| srp_NS_FULL_NAME_RG = Љубижда
+| srp_NS_FULL_NAME_ND_RG = Љубижда
+| srp_V_name = Ljubižda Has
+| srp_V_FULL_NAME_RO = Ljubižda Has Ljubižde Ljubižde Has
+| srp_V_FULL_NAME_ND_RO = Ljubizda Has Ljubizde Ljubizde Has
+| srp_V_SORT_NAME_RG = LJUBIZDAHAS LJUBIZDE LJUBIZDEHAS
+| srp_V_FULL_NAME_RG = Ljubižda Has Ljubižde Ljubižde Has
+| srp_V_FULL_NAME_ND_RG = Ljubizda Has Ljubizde Ljubizde Has
+| srp_VS_name = Љубижде Хас
+| srp_VS_FULL_NAME_RO = Љубижде Хас Љубижде Љубижда Хас
+| srp_VS_FULL_NAME_ND_RO = Љубижде Хас Љубижде Љубижда Хас
+| srp_VS_SORT_NAME_RG = ЉУБИЖДЕХАС ЉУБИЖДЕ ЉУБИЖДАХАС
+| srp_VS_FULL_NAME_RG = Љубижде Хас Љубижде Љубижда Хас
+| srp_VS_FULL_NAME_ND_RG = Љубижде Хас Љубижде Љубижда Хас
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.571667
  | Lartësia            = 
 }}
-'''Lubizhdë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Lubizhdë''' është një [[Fshat Vogel]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

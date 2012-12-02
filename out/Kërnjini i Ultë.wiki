@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kërnjini i Ultë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KERNJINIIULTE
- | FULL_NAME_RO = Kërnjini i Ultë
- | FULL_NAME_ND_RO=Kernjini i Ulte
- | SORT_NAME_RG=KERNJINIIULTE
- | FULL_NAME_RG=Kërnjini i Ultë
- | FULL_NAME_ND_RG=Kernjini i Ulte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Kërnjini i Ultë
+| sqi_D_FULL_NAME_RO = Kërnjini i Ultë
+| sqi_D_FULL_NAME_ND_RO = Kernjini i Ulte
+| sqi_D_SORT_NAME_RG = KERNJINIIULTE
+| sqi_D_FULL_NAME_RG = Kërnjini i Ultë
+| sqi_D_FULL_NAME_ND_RG = Kernjini i Ulte
+| sqi_V_name = Kërnin i Ulët
+| sqi_V_FULL_NAME_RO = Kërnin i Ulët Kërnin i Poshtëm Kërnjini i Poshtëm Kërnjinji i Poshtëm
+| sqi_V_FULL_NAME_ND_RO = Kernin i Ulet Kernin i Poshtem Kernjini i Poshtem Kernjinji i Poshtem
+| sqi_V_SORT_NAME_RG = KERNINIULET KERNINIPOSHTEM KERNJINIIPOSHTEM KERNJINJIIPOSHTEM
+| sqi_V_FULL_NAME_RG = Kërnin i Ulët Kërnin i Poshtëm Kërnjini i Poshtëm Kërnjinji i Poshtëm
+| sqi_V_FULL_NAME_ND_RG = Kernin i Ulet Kernin i Poshtem Kernjini i Poshtem Kernjinji i Poshtem
+| srp_N_name = Donji Krnjin
+| srp_N_FULL_NAME_RO = Donji Krnjin
+| srp_N_FULL_NAME_ND_RO = Donji Krnjin
+| srp_N_SORT_NAME_RG = DONJIKRNJIN
+| srp_N_FULL_NAME_RG = Donji Krnjin
+| srp_N_FULL_NAME_ND_RG = Donji Krnjin
+| srp_NS_name = Доњи Крњин
+| srp_NS_FULL_NAME_RO = Доњи Крњин
+| srp_NS_FULL_NAME_ND_RO = Доњи Крњин
+| srp_NS_SORT_NAME_RG = ДОЊИКРЊИН
+| srp_NS_FULL_NAME_RG = Доњи Крњин
+| srp_NS_FULL_NAME_ND_RG = Доњи Крњин
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.749444
  | Lartësia            = 
 }}
-'''Kërnjini i Ultë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Kërnjini i Ultë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

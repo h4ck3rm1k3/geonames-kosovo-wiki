@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Raskovë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RASKOVE
- | FULL_NAME_RO = Raskovë
- | FULL_NAME_ND_RO=Raskove
- | SORT_NAME_RG=RASKOVE
- | FULL_NAME_RG=Raskovë
- | FULL_NAME_ND_RG=Raskove
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Raskovë
+| sqi_N_FULL_NAME_RO = Raskovë
+| sqi_N_FULL_NAME_ND_RO = Raskove
+| sqi_N_SORT_NAME_RG = RASKOVE
+| sqi_N_FULL_NAME_RG = Raskovë
+| sqi_N_FULL_NAME_ND_RG = Raskove
+| sqi_V_name = Raskovo
+| sqi_V_FULL_NAME_RO = Raskovo
+| sqi_V_FULL_NAME_ND_RO = Raskovo
+| sqi_V_SORT_NAME_RG = RASKOVO
+| sqi_V_FULL_NAME_RG = Raskovo
+| sqi_V_FULL_NAME_ND_RG = Raskovo
+| srp_N_name = Raskovo
+| srp_N_FULL_NAME_RO = Raskovo
+| srp_N_FULL_NAME_ND_RO = Raskovo
+| srp_N_SORT_NAME_RG = RASKOVO
+| srp_N_FULL_NAME_RG = Raskovo
+| srp_N_FULL_NAME_ND_RG = Raskovo
+| srp_NS_name = Расково
+| srp_NS_FULL_NAME_RO = Расково
+| srp_NS_FULL_NAME_ND_RO = Расково
+| srp_NS_SORT_NAME_RG = РАСКОВО
+| srp_NS_FULL_NAME_RG = Расково
+| srp_NS_FULL_NAME_ND_RG = Расково
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.094222
  | Lartësia            = 
 }}
-'''Raskovë''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Raskovë''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

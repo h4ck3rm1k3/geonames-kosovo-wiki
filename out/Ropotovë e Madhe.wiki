@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ropotovë e Madhe
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ROPOTOVEEMADHE
- | FULL_NAME_RO = Ropotovë e Madhe
- | FULL_NAME_ND_RO=Ropotove e Madhe
- | SORT_NAME_RG=ROPOTOVEEMADHE
- | FULL_NAME_RG=Ropotovë e Madhe
- | FULL_NAME_ND_RG=Ropotove e Madhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Ropotovë e Madhe
+| sqi_N_FULL_NAME_RO = Ropotovë e Madhe
+| sqi_N_FULL_NAME_ND_RO = Ropotove e Madhe
+| sqi_N_SORT_NAME_RG = ROPOTOVEEMADHE
+| sqi_N_FULL_NAME_RG = Ropotovë e Madhe
+| sqi_N_FULL_NAME_ND_RG = Ropotove e Madhe
+| sqi_V_name = Ropotova i Madhe
+| sqi_V_FULL_NAME_RO = Ropotova i Madhe Ropotova e Madhe Rropotova e Madhe
+| sqi_V_FULL_NAME_ND_RO = Ropotova i Madhe Ropotova e Madhe Rropotova e Madhe
+| sqi_V_SORT_NAME_RG = ROPOTOVAIMADHE ROPOTOVAEMADHE RROPOTOVAEMADHE
+| sqi_V_FULL_NAME_RG = Ropotova i Madhe Ropotova e Madhe Rropotova e Madhe
+| sqi_V_FULL_NAME_ND_RG = Ropotova i Madhe Ropotova e Madhe Rropotova e Madhe
+| srp_N_name = Veliko Ropotovo
+| srp_N_FULL_NAME_RO = Veliko Ropotovo
+| srp_N_FULL_NAME_ND_RO = Veliko Ropotovo
+| srp_N_SORT_NAME_RG = VELIKOROPOTOVO
+| srp_N_FULL_NAME_RG = Veliko Ropotovo
+| srp_N_FULL_NAME_ND_RG = Veliko Ropotovo
+| srp_NS_name = Велико Ропотово
+| srp_NS_FULL_NAME_RO = Велико Ропотово
+| srp_NS_FULL_NAME_ND_RO = Велико Ропотово
+| srp_NS_SORT_NAME_RG = ВЕЛИКОРОПОТОВО
+| srp_NS_FULL_NAME_RG = Велико Ропотово
+| srp_NS_FULL_NAME_ND_RG = Велико Ропотово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.566389
  | Lartësia            = 
 }}
-'''Ropotovë e Madhe''' është një [[]] në [[]] të [[Kosovës]].
+'''Ropotovë e Madhe''' është një [[Fshat]] në [[]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

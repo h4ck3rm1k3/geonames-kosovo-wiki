@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Koshuticë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KOSHUTICE
- | FULL_NAME_RO = Koshuticë
- | FULL_NAME_ND_RO=Koshutice
- | SORT_NAME_RG=KOSHUTICE
- | FULL_NAME_RG=Koshuticë
- | FULL_NAME_ND_RG=Koshutice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Koshuticë
+| sqi_N_FULL_NAME_RO = Koshuticë
+| sqi_N_FULL_NAME_ND_RO = Koshutice
+| sqi_N_SORT_NAME_RG = KOSHUTICE
+| sqi_N_FULL_NAME_RG = Koshuticë
+| sqi_N_FULL_NAME_ND_RG = Koshutice
+| sqi_V_name = Koshutica
+| sqi_V_FULL_NAME_RO = Koshutica
+| sqi_V_FULL_NAME_ND_RO = Koshutica
+| sqi_V_SORT_NAME_RG = KOSHUTICA
+| sqi_V_FULL_NAME_RG = Koshutica
+| sqi_V_FULL_NAME_ND_RG = Koshutica
+| srp_N_name = Košutica
+| srp_N_FULL_NAME_RO = Košutica
+| srp_N_FULL_NAME_ND_RO = Kosutica
+| srp_N_SORT_NAME_RG = KOSUTICA
+| srp_N_FULL_NAME_RG = Košutica
+| srp_N_FULL_NAME_ND_RG = Kosutica
+| srp_NS_name = Кошутица
+| srp_NS_FULL_NAME_RO = Кошутица
+| srp_NS_FULL_NAME_ND_RO = Кошутица
+| srp_NS_SORT_NAME_RG = КОШУТИЦА
+| srp_NS_FULL_NAME_RG = Кошутица
+| srp_NS_FULL_NAME_ND_RG = Кошутица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.69
  | Lartësia            = 
 }}
-'''Koshuticë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Koshuticë''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

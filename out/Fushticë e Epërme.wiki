@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Fushticë e Epërme
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      FUSHTICEEEPERME
- | FULL_NAME_RO = Fushticë e Epërme
- | FULL_NAME_ND_RO=Fushtice e Eperme
- | SORT_NAME_RG=FUSHTICEEEPERME
- | FULL_NAME_RG=Fushticë e Epërme
- | FULL_NAME_ND_RG=Fushtice e Eperme
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Fushticë e Epërme
+| sqi_D_FULL_NAME_RO = Fushticë e Epërme
+| sqi_D_FULL_NAME_ND_RO = Fushtice e Eperme
+| sqi_D_SORT_NAME_RG = FUSHTICEEEPERME
+| sqi_D_FULL_NAME_RG = Fushticë e Epërme
+| sqi_D_FULL_NAME_ND_RG = Fushtice e Eperme
+| sqi_V_name = Fushë
+| sqi_V_FULL_NAME_RO = Fushë Fushtica e Epërme Fusha Fusticë e Poshtmë
+| sqi_V_FULL_NAME_ND_RO = Fushe Fushtica e Eperme Fusha Fustice e Poshtme
+| sqi_V_SORT_NAME_RG = FUSHE FUSHTICAEEPERME FUSHA FUSTICEEPOSHTME
+| sqi_V_FULL_NAME_RG = Fushë Fushtica e Epërme Fusha Fusticë e Poshtmë
+| sqi_V_FULL_NAME_ND_RG = Fushe Fushtica e Eperme Fusha Fustice e Poshtme
+| srp_N_name = Gornja Fuštica
+| srp_N_FULL_NAME_RO = Gornja Fuštica
+| srp_N_FULL_NAME_ND_RO = Gornja Fustica
+| srp_N_SORT_NAME_RG = GORNJAFUSTICA
+| srp_N_FULL_NAME_RG = Gornja Fuštica
+| srp_N_FULL_NAME_ND_RG = Gornja Fustica
+| srp_NS_name = Горња Фуштица
+| srp_NS_FULL_NAME_RO = Горња Фуштица
+| srp_NS_FULL_NAME_ND_RO = Горња Фуштица
+| srp_NS_SORT_NAME_RG = ГОРЊАФУШТИЦА
+| srp_NS_FULL_NAME_RG = Горња Фуштица
+| srp_NS_FULL_NAME_ND_RG = Горња Фуштица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.948056
  | Lartësia            = 
 }}
-'''Fushticë e Epërme''' është një [[]] në [[Kaçanik]] të [[Kosovës]].
+'''Fushticë e Epërme''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Burojë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BUROJE
- | FULL_NAME_RO = Burojë
- | FULL_NAME_ND_RO=Buroje
- | SORT_NAME_RG=BUROJE
- | FULL_NAME_RG=Burojë
- | FULL_NAME_ND_RG=Buroje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Burojë
+| sqi_N_FULL_NAME_RO = Burojë
+| sqi_N_FULL_NAME_ND_RO = Buroje
+| sqi_N_SORT_NAME_RG = BUROJE
+| sqi_N_FULL_NAME_RG = Burojë
+| sqi_N_FULL_NAME_ND_RG = Buroje
+| sqi_V_name = Broç
+| sqi_V_FULL_NAME_RO = Broç
+| sqi_V_FULL_NAME_ND_RO = Broc
+| sqi_V_SORT_NAME_RG = BROC
+| sqi_V_FULL_NAME_RG = Broç
+| sqi_V_FULL_NAME_ND_RG = Broc
+| srp_N_name = Broćna
+| srp_N_FULL_NAME_RO = Broćna
+| srp_N_FULL_NAME_ND_RO = Brocna
+| srp_N_SORT_NAME_RG = BROCNA
+| srp_N_FULL_NAME_RG = Broćna
+| srp_N_FULL_NAME_ND_RG = Brocna
+| srp_NS_name = Броћна
+| srp_NS_FULL_NAME_RO = Броћна
+| srp_NS_FULL_NAME_ND_RO = Броћна
+| srp_NS_SORT_NAME_RG = БРОЋНА
+| srp_NS_FULL_NAME_RG = Броћна
+| srp_NS_FULL_NAME_ND_RG = Броћна
+| srp_V_name = Broćnja
+| srp_V_FULL_NAME_RO = Broćnja
+| srp_V_FULL_NAME_ND_RO = Brocnja
+| srp_V_SORT_NAME_RG = BROCNJA
+| srp_V_FULL_NAME_RG = Broćnja
+| srp_V_FULL_NAME_ND_RG = Brocnja
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.674444
  | Lartësia            = 
 }}
-'''Burojë''' është një [[]] në [[Suharekë]] të [[Kosovës]].
+'''Burojë''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

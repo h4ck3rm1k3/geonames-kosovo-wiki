@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dush
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DUSH
- | FULL_NAME_RO = Dush
- | FULL_NAME_ND_RO=Dush
- | SORT_NAME_RG=DUSH
- | FULL_NAME_RG=Dush
- | FULL_NAME_ND_RG=Dush
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dush
+| sqi_N_FULL_NAME_RO = Dush
+| sqi_N_FULL_NAME_ND_RO = Dush
+| sqi_N_SORT_NAME_RG = DUSH
+| sqi_N_FULL_NAME_RG = Dush
+| sqi_N_FULL_NAME_ND_RG = Dush
+| sqi_V_name = Dusha
+| sqi_V_FULL_NAME_RO = Dusha Dushi
+| sqi_V_FULL_NAME_ND_RO = Dusha Dushi
+| sqi_V_SORT_NAME_RG = DUSHA DUSHI
+| sqi_V_FULL_NAME_RG = Dusha Dushi
+| sqi_V_FULL_NAME_ND_RG = Dusha Dushi
+| srp_N_name = Duš
+| srp_N_FULL_NAME_RO = Duš
+| srp_N_FULL_NAME_ND_RO = Dus
+| srp_N_SORT_NAME_RG = DUS
+| srp_N_FULL_NAME_RG = Duš
+| srp_N_FULL_NAME_ND_RG = Dus
+| srp_NS_name = Душ
+| srp_NS_FULL_NAME_RO = Душ
+| srp_NS_FULL_NAME_ND_RO = Душ
+| srp_NS_SORT_NAME_RG = ДУШ
+| srp_NS_FULL_NAME_RG = Душ
+| srp_NS_FULL_NAME_ND_RG = Душ
+| srp_V_name = Duša
+| srp_V_FULL_NAME_RO = Duša Duši
+| srp_V_FULL_NAME_ND_RO = Dusa Dusi
+| srp_V_SORT_NAME_RG = DUSA DUSI
+| srp_V_FULL_NAME_RG = Duša Duši
+| srp_V_FULL_NAME_ND_RG = Dusa Dusi
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.601389
  | Lartësia            = 
 }}
-'''Dush''' është një [[]] në [[Albanik]] të [[Kosovës]].
+'''Dush''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

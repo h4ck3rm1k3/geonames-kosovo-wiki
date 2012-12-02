@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bukovik - Capar
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BUKOVIKCAPAR
- | FULL_NAME_RO = Bukovik - Capar
- | FULL_NAME_ND_RO=Bukovik - Capar
- | SORT_NAME_RG=BUKOVIKCAPAR
- | FULL_NAME_RG=Bukovik - Capar
- | FULL_NAME_ND_RG=Bukovik - Capar
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Bukovik - Capar
+| sqi_D_FULL_NAME_RO = Bukovik - Capar Bukovik
+| sqi_D_FULL_NAME_ND_RO = Bukovik - Capar Bukovik
+| sqi_D_SORT_NAME_RG = BUKOVIKCAPAR BUKOVIK
+| sqi_D_FULL_NAME_RG = Bukovik - Capar Bukovik
+| sqi_D_FULL_NAME_ND_RG = Bukovik - Capar Bukovik
+| sqi_V_name = Ahishte-a
+| sqi_V_FULL_NAME_RO = Ahishte-a Bukoviku Bukovik - Sapar
+| sqi_V_FULL_NAME_ND_RO = Ahishte-a Bukoviku Bukovik - Sapar
+| sqi_V_SORT_NAME_RG = AHISHTEA BUKOVIKU BUKOVIKSAPAR
+| sqi_V_FULL_NAME_RG = Ahishte-a Bukoviku Bukovik - Sapar
+| sqi_V_FULL_NAME_ND_RG = Ahishte-a Bukoviku Bukovik - Sapar
+| srp_D_name = Bukovik
+| srp_D_FULL_NAME_RO = Bukovik
+| srp_D_FULL_NAME_ND_RO = Bukovik
+| srp_D_SORT_NAME_RG = BUKOVIK
+| srp_D_FULL_NAME_RG = Bukovik
+| srp_D_FULL_NAME_ND_RG = Bukovik
+| srp_DS_name = Буковик
+| srp_DS_FULL_NAME_RO = Буковик
+| srp_DS_FULL_NAME_ND_RO = Буковик
+| srp_DS_SORT_NAME_RG = БУКОВИК
+| srp_DS_FULL_NAME_RG = Буковик
+| srp_DS_FULL_NAME_ND_RG = Буковик
+| srp_V_name = Bukovik - Sapar
+| srp_V_FULL_NAME_RO = Bukovik - Sapar Bukovik - Capar
+| srp_V_FULL_NAME_ND_RO = Bukovik - Sapar Bukovik - Capar
+| srp_V_SORT_NAME_RG = BUKOVIKSAPAR BUKOVIKCAPAR
+| srp_V_FULL_NAME_RG = Bukovik - Sapar Bukovik - Capar
+| srp_V_FULL_NAME_ND_RG = Bukovik - Sapar Bukovik - Capar
+| srp_VS_name = Буковик - Сапар
+| srp_VS_FULL_NAME_RO = Буковик - Сапар Буковик - Цапар
+| srp_VS_FULL_NAME_ND_RO = Буковик - Сапар Буковик - Цапар
+| srp_VS_SORT_NAME_RG = БУКОВИКСАПАР БУКОВИКЦАПАР
+| srp_VS_FULL_NAME_RG = Буковик - Сапар Буковик - Цапар
+| srp_VS_FULL_NAME_ND_RG = Буковик - Сапар Буковик - Цапар
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.561389
  | Lartësia            = 
 }}
-'''Bukovik - Capar''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Bukovik - Capar''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Tërllobuq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TERLLOBUQ
- | FULL_NAME_RO = Tërllobuq
- | FULL_NAME_ND_RO=Terllobuq
- | SORT_NAME_RG=TERLLOBUQ
- | FULL_NAME_RG=Tërllobuq
- | FULL_NAME_ND_RG=Terllobuq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Tërllobuq
+| sqi_N_FULL_NAME_RO = Tërllobuq
+| sqi_N_FULL_NAME_ND_RO = Terllobuq
+| sqi_N_SORT_NAME_RG = TERLLOBUQ
+| sqi_N_FULL_NAME_RG = Tërllobuq
+| sqi_N_FULL_NAME_ND_RG = Terllobuq
+| sqi_V_name = Terllabuc
+| sqi_V_FULL_NAME_RO = Terllabuc
+| sqi_V_FULL_NAME_ND_RO = Terllabuc
+| sqi_V_SORT_NAME_RG = TERLLABUC
+| sqi_V_FULL_NAME_RG = Terllabuc
+| sqi_V_FULL_NAME_ND_RG = Terllabuc
+| srp_N_name = Trlabuć
+| srp_N_FULL_NAME_RO = Trlabuć
+| srp_N_FULL_NAME_ND_RO = Trlabuc
+| srp_N_SORT_NAME_RG = TRLABUC
+| srp_N_FULL_NAME_RG = Trlabuć
+| srp_N_FULL_NAME_ND_RG = Trlabuc
+| srp_NS_name = Трлабућ
+| srp_NS_FULL_NAME_RO = Трлабућ
+| srp_NS_FULL_NAME_ND_RO = Трлабућ
+| srp_NS_SORT_NAME_RG = ТРЛАБУЋ
+| srp_NS_FULL_NAME_RG = Трлабућ
+| srp_NS_FULL_NAME_ND_RG = Трлабућ
+| srp_V_name = Tarlabuć
+| srp_V_FULL_NAME_RO = Tarlabuć Trlobuć
+| srp_V_FULL_NAME_ND_RO = Tarlabuc Trlobuc
+| srp_V_SORT_NAME_RG = TARLABUC TRLOBUC
+| srp_V_FULL_NAME_RG = Tarlabuć Trlobuć
+| srp_V_FULL_NAME_ND_RG = Tarlabuc Trlobuc
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.973333
  | Lartësia            = 
 }}
-'''Tërllobuq''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Tërllobuq''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

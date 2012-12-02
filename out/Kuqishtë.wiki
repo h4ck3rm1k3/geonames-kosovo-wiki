@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kuqishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KUQISHTE
- | FULL_NAME_RO = Kuqishtë
- | FULL_NAME_ND_RO=Kuqishte
- | SORT_NAME_RG=KUQISHTE
- | FULL_NAME_RG=Kuqishtë
- | FULL_NAME_ND_RG=Kuqishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kuqishtë
+| sqi_N_FULL_NAME_RO = Kuqishtë
+| sqi_N_FULL_NAME_ND_RO = Kuqishte
+| sqi_N_SORT_NAME_RG = KUQISHTE
+| sqi_N_FULL_NAME_RG = Kuqishtë
+| sqi_N_FULL_NAME_ND_RG = Kuqishte
+| sqi_V_name = Kuçishtë
+| sqi_V_FULL_NAME_RO = Kuçishtë
+| sqi_V_FULL_NAME_ND_RO = Kucishte
+| sqi_V_SORT_NAME_RG = KUCISHTE
+| sqi_V_FULL_NAME_RG = Kuçishtë
+| sqi_V_FULL_NAME_ND_RG = Kucishte
+| srp_N_name = Kućište
+| srp_N_FULL_NAME_RO = Kućište
+| srp_N_FULL_NAME_ND_RO = Kuciste
+| srp_N_SORT_NAME_RG = KUCISTE
+| srp_N_FULL_NAME_RG = Kućište
+| srp_N_FULL_NAME_ND_RG = Kuciste
+| srp_NS_name = Кућиште
+| srp_NS_FULL_NAME_RO = Кућиште
+| srp_NS_FULL_NAME_ND_RO = Кућиште
+| srp_NS_SORT_NAME_RG = КУЋИШТЕ
+| srp_NS_FULL_NAME_RG = Кућиште
+| srp_NS_FULL_NAME_ND_RG = Кућиште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.081667
  | Lartësia            = 
 }}
-'''Kuqishtë''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Kuqishtë''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

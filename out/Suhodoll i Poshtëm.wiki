@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Suhodoll i Poshtëm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SUHODOLLIPOSHTEM
- | FULL_NAME_RO = Suhodoll i Poshtëm
- | FULL_NAME_ND_RO=Suhodoll i Poshtem
- | SORT_NAME_RG=SUHODOLLIPOSHTEM
- | FULL_NAME_RG=Suhodoll i Poshtëm
- | FULL_NAME_ND_RG=Suhodoll i Poshtem
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Suhodoll i Poshtëm
+| sqi_N_FULL_NAME_RO = Suhodoll i Poshtëm
+| sqi_N_FULL_NAME_ND_RO = Suhodoll i Poshtem
+| sqi_N_SORT_NAME_RG = SUHODOLLIPOSHTEM
+| sqi_N_FULL_NAME_RG = Suhodoll i Poshtëm
+| sqi_N_FULL_NAME_ND_RG = Suhodoll i Poshtem
+| srp_N_name = Donji Suvi Do
+| srp_N_FULL_NAME_RO = Donji Suvi Do
+| srp_N_FULL_NAME_ND_RO = Donji Suvi Do
+| srp_N_SORT_NAME_RG = DONJISUVIDO
+| srp_N_FULL_NAME_RG = Donji Suvi Do
+| srp_N_FULL_NAME_ND_RG = Donji Suvi Do
+| srp_NS_name = Доњи Суви До
+| srp_NS_FULL_NAME_RO = Доњи Суви До
+| srp_NS_FULL_NAME_ND_RO = Доњи Суви До
+| srp_NS_SORT_NAME_RG = ДОЊИСУВИДО
+| srp_NS_FULL_NAME_RG = Доњи Суви До
+| srp_NS_FULL_NAME_ND_RG = Доњи Суви До
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.85
  | Lartësia            = 
 }}
-'''Suhodoll i Poshtëm''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Suhodoll i Poshtëm''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

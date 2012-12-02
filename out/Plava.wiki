@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Plava
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PLAVA
- | FULL_NAME_RO = Plava
- | FULL_NAME_ND_RO=Plava
- | SORT_NAME_RG=PLAVA
- | FULL_NAME_RG=Plava
- | FULL_NAME_ND_RG=Plava
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Plava
+| sqi_D_FULL_NAME_RO = Plava
+| sqi_D_FULL_NAME_ND_RO = Plava
+| sqi_D_SORT_NAME_RG = PLAVA
+| sqi_D_FULL_NAME_RG = Plava
+| sqi_D_FULL_NAME_ND_RG = Plava
+| sqi_V_name = Pllavë
+| sqi_V_FULL_NAME_RO = Pllavë Plavë Plavë II (Dytë) Plavë I (Parë)
+| sqi_V_FULL_NAME_ND_RO = Pllave Plave Plave II (Dyte) Plave I (Pare)
+| sqi_V_SORT_NAME_RG = PLLAVE PLAVE PLAVEIIDYTE PLAVEIPARE
+| sqi_V_FULL_NAME_RG = Pllavë Plavë Plavë II (Dytë) Plavë I (Parë)
+| sqi_V_FULL_NAME_ND_RG = Pllave Plave Plave II (Dyte) Plave I (Pare)
+| srp_N_name = Plava
+| srp_N_FULL_NAME_RO = Plava
+| srp_N_FULL_NAME_ND_RO = Plava
+| srp_N_SORT_NAME_RG = PLAVA
+| srp_N_FULL_NAME_RG = Plava
+| srp_N_FULL_NAME_ND_RG = Plava
+| srp_NS_name = Плава
+| srp_NS_FULL_NAME_RO = Плава
+| srp_NS_FULL_NAME_ND_RO = Плава
+| srp_NS_SORT_NAME_RG = ПЛАВА
+| srp_NS_FULL_NAME_RG = Плава
+| srp_NS_FULL_NAME_ND_RG = Плава
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.646667
  | Lartësia            = 
 }}
-'''Plava''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Plava''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

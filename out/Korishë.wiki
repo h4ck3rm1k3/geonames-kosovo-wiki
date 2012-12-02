@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Korishë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KORISHE
- | FULL_NAME_RO = Korishë
- | FULL_NAME_ND_RO=Korishe
- | SORT_NAME_RG=KORISHE
- | FULL_NAME_RG=Korishë
- | FULL_NAME_ND_RG=Korishe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Korishë
+| sqi_N_FULL_NAME_RO = Korishë
+| sqi_N_FULL_NAME_ND_RO = Korishe
+| sqi_N_SORT_NAME_RG = KORISHE
+| sqi_N_FULL_NAME_RG = Korishë
+| sqi_N_FULL_NAME_ND_RG = Korishe
+| sqi_V_name = Korish
+| sqi_V_FULL_NAME_RO = Korish
+| sqi_V_FULL_NAME_ND_RO = Korish
+| sqi_V_SORT_NAME_RG = KORISH
+| sqi_V_FULL_NAME_RG = Korish
+| sqi_V_FULL_NAME_ND_RG = Korish
+| srp_N_name = Koriša
+| srp_N_FULL_NAME_RO = Koriša
+| srp_N_FULL_NAME_ND_RO = Korisa
+| srp_N_SORT_NAME_RG = KORISA
+| srp_N_FULL_NAME_RG = Koriša
+| srp_N_FULL_NAME_ND_RG = Korisa
+| srp_NS_name = Кориша
+| srp_NS_FULL_NAME_RO = Кориша
+| srp_NS_FULL_NAME_ND_RO = Кориша
+| srp_NS_SORT_NAME_RG = КОРИША
+| srp_NS_FULL_NAME_RG = Кориша
+| srp_NS_FULL_NAME_ND_RG = Кориша
+| srp_V_name = Koriš
+| srp_V_FULL_NAME_RO = Koriš
+| srp_V_FULL_NAME_ND_RO = Koris
+| srp_V_SORT_NAME_RG = KORIS
+| srp_V_FULL_NAME_RG = Koriš
+| srp_V_FULL_NAME_ND_RG = Koris
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.796944
  | Lartësia            = 
 }}
-'''Korishë''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Korishë''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

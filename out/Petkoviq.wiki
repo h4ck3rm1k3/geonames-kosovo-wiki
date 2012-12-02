@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Petkoviq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PETKOVIQ
- | FULL_NAME_RO = Petkoviq
- | FULL_NAME_ND_RO=Petkoviq
- | SORT_NAME_RG=PETKOVIQ
- | FULL_NAME_RG=Petkoviq
- | FULL_NAME_ND_RG=Petkoviq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Petkoviq
+| sqi_D_FULL_NAME_RO = Petkoviq
+| sqi_D_FULL_NAME_ND_RO = Petkoviq
+| sqi_D_SORT_NAME_RG = PETKOVIQ
+| sqi_D_FULL_NAME_RG = Petkoviq
+| sqi_D_FULL_NAME_ND_RG = Petkoviq
+| sqi_V_name = Petroviq
+| sqi_V_FULL_NAME_RO = Petroviq Guri i Kuq Petkofc
+| sqi_V_FULL_NAME_ND_RO = Petroviq Guri i Kuq Petkofc
+| sqi_V_SORT_NAME_RG = PETROVIQ GURIIKUQ PETKOFC
+| sqi_V_FULL_NAME_RG = Petroviq Guri i Kuq Petkofc
+| sqi_V_FULL_NAME_ND_RG = Petroviq Guri i Kuq Petkofc
+| srp_N_name = Petković
+| srp_N_FULL_NAME_RO = Petković
+| srp_N_FULL_NAME_ND_RO = Petkovic
+| srp_N_SORT_NAME_RG = PETKOVIC
+| srp_N_FULL_NAME_RG = Petković
+| srp_N_FULL_NAME_ND_RG = Petkovic
+| srp_NS_name = Петковић
+| srp_NS_FULL_NAME_RO = Петковић
+| srp_NS_FULL_NAME_ND_RO = Петковић
+| srp_NS_SORT_NAME_RG = ПЕТКОВИЋ
+| srp_NS_FULL_NAME_RG = Петковић
+| srp_NS_FULL_NAME_ND_RG = Петковић
+| srp_V_name = Petkoviće
+| srp_V_FULL_NAME_RO = Petkoviće
+| srp_V_FULL_NAME_ND_RO = Petkovice
+| srp_V_SORT_NAME_RG = PETKOVICE
+| srp_V_FULL_NAME_RG = Petkoviće
+| srp_V_FULL_NAME_ND_RG = Petkovice
+| srp_VS_name = Петковиће
+| srp_VS_FULL_NAME_RO = Петковиће
+| srp_VS_FULL_NAME_ND_RO = Петковиће
+| srp_VS_SORT_NAME_RG = ПЕТКОВИЋЕ
+| srp_VS_FULL_NAME_RG = Петковиће
+| srp_VS_FULL_NAME_ND_RG = Петковиће
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.556111
  | Lartësia            = 
 }}
-'''Petkoviq''' është një [[]] në [[Skënderaj]] të [[Kosovës]].
+'''Petkoviq''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

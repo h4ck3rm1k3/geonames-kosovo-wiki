@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Varosh
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VAROSH
- | FULL_NAME_RO = Varosh
- | FULL_NAME_ND_RO=Varosh
- | SORT_NAME_RG=VAROSH
- | FULL_NAME_RG=Varosh
- | FULL_NAME_ND_RG=Varosh
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Varosh
+| sqi_N_FULL_NAME_RO = Varosh
+| sqi_N_FULL_NAME_ND_RO = Varosh
+| sqi_N_SORT_NAME_RG = VAROSH
+| sqi_N_FULL_NAME_RG = Varosh
+| sqi_N_FULL_NAME_ND_RG = Varosh
+| srp_N_name = Varoš Selo
+| srp_N_FULL_NAME_RO = Varoš Selo
+| srp_N_FULL_NAME_ND_RO = Varos Selo
+| srp_N_SORT_NAME_RG = VAROSSELO
+| srp_N_FULL_NAME_RG = Varoš Selo
+| srp_N_FULL_NAME_ND_RG = Varos Selo
+| srp_NS_name = Варош Село
+| srp_NS_FULL_NAME_RO = Варош Село
+| srp_NS_FULL_NAME_ND_RO = Варош Село
+| srp_NS_SORT_NAME_RG = ВАРОШСЕЛО
+| srp_NS_FULL_NAME_RG = Варош Село
+| srp_NS_FULL_NAME_ND_RG = Варош Село
+| srp_V_name = Varoš
+| srp_V_FULL_NAME_RO = Varoš
+| srp_V_FULL_NAME_ND_RO = Varos
+| srp_V_SORT_NAME_RG = VAROS
+| srp_V_FULL_NAME_RG = Varoš
+| srp_V_FULL_NAME_ND_RG = Varos
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.176389
  | Lartësia            = 
 }}
-'''Varosh''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Varosh''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

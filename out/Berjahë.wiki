@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Berjahë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BERJAHE
- | FULL_NAME_RO = Berjahë
- | FULL_NAME_ND_RO=Berjahe
- | SORT_NAME_RG=BERJAHE
- | FULL_NAME_RG=Berjahë
- | FULL_NAME_ND_RG=Berjahe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Berjahë
+| sqi_D_FULL_NAME_RO = Berjahë
+| sqi_D_FULL_NAME_ND_RO = Berjahe
+| sqi_D_SORT_NAME_RG = BERJAHE
+| sqi_D_FULL_NAME_RG = Berjahë
+| sqi_D_FULL_NAME_ND_RG = Berjahe
+| sqi_V_name = Berjah
+| sqi_V_FULL_NAME_RO = Berjah Berjaha
+| sqi_V_FULL_NAME_ND_RO = Berjah Berjaha
+| sqi_V_SORT_NAME_RG = BERJAH BERJAHA
+| sqi_V_FULL_NAME_RG = Berjah Berjaha
+| sqi_V_FULL_NAME_ND_RG = Berjah Berjaha
+| srp_N_name = Berjah
+| srp_N_FULL_NAME_RO = Berjah
+| srp_N_FULL_NAME_ND_RO = Berjah
+| srp_N_SORT_NAME_RG = BERJAH
+| srp_N_FULL_NAME_RG = Berjah
+| srp_N_FULL_NAME_ND_RG = Berjah
+| srp_NS_name = Берјах
+| srp_NS_FULL_NAME_RO = Берјах
+| srp_NS_FULL_NAME_ND_RO = Берјах
+| srp_NS_SORT_NAME_RG = БЕРЈАХ
+| srp_NS_FULL_NAME_RG = Берјах
+| srp_NS_FULL_NAME_ND_RG = Берјах
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.291667
  | Lartësia            = 
 }}
-'''Berjahë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Berjahë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

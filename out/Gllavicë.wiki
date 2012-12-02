@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Gllavicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GLLAVICE
- | FULL_NAME_RO = Gllavicë
- | FULL_NAME_ND_RO=Gllavice
- | SORT_NAME_RG=GLLAVICE
- | FULL_NAME_RG=Gllavicë
- | FULL_NAME_ND_RG=Gllavice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Gllavicë
+| sqi_D_FULL_NAME_RO = Gllavicë
+| sqi_D_FULL_NAME_ND_RO = Gllavice
+| sqi_D_SORT_NAME_RG = GLLAVICE
+| sqi_D_FULL_NAME_RG = Gllavicë
+| sqi_D_FULL_NAME_ND_RG = Gllavice
+| srp_N_name = Glavica
+| srp_N_FULL_NAME_RO = Glavica
+| srp_N_FULL_NAME_ND_RO = Glavica
+| srp_N_SORT_NAME_RG = GLAVICA
+| srp_N_FULL_NAME_RG = Glavica
+| srp_N_FULL_NAME_ND_RG = Glavica
+| srp_NS_name = Главица
+| srp_NS_FULL_NAME_RO = Главица
+| srp_NS_FULL_NAME_ND_RO = Главица
+| srp_NS_SORT_NAME_RG = ГЛАВИЦА
+| srp_NS_FULL_NAME_RG = Главица
+| srp_NS_FULL_NAME_ND_RG = Главица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.086944
  | Lartësia            = 
 }}
-'''Gllavicë''' është një [[]] në [[Shtime]] të [[Kosovës]].
+'''Gllavicë''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

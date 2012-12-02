@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Grashticë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GRASHTICE
- | FULL_NAME_RO = Grashticë
- | FULL_NAME_ND_RO=Grashtice
- | SORT_NAME_RG=GRASHTICE
- | FULL_NAME_RG=Grashticë
- | FULL_NAME_ND_RG=Grashtice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Grashticë
+| sqi_N_FULL_NAME_RO = Grashticë
+| sqi_N_FULL_NAME_ND_RO = Grashtice
+| sqi_N_SORT_NAME_RG = GRASHTICE
+| sqi_N_FULL_NAME_RG = Grashticë
+| sqi_N_FULL_NAME_ND_RG = Grashtice
+| srp_N_name = Graštica
+| srp_N_FULL_NAME_RO = Graštica
+| srp_N_FULL_NAME_ND_RO = Grastica
+| srp_N_SORT_NAME_RG = GRASTICA
+| srp_N_FULL_NAME_RG = Graštica
+| srp_N_FULL_NAME_ND_RG = Grastica
+| srp_NS_name = Граштица
+| srp_NS_FULL_NAME_RO = Граштица
+| srp_NS_FULL_NAME_ND_RO = Граштица
+| srp_NS_SORT_NAME_RG = ГРАШТИЦА
+| srp_NS_FULL_NAME_RG = Граштица
+| srp_NS_FULL_NAME_ND_RG = Граштица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.258889
  | Lartësia            = 
 }}
-'''Grashticë''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Grashticë''' është një [[Fshat Vogel]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

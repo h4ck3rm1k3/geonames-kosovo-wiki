@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Cerrcë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      CERRCE
- | FULL_NAME_RO = Cerrcë
- | FULL_NAME_ND_RO=Cerrce
- | SORT_NAME_RG=CERRCE
- | FULL_NAME_RG=Cerrcë
- | FULL_NAME_ND_RG=Cerrce
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Cerrcë
+| sqi_N_FULL_NAME_RO = Cerrcë
+| sqi_N_FULL_NAME_ND_RO = Cerrce
+| sqi_N_SORT_NAME_RG = CERRCE
+| sqi_N_FULL_NAME_RG = Cerrcë
+| sqi_N_FULL_NAME_ND_RG = Cerrce
+| sqi_V_name = Cërrca
+| sqi_V_FULL_NAME_RO = Cërrca Rranzë Rranza
+| sqi_V_FULL_NAME_ND_RO = Cerrca Rranze Rranza
+| sqi_V_SORT_NAME_RG = CERRCA RRANZE RRANZA
+| sqi_V_FULL_NAME_RG = Cërrca Rranzë Rranza
+| sqi_V_FULL_NAME_ND_RG = Cerrca Rranze Rranza
+| srp_N_name = Crnce
+| srp_N_FULL_NAME_RO = Crnce
+| srp_N_FULL_NAME_ND_RO = Crnce
+| srp_N_SORT_NAME_RG = CRNCE
+| srp_N_FULL_NAME_RG = Crnce
+| srp_N_FULL_NAME_ND_RG = Crnce
+| srp_NS_name = Црнце
+| srp_NS_FULL_NAME_RO = Црнце
+| srp_NS_FULL_NAME_ND_RO = Црнце
+| srp_NS_SORT_NAME_RG = ЦРНЦЕ
+| srp_NS_FULL_NAME_RG = Црнце
+| srp_NS_FULL_NAME_ND_RG = Црнце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.453056
  | Lartësia            = 
 }}
-'''Cerrcë''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Cerrcë''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,48 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kranidel
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KRANIDEL
- | FULL_NAME_RO = Kranidel
- | FULL_NAME_ND_RO=Kranidel
- | SORT_NAME_RG=KRANIDEL
- | FULL_NAME_RG=Kranidel
- | FULL_NAME_ND_RG=Kranidel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Kranidel
+| sqi_D_FULL_NAME_RO = Kranidel
+| sqi_D_FULL_NAME_ND_RO = Kranidel
+| sqi_D_SORT_NAME_RG = KRANIDEL
+| sqi_D_FULL_NAME_RG = Kranidel
+| sqi_D_FULL_NAME_ND_RG = Kranidel
+| sqi_V_name = Kranidelli
+| sqi_V_FULL_NAME_RO = Kranidelli Temali Krajnidel Kranidell
+| sqi_V_FULL_NAME_ND_RO = Kranidelli Temali Krajnidel Kranidell
+| sqi_V_SORT_NAME_RG = KRANIDELLI TEMALI KRAJNIDEL KRANIDELL
+| sqi_V_FULL_NAME_RG = Kranidelli Temali Krajnidel Kranidell
+| sqi_V_FULL_NAME_ND_RG = Kranidelli Temali Krajnidel Kranidell
+| srp_N_name = Krajni Del
+| srp_N_FULL_NAME_RO = Krajni Del
+| srp_N_FULL_NAME_ND_RO = Krajni Del
+| srp_N_SORT_NAME_RG = KRAJNIDEL
+| srp_N_FULL_NAME_RG = Krajni Del
+| srp_N_FULL_NAME_ND_RG = Krajni Del
+| srp_NS_name = Крајни Дел
+| srp_NS_FULL_NAME_RO = Крајни Дел
+| srp_NS_FULL_NAME_ND_RO = Крајни Дел
+| srp_NS_SORT_NAME_RG = КРАЈНИДЕЛ
+| srp_NS_FULL_NAME_RG = Крајни Дел
+| srp_NS_FULL_NAME_ND_RG = Крајни Дел
+| srp_V_name = Krajnidoll
+| srp_V_FULL_NAME_RO = Krajnidoll Krajnidel
+| srp_V_FULL_NAME_ND_RO = Krajnidoll Krajnidel
+| srp_V_SORT_NAME_RG = KRAJNIDOLL KRAJNIDEL
+| srp_V_FULL_NAME_RG = Krajnidoll Krajnidel
+| srp_V_FULL_NAME_ND_RG = Krajnidoll Krajnidel
+| srp_VS_name = Крајнидел
+| srp_VS_FULL_NAME_RO = Крајнидел Крајнидол
+| srp_VS_FULL_NAME_ND_RO = Крајнидел Крајнидол
+| srp_VS_SORT_NAME_RG = КРАЈНИДЕЛ КРАЈНИДОЛ
+| srp_VS_FULL_NAME_RG = Крајнидел Крајнидол
+| srp_VS_FULL_NAME_ND_RG = Крајнидел Крајнидол
+| std_V_name = Temal
+| std_V_FULL_NAME_RO = Temal Krajindel
+| std_V_FULL_NAME_ND_RO = Temal Krajindel
+| std_V_SORT_NAME_RG = TEMAL KRAJINDEL
+| std_V_FULL_NAME_RG = Temal Krajindel
+| std_V_FULL_NAME_ND_RG = Temal Krajindel
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +60,7 @@
  | Gjatësia            = 21.706389
  | Lartësia            = 
 }}
-'''Kranidel''' është një [[]] në [[Fushë Kosovë]] të [[Kosovës]].
+'''Kranidel''' është një [[Fshat Vogel]] në [[Fushë Kosovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

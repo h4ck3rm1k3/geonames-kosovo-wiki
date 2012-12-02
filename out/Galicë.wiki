@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Galicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      GALICE
- | FULL_NAME_RO = Galicë
- | FULL_NAME_ND_RO=Galice
- | SORT_NAME_RG=GALICE
- | FULL_NAME_RG=Galicë
- | FULL_NAME_ND_RG=Galice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Galicë
+| sqi_N_FULL_NAME_RO = Galicë
+| sqi_N_FULL_NAME_ND_RO = Galice
+| sqi_N_SORT_NAME_RG = GALICE
+| sqi_N_FULL_NAME_RG = Galicë
+| sqi_N_FULL_NAME_ND_RG = Galice
+| srp_N_name = Galica
+| srp_N_FULL_NAME_RO = Galica
+| srp_N_FULL_NAME_ND_RO = Galica
+| srp_N_SORT_NAME_RG = GALICA
+| srp_N_FULL_NAME_RG = Galica
+| srp_N_FULL_NAME_ND_RG = Galica
+| srp_NS_name = Галица
+| srp_NS_FULL_NAME_RO = Галица
+| srp_NS_FULL_NAME_ND_RO = Галица
+| srp_NS_SORT_NAME_RG = ГАЛИЦА
+| srp_NS_FULL_NAME_RG = Галица
+| srp_NS_FULL_NAME_ND_RG = Галица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.864444
  | Lartësia            = 
 }}
-'''Galicë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Galicë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

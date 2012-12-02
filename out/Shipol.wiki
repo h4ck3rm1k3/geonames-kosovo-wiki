@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shipol
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHIPOL
- | FULL_NAME_RO = Shipol
- | FULL_NAME_ND_RO=Shipol
- | SORT_NAME_RG=SHIPOL
- | FULL_NAME_RG=Shipol
- | FULL_NAME_ND_RG=Shipol
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Shipol
+| sqi_N_FULL_NAME_RO = Shipol
+| sqi_N_FULL_NAME_ND_RO = Shipol
+| sqi_N_SORT_NAME_RG = SHIPOL
+| sqi_N_FULL_NAME_RG = Shipol
+| sqi_N_FULL_NAME_ND_RG = Shipol
+| sqi_V_name = Sipol
+| sqi_V_FULL_NAME_RO = Sipol
+| sqi_V_FULL_NAME_ND_RO = Sipol
+| sqi_V_SORT_NAME_RG = SIPOL
+| sqi_V_FULL_NAME_RG = Sipol
+| sqi_V_FULL_NAME_ND_RG = Sipol
+| srp_N_name = Šipolje
+| srp_N_FULL_NAME_RO = Šipolje
+| srp_N_FULL_NAME_ND_RO = Sipolje
+| srp_N_SORT_NAME_RG = SIPOLJE
+| srp_N_FULL_NAME_RG = Šipolje
+| srp_N_FULL_NAME_ND_RG = Sipolje
+| srp_NS_name = Шипоље
+| srp_NS_FULL_NAME_RO = Шипоље
+| srp_NS_FULL_NAME_ND_RO = Шипоље
+| srp_NS_SORT_NAME_RG = ШИПОЉЕ
+| srp_NS_FULL_NAME_RG = Шипоље
+| srp_NS_FULL_NAME_ND_RG = Шипоље
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.848889
  | Lartësia            = 
 }}
-'''Shipol''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Shipol''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

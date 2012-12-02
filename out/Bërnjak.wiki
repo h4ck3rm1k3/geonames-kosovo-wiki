@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Bërnjak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BERNJAK
- | FULL_NAME_RO = Bërnjak
- | FULL_NAME_ND_RO=Bernjak
- | SORT_NAME_RG=BERNJAK
- | FULL_NAME_RG=Bërnjak
- | FULL_NAME_ND_RG=Bernjak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Bërnjak
+| sqi_N_FULL_NAME_RO = Bërnjak
+| sqi_N_FULL_NAME_ND_RO = Bernjak
+| sqi_N_SORT_NAME_RG = BERNJAK
+| sqi_N_FULL_NAME_RG = Bërnjak
+| sqi_N_FULL_NAME_ND_RG = Bernjak
+| sqi_V_name = Bëmjak
+| sqi_V_FULL_NAME_RO = Bëmjak
+| sqi_V_FULL_NAME_ND_RO = Bemjak
+| sqi_V_SORT_NAME_RG = BEMJAK
+| sqi_V_FULL_NAME_RG = Bëmjak
+| sqi_V_FULL_NAME_ND_RG = Bemjak
+| srp_N_name = Brnjak
+| srp_N_FULL_NAME_RO = Brnjak
+| srp_N_FULL_NAME_ND_RO = Brnjak
+| srp_N_SORT_NAME_RG = BRNJAK
+| srp_N_FULL_NAME_RG = Brnjak
+| srp_N_FULL_NAME_ND_RG = Brnjak
+| srp_NS_name = Брњак
+| srp_NS_FULL_NAME_RO = Брњак
+| srp_NS_FULL_NAME_ND_RO = Брњак
+| srp_NS_SORT_NAME_RG = БРЊАК
+| srp_NS_FULL_NAME_RG = Брњак
+| srp_NS_FULL_NAME_ND_RG = Брњак
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.565833
  | Lartësia            = 
 }}
-'''Bërnjak''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Bërnjak''' është një [[Fshat Vogel]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

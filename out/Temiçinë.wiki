@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Temiçinë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      TEMICINE
- | FULL_NAME_RO = Temiçinë
- | FULL_NAME_ND_RO=Temicine
- | SORT_NAME_RG=TEMICINE
- | FULL_NAME_RG=Temiçinë
- | FULL_NAME_ND_RG=Temicine
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Temiçinë
+| sqi_D_FULL_NAME_RO = Temiçinë
+| sqi_D_FULL_NAME_ND_RO = Temicine
+| sqi_D_SORT_NAME_RG = TEMICINE
+| sqi_D_FULL_NAME_RG = Temiçinë
+| sqi_D_FULL_NAME_ND_RG = Temicine
+| sqi_V_name = Tiniqinjo
+| sqi_V_FULL_NAME_RO = Tiniqinjo Temeqin Tumiçin
+| sqi_V_FULL_NAME_ND_RO = Tiniqinjo Temeqin Tumicin
+| sqi_V_SORT_NAME_RG = TINIQINJO TEMEQIN TUMICIN
+| sqi_V_FULL_NAME_RG = Tiniqinjo Temeqin Tumiçin
+| sqi_V_FULL_NAME_ND_RG = Tiniqinjo Temeqin Tumicin
+| srp_N_name = Tumičina
+| srp_N_FULL_NAME_RO = Tumičina
+| srp_N_FULL_NAME_ND_RO = Tumicina
+| srp_N_SORT_NAME_RG = TUMICINA
+| srp_N_FULL_NAME_RG = Tumičina
+| srp_N_FULL_NAME_ND_RG = Tumicina
+| srp_NS_name = Тумичина
+| srp_NS_FULL_NAME_RO = Тумичина
+| srp_NS_FULL_NAME_ND_RO = Тумичина
+| srp_NS_SORT_NAME_RG = ТУМИЧИНА
+| srp_NS_FULL_NAME_RG = Тумичина
+| srp_NS_FULL_NAME_ND_RG = Тумичина
+| srp_V_name = Timičina
+| srp_V_FULL_NAME_RO = Timičina
+| srp_V_FULL_NAME_ND_RO = Timicina
+| srp_V_SORT_NAME_RG = TIMICINA
+| srp_V_FULL_NAME_RG = Timičina
+| srp_V_FULL_NAME_ND_RG = Timicina
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.838333
  | Lartësia            = 
 }}
-'''Temiçinë''' është një [[]] në [[Mitrovicë]] të [[Kosovës]].
+'''Temiçinë''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

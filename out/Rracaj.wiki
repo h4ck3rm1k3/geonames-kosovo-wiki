@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Rracaj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RRACAJ
- | FULL_NAME_RO = Rracaj
- | FULL_NAME_ND_RO=Rracaj
- | SORT_NAME_RG=RRACAJ
- | FULL_NAME_RG=Rracaj
- | FULL_NAME_ND_RG=Rracaj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Rracaj
+| sqi_N_FULL_NAME_RO = Rracaj
+| sqi_N_FULL_NAME_ND_RO = Rracaj
+| sqi_N_SORT_NAME_RG = RRACAJ
+| sqi_N_FULL_NAME_RG = Rracaj
+| sqi_N_FULL_NAME_ND_RG = Rracaj
+| srp_N_name = Racaj
+| srp_N_FULL_NAME_RO = Racaj
+| srp_N_FULL_NAME_ND_RO = Racaj
+| srp_N_SORT_NAME_RG = RACAJ
+| srp_N_FULL_NAME_RG = Racaj
+| srp_N_FULL_NAME_ND_RG = Racaj
+| srp_NS_name = Рацај
+| srp_NS_FULL_NAME_RO = Рацај
+| srp_NS_FULL_NAME_ND_RO = Рацај
+| srp_NS_SORT_NAME_RG = РАЦАЈ
+| srp_NS_FULL_NAME_RG = Рацај
+| srp_NS_FULL_NAME_ND_RG = Рацај
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.35
  | Lartësia            = 
 }}
-'''Rracaj''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Rracaj''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

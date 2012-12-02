@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vilishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VILISHTE
- | FULL_NAME_RO = Vilishtë
- | FULL_NAME_ND_RO=Vilishte
- | SORT_NAME_RG=VILISHTE
- | FULL_NAME_RG=Vilishtë
- | FULL_NAME_ND_RG=Vilishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vilishtë
+| sqi_N_FULL_NAME_RO = Vilishtë
+| sqi_N_FULL_NAME_ND_RO = Vilishte
+| sqi_N_SORT_NAME_RG = VILISHTE
+| sqi_N_FULL_NAME_RG = Vilishtë
+| sqi_N_FULL_NAME_ND_RG = Vilishte
+| srp_N_name = Vilište
+| srp_N_FULL_NAME_RO = Vilište
+| srp_N_FULL_NAME_ND_RO = Viliste
+| srp_N_SORT_NAME_RG = VILISTE
+| srp_N_FULL_NAME_RG = Vilište
+| srp_N_FULL_NAME_ND_RG = Viliste
+| srp_NS_name = Вилиште
+| srp_NS_FULL_NAME_RO = Вилиште
+| srp_NS_FULL_NAME_ND_RO = Вилиште
+| srp_NS_SORT_NAME_RG = ВИЛИШТЕ
+| srp_NS_FULL_NAME_RG = Вилиште
+| srp_NS_FULL_NAME_ND_RG = Вилиште
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.781667
  | Lartësia            = 
 }}
-'''Vilishtë''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Vilishtë''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

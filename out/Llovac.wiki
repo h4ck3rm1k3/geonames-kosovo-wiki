@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Llovac
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LLOVAC
- | FULL_NAME_RO = Llovac
- | FULL_NAME_ND_RO=Llovac
- | SORT_NAME_RG=LLOVAC
- | FULL_NAME_RG=Llovac
- | FULL_NAME_ND_RG=Llovac
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Llovac
+| sqi_N_FULL_NAME_RO = Llovac
+| sqi_N_FULL_NAME_ND_RO = Llovac
+| sqi_N_SORT_NAME_RG = LLOVAC
+| sqi_N_FULL_NAME_RG = Llovac
+| sqi_N_FULL_NAME_ND_RG = Llovac
+| sqi_V_name = Lofcë
+| sqi_V_FULL_NAME_RO = Lofcë Llovc
+| sqi_V_FULL_NAME_ND_RO = Lofce Llovc
+| sqi_V_SORT_NAME_RG = LOFCE LLOVC
+| sqi_V_FULL_NAME_RG = Lofcë Llovc
+| sqi_V_FULL_NAME_ND_RG = Lofce Llovc
+| srp_N_name = Lovac
+| srp_N_FULL_NAME_RO = Lovac
+| srp_N_FULL_NAME_ND_RO = Lovac
+| srp_N_SORT_NAME_RG = LOVAC
+| srp_N_FULL_NAME_RG = Lovac
+| srp_N_FULL_NAME_ND_RG = Lovac
+| srp_NS_name = Ловац
+| srp_NS_FULL_NAME_RO = Ловац
+| srp_NS_FULL_NAME_ND_RO = Ловац
+| srp_NS_SORT_NAME_RG = ЛОВАЦ
+| srp_NS_FULL_NAME_RG = Ловац
+| srp_NS_FULL_NAME_ND_RG = Ловац
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.763611
  | Lartësia            = 
 }}
-'''Llovac''' është një [[]] në [[Zveçan]] të [[Kosovës]].
+'''Llovac''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Boshnjak
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BOSHNJAK
- | FULL_NAME_RO = Boshnjak
- | FULL_NAME_ND_RO=Boshnjak
- | SORT_NAME_RG=BOSHNJAK
- | FULL_NAME_RG=Boshnjak
- | FULL_NAME_ND_RG=Boshnjak
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Boshnjak
+| sqi_D_FULL_NAME_RO = Boshnjak
+| sqi_D_FULL_NAME_ND_RO = Boshnjak
+| sqi_D_SORT_NAME_RG = BOSHNJAK
+| sqi_D_FULL_NAME_RG = Boshnjak
+| sqi_D_FULL_NAME_ND_RG = Boshnjak
+| srp_N_name = Bošnjak
+| srp_N_FULL_NAME_RO = Bošnjak
+| srp_N_FULL_NAME_ND_RO = Bosnjak
+| srp_N_SORT_NAME_RG = BOSNJAK
+| srp_N_FULL_NAME_RG = Bošnjak
+| srp_N_FULL_NAME_ND_RG = Bosnjak
+| sqi_D_name = Boshnjak
+| sqi_D_FULL_NAME_RO = Boshnjak
+| sqi_D_FULL_NAME_ND_RO = Boshnjak
+| sqi_D_SORT_NAME_RG = BOSHNJAK
+| sqi_D_FULL_NAME_RG = Boshnjak
+| sqi_D_FULL_NAME_ND_RG = Boshnjak
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo

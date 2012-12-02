@@ -1,26 +1,40 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Samadrexhë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SAMADREXHE
- | FULL_NAME_RO = Samadrexhë
- | FULL_NAME_ND_RO=Samadrexhe
- | SORT_NAME_RG=SAMADREXHE
- | FULL_NAME_RG=Samadrexhë
- | FULL_NAME_ND_RG=Samadrexhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Samadrexhë
+| sqi_N_FULL_NAME_RO = Samadrexhë
+| sqi_N_FULL_NAME_ND_RO = Samadrexhe
+| sqi_N_SORT_NAME_RG = SAMADREXHE
+| sqi_N_FULL_NAME_RG = Samadrexhë
+| sqi_N_FULL_NAME_ND_RG = Samadrexhe
+| sqi_V_name = Samodrezhë
+| sqi_V_FULL_NAME_RO = Samodrezhë Samadregjë
+| sqi_V_FULL_NAME_ND_RO = Samodrezhe Samadregje
+| sqi_V_SORT_NAME_RG = SAMODREZHE SAMADREGJE
+| sqi_V_FULL_NAME_RG = Samodrezhë Samadregjë
+| sqi_V_FULL_NAME_ND_RG = Samodrezhe Samadregje
+| srp_N_name = Samodreža
+| srp_N_FULL_NAME_RO = Samodreža
+| srp_N_FULL_NAME_ND_RO = Samodreza
+| srp_N_SORT_NAME_RG = SAMODREZA
+| srp_N_FULL_NAME_RG = Samodreža
+| srp_N_FULL_NAME_ND_RG = Samodreza
+| srp_NS_name = Самодрежа
+| srp_NS_FULL_NAME_RO = Самодрежа
+| srp_NS_FULL_NAME_ND_RO = Самодрежа
+| srp_NS_SORT_NAME_RG = САМОДРЕЖА
+| srp_NS_FULL_NAME_RG = Самодрежа
+| srp_NS_FULL_NAME_ND_RG = Самодрежа
+| srp_V_name = Samodraža
+| srp_V_FULL_NAME_RO = Samodraža Manastir Samodreža
+| srp_V_FULL_NAME_ND_RO = Samodraza Manastir Samodreza
+| srp_V_SORT_NAME_RG = SAMODRAZA MANASTIRSAMODREZA
+| srp_V_FULL_NAME_RG = Samodraža Manastir Samodreža
+| srp_V_FULL_NAME_ND_RG = Samodraza Manastir Samodreza
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Ferizaj
+ | Komuna              = Vushtrri
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +44,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.364167
- | Gjatësia            = 20.740833
+ | Gjerësia            = 42.822878
+ | Gjatësia            = 21.046643
  | Lartësia            = 
 }}
-'''Samadrexhë''' është një [[]] në [[Ferizaj]] të [[Kosovës]].
+'''Samadrexhë''' është një [[Fshat Vogel]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Ferizaj}}
+{{Komuna Vushtrri}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
 [[Kategoria:Vendbanime në Kosovës]]

@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Miraçë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MIRACE
- | FULL_NAME_RO = Miraçë
- | FULL_NAME_ND_RO=Mirace
- | SORT_NAME_RG=MIRACE
- | FULL_NAME_RG=Miraçë
- | FULL_NAME_ND_RG=Mirace
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Miraçë
+| sqi_N_FULL_NAME_RO = Miraçë
+| sqi_N_FULL_NAME_ND_RO = Mirace
+| sqi_N_SORT_NAME_RG = MIRACE
+| sqi_N_FULL_NAME_RG = Miraçë
+| sqi_N_FULL_NAME_ND_RG = Mirace
+| sqi_V_name = Miraqë
+| sqi_V_FULL_NAME_RO = Miraqë
+| sqi_V_FULL_NAME_ND_RO = Miraqe
+| sqi_V_SORT_NAME_RG = MIRAQE
+| sqi_V_FULL_NAME_RG = Miraqë
+| sqi_V_FULL_NAME_ND_RG = Miraqe
+| srp_N_name = Miroče
+| srp_N_FULL_NAME_RO = Miroče
+| srp_N_FULL_NAME_ND_RO = Miroce
+| srp_N_SORT_NAME_RG = MIROCE
+| srp_N_FULL_NAME_RG = Miroče
+| srp_N_FULL_NAME_ND_RG = Miroce
+| srp_NS_name = Мироче
+| srp_NS_FULL_NAME_RO = Мироче
+| srp_NS_FULL_NAME_ND_RO = Мироче
+| srp_NS_SORT_NAME_RG = МИРОЧЕ
+| srp_NS_FULL_NAME_RG = Мироче
+| srp_NS_FULL_NAME_ND_RG = Мироче
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.994991
  | Lartësia            = 
 }}
-'''Miraçë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Miraçë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

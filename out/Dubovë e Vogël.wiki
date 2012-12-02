@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Dubovë e Vogël
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DUBOVEEVOGEL
- | FULL_NAME_RO = Dubovë e Vogël
- | FULL_NAME_ND_RO=Dubove e Vogel
- | SORT_NAME_RG=DUBOVEEVOGEL
- | FULL_NAME_RG=Dubovë e Vogël
- | FULL_NAME_ND_RG=Dubove e Vogel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Dubovë e Vogël
+| sqi_N_FULL_NAME_RO = Dubovë e Vogël
+| sqi_N_FULL_NAME_ND_RO = Dubove e Vogel
+| sqi_N_SORT_NAME_RG = DUBOVEEVOGEL
+| sqi_N_FULL_NAME_RG = Dubovë e Vogël
+| sqi_N_FULL_NAME_ND_RG = Dubove e Vogel
+| sqi_V_name = Driloni i Vogël
+| sqi_V_FULL_NAME_RO = Driloni i Vogël Dubova e Vogël Drilon i Vogel
+| sqi_V_FULL_NAME_ND_RO = Driloni i Vogel Dubova e Vogel Drilon i Vogel
+| sqi_V_SORT_NAME_RG = DRILONIIVOGEL DUBOVAEVOGEL DRILONIVOGEL
+| sqi_V_FULL_NAME_RG = Driloni i Vogël Dubova e Vogël Drilon i Vogel
+| sqi_V_FULL_NAME_ND_RG = Driloni i Vogel Dubova e Vogel Drilon i Vogel
+| srp_N_name = Malo Dubovo
+| srp_N_FULL_NAME_RO = Malo Dubovo
+| srp_N_FULL_NAME_ND_RO = Malo Dubovo
+| srp_N_SORT_NAME_RG = MALODUBOVO
+| srp_N_FULL_NAME_RG = Malo Dubovo
+| srp_N_FULL_NAME_ND_RG = Malo Dubovo
+| srp_NS_name = Мало Дубово
+| srp_NS_FULL_NAME_RO = Мало Дубово
+| srp_NS_FULL_NAME_ND_RO = Мало Дубово
+| srp_NS_SORT_NAME_RG = МАЛОДУБОВО
+| srp_NS_FULL_NAME_RG = Мало Дубово
+| srp_NS_FULL_NAME_ND_RG = Мало Дубово
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.359722
  | Lartësia            = 
 }}
-'''Dubovë e Vogël''' është një [[]] në [[Kamenicë]] të [[Kosovës]].
+'''Dubovë e Vogël''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Shajn
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SHAJN
- | FULL_NAME_RO = Shajn
- | FULL_NAME_ND_RO=Shajn
- | SORT_NAME_RG=SHAJN
- | FULL_NAME_RG=Shajn
- | FULL_NAME_ND_RG=Shajn
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Shajn
+| sqi_D_FULL_NAME_RO = Shajn
+| sqi_D_FULL_NAME_ND_RO = Shajn
+| sqi_D_SORT_NAME_RG = SHAJN
+| sqi_D_FULL_NAME_RG = Shajn
+| sqi_D_FULL_NAME_ND_RG = Shajn
+| sqi_V_name = Shajnovë II (Dytë)
+| sqi_V_FULL_NAME_RO = Shajnovë II (Dytë) Shajnë Shajnovc Shajne Shajnë II (Dytë)
+| sqi_V_FULL_NAME_ND_RO = Shajnove II (Dyte) Shajne Shajnovc Shajne Shajne II (Dyte)
+| sqi_V_SORT_NAME_RG = SHAJNOVEIIDYTE SHAJNE SHAJNOVC SHAJNE SHAJNEIIDYTE
+| sqi_V_FULL_NAME_RG = Shajnovë II (Dytë) Shajnë Shajnovc Shajne Shajnë II (Dytë)
+| sqi_V_FULL_NAME_ND_RG = Shajnove II (Dyte) Shajne Shajnovc Shajne Shajne II (Dyte)
+| srp_D_name = Šainovce
+| srp_D_FULL_NAME_RO = Šainovce
+| srp_D_FULL_NAME_ND_RO = Sainovce
+| srp_D_SORT_NAME_RG = SAINOVCE
+| srp_D_FULL_NAME_RG = Šainovce
+| srp_D_FULL_NAME_ND_RG = Sainovce
+| srp_DS_name = Шаиновце
+| srp_DS_FULL_NAME_RO = Шаиновце
+| srp_DS_FULL_NAME_ND_RO = Шаиновце
+| srp_DS_SORT_NAME_RG = ШАИНОВЦЕ
+| srp_DS_FULL_NAME_RG = Шаиновце
+| srp_DS_FULL_NAME_ND_RG = Шаиновце
+| srp_V_name = Šajnovce
+| srp_V_FULL_NAME_RO = Šajnovce
+| srp_V_FULL_NAME_ND_RO = Sajnovce
+| srp_V_SORT_NAME_RG = SAJNOVCE
+| srp_V_FULL_NAME_RG = Šajnovce
+| srp_V_FULL_NAME_ND_RG = Sajnovce
+| srp_VS_name = Шајновце
+| srp_VS_FULL_NAME_RO = Шајновце
+| srp_VS_FULL_NAME_ND_RO = Шајновце
+| srp_VS_SORT_NAME_RG = ШАЈНОВЦЕ
+| srp_VS_FULL_NAME_RG = Шајновце
+| srp_VS_FULL_NAME_ND_RG = Шајновце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.746667
  | Lartësia            = 
 }}
-'''Shajn''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Shajn''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

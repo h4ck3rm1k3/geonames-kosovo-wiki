@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Breznicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BREZNICE
- | FULL_NAME_RO = Breznicë
- | FULL_NAME_ND_RO=Breznice
- | SORT_NAME_RG=BREZNICE
- | FULL_NAME_RG=Breznicë
- | FULL_NAME_ND_RG=Breznice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Breznicë
+| sqi_N_FULL_NAME_RO = Breznicë
+| sqi_N_FULL_NAME_ND_RO = Breznice
+| sqi_N_SORT_NAME_RG = BREZNICE
+| sqi_N_FULL_NAME_RG = Breznicë
+| sqi_N_FULL_NAME_ND_RG = Breznice
+| srp_N_name = Breznica
+| srp_N_FULL_NAME_RO = Breznica
+| srp_N_FULL_NAME_ND_RO = Breznica
+| srp_N_SORT_NAME_RG = BREZNICA
+| srp_N_FULL_NAME_RG = Breznica
+| srp_N_FULL_NAME_ND_RG = Breznica
+| srp_NS_name = Брезница
+| srp_NS_FULL_NAME_RO = Брезница
+| srp_NS_FULL_NAME_ND_RO = Брезница
+| srp_NS_SORT_NAME_RG = БРЕЗНИЦА
+| srp_NS_FULL_NAME_RG = Брезница
+| srp_NS_FULL_NAME_ND_RG = Брезница
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.082556
  | Lartësia            = 
 }}
-'''Breznicë''' është një [[]] në [[Rahovec]] të [[Kosovës]].
+'''Breznicë''' është një [[Fshat Vogel]] në [[Rahovec]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Smirë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SMIRE
- | FULL_NAME_RO = Smirë
- | FULL_NAME_ND_RO=Smire
- | SORT_NAME_RG=SMIRE
- | FULL_NAME_RG=Smirë
- | FULL_NAME_ND_RG=Smire
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Smirë
+| sqi_N_FULL_NAME_RO = Smirë
+| sqi_N_FULL_NAME_ND_RO = Smire
+| sqi_N_SORT_NAME_RG = SMIRE
+| sqi_N_FULL_NAME_RG = Smirë
+| sqi_N_FULL_NAME_ND_RG = Smire
+| srp_N_name = Smira
+| srp_N_FULL_NAME_RO = Smira
+| srp_N_FULL_NAME_ND_RO = Smira
+| srp_N_SORT_NAME_RG = SMIRA
+| srp_N_FULL_NAME_RG = Smira
+| srp_N_FULL_NAME_ND_RG = Smira
+| srp_NS_name = Смира
+| srp_NS_FULL_NAME_RO = Смира
+| srp_NS_FULL_NAME_ND_RO = Смира
+| srp_NS_SORT_NAME_RG = СМИРА
+| srp_NS_FULL_NAME_RG = Смира
+| srp_NS_FULL_NAME_ND_RG = Смира
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.318333
  | Lartësia            = 
 }}
-'''Smirë''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Smirë''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,26 +1,28 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zahaq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZAHAQ
- | FULL_NAME_RO = Zahaq
- | FULL_NAME_ND_RO=Zahaq
- | SORT_NAME_RG=ZAHAQ
- | FULL_NAME_RG=Zahaq
- | FULL_NAME_ND_RG=Zahaq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zahaq
+| sqi_N_FULL_NAME_RO = Zahaq
+| sqi_N_FULL_NAME_ND_RO = Zahaq
+| sqi_N_SORT_NAME_RG = ZAHAQ
+| sqi_N_FULL_NAME_RG = Zahaq
+| sqi_N_FULL_NAME_ND_RG = Zahaq
+| srp_N_name = Zahać
+| srp_N_FULL_NAME_RO = Zahać
+| srp_N_FULL_NAME_ND_RO = Zahac
+| srp_N_SORT_NAME_RG = ZAHAC
+| srp_N_FULL_NAME_RG = Zahać
+| srp_N_FULL_NAME_ND_RG = Zahac
+| srp_NS_name = Захаћ
+| srp_NS_FULL_NAME_RO = Захаћ
+| srp_NS_FULL_NAME_ND_RO = Захаћ
+| srp_NS_SORT_NAME_RG = ЗАХАЋ
+| srp_NS_FULL_NAME_RG = Захаћ
+| srp_NS_FULL_NAME_ND_RG = Захаћ
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Podujevë
+ | Komuna              = Pejë
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +32,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.947384
- | Gjatësia            = 21.105436
+ | Gjerësia            = 42.653611
+ | Gjatësia            = 20.385278
  | Lartësia            = 
 }}
-'''Zahaq''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+'''Zahaq''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Podujevë}}
+{{Komuna Pejë}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
 [[Kategoria:Vendbanime në Kosovës]]

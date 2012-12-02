@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Duzhnjë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      DUZHNJE
- | FULL_NAME_RO = Duzhnjë
- | FULL_NAME_ND_RO=Duzhnje
- | SORT_NAME_RG=DUZHNJE
- | FULL_NAME_RG=Duzhnjë
- | FULL_NAME_ND_RG=Duzhnje
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Duzhnjë
+| sqi_N_FULL_NAME_RO = Duzhnjë
+| sqi_N_FULL_NAME_ND_RO = Duzhnje
+| sqi_N_SORT_NAME_RG = DUZHNJE
+| sqi_N_FULL_NAME_RG = Duzhnjë
+| sqi_N_FULL_NAME_ND_RG = Duzhnje
+| srp_N_name = Dužnje
+| srp_N_FULL_NAME_RO = Dužnje
+| srp_N_FULL_NAME_ND_RO = Duznje
+| srp_N_SORT_NAME_RG = DUZNJE
+| srp_N_FULL_NAME_RG = Dužnje
+| srp_N_FULL_NAME_ND_RG = Duznje
+| srp_NS_name = Дужње
+| srp_NS_FULL_NAME_RO = Дужње
+| srp_NS_FULL_NAME_ND_RO = Дужње
+| srp_NS_SORT_NAME_RG = ДУЖЊЕ
+| srp_NS_FULL_NAME_RG = Дужње
+| srp_NS_FULL_NAME_ND_RG = Дужње
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.341389
  | Lartësia            = 
 }}
-'''Duzhnjë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Duzhnjë''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

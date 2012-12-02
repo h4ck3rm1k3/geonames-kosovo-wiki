@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sllubicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SLLUBICE
- | FULL_NAME_RO = Sllubicë
- | FULL_NAME_ND_RO=Sllubice
- | SORT_NAME_RG=SLLUBICE
- | FULL_NAME_RG=Sllubicë
- | FULL_NAME_ND_RG=Sllubice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Sllubicë
+| sqi_N_FULL_NAME_RO = Sllubicë
+| sqi_N_FULL_NAME_ND_RO = Sllubice
+| sqi_N_SORT_NAME_RG = SLLUBICE
+| sqi_N_FULL_NAME_RG = Sllubicë
+| sqi_N_FULL_NAME_ND_RG = Sllubice
+| sqi_V_name = Sllubica
+| sqi_V_FULL_NAME_RO = Sllubica
+| sqi_V_FULL_NAME_ND_RO = Sllubica
+| sqi_V_SORT_NAME_RG = SLLUBICA
+| sqi_V_FULL_NAME_RG = Sllubica
+| sqi_V_FULL_NAME_ND_RG = Sllubica
+| srp_N_name = Slubica
+| srp_N_FULL_NAME_RO = Slubica
+| srp_N_FULL_NAME_ND_RO = Slubica
+| srp_N_SORT_NAME_RG = SLUBICA
+| srp_N_FULL_NAME_RG = Slubica
+| srp_N_FULL_NAME_ND_RG = Slubica
+| srp_NS_name = Слубица
+| srp_NS_FULL_NAME_RO = Слубица
+| srp_NS_FULL_NAME_ND_RO = Слубица
+| srp_NS_SORT_NAME_RG = СЛУБИЦА
+| srp_NS_FULL_NAME_RG = Слубица
+| srp_NS_FULL_NAME_ND_RG = Слубица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.601389
  | Lartësia            = 
 }}
-'''Sllubicë''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Sllubicë''' është një [[Fshat Vogel]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

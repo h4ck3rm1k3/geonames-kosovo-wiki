@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zhdredhë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZHDREDHE
- | FULL_NAME_RO = Zhdredhë
- | FULL_NAME_ND_RO=Zhdredhe
- | SORT_NAME_RG=ZHDREDHE
- | FULL_NAME_RG=Zhdredhë
- | FULL_NAME_ND_RG=Zhdredhe
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Zhdredhë
+| sqi_D_FULL_NAME_RO = Zhdredhë
+| sqi_D_FULL_NAME_ND_RO = Zhdredhe
+| sqi_D_SORT_NAME_RG = ZHDREDHE
+| sqi_D_FULL_NAME_RG = Zhdredhë
+| sqi_D_FULL_NAME_ND_RG = Zhdredhe
+| sqi_V_name = Zhdrella
+| sqi_V_FULL_NAME_RO = Zhdrella Zhdrellë
+| sqi_V_FULL_NAME_ND_RO = Zhdrella Zhdrelle
+| sqi_V_SORT_NAME_RG = ZHDRELLA ZHDRELLE
+| sqi_V_FULL_NAME_RG = Zhdrella Zhdrellë
+| sqi_V_FULL_NAME_ND_RG = Zhdrella Zhdrelle
+| srp_N_name = Ždrelo
+| srp_N_FULL_NAME_RO = Ždrelo
+| srp_N_FULL_NAME_ND_RO = Zdrelo
+| srp_N_SORT_NAME_RG = ZDRELO
+| srp_N_FULL_NAME_RG = Ždrelo
+| srp_N_FULL_NAME_ND_RG = Zdrelo
+| srp_NS_name = Ждрело
+| srp_NS_FULL_NAME_RO = Ждрело
+| srp_NS_FULL_NAME_ND_RO = Ждрело
+| srp_NS_SORT_NAME_RG = ЖДРЕЛО
+| srp_NS_FULL_NAME_RG = Ждрело
+| srp_NS_FULL_NAME_ND_RG = Ждрело
+| srp_V_name = Ždrela
+| srp_V_FULL_NAME_RO = Ždrela
+| srp_V_FULL_NAME_ND_RO = Zdrela
+| srp_V_SORT_NAME_RG = ZDRELA
+| srp_V_FULL_NAME_RG = Ždrela
+| srp_V_FULL_NAME_ND_RG = Zdrela
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 20.4325
  | Lartësia            = 
 }}
-'''Zhdredhë''' është një [[]] në [[Gjilan]] të [[Kosovës]].
+'''Zhdredhë''' është një [[Fshat Vogel]] në [[Gjilan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

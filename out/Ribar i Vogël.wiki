@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Ribar i Vogël
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      RIBARIVOGEL
- | FULL_NAME_RO = Ribar i Vogël
- | FULL_NAME_ND_RO=Ribar i Vogel
- | SORT_NAME_RG=RIBARIVOGEL
- | FULL_NAME_RG=Ribar i Vogël
- | FULL_NAME_ND_RG=Ribar i Vogel
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Ribar i Vogël
+| sqi_D_FULL_NAME_RO = Ribar i Vogël
+| sqi_D_FULL_NAME_ND_RO = Ribar i Vogel
+| sqi_D_SORT_NAME_RG = RIBARIVOGEL
+| sqi_D_FULL_NAME_RG = Ribar i Vogël
+| sqi_D_FULL_NAME_ND_RG = Ribar i Vogel
+| sqi_V_name = Ribari i Vogël
+| sqi_V_FULL_NAME_RO = Ribari i Vogël
+| sqi_V_FULL_NAME_ND_RO = Ribari i Vogel
+| sqi_V_SORT_NAME_RG = RIBARIIVOGEL
+| sqi_V_FULL_NAME_RG = Ribari i Vogël
+| sqi_V_FULL_NAME_ND_RG = Ribari i Vogel
+| srp_N_name = Malo Ribare
+| srp_N_FULL_NAME_RO = Malo Ribare
+| srp_N_FULL_NAME_ND_RO = Malo Ribare
+| srp_N_SORT_NAME_RG = MALORIBARE
+| srp_N_FULL_NAME_RG = Malo Ribare
+| srp_N_FULL_NAME_ND_RG = Malo Ribare
+| srp_NS_name = Мало Рибаре
+| srp_NS_FULL_NAME_RO = Мало Рибаре
+| srp_NS_FULL_NAME_ND_RO = Мало Рибаре
+| srp_NS_SORT_NAME_RG = МАЛОРИБАРЕ
+| srp_NS_FULL_NAME_RG = Мало Рибаре
+| srp_NS_FULL_NAME_ND_RG = Мало Рибаре
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.065
  | Lartësia            = 
 }}
-'''Ribar i Vogël''' është një [[]] në [[Malishevë]] të [[Kosovës]].
+'''Ribar i Vogël''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

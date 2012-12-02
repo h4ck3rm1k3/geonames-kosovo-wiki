@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Softaj
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SOFTAJ
- | FULL_NAME_RO = Softaj
- | FULL_NAME_ND_RO=Softaj
- | SORT_NAME_RG=SOFTAJ
- | FULL_NAME_RG=Softaj
- | FULL_NAME_ND_RG=Softaj
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Softaj
+| sqi_N_FULL_NAME_RO = Softaj
+| sqi_N_FULL_NAME_ND_RO = Softaj
+| sqi_N_SORT_NAME_RG = SOFTAJ
+| sqi_N_FULL_NAME_RG = Softaj
+| sqi_N_FULL_NAME_ND_RG = Softaj
+| sqi_V_name = Softoviqi
+| sqi_V_FULL_NAME_RO = Softoviqi
+| sqi_V_FULL_NAME_ND_RO = Softoviqi
+| sqi_V_SORT_NAME_RG = SOFTOVIQI
+| sqi_V_FULL_NAME_RG = Softoviqi
+| sqi_V_FULL_NAME_ND_RG = Softoviqi
+| srp_N_name = Softović
+| srp_N_FULL_NAME_RO = Softović
+| srp_N_FULL_NAME_ND_RO = Softovic
+| srp_N_SORT_NAME_RG = SOFTOVIC
+| srp_N_FULL_NAME_RG = Softović
+| srp_N_FULL_NAME_ND_RG = Softovic
+| srp_NS_name = Софтовић
+| srp_NS_FULL_NAME_RO = Софтовић
+| srp_NS_FULL_NAME_ND_RO = Софтовић
+| srp_NS_SORT_NAME_RG = СОФТОВИЋ
+| srp_NS_FULL_NAME_RG = Софтовић
+| srp_NS_FULL_NAME_ND_RG = Софтовић
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.202778
  | Lartësia            = 
 }}
-'''Softaj''' është një [[]] në [[Gjakovë]] të [[Kosovës]].
+'''Softaj''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

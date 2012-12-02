@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Pishtan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      PISHTAN
- | FULL_NAME_RO = Pishtan
- | FULL_NAME_ND_RO=Pishtan
- | SORT_NAME_RG=PISHTAN
- | FULL_NAME_RG=Pishtan
- | FULL_NAME_ND_RG=Pishtan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Pishtan
+| sqi_N_FULL_NAME_RO = Pishtan
+| sqi_N_FULL_NAME_ND_RO = Pishtan
+| sqi_N_SORT_NAME_RG = PISHTAN
+| sqi_N_FULL_NAME_RG = Pishtan
+| sqi_N_FULL_NAME_ND_RG = Pishtan
+| sqi_V_name = Bishtan
+| sqi_V_FULL_NAME_RO = Bishtan
+| sqi_V_FULL_NAME_ND_RO = Bishtan
+| sqi_V_SORT_NAME_RG = BISHTAN
+| sqi_V_FULL_NAME_RG = Bishtan
+| sqi_V_FULL_NAME_ND_RG = Bishtan
+| srp_N_name = Pištane
+| srp_N_FULL_NAME_RO = Pištane
+| srp_N_FULL_NAME_ND_RO = Pistane
+| srp_N_SORT_NAME_RG = PISTANE
+| srp_N_FULL_NAME_RG = Pištane
+| srp_N_FULL_NAME_ND_RG = Pistane
+| srp_NS_name = Пиштане
+| srp_NS_FULL_NAME_RO = Пиштане
+| srp_NS_FULL_NAME_ND_RO = Пиштане
+| srp_NS_SORT_NAME_RG = ПИШТАНЕ
+| srp_NS_FULL_NAME_RG = Пиштане
+| srp_NS_FULL_NAME_ND_RG = Пиштане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.420556
  | Lartësia            = 
 }}
-'''Pishtan''' është një [[]] në [[Pejë]] të [[Kosovës]].
+'''Pishtan''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

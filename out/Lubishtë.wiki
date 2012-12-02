@@ -1,22 +1,36 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lubishtë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LUBISHTE
- | FULL_NAME_RO = Lubishtë
- | FULL_NAME_ND_RO=Lubishte
- | SORT_NAME_RG=LUBISHTE
- | FULL_NAME_RG=Lubishtë
- | FULL_NAME_ND_RG=Lubishte
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lubishtë
+| sqi_N_FULL_NAME_RO = Lubishtë
+| sqi_N_FULL_NAME_ND_RO = Lubishte
+| sqi_N_SORT_NAME_RG = LUBISHTE
+| sqi_N_FULL_NAME_RG = Lubishtë
+| sqi_N_FULL_NAME_ND_RG = Lubishte
+| sqi_V_name = Lupishtë
+| sqi_V_FULL_NAME_RO = Lupishtë
+| sqi_V_FULL_NAME_ND_RO = Lupishte
+| sqi_V_SORT_NAME_RG = LUPISHTE
+| sqi_V_FULL_NAME_RG = Lupishtë
+| sqi_V_FULL_NAME_ND_RG = Lupishte
+| srp_N_name = Ljubište
+| srp_N_FULL_NAME_RO = Ljubište
+| srp_N_FULL_NAME_ND_RO = Ljubiste
+| srp_N_SORT_NAME_RG = LJUBISTE
+| srp_N_FULL_NAME_RG = Ljubište
+| srp_N_FULL_NAME_ND_RG = Ljubiste
+| srp_NS_name = Љубиште
+| srp_NS_FULL_NAME_RO = Љубиште
+| srp_NS_FULL_NAME_ND_RO = Љубиште
+| srp_NS_SORT_NAME_RG = ЉУБИШТЕ
+| srp_NS_FULL_NAME_RG = Љубиште
+| srp_NS_FULL_NAME_ND_RG = Љубиште
+| srp_V_name = Ljubišta
+| srp_V_FULL_NAME_RO = Ljubišta
+| srp_V_FULL_NAME_ND_RO = Ljubista
+| srp_V_SORT_NAME_RG = LJUBISTA
+| srp_V_FULL_NAME_RG = Ljubišta
+| srp_V_FULL_NAME_ND_RG = Ljubista
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +48,7 @@
  | Gjatësia            = 21.411667
  | Lartësia            = 
 }}
-'''Lubishtë''' është një [[]] në [[Viti]] të [[Kosovës]].
+'''Lubishtë''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

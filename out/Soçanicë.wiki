@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Soçanicë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SOCANICE
- | FULL_NAME_RO = Soçanicë
- | FULL_NAME_ND_RO=Socanice
- | SORT_NAME_RG=SOCANICE
- | FULL_NAME_RG=Soçanicë
- | FULL_NAME_ND_RG=Socanice
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Soçanicë
+| sqi_N_FULL_NAME_RO = Soçanicë
+| sqi_N_FULL_NAME_ND_RO = Socanice
+| sqi_N_SORT_NAME_RG = SOCANICE
+| sqi_N_FULL_NAME_RG = Soçanicë
+| sqi_N_FULL_NAME_ND_RG = Socanice
+| srp_N_name = Sočanica
+| srp_N_FULL_NAME_RO = Sočanica
+| srp_N_FULL_NAME_ND_RO = Socanica
+| srp_N_SORT_NAME_RG = SOCANICA
+| srp_N_FULL_NAME_RG = Sočanica
+| srp_N_FULL_NAME_ND_RG = Socanica
+| srp_NS_name = Сочаница
+| srp_NS_FULL_NAME_RO = Сочаница
+| srp_NS_FULL_NAME_ND_RO = Сочаница
+| srp_NS_SORT_NAME_RG = СОЧАНИЦА
+| srp_NS_FULL_NAME_RG = Сочаница
+| srp_NS_FULL_NAME_ND_RG = Сочаница
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.81
  | Lartësia            = 
 }}
-'''Soçanicë''' është një [[]] në [[Lipjan]] të [[Kosovës]].
+'''Soçanicë''' është një [[Fshat Vogel]] në [[Lipjan]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

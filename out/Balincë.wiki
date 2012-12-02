@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Balincë
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BALINCE
- | FULL_NAME_RO = Balincë
- | FULL_NAME_ND_RO=Balince
- | SORT_NAME_RG=BALINCE
- | FULL_NAME_RG=Balincë
- | FULL_NAME_ND_RG=Balince
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Balincë
+| sqi_N_FULL_NAME_RO = Balincë
+| sqi_N_FULL_NAME_ND_RO = Balince
+| sqi_N_SORT_NAME_RG = BALINCE
+| sqi_N_FULL_NAME_RG = Balincë
+| sqi_N_FULL_NAME_ND_RG = Balince
+| srp_N_name = Balince
+| srp_N_FULL_NAME_RO = Balince
+| srp_N_FULL_NAME_ND_RO = Balince
+| srp_N_SORT_NAME_RG = BALINCE
+| srp_N_FULL_NAME_RG = Balince
+| srp_N_FULL_NAME_ND_RG = Balince
+| srp_NS_name = Балинце
+| srp_NS_FULL_NAME_RO = Балинце
+| srp_NS_FULL_NAME_ND_RO = Балинце
+| srp_NS_SORT_NAME_RG = БАЛИНЦЕ
+| srp_NS_FULL_NAME_RG = Балинце
+| srp_NS_FULL_NAME_ND_RG = Балинце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 20.889722
  | Lartësia            = 
 }}
-'''Balincë''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+'''Balincë''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

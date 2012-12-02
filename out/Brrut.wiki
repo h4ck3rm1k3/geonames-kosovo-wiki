@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Brrut
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      BRRUT
- | FULL_NAME_RO = Brrut
- | FULL_NAME_ND_RO=Brrut
- | SORT_NAME_RG=BRRUT
- | FULL_NAME_RG=Brrut
- | FULL_NAME_ND_RG=Brrut
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Brrut
+| sqi_D_FULL_NAME_RO = Brrut
+| sqi_D_FULL_NAME_ND_RO = Brrut
+| sqi_D_SORT_NAME_RG = BRRUT
+| sqi_D_FULL_NAME_RG = Brrut
+| sqi_D_FULL_NAME_ND_RG = Brrut
+| sqi_V_name = Brut
+| sqi_V_FULL_NAME_RO = Brut
+| sqi_V_FULL_NAME_ND_RO = Brut
+| sqi_V_SORT_NAME_RG = BRUT
+| sqi_V_FULL_NAME_RG = Brut
+| sqi_V_FULL_NAME_ND_RG = Brut
+| srp_N_name = Brut
+| srp_N_FULL_NAME_RO = Brut
+| srp_N_FULL_NAME_ND_RO = Brut
+| srp_N_SORT_NAME_RG = BRUT
+| srp_N_FULL_NAME_RG = Brut
+| srp_N_FULL_NAME_ND_RG = Brut
+| srp_NS_name = Брут
+| srp_NS_FULL_NAME_RO = Брут
+| srp_NS_FULL_NAME_ND_RO = Брут
+| srp_NS_SORT_NAME_RG = БРУТ
+| srp_NS_FULL_NAME_RG = Брут
+| srp_NS_FULL_NAME_ND_RG = Брут
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.700278
  | Lartësia            = 
 }}
-'''Brrut''' është një [[]] në [[Dragash]] të [[Kosovës]].
+'''Brrut''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

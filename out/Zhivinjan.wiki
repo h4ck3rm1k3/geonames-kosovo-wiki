@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Zhivinjan
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      ZHIVINJAN
- | FULL_NAME_RO = Zhivinjan
- | FULL_NAME_ND_RO=Zhivinjan
- | SORT_NAME_RG=ZHIVINJAN
- | FULL_NAME_RG=Zhivinjan
- | FULL_NAME_ND_RG=Zhivinjan
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Zhivinjan
+| sqi_N_FULL_NAME_RO = Zhivinjan
+| sqi_N_FULL_NAME_ND_RO = Zhivinjan
+| sqi_N_SORT_NAME_RG = ZHIVINJAN
+| sqi_N_FULL_NAME_RG = Zhivinjan
+| sqi_N_FULL_NAME_ND_RG = Zhivinjan
+| sqi_V_name = Zhivinjane
+| sqi_V_FULL_NAME_RO = Zhivinjane Shivinjan
+| sqi_V_FULL_NAME_ND_RO = Zhivinjane Shivinjan
+| sqi_V_SORT_NAME_RG = ZHIVINJANE SHIVINJAN
+| sqi_V_FULL_NAME_RG = Zhivinjane Shivinjan
+| sqi_V_FULL_NAME_ND_RG = Zhivinjane Shivinjan
+| srp_N_name = Živinjane
+| srp_N_FULL_NAME_RO = Živinjane
+| srp_N_FULL_NAME_ND_RO = Zivinjane
+| srp_N_SORT_NAME_RG = ZIVINJANE
+| srp_N_FULL_NAME_RG = Živinjane
+| srp_N_FULL_NAME_ND_RG = Zivinjane
+| srp_NS_name = Живињане
+| srp_NS_FULL_NAME_RO = Живињане
+| srp_NS_FULL_NAME_ND_RO = Живињане
+| srp_NS_SORT_NAME_RG = ЖИВИЊАНЕ
+| srp_NS_FULL_NAME_RG = Живињане
+| srp_NS_FULL_NAME_ND_RG = Живињане
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.822778
  | Lartësia            = 
 }}
-'''Zhivinjan''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Zhivinjan''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

@@ -1,26 +1,28 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Kabash
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      KABASH
- | FULL_NAME_RO = Kabash
- | FULL_NAME_ND_RO=Kabash
- | SORT_NAME_RG=KABASH
- | FULL_NAME_RG=Kabash
- | FULL_NAME_ND_RG=Kabash
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Kabash
+| sqi_N_FULL_NAME_RO = Kabash
+| sqi_N_FULL_NAME_ND_RO = Kabash
+| sqi_N_SORT_NAME_RG = KABASH
+| sqi_N_FULL_NAME_RG = Kabash
+| sqi_N_FULL_NAME_ND_RG = Kabash
+| srp_N_name = Kabaš
+| srp_N_FULL_NAME_RO = Kabaš
+| srp_N_FULL_NAME_ND_RO = Kabas
+| srp_N_SORT_NAME_RG = KABAS
+| srp_N_FULL_NAME_RG = Kabaš
+| srp_N_FULL_NAME_ND_RG = Kabas
+| srp_NS_name = Кабаш
+| srp_NS_FULL_NAME_RO = Кабаш
+| srp_NS_FULL_NAME_ND_RO = Кабаш
+| srp_NS_SORT_NAME_RG = КАБАШ
+| srp_NS_FULL_NAME_RG = Кабаш
+| srp_NS_FULL_NAME_ND_RG = Кабаш
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
- | Komuna              = Prizren
+ | Komuna              = Viti
  | Kodi postar         = 
  | Sipërfaqja          = 
 
@@ -30,19 +32,19 @@
  | Dend. e popullsisë  = 
  | Faqja zyrtare       = 
  <!--- Koordinatat ----> 
- | Gjerësia            = 42.271667
- | Gjatësia            = 20.554167
+ | Gjerësia            = 42.306944
+ | Gjatësia            = 21.356667
  | Lartësia            = 
 }}
-'''Kabash''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Kabash''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
 <!-- == Demografia == -->
 == Shih edhe ==
-{{Komuna Prizren}}
+{{Komuna Viti}}
 {{Kosovo-Administrata-Cung}}
 
 [[Kategoria:Fshatra në Kosovës]]
-[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Fshatra në Kommunes Viti]]
 [[Kategoria:Vendbanime në Kosovës]]

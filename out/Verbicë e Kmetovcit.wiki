@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Verbicë e Kmetovcit
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VERBICEEKMETOVCIT
- | FULL_NAME_RO = Verbicë e Kmetovcit
- | FULL_NAME_ND_RO=Verbice e Kmetovcit
- | SORT_NAME_RG=VERBICEEKMETOVCIT
- | FULL_NAME_RG=Verbicë e Kmetovcit
- | FULL_NAME_ND_RG=Verbice e Kmetovcit
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Verbicë e Kmetovcit
+| sqi_D_FULL_NAME_RO = Verbicë e Kmetovcit
+| sqi_D_FULL_NAME_ND_RO = Verbice e Kmetovcit
+| sqi_D_SORT_NAME_RG = VERBICEEKMETOVCIT
+| sqi_D_FULL_NAME_RG = Verbicë e Kmetovcit
+| sqi_D_FULL_NAME_ND_RG = Verbice e Kmetovcit
+| sqi_V_name = Vërbicë e Kmetofcit
+| sqi_V_FULL_NAME_RO = Vërbicë e Kmetofcit Urbishte-a Verbica e Kmetofcit Vërbicë Verbicë Vërbicë e Kmetovcit
+| sqi_V_FULL_NAME_ND_RO = Verbice e Kmetofcit Urbishte-a Verbica e Kmetofcit Verbice Verbice Verbice e Kmetovcit
+| sqi_V_SORT_NAME_RG = VERBICEEKMETOFCIT URBISHTEA VERBICAEKMETOFCIT VERBICE VERBICE VERBICEEKMETOVCIT
+| sqi_V_FULL_NAME_RG = Vërbicë e Kmetofcit Urbishte-a Verbica e Kmetofcit Vërbicë Verbicë Vërbicë e Kmetovcit
+| sqi_V_FULL_NAME_ND_RG = Verbice e Kmetofcit Urbishte-a Verbica e Kmetofcit Verbice Verbice Verbice e Kmetovcit
+| srp_N_name = Vrbica
+| srp_N_FULL_NAME_RO = Vrbica
+| srp_N_FULL_NAME_ND_RO = Vrbica
+| srp_N_SORT_NAME_RG = VRBICA
+| srp_N_FULL_NAME_RG = Vrbica
+| srp_N_FULL_NAME_ND_RG = Vrbica
+| srp_NS_name = Врбица
+| srp_NS_FULL_NAME_RO = Врбица
+| srp_NS_FULL_NAME_ND_RO = Врбица
+| srp_NS_SORT_NAME_RG = ВРБИЦА
+| srp_NS_FULL_NAME_RG = Врбица
+| srp_NS_FULL_NAME_ND_RG = Врбица
+| srp_V_name = Kmetovačka Vrbica
+| srp_V_FULL_NAME_RO = Kmetovačka Vrbica
+| srp_V_FULL_NAME_ND_RO = Kmetovacka Vrbica
+| srp_V_SORT_NAME_RG = KMETOVACKAVRBICA
+| srp_V_FULL_NAME_RG = Kmetovačka Vrbica
+| srp_V_FULL_NAME_ND_RG = Kmetovacka Vrbica
+| srp_VS_name = Кметовачка Врбица
+| srp_VS_FULL_NAME_RO = Кметовачка Врбица
+| srp_VS_FULL_NAME_ND_RO = Кметовачка Врбица
+| srp_VS_SORT_NAME_RG = КМЕТОВАЧКАВРБИЦА
+| srp_VS_FULL_NAME_RG = Кметовачка Врбица
+| srp_VS_FULL_NAME_ND_RG = Кметовачка Врбица
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 21.525278
  | Lartësia            = 
 }}
-'''Verbicë e Kmetovcit''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Verbicë e Kmetovcit''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

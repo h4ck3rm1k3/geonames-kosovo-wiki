@@ -1,22 +1,42 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vojmisliq
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VOJMISLIQ
- | FULL_NAME_RO = Vojmisliq
- | FULL_NAME_ND_RO=Vojmisliq
- | SORT_NAME_RG=VOJMISLIQ
- | FULL_NAME_RG=Vojmisliq
- | FULL_NAME_ND_RG=Vojmisliq
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Vojmisliq
+| sqi_N_FULL_NAME_RO = Vojmisliq
+| sqi_N_FULL_NAME_ND_RO = Vojmisliq
+| sqi_N_SORT_NAME_RG = VOJMISLIQ
+| sqi_N_FULL_NAME_RG = Vojmisliq
+| sqi_N_FULL_NAME_ND_RG = Vojmisliq
+| sqi_V_name = Vojmislliq
+| sqi_V_FULL_NAME_RO = Vojmislliq
+| sqi_V_FULL_NAME_ND_RO = Vojmislliq
+| sqi_V_SORT_NAME_RG = VOJMISLLIQ
+| sqi_V_FULL_NAME_RG = Vojmislliq
+| sqi_V_FULL_NAME_ND_RG = Vojmislliq
+| srp_N_name = Vojmisliće
+| srp_N_FULL_NAME_RO = Vojmisliće
+| srp_N_FULL_NAME_ND_RO = Vojmislice
+| srp_N_SORT_NAME_RG = VOJMISLICE
+| srp_N_FULL_NAME_RG = Vojmisliće
+| srp_N_FULL_NAME_ND_RG = Vojmislice
+| srp_NS_name = Војмислиће
+| srp_NS_FULL_NAME_RO = Војмислиће
+| srp_NS_FULL_NAME_ND_RO = Војмислиће
+| srp_NS_SORT_NAME_RG = ВОЈМИСЛИЋЕ
+| srp_NS_FULL_NAME_RG = Војмислиће
+| srp_NS_FULL_NAME_ND_RG = Војмислиће
+| srp_V_name = Vojimisliće
+| srp_V_FULL_NAME_RO = Vojimisliće
+| srp_V_FULL_NAME_ND_RO = Vojimislice
+| srp_V_SORT_NAME_RG = VOJIMISLICE
+| srp_V_FULL_NAME_RG = Vojimisliće
+| srp_V_FULL_NAME_ND_RG = Vojimislice
+| srp_VS_name = Војимислиће
+| srp_VS_FULL_NAME_RO = Војимислиће
+| srp_VS_FULL_NAME_ND_RO = Војимислиће
+| srp_VS_SORT_NAME_RG = ВОЈИМИСЛИЋЕ
+| srp_VS_FULL_NAME_RG = Војимислиће
+| srp_VS_FULL_NAME_ND_RG = Војимислиће
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +54,7 @@
  | Gjatësia            = 20.708056
  | Lartësia            = 
 }}
-'''Vojmisliq''' është një [[]] në [[Zubin Potok]] të [[Kosovës]].
+'''Vojmisliq''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

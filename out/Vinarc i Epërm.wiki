@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Vinarc i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      VINARCIEPERM
- | FULL_NAME_RO = Vinarc i Epërm
- | FULL_NAME_ND_RO=Vinarc i Eperm
- | SORT_NAME_RG=VINARCIEPERM
- | FULL_NAME_RG=Vinarc i Epërm
- | FULL_NAME_ND_RG=Vinarc i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Vinarc i Epërm
+| sqi_D_FULL_NAME_RO = Vinarc i Epërm
+| sqi_D_FULL_NAME_ND_RO = Vinarc i Eperm
+| sqi_D_SORT_NAME_RG = VINARCIEPERM
+| sqi_D_FULL_NAME_RG = Vinarc i Epërm
+| sqi_D_FULL_NAME_ND_RG = Vinarc i Eperm
+| sqi_V_name = Vinarci Sipërm
+| sqi_V_FULL_NAME_RO = Vinarci Sipërm Vinarci i Ultë
+| sqi_V_FULL_NAME_ND_RO = Vinarci Siperm Vinarci i Ulte
+| sqi_V_SORT_NAME_RG = VINARCISIPERM VINARCIIULTE
+| sqi_V_FULL_NAME_RG = Vinarci Sipërm Vinarci i Ultë
+| sqi_V_FULL_NAME_ND_RG = Vinarci Siperm Vinarci i Ulte
+| srp_N_name = Gornje Vinarce
+| srp_N_FULL_NAME_RO = Gornje Vinarce
+| srp_N_FULL_NAME_ND_RO = Gornje Vinarce
+| srp_N_SORT_NAME_RG = GORNJEVINARCE
+| srp_N_FULL_NAME_RG = Gornje Vinarce
+| srp_N_FULL_NAME_ND_RG = Gornje Vinarce
+| srp_NS_name = Горње Винарце
+| srp_NS_FULL_NAME_RO = Горње Винарце
+| srp_NS_FULL_NAME_ND_RO = Горње Винарце
+| srp_NS_SORT_NAME_RG = ГОРЊЕВИНАРЦЕ
+| srp_NS_FULL_NAME_RG = Горње Винарце
+| srp_NS_FULL_NAME_ND_RG = Горње Винарце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.798889
  | Lartësia            = 
 }}
-'''Vinarc i Epërm''' është një [[]] në [[Novobërdë]] të [[Kosovës]].
+'''Vinarc i Epërm''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

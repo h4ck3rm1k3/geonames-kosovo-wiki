@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Sllakovc i Epërm
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      SLLAKOVCIEPERM
- | FULL_NAME_RO = Sllakovc i Epërm
- | FULL_NAME_ND_RO=Sllakovc i Eperm
- | SORT_NAME_RG=SLLAKOVCIEPERM
- | FULL_NAME_RG=Sllakovc i Epërm
- | FULL_NAME_ND_RG=Sllakovc i Eperm
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_D_name = Sllakovc i Epërm
+| sqi_D_FULL_NAME_RO = Sllakovc i Epërm
+| sqi_D_FULL_NAME_ND_RO = Sllakovc i Eperm
+| sqi_D_SORT_NAME_RG = SLLAKOVCIEPERM
+| sqi_D_FULL_NAME_RG = Sllakovc i Epërm
+| sqi_D_FULL_NAME_ND_RG = Sllakovc i Eperm
+| sqi_V_name = Sllakoci i Epërm
+| sqi_V_FULL_NAME_RO = Sllakoci i Epërm Sllakovi i Epërm Sllakovë i Epërm Sllakov i Epërm Sllakofc i Epërm Sllakoc i Epërm
+| sqi_V_FULL_NAME_ND_RO = Sllakoci i Eperm Sllakovi i Eperm Sllakove i Eperm Sllakov i Eperm Sllakofc i Eperm Sllakoc i Eperm
+| sqi_V_SORT_NAME_RG = SLLAKOCIIEPERM SLLAKOVIIEPERM SLLAKOVEIEPERM SLLAKOVIEPERM SLLAKOFCIEPERM SLLAKOCIEPERM
+| sqi_V_FULL_NAME_RG = Sllakoci i Epërm Sllakovi i Epërm Sllakovë i Epërm Sllakov i Epërm Sllakofc i Epërm Sllakoc i Epërm
+| sqi_V_FULL_NAME_ND_RG = Sllakoci i Eperm Sllakovi i Eperm Sllakove i Eperm Sllakov i Eperm Sllakofc i Eperm Sllakoc i Eperm
+| srp_N_name = Gornje Slakovce
+| srp_N_FULL_NAME_RO = Gornje Slakovce
+| srp_N_FULL_NAME_ND_RO = Gornje Slakovce
+| srp_N_SORT_NAME_RG = GORNJESLAKOVCE
+| srp_N_FULL_NAME_RG = Gornje Slakovce
+| srp_N_FULL_NAME_ND_RG = Gornje Slakovce
+| srp_NS_name = Горње Слаковце
+| srp_NS_FULL_NAME_RO = Горње Слаковце
+| srp_NS_FULL_NAME_ND_RO = Горње Слаковце
+| srp_NS_SORT_NAME_RG = ГОРЊЕСЛАКОВЦЕ
+| srp_NS_FULL_NAME_RG = Горње Слаковце
+| srp_NS_FULL_NAME_ND_RG = Горње Слаковце
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 21.328333
  | Lartësia            = 
 }}
-'''Sllakovc i Epërm''' është një [[]] në [[Istog]] të [[Kosovës]].
+'''Sllakovc i Epërm''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

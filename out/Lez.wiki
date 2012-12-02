@@ -1,22 +1,30 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Lez
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      LEZ
- | FULL_NAME_RO = Lez
- | FULL_NAME_ND_RO=Lez
- | SORT_NAME_RG=LEZ
- | FULL_NAME_RG=Lez
- | FULL_NAME_ND_RG=Lez
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Lez
+| sqi_N_FULL_NAME_RO = Lez
+| sqi_N_FULL_NAME_ND_RO = Lez
+| sqi_N_SORT_NAME_RG = LEZ
+| sqi_N_FULL_NAME_RG = Lez
+| sqi_N_FULL_NAME_ND_RG = Lez
+| srp_N_name = Les
+| srp_N_FULL_NAME_RO = Les
+| srp_N_FULL_NAME_ND_RO = Les
+| srp_N_SORT_NAME_RG = LES
+| srp_N_FULL_NAME_RG = Les
+| srp_N_FULL_NAME_ND_RG = Les
+| srp_NS_name = Лес
+| srp_NS_FULL_NAME_RO = Лес
+| srp_NS_FULL_NAME_ND_RO = Лес
+| srp_NS_SORT_NAME_RG = ЛЕС
+| srp_NS_FULL_NAME_RG = Лес
+| srp_NS_FULL_NAME_ND_RG = Лес
+| srp_VS_name = Лез
+| srp_VS_FULL_NAME_RO = Лез
+| srp_VS_FULL_NAME_ND_RO = Лез
+| srp_VS_SORT_NAME_RG = ЛЕЗ
+| srp_VS_FULL_NAME_RG = Лез
+| srp_VS_FULL_NAME_ND_RG = Лез
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +42,7 @@
  | Gjatësia            = 20.753611
  | Lartësia            = 
 }}
-'''Lez''' është një [[]] në [[Prizren]] të [[Kosovës]].
+'''Lez''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->

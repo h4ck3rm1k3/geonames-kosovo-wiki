@@ -1,22 +1,24 @@
-{{Fshat në 
+{{Fshat në Kosovës
  | Emri                = Mramor
- | EmriAlt                = 
- | NAME_SHORT_FORM=      
- | NAME_GENERIC=      
- | NAME_SORT_NAME_RO=      MRAMOR
- | FULL_NAME_RO = Mramor
- | FULL_NAME_ND_RO=Mramor
- | SORT_NAME_RG=MRAMOR
- | FULL_NAME_RG=Mramor
- | FULL_NAME_ND_RG=Mramor
- | SRP_NAME_SHORT_FORM=      
- | SRP_NAME_GENERIC=      
- | SRP_NAME_SORT_NAME_RO=      
- | SRP_FULL_NAME_RO = 
- | SRP_FULL_NAME_ND_RO=
- | SRP_SORT_NAME_RG=
- | SRP_FULL_NAME_RG=
- | SRP_FULL_NAME_ND_RG=
+| sqi_N_name = Mramor
+| sqi_N_FULL_NAME_RO = Mramor
+| sqi_N_FULL_NAME_ND_RO = Mramor
+| sqi_N_SORT_NAME_RG = MRAMOR
+| sqi_N_FULL_NAME_RG = Mramor
+| sqi_N_FULL_NAME_ND_RG = Mramor
+| srp_N_name = Mramor
+| srp_N_FULL_NAME_RO = Mramor
+| srp_N_FULL_NAME_ND_RO = Mramor
+| srp_N_SORT_NAME_RG = MRAMOR
+| srp_N_FULL_NAME_RG = Mramor
+| srp_N_FULL_NAME_ND_RG = Mramor
+| srp_NS_name = Мрамор
+| srp_NS_FULL_NAME_RO = Мрамор
+| srp_NS_FULL_NAME_ND_RO = Мрамор
+| srp_NS_SORT_NAME_RG = МРАМОР
+| srp_NS_FULL_NAME_RG = Мрамор
+| srp_NS_FULL_NAME_ND_RG = Мрамор
+
  | Emri (Rasa dhanore) = 
  | Figura              = 
  | Shteti              = Kosovo
@@ -34,7 +36,7 @@
  | Gjatësia            = 21.3
  | Lartësia            = 
 }}
-'''Mramor''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+'''Mramor''' është një [[Fshat Vogel]] në [[Prishtinë]] të [[Kosovës]].
 
 <!-- == Gjeografia == -->
 <!-- == Historia == -->
