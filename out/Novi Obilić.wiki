@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Novi Obilić
+| srp_N_name = Novi Obilić
+| srp_N_FULL_NAME_RO = Novi Obilić
+| srp_N_FULL_NAME_ND_RO = Novi Obilic
+| srp_N_SORT_NAME_RG = NOVIOBILIC
+| srp_N_FULL_NAME_RG = Novi Obilić
+| srp_N_FULL_NAME_ND_RG = Novi Obilic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Rahovec
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.677915
+ | Gjatësia            = 21.100651
+ | Lartësia            = 
+}}
+'''Novi Obilić''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Rahovec}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Rahovec]]
+[[Kategoria:Vendbanime në Kosovës]]

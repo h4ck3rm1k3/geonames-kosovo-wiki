@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Suljić Mahala
+| srp_N_name = Suljić Mahala
+| srp_N_FULL_NAME_RO = Suljić Mahala
+| srp_N_FULL_NAME_ND_RO = Suljic Mahala
+| srp_N_SORT_NAME_RG = SULJICMAHALA
+| srp_N_FULL_NAME_RG = Suljić Mahala
+| srp_N_FULL_NAME_ND_RG = Suljic Mahala
+| std_V_name = Honrovci
+| std_V_FULL_NAME_RO = Honrovci
+| std_V_FULL_NAME_ND_RO = Honrovci
+| std_V_SORT_NAME_RG = HONROVCI
+| std_V_FULL_NAME_RG = Honrovci
+| std_V_FULL_NAME_ND_RG = Honrovci
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prishtinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.641389
+ | Gjatësia            = 21.3225
+ | Lartësia            = 
+}}
+'''Suljić Mahala''' është një [[Fshat]] në [[Prishtinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prishtinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prishtinë]]
+[[Kategoria:Vendbanime në Kosovës]]

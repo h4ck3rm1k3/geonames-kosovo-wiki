@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Gavaz
+| srp_N_name = Gavaz
+| srp_N_FULL_NAME_RO = Gavaz
+| srp_N_FULL_NAME_ND_RO = Gavaz
+| srp_N_SORT_NAME_RG = GAVAZ
+| srp_N_FULL_NAME_RG = Gavaz
+| srp_N_FULL_NAME_ND_RG = Gavaz
+| srp_NS_name = Гаваз
+| srp_NS_FULL_NAME_RO = Гаваз
+| srp_NS_FULL_NAME_ND_RO = Гаваз
+| srp_NS_SORT_NAME_RG = ГАВАЗ
+| srp_NS_FULL_NAME_RG = Гаваз
+| srp_NS_FULL_NAME_ND_RG = Гаваз
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.457778
+ | Gjatësia            = 20.862222
+ | Lartësia            = 
+}}
+'''Gavaz''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

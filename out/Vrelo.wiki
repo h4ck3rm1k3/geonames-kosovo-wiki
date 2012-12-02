@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Vrelo
+| srp_N_name = Vrelo
+| srp_N_FULL_NAME_RO = Vrelo
+| srp_N_FULL_NAME_ND_RO = Vrelo
+| srp_N_SORT_NAME_RG = VRELO
+| srp_N_FULL_NAME_RG = Vrelo
+| srp_N_FULL_NAME_ND_RG = Vrelo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prizren
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.267222
+ | Gjatësia            = 20.800556
+ | Lartësia            = 
+}}
+'''Vrelo''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prizren}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Mark Mahala
+| srp_N_name = Mark Mahala
+| srp_N_FULL_NAME_RO = Mark Mahala
+| srp_N_FULL_NAME_ND_RO = Mark Mahala
+| srp_N_SORT_NAME_RG = MARKMAHALA
+| srp_N_FULL_NAME_RG = Mark Mahala
+| srp_N_FULL_NAME_ND_RG = Mark Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtërpcë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.256389
+ | Gjatësia            = 21.111389
+ | Lartësia            = 
+}}
+'''Mark Mahala''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtërpcë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtërpcë]]
+[[Kategoria:Vendbanime në Kosovës]]

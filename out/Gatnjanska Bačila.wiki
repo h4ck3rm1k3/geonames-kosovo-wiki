@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Gatnjanska Bačila
+| srp_N_name = Gatnjanska Bačila
+| srp_N_FULL_NAME_RO = Gatnjanska Bačila
+| srp_N_FULL_NAME_ND_RO = Gatnjanska Bacila
+| srp_N_SORT_NAME_RG = GATNJANSKABACILA
+| srp_N_FULL_NAME_RG = Gatnjanska Bačila
+| srp_N_FULL_NAME_ND_RG = Gatnjanska Bacila
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.307778
+ | Gjatësia            = 21.088611
+ | Lartësia            = 
+}}
+'''Gatnjanska Bačila''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

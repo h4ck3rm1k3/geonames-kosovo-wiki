@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kovač Mahala
+| srp_N_name = Kovač Mahala
+| srp_N_FULL_NAME_RO = Kovač Mahala
+| srp_N_FULL_NAME_ND_RO = Kovac Mahala
+| srp_N_SORT_NAME_RG = KOVACMAHALA
+| srp_N_FULL_NAME_RG = Kovač Mahala
+| srp_N_FULL_NAME_ND_RG = Kovac Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.266111
+ | Gjatësia            = 21.189722
+ | Lartësia            = 
+}}
+'''Kovač Mahala''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Leštar
+| sqi_V_name = Leshtar
+| sqi_V_FULL_NAME_RO = Leshtar Leshtari
+| sqi_V_FULL_NAME_ND_RO = Leshtar Leshtari
+| sqi_V_SORT_NAME_RG = LESHTAR LESHTARI
+| sqi_V_FULL_NAME_RG = Leshtar Leshtari
+| sqi_V_FULL_NAME_ND_RG = Leshtar Leshtari
+| srp_N_name = Leštar
+| srp_N_FULL_NAME_RO = Leštar
+| srp_N_FULL_NAME_ND_RO = Lestar
+| srp_N_SORT_NAME_RG = LESTAR
+| srp_N_FULL_NAME_RG = Leštar
+| srp_N_FULL_NAME_ND_RG = Lestar
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.645833
+ | Gjatësia            = 21.486667
+ | Lartësia            = 
+}}
+'''Leštar''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

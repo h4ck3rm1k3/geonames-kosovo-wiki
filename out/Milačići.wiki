@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Milačići
+| srp_N_name = Milačići
+| srp_N_FULL_NAME_RO = Milačići
+| srp_N_FULL_NAME_ND_RO = Milacici
+| srp_N_SORT_NAME_RG = MILACICI
+| srp_N_FULL_NAME_RG = Milačići
+| srp_N_FULL_NAME_ND_RG = Milacici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prizren
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.166111
+ | Gjatësia            = 20.859444
+ | Lartësia            = 
+}}
+'''Milačići''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prizren}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Vendbanime në Kosovës]]

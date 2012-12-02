@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Kodra Gutit
+| sqi_V_name = Kodrahutit
+| sqi_V_FULL_NAME_RO = Kodrahutit
+| sqi_V_FULL_NAME_ND_RO = Kodrahutit
+| sqi_V_SORT_NAME_RG = KODRAHUTIT
+| sqi_V_FULL_NAME_RG = Kodrahutit
+| sqi_V_FULL_NAME_ND_RG = Kodrahutit
+| srp_N_name = Kodra Gutit
+| srp_N_FULL_NAME_RO = Kodra Gutit
+| srp_N_FULL_NAME_ND_RO = Kodra Gutit
+| srp_N_SORT_NAME_RG = KODRAGUTIT
+| srp_N_FULL_NAME_RG = Kodra Gutit
+| srp_N_FULL_NAME_ND_RG = Kodra Gutit
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.407222
+ | Gjatësia            = 20.338333
+ | Lartësia            = 
+}}
+'''Kodra Gutit''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

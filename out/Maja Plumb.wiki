@@ -1,0 +1,38 @@
+{{Fshat në Albania
+ | Emri                = Maja Plumb
+| std_N_name = Maja Plumb
+| std_N_FULL_NAME_RO = Maja Plumb
+| std_N_FULL_NAME_ND_RO = Maja Plumb
+| std_N_SORT_NAME_RG = PLUMB MAJA
+| std_N_FULL_NAME_RG = Plumb, Maja
+| std_N_FULL_NAME_ND_RG = Plumb, Maja
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Albania
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.347778
+ | Gjatësia            = 20.236111
+ | Lartësia            = 
+}}
+'''Maja Plumb''' është një [[]] në [[]] të [[Albania]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Albania]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Albania]]

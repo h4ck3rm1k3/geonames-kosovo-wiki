@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Čpilje
+| srp_N_name = Čpilje
+| srp_N_FULL_NAME_RO = Čpilje
+| srp_N_FULL_NAME_ND_RO = Cpilje
+| srp_N_SORT_NAME_RG = CPILJE
+| srp_N_FULL_NAME_RG = Čpilje
+| srp_N_FULL_NAME_ND_RG = Cpilje
+| srp_NS_name = Чпиље
+| srp_NS_FULL_NAME_RO = Чпиље
+| srp_NS_FULL_NAME_ND_RO = Чпиље
+| srp_NS_SORT_NAME_RG = Чпиље
+| srp_NS_FULL_NAME_RG = Чпиље
+| srp_NS_FULL_NAME_ND_RG = Чпиље
+| srp_V_name = Špilje
+| srp_V_FULL_NAME_RO = Špilje
+| srp_V_FULL_NAME_ND_RO = Spilje
+| srp_V_SORT_NAME_RG = SPILJE
+| srp_V_FULL_NAME_RG = Špilje
+| srp_V_FULL_NAME_ND_RG = Spilje
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zubin Potok
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.9575
+ | Gjatësia            = 20.577222
+ | Lartësia            = 
+}}
+'''Čpilje''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zubin Potok}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zubin Potok]]
+[[Kategoria:Vendbanime në Kosovës]]

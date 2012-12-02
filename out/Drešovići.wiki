@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Drešovići
+| srp_N_name = Drešovići
+| srp_N_FULL_NAME_RO = Drešovići
+| srp_N_FULL_NAME_ND_RO = Dresovici
+| srp_N_SORT_NAME_RG = DRESOVICI
+| srp_N_FULL_NAME_RG = Drešovići
+| srp_N_FULL_NAME_ND_RG = Dresovici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.733611
+ | Gjatësia            = 20.062222
+ | Lartësia            = 
+}}
+'''Drešovići''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

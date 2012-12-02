@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Hašan
+| srp_N_name = Hašan
+| srp_N_FULL_NAME_RO = Hašan
+| srp_N_FULL_NAME_ND_RO = Hasan
+| srp_N_SORT_NAME_RG = HASAN
+| srp_N_FULL_NAME_RG = Hašan
+| srp_N_FULL_NAME_ND_RG = Hasan
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.443056
+ | Gjatësia            = 21.519722
+ | Lartësia            = 
+}}
+'''Hašan''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Barska Reka
+| srp_N_name = Barska Reka
+| srp_N_FULL_NAME_RO = Barska Reka
+| srp_N_FULL_NAME_ND_RO = Barska Reka
+| srp_N_SORT_NAME_RG = BARSKAREKA
+| srp_N_FULL_NAME_RG = Barska Reka
+| srp_N_FULL_NAME_ND_RG = Barska Reka
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.891667
+ | Gjatësia            = 20.879444
+ | Lartësia            = 
+}}
+'''Barska Reka''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

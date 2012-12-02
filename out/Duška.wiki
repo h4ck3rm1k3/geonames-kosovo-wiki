@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Duška
+| srp_N_name = Duška
+| srp_N_FULL_NAME_RO = Duška
+| srp_N_FULL_NAME_ND_RO = Duska
+| srp_N_SORT_NAME_RG = DUSKA
+| srp_N_FULL_NAME_RG = Duška
+| srp_N_FULL_NAME_ND_RG = Duska
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Suharekë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.726389
+ | Gjatësia            = 20.878056
+ | Lartësia            = 
+}}
+'''Duška''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Suharekë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Suharekë]]
+[[Kategoria:Vendbanime në Kosovës]]

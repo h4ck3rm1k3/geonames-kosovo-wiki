@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Milenkovići
+| srp_N_name = Milenkovići
+| srp_N_FULL_NAME_RO = Milenkovići
+| srp_N_FULL_NAME_ND_RO = Milenkovici
+| srp_N_SORT_NAME_RG = MILENKOVICI
+| srp_N_FULL_NAME_RG = Milenkovići
+| srp_N_FULL_NAME_ND_RG = Milenkovici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.968863
+ | Gjatësia            = 21.135566
+ | Lartësia            = 
+}}
+'''Milenkovići''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Mahala-Gega
+| srp_N_name = Mahala-Gega
+| srp_N_FULL_NAME_RO = Mahala-Gega
+| srp_N_FULL_NAME_ND_RO = Mahala-Gega
+| srp_N_SORT_NAME_RG = MAHALAGEGA
+| srp_N_FULL_NAME_RG = Mahala-Gega
+| srp_N_FULL_NAME_ND_RG = Mahala-Gega
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjakovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.428611
+ | Gjatësia            = 21.236389
+ | Lartësia            = 
+}}
+'''Mahala-Gega''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjakovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjakovë]]
+[[Kategoria:Vendbanime në Kosovës]]

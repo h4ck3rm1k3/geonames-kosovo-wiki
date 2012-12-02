@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Brekinja
+| srp_N_name = Brekinja
+| srp_N_FULL_NAME_RO = Brekinja
+| srp_N_FULL_NAME_ND_RO = Brekinja
+| srp_N_SORT_NAME_RG = BREKINJA
+| srp_N_FULL_NAME_RG = Brekinja
+| srp_N_FULL_NAME_ND_RG = Brekinja
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.047222
+ | Gjatësia            = 20.731667
+ | Lartësia            = 
+}}
+'''Brekinja''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

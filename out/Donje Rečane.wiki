@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Donje Rečane
+| srp_N_name = Donje Rečane
+| srp_N_FULL_NAME_RO = Donje Rečane
+| srp_N_FULL_NAME_ND_RO = Donje Recane
+| srp_N_SORT_NAME_RG = DONJERECANE
+| srp_N_FULL_NAME_RG = Donje Rečane
+| srp_N_FULL_NAME_ND_RG = Donje Recane
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.604167
+ | Gjatësia            = 21.557222
+ | Lartësia            = 
+}}
+'''Donje Rečane''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

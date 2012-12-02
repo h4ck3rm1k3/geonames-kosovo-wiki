@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Vrujice
+| srp_N_name = Vrujice
+| srp_N_FULL_NAME_RO = Vrujice
+| srp_N_FULL_NAME_ND_RO = Vrujice
+| srp_N_SORT_NAME_RG = VRUJICE
+| srp_N_FULL_NAME_RG = Vrujice
+| srp_N_FULL_NAME_ND_RG = Vrujice
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.190278
+ | Gjatësia            = 20.762222
+ | Lartësia            = 
+}}
+'''Vrujice''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

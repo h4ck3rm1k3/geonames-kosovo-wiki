@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Dolina
+| srp_N_name = Dolina
+| srp_N_FULL_NAME_RO = Dolina
+| srp_N_FULL_NAME_ND_RO = Dolina
+| srp_N_SORT_NAME_RG = DOLINA
+| srp_N_FULL_NAME_RG = Dolina
+| srp_N_FULL_NAME_ND_RG = Dolina
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Obiliq
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.560549
+ | Gjatësia            = 21.400348
+ | Lartësia            = 
+}}
+'''Dolina''' është një [[Fshat]] në [[Obiliq]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Obiliq}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Obiliq]]
+[[Kategoria:Vendbanime në Kosovës]]

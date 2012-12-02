@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Manrec
+| srp_N_name = Manrec
+| srp_N_FULL_NAME_RO = Manrec
+| srp_N_FULL_NAME_ND_RO = Manrec
+| srp_N_SORT_NAME_RG = MANREC
+| srp_N_FULL_NAME_RG = Manrec
+| srp_N_FULL_NAME_ND_RG = Manrec
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prizren
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.246111
+ | Gjatësia            = 20.673056
+ | Lartësia            = 
+}}
+'''Manrec''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prizren}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Vendbanime në Kosovës]]

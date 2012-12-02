@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ornica
+| srp_N_name = Ornica
+| srp_N_FULL_NAME_RO = Ornica
+| srp_N_FULL_NAME_ND_RO = Ornica
+| srp_N_SORT_NAME_RG = ORNICA
+| srp_N_FULL_NAME_RG = Ornica
+| srp_N_FULL_NAME_ND_RG = Ornica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.189444
+ | Gjatësia            = 21.296944
+ | Lartësia            = 
+}}
+'''Ornica''' është një [[Fshat]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

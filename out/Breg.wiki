@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Breg
+| srp_N_name = Breg
+| srp_N_FULL_NAME_RO = Breg
+| srp_N_FULL_NAME_ND_RO = Breg
+| srp_N_SORT_NAME_RG = BREG
+| srp_N_FULL_NAME_RG = Breg
+| srp_N_FULL_NAME_ND_RG = Breg
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.618333
+ | Gjatësia            = 20.488056
+ | Lartësia            = 
+}}
+'''Breg''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Albanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Vendbanime në Kosovës]]

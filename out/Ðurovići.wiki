@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ðurovići
+| srp_N_name = Ðurovići
+| srp_N_FULL_NAME_RO = Ðurovići
+| srp_N_FULL_NAME_ND_RO = Durovici
+| srp_N_SORT_NAME_RG = DUROVICI
+| srp_N_FULL_NAME_RG = Ðurovići
+| srp_N_FULL_NAME_ND_RG = Durovici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zubin Potok
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.987222
+ | Gjatësia            = 20.694722
+ | Lartësia            = 
+}}
+'''Ðurovići''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zubin Potok}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zubin Potok]]
+[[Kategoria:Vendbanime në Kosovës]]

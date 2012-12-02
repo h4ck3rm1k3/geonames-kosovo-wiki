@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Oković
+| srp_N_name = Oković
+| srp_N_FULL_NAME_RO = Oković
+| srp_N_FULL_NAME_ND_RO = Okovic
+| srp_N_SORT_NAME_RG = OKOVIC
+| srp_N_FULL_NAME_RG = Oković
+| srp_N_FULL_NAME_ND_RG = Okovic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Suharekë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.695833
+ | Gjatësia            = 20.668889
+ | Lartësia            = 
+}}
+'''Oković''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Suharekë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Suharekë]]
+[[Kategoria:Vendbanime në Kosovës]]

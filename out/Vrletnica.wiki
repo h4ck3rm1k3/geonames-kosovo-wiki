@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Vrletnica
+| srp_N_name = Vrletnica
+| srp_N_FULL_NAME_RO = Vrletnica
+| srp_N_FULL_NAME_ND_RO = Vrletnica
+| srp_N_SORT_NAME_RG = VRLETNICA
+| srp_N_FULL_NAME_RG = Vrletnica
+| srp_N_FULL_NAME_ND_RG = Vrletnica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.074722
+ | Gjatësia            = 20.748889
+ | Lartësia            = 
+}}
+'''Vrletnica''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

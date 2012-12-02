@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Radovan
+| srp_N_name = Radovan
+| srp_N_FULL_NAME_RO = Radovan
+| srp_N_FULL_NAME_ND_RO = Radovan
+| srp_N_SORT_NAME_RG = RADOVAN
+| srp_N_FULL_NAME_RG = Radovan
+| srp_N_FULL_NAME_ND_RG = Radovan
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.983209
+ | Gjatësia            = 21.068262
+ | Lartësia            = 
+}}
+'''Radovan''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Bećelar
+| srp_N_name = Bećelar
+| srp_N_FULL_NAME_RO = Bećelar
+| srp_N_FULL_NAME_ND_RO = Becelar
+| srp_N_SORT_NAME_RG = BECELAR
+| srp_N_FULL_NAME_RG = Bećelar
+| srp_N_FULL_NAME_ND_RG = Becelar
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Viti
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.247222
+ | Gjatësia            = 21.379722
+ | Lartësia            = 
+}}
+'''Bećelar''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Viti}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Viti]]
+[[Kategoria:Vendbanime në Kosovës]]

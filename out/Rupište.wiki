@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Rupište
+| srp_N_name = Rupište
+| srp_N_FULL_NAME_RO = Rupište
+| srp_N_FULL_NAME_ND_RO = Rupiste
+| srp_N_SORT_NAME_RG = RUPISTE
+| srp_N_FULL_NAME_RG = Rupište
+| srp_N_FULL_NAME_ND_RG = Rupiste
+| srp_V_name = Mahala Rupište
+| srp_V_FULL_NAME_RO = Mahala Rupište
+| srp_V_FULL_NAME_ND_RO = Mahala Rupiste
+| srp_V_SORT_NAME_RG = MAHALARUPISTE
+| srp_V_FULL_NAME_RG = Mahala Rupište
+| srp_V_FULL_NAME_ND_RG = Mahala Rupiste
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.651111
+ | Gjatësia            = 21.588333
+ | Lartësia            = 
+}}
+'''Rupište''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

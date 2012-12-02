@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Obrija
+| srp_N_name = Obrija
+| srp_N_FULL_NAME_RO = Obrija
+| srp_N_FULL_NAME_ND_RO = Obrija
+| srp_N_SORT_NAME_RG = OBRIJA
+| srp_N_FULL_NAME_RG = Obrija
+| srp_N_FULL_NAME_ND_RG = Obrija
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kaçanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.564167
+ | Gjatësia            = 20.89
+ | Lartësia            = 
+}}
+'''Obrija''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kaçanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kaçanik]]
+[[Kategoria:Vendbanime në Kosovës]]

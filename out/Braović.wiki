@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Braović
+| srp_N_name = Braović
+| srp_N_FULL_NAME_RO = Braović
+| srp_N_FULL_NAME_ND_RO = Braovic
+| srp_N_SORT_NAME_RG = BRAOVIC
+| srp_N_FULL_NAME_RG = Braović
+| srp_N_FULL_NAME_ND_RG = Braovic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.426111
+ | Gjatësia            = 20.8075
+ | Lartësia            = 
+}}
+'''Braović''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

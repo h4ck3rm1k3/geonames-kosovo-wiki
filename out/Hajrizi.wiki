@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Hajrizi
+| srp_N_name = Hajrizi
+| srp_N_FULL_NAME_RO = Hajrizi
+| srp_N_FULL_NAME_ND_RO = Hajrizi
+| srp_N_SORT_NAME_RG = HAJRIZI
+| srp_N_FULL_NAME_RG = Hajrizi
+| srp_N_FULL_NAME_ND_RG = Hajrizi
+| srp_NS_name = Хајризи
+| srp_NS_FULL_NAME_RO = Хајризи
+| srp_NS_FULL_NAME_ND_RO = Хајризи
+| srp_NS_SORT_NAME_RG = ХАЈРИЗИ
+| srp_NS_FULL_NAME_RG = Хајризи
+| srp_NS_FULL_NAME_ND_RG = Хајризи
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.447222
+ | Gjatësia            = 20.854444
+ | Lartësia            = 
+}}
+'''Hajrizi''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

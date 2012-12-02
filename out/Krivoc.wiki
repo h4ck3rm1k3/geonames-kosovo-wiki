@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Krivoc
+| srp_N_name = Krivoc
+| srp_N_FULL_NAME_RO = Krivoc
+| srp_N_FULL_NAME_ND_RO = Krivoc
+| srp_N_SORT_NAME_RG = KRIVOC
+| srp_N_FULL_NAME_RG = Krivoc
+| srp_N_FULL_NAME_ND_RG = Krivoc
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.588333
+ | Gjatësia            = 20.6625
+ | Lartësia            = 
+}}
+'''Krivoc''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Albanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Krš Mahala
+| srp_N_name = Krš Mahala
+| srp_N_FULL_NAME_RO = Krš Mahala
+| srp_N_FULL_NAME_ND_RO = Krs Mahala
+| srp_N_SORT_NAME_RG = KRSMAHALA
+| srp_N_FULL_NAME_RG = Krš Mahala
+| srp_N_FULL_NAME_ND_RG = Krs Mahala
+| srp_V_name = Krš Mala
+| srp_V_FULL_NAME_RO = Krš Mala
+| srp_V_FULL_NAME_ND_RO = Krs Mala
+| srp_V_SORT_NAME_RG = KRSMALA
+| srp_V_FULL_NAME_RG = Krš Mala
+| srp_V_FULL_NAME_ND_RG = Krs Mala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.07
+ | Gjatësia            = 20.833056
+ | Lartësia            = 
+}}
+'''Krš Mahala''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

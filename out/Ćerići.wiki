@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Ćerići
+| srp_N_name = Ćerići
+| srp_N_FULL_NAME_RO = Ćerići
+| srp_N_FULL_NAME_ND_RO = Cerici
+| srp_N_SORT_NAME_RG = CERICI
+| srp_N_FULL_NAME_RG = Ćerići
+| srp_N_FULL_NAME_ND_RG = Cerici
+| srp_NS_name = Ћерићи
+| srp_NS_FULL_NAME_RO = Ћерићи
+| srp_NS_FULL_NAME_ND_RO = Ћерићи
+| srp_NS_SORT_NAME_RG = ЋЕРИЋИ
+| srp_NS_FULL_NAME_RG = Ћерићи
+| srp_NS_FULL_NAME_ND_RG = Ћерићи
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Malishevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.482222
+ | Gjatësia            = 20.934167
+ | Lartësia            = 
+}}
+'''Ćerići''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Malishevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Malishevë]]
+[[Kategoria:Vendbanime në Kosovës]]

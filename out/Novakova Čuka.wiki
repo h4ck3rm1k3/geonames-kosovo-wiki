@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Novakova Čuka
+| srp_N_name = Novakova Čuka
+| srp_N_FULL_NAME_RO = Novakova Čuka
+| srp_N_FULL_NAME_ND_RO = Novakova Cuka
+| srp_N_SORT_NAME_RG = NOVAKOVACUKA
+| srp_N_FULL_NAME_RG = Novakova Čuka
+| srp_N_FULL_NAME_ND_RG = Novakova Cuka
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.723056
+ | Gjatësia            = 21.539167
+ | Lartësia            = 
+}}
+'''Novakova Čuka''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

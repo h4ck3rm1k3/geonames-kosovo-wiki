@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kica
+| srp_N_name = Kica
+| srp_N_FULL_NAME_RO = Kica
+| srp_N_FULL_NAME_ND_RO = Kica
+| srp_N_SORT_NAME_RG = KICA
+| srp_N_FULL_NAME_RG = Kica
+| srp_N_FULL_NAME_ND_RG = Kica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.275833
+ | Gjatësia            = 20.830278
+ | Lartësia            = 
+}}
+'''Kica''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

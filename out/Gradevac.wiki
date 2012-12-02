@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Gradevac
+| srp_N_name = Gradevac
+| srp_N_FULL_NAME_RO = Gradevac
+| srp_N_FULL_NAME_ND_RO = Gradevac
+| srp_N_SORT_NAME_RG = GRADEVAC
+| srp_N_FULL_NAME_RG = Gradevac
+| srp_N_FULL_NAME_ND_RG = Gradevac
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Novobërdë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.8475
+ | Gjatësia            = 20.788889
+ | Lartësia            = 
+}}
+'''Gradevac''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Novobërdë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
+[[Kategoria:Vendbanime në Kosovës]]

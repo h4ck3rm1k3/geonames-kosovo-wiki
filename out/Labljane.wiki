@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Labljane
+| srp_N_name = Labljane
+| srp_N_FULL_NAME_RO = Labljane
+| srp_N_FULL_NAME_ND_RO = Labljane
+| srp_N_SORT_NAME_RG = LABLJANE
+| srp_N_FULL_NAME_RG = Labljane
+| srp_N_FULL_NAME_ND_RG = Labljane
+| srp_NS_name = Лабљане
+| srp_NS_FULL_NAME_RO = Лабљане
+| srp_NS_FULL_NAME_ND_RO = Лабљане
+| srp_NS_SORT_NAME_RG = ЛАБЉАНЕ
+| srp_NS_FULL_NAME_RG = Лабљане
+| srp_NS_FULL_NAME_ND_RG = Лабљане
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.656111
+ | Gjatësia            = 20.406944
+ | Lartësia            = 
+}}
+'''Labljane''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

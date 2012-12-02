@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Stremce
+| srp_N_name = Stremce
+| srp_N_FULL_NAME_RO = Stremce
+| srp_N_FULL_NAME_ND_RO = Stremce
+| srp_N_SORT_NAME_RG = STREMCE
+| srp_N_FULL_NAME_RG = Stremce
+| srp_N_FULL_NAME_ND_RG = Stremce
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.170278
+ | Gjatësia            = 21.236667
+ | Lartësia            = 
+}}
+'''Stremce''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

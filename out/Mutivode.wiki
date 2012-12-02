@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Mutivode
+| srp_N_name = Mutivode
+| srp_N_FULL_NAME_RO = Mutivode
+| srp_N_FULL_NAME_ND_RO = Mutivode
+| srp_N_SORT_NAME_RG = MUTIVODE
+| srp_N_FULL_NAME_RG = Mutivode
+| srp_N_FULL_NAME_ND_RG = Mutivode
+| srp_NS_name = Мутиводе
+| srp_NS_FULL_NAME_RO = Мутиводе
+| srp_NS_FULL_NAME_ND_RO = Мутиводе
+| srp_NS_SORT_NAME_RG = МУТИВОДЕ
+| srp_NS_FULL_NAME_RG = Мутиводе
+| srp_NS_FULL_NAME_ND_RG = Мутиводе
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.096667
+ | Gjatësia            = 20.846389
+ | Lartësia            = 
+}}
+'''Mutivode''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

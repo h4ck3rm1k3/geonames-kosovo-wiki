@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Cak Mahala
+| srp_N_name = Cak Mahala
+| srp_N_FULL_NAME_RO = Cak Mahala
+| srp_N_FULL_NAME_ND_RO = Cak Mahala
+| srp_N_SORT_NAME_RG = CAKMAHALA
+| srp_N_FULL_NAME_RG = Cak Mahala
+| srp_N_FULL_NAME_ND_RG = Cak Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.768212
+ | Gjatësia            = 21.032902
+ | Lartësia            = 
+}}
+'''Cak Mahala''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

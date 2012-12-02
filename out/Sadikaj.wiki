@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Sadikaj
+| srp_N_name = Sadikaj
+| srp_N_FULL_NAME_RO = Sadikaj
+| srp_N_FULL_NAME_ND_RO = Sadikaj
+| srp_N_SORT_NAME_RG = SADIKAJ
+| srp_N_FULL_NAME_RG = Sadikaj
+| srp_N_FULL_NAME_ND_RG = Sadikaj
+| srp_NS_name = Садикај
+| srp_NS_FULL_NAME_RO = Садикај
+| srp_NS_FULL_NAME_ND_RO = Садикај
+| srp_NS_SORT_NAME_RG = САДИКАЈ
+| srp_NS_FULL_NAME_RG = Садикај
+| srp_NS_FULL_NAME_ND_RG = Садикај
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.453056
+ | Gjatësia            = 20.865556
+ | Lartësia            = 
+}}
+'''Sadikaj''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

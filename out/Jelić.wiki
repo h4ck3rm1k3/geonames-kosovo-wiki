@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Jelić
+| srp_N_name = Jelić
+| srp_N_FULL_NAME_RO = Jelić
+| srp_N_FULL_NAME_ND_RO = Jelic
+| srp_N_SORT_NAME_RG = JELIC
+| srp_N_FULL_NAME_RG = Jelić
+| srp_N_FULL_NAME_ND_RG = Jelic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prizren
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.183611
+ | Gjatësia            = 20.543889
+ | Lartësia            = 
+}}
+'''Jelić''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prizren}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Vendbanime në Kosovës]]

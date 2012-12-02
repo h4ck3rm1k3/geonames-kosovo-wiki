@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Cakutić
+| srp_N_name = Cakutić
+| srp_N_FULL_NAME_RO = Cakutić
+| srp_N_FULL_NAME_ND_RO = Cakutic
+| srp_N_SORT_NAME_RG = CAKUTIC
+| srp_N_FULL_NAME_RG = Cakutić
+| srp_N_FULL_NAME_ND_RG = Cakutic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kamenicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.768333
+ | Gjatësia            = 20.3625
+ | Lartësia            = 
+}}
+'''Cakutić''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kamenicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kamenicë]]
+[[Kategoria:Vendbanime në Kosovës]]

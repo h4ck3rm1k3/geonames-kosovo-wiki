@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Gradiš
+| srp_D_name = Gradiš
+| srp_D_FULL_NAME_RO = Gradiš
+| srp_D_FULL_NAME_ND_RO = Gradis
+| srp_D_SORT_NAME_RG = GRADIS
+| srp_D_FULL_NAME_RG = Gradiš
+| srp_D_FULL_NAME_ND_RG = Gradis
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.351944
+ | Gjatësia            = 20.529444
+ | Lartësia            = 
+}}
+'''Gradiš''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

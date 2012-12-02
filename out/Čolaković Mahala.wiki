@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Čolaković Mahala
+| srp_N_name = Čolaković Mahala
+| srp_N_FULL_NAME_RO = Čolaković Mahala
+| srp_N_FULL_NAME_ND_RO = Colakovic Mahala
+| srp_N_SORT_NAME_RG = COLAKOVICMAHALA
+| srp_N_FULL_NAME_RG = Čolaković Mahala
+| srp_N_FULL_NAME_ND_RG = Colakovic Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Suharekë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.78
+ | Gjatësia            = 20.735278
+ | Lartësia            = 
+}}
+'''Čolaković Mahala''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Suharekë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Suharekë]]
+[[Kategoria:Vendbanime në Kosovës]]

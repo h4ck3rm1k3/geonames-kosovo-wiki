@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Topali Mahala
+| srp_N_name = Topali Mahala
+| srp_N_FULL_NAME_RO = Topali Mahala
+| srp_N_FULL_NAME_ND_RO = Topali Mahala
+| srp_N_SORT_NAME_RG = TOPALIMAHALA
+| srp_N_FULL_NAME_RG = Topali Mahala
+| srp_N_FULL_NAME_ND_RG = Topali Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.264444
+ | Gjatësia            = 21.194722
+ | Lartësia            = 
+}}
+'''Topali Mahala''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

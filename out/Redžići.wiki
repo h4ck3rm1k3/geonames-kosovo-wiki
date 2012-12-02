@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Redžići
+| srp_N_name = Redžići
+| srp_N_FULL_NAME_RO = Redžići
+| srp_N_FULL_NAME_ND_RO = Redzici
+| srp_N_SORT_NAME_RG = REDZICI
+| srp_N_FULL_NAME_RG = Redžići
+| srp_N_FULL_NAME_ND_RG = Redzici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.736667
+ | Gjatësia            = 20.099444
+ | Lartësia            = 
+}}
+'''Redžići''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

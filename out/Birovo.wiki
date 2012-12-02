@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Birovo
+| srp_N_name = Birovo
+| srp_N_FULL_NAME_RO = Birovo
+| srp_N_FULL_NAME_ND_RO = Birovo
+| srp_N_SORT_NAME_RG = BIROVO
+| srp_N_FULL_NAME_RG = Birovo
+| srp_N_FULL_NAME_ND_RG = Birovo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.051111
+ | Gjatësia            = 20.769167
+ | Lartësia            = 
+}}
+'''Birovo''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

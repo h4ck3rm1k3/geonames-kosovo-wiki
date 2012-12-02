@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Sopska Mahala
+| srp_N_name = Sopska Mahala
+| srp_N_FULL_NAME_RO = Sopska Mahala
+| srp_N_FULL_NAME_ND_RO = Sopska Mahala
+| srp_N_SORT_NAME_RG = SOPSKAMAHALA
+| srp_N_FULL_NAME_RG = Sopska Mahala
+| srp_N_FULL_NAME_ND_RG = Sopska Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.411944
+ | Gjatësia            = 20.895833
+ | Lartësia            = 
+}}
+'''Sopska Mahala''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

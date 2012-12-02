@@ -1,0 +1,62 @@
+{{Fshat në Kosovës
+ | Emri                = Gola Čuka
+| sqi_V_name = Kodra Gola
+| sqi_V_FULL_NAME_RO = Kodra Gola
+| sqi_V_FULL_NAME_ND_RO = Kodra Gola
+| sqi_V_SORT_NAME_RG = GOLA KODRA
+| sqi_V_FULL_NAME_RG = Gola, Kodra
+| sqi_V_FULL_NAME_ND_RG = Gola, Kodra
+| sqi_V_name = Kodra Gola
+| sqi_V_FULL_NAME_RO = Kodra Gola
+| sqi_V_FULL_NAME_ND_RO = Kodra Gola
+| sqi_V_SORT_NAME_RG = GOLA KODRA
+| sqi_V_FULL_NAME_RG = Gola, Kodra
+| sqi_V_FULL_NAME_ND_RG = Gola, Kodra
+| srp_N_name = Gola Čuka
+| srp_N_FULL_NAME_RO = Gola Čuka
+| srp_N_FULL_NAME_ND_RO = Gola Cuka
+| srp_N_SORT_NAME_RG = GOLACUKA
+| srp_N_FULL_NAME_RG = Gola Čuka
+| srp_N_FULL_NAME_ND_RG = Gola Cuka
+| sqi_V_name = Kodra Gola
+| sqi_V_FULL_NAME_RO = Kodra Gola
+| sqi_V_FULL_NAME_ND_RO = Kodra Gola
+| sqi_V_SORT_NAME_RG = GOLA KODRA
+| sqi_V_FULL_NAME_RG = Gola, Kodra
+| sqi_V_FULL_NAME_ND_RG = Gola, Kodra
+| sqi_V_name = Kodra Gola
+| sqi_V_FULL_NAME_RO = Kodra Gola
+| sqi_V_FULL_NAME_ND_RO = Kodra Gola
+| sqi_V_SORT_NAME_RG = GOLA KODRA
+| sqi_V_FULL_NAME_RG = Gola, Kodra
+| sqi_V_FULL_NAME_ND_RG = Gola, Kodra
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.801128
+ | Gjatësia            = 21.050614
+ | Lartësia            = 
+}}
+'''Gola Čuka''' është një [[]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

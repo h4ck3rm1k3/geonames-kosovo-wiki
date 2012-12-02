@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Lugadžija
+| srp_N_name = Lugadžija
+| srp_N_FULL_NAME_RO = Lugadžija
+| srp_N_FULL_NAME_ND_RO = Lugadzija
+| srp_N_SORT_NAME_RG = LUGADZIJA
+| srp_N_FULL_NAME_RG = Lugadžija
+| srp_N_FULL_NAME_ND_RG = Lugadzija
+| srp_V_name = Lugu Pašić
+| srp_V_FULL_NAME_RO = Lugu Pašić
+| srp_V_FULL_NAME_ND_RO = Lugu Pasic
+| srp_V_SORT_NAME_RG = LUGUPASIC
+| srp_V_FULL_NAME_RG = Lugu Pašić
+| srp_V_FULL_NAME_ND_RG = Lugu Pasic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.669444
+ | Gjatësia            = 20.516667
+ | Lartësia            = 
+}}
+'''Lugadžija''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Albanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Šišman-Baks
+| sqi_V_name = Shishman-Boksi
+| sqi_V_FULL_NAME_RO = Shishman-Boksi
+| sqi_V_FULL_NAME_ND_RO = Shishman-Boksi
+| sqi_V_SORT_NAME_RG = SHISHMANBOKSI
+| sqi_V_FULL_NAME_RG = Shishman-Boksi
+| sqi_V_FULL_NAME_ND_RG = Shishman-Boksi
+| srp_N_name = Šišman-Baks
+| srp_N_FULL_NAME_RO = Šišman-Baks
+| srp_N_FULL_NAME_ND_RO = Sisman-Baks
+| srp_N_SORT_NAME_RG = SISMANBAKS
+| srp_N_FULL_NAME_RG = Šišman-Baks
+| srp_N_FULL_NAME_ND_RG = Sisman-Baks
+| srp_V_name = Šišman-Boks
+| srp_V_FULL_NAME_RO = Šišman-Boks
+| srp_V_FULL_NAME_ND_RO = Sisman-Boks
+| srp_V_SORT_NAME_RG = SISMANBOKS
+| srp_V_FULL_NAME_RG = Šišman-Boks
+| srp_V_FULL_NAME_ND_RG = Sisman-Boks
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.366944
+ | Gjatësia            = 20.308056
+ | Lartësia            = 
+}}
+'''Šišman-Baks''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

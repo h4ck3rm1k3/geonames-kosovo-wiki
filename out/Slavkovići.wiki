@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Slavkovići
+| srp_N_name = Slavkovići
+| srp_N_FULL_NAME_RO = Slavkovići
+| srp_N_FULL_NAME_ND_RO = Slavkovici
+| srp_N_SORT_NAME_RG = SLAVKOVICI
+| srp_N_FULL_NAME_RG = Slavkovići
+| srp_N_FULL_NAME_ND_RG = Slavkovici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Novobërdë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.829722
+ | Gjatësia            = 20.856111
+ | Lartësia            = 
+}}
+'''Slavkovići''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Novobërdë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
+[[Kategoria:Vendbanime në Kosovës]]

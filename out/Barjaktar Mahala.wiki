@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Barjaktar Mahala
+| srp_N_name = Barjaktar Mahala
+| srp_N_FULL_NAME_RO = Barjaktar Mahala
+| srp_N_FULL_NAME_ND_RO = Barjaktar Mahala
+| srp_N_SORT_NAME_RG = BARJAKTARMAHALA
+| srp_N_FULL_NAME_RG = Barjaktar Mahala
+| srp_N_FULL_NAME_ND_RG = Barjaktar Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.361944
+ | Gjatësia            = 20.928611
+ | Lartësia            = 
+}}
+'''Barjaktar Mahala''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

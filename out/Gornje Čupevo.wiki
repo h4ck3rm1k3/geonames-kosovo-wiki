@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Gornje Čupevo
+| sqi_V_name = Çupevë
+| sqi_V_FULL_NAME_RO = Çupevë
+| sqi_V_FULL_NAME_ND_RO = Cupeve
+| sqi_V_SORT_NAME_RG = CUPEVE
+| sqi_V_FULL_NAME_RG = Çupevë
+| sqi_V_FULL_NAME_ND_RG = Cupeve
+| srp_N_name = Gornje Čupevo
+| srp_N_FULL_NAME_RO = Gornje Čupevo
+| srp_N_FULL_NAME_ND_RO = Gornje Cupevo
+| srp_N_SORT_NAME_RG = GORNJECUPEVO
+| srp_N_FULL_NAME_RG = Gornje Čupevo
+| srp_N_FULL_NAME_ND_RG = Gornje Cupevo
+| srp_V_name = Čupevo
+| srp_V_FULL_NAME_RO = Čupevo
+| srp_V_FULL_NAME_ND_RO = Cupevo
+| srp_V_SORT_NAME_RG = CUPEVO
+| srp_V_FULL_NAME_RG = Čupevo
+| srp_V_FULL_NAME_ND_RG = Cupevo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.56
+ | Gjatësia            = 20.588056
+ | Lartësia            = 
+}}
+'''Gornje Čupevo''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Albanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Vendbanime në Kosovës]]

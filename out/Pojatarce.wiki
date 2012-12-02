@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Pojatarce
+| srp_N_name = Pojatarce
+| srp_N_FULL_NAME_RO = Pojatarce
+| srp_N_FULL_NAME_ND_RO = Pojatarce
+| srp_N_SORT_NAME_RG = POJATARCE
+| srp_N_FULL_NAME_RG = Pojatarce
+| srp_N_FULL_NAME_ND_RG = Pojatarce
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtërpcë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.269167
+ | Gjatësia            = 21.105
+ | Lartësia            = 
+}}
+'''Pojatarce''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtërpcë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtërpcë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Staro Selo
+| srp_N_name = Staro Selo
+| srp_N_FULL_NAME_RO = Staro Selo
+| srp_N_FULL_NAME_ND_RO = Staro Selo
+| srp_N_SORT_NAME_RG = STAROSELO
+| srp_N_FULL_NAME_RG = Staro Selo
+| srp_N_FULL_NAME_ND_RG = Staro Selo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.388056
+ | Gjatësia            = 21.545833
+ | Lartësia            = 
+}}
+'''Staro Selo''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

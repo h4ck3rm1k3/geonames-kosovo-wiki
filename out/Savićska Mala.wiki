@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Savićska Mala
+| srp_N_name = Savićska Mala
+| srp_N_FULL_NAME_RO = Savićska Mala
+| srp_N_FULL_NAME_ND_RO = Savicska Mala
+| srp_N_SORT_NAME_RG = SAVICSKAMALA
+| srp_N_FULL_NAME_RG = Savićska Mala
+| srp_N_FULL_NAME_ND_RG = Savicska Mala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.137778
+ | Gjatësia            = 20.91
+ | Lartësia            = 
+}}
+'''Savićska Mala''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

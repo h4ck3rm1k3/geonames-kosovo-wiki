@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kunga
+| srp_N_name = Kunga
+| srp_N_FULL_NAME_RO = Kunga
+| srp_N_FULL_NAME_ND_RO = Kunga
+| srp_N_SORT_NAME_RG = KUNGA
+| srp_N_FULL_NAME_RG = Kunga
+| srp_N_FULL_NAME_ND_RG = Kunga
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prishtinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.771809
+ | Gjatësia            = 21.156685
+ | Lartësia            = 
+}}
+'''Kunga''' është një [[]] në [[Prishtinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prishtinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prishtinë]]
+[[Kategoria:Vendbanime në Kosovës]]

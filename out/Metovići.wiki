@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Metovići
+| srp_N_name = Metovići
+| srp_N_FULL_NAME_RO = Metovići
+| srp_N_FULL_NAME_ND_RO = Metovici
+| srp_N_SORT_NAME_RG = METOVICI
+| srp_N_FULL_NAME_RG = Metovići
+| srp_N_FULL_NAME_ND_RG = Metovici
+| srp_NS_name = Метовићи
+| srp_NS_FULL_NAME_RO = Метовићи
+| srp_NS_FULL_NAME_ND_RO = Метовићи
+| srp_NS_SORT_NAME_RG = МЕТОВИЋИ
+| srp_NS_FULL_NAME_RG = Метовићи
+| srp_NS_FULL_NAME_ND_RG = Метовићи
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Malishevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.492778
+ | Gjatësia            = 20.952222
+ | Lartësia            = 
+}}
+'''Metovići''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Malishevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Malishevë]]
+[[Kategoria:Vendbanime në Kosovës]]

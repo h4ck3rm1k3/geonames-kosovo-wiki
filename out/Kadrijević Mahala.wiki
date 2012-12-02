@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kadrijević Mahala
+| srp_N_name = Kadrijević Mahala
+| srp_N_FULL_NAME_RO = Kadrijević Mahala
+| srp_N_FULL_NAME_ND_RO = Kadrijevic Mahala
+| srp_N_SORT_NAME_RG = KADRIJEVICMAHALA
+| srp_N_FULL_NAME_RG = Kadrijević Mahala
+| srp_N_FULL_NAME_ND_RG = Kadrijevic Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtime
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.400833
+ | Gjatësia            = 20.957222
+ | Lartësia            = 
+}}
+'''Kadrijević Mahala''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtime}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtime]]
+[[Kategoria:Vendbanime në Kosovës]]

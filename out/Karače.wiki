@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Karače
+| sqi_V_name = Karaçe
+| sqi_V_FULL_NAME_RO = Karaçe
+| sqi_V_FULL_NAME_ND_RO = Karace
+| sqi_V_SORT_NAME_RG = KARACE
+| sqi_V_FULL_NAME_RG = Karaçe
+| sqi_V_FULL_NAME_ND_RG = Karace
+| srp_N_name = Karače
+| srp_N_FULL_NAME_RO = Karače
+| srp_N_FULL_NAME_ND_RO = Karace
+| srp_N_SORT_NAME_RG = KARACE
+| srp_N_FULL_NAME_RG = Karače
+| srp_N_FULL_NAME_ND_RG = Karace
+| srp_V_name = Karača
+| srp_V_FULL_NAME_RO = Karača
+| srp_V_FULL_NAME_ND_RO = Karaca
+| srp_V_SORT_NAME_RG = KARACA
+| srp_V_FULL_NAME_RG = Karača
+| srp_V_FULL_NAME_ND_RG = Karaca
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.875611
+ | Gjatësia            = 20.997293
+ | Lartësia            = 
+}}
+'''Karače''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

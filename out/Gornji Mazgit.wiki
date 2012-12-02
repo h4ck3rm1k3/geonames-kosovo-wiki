@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Gornji Mazgit
+| srp_N_name = Gornji Mazgit
+| srp_N_FULL_NAME_RO = Gornji Mazgit
+| srp_N_FULL_NAME_ND_RO = Gornji Mazgit
+| srp_N_SORT_NAME_RG = GORNJIMAZGIT
+| srp_N_FULL_NAME_RG = Gornji Mazgit
+| srp_N_FULL_NAME_ND_RG = Gornji Mazgit
+| srp_NS_name = Горњи Мазгит
+| srp_NS_FULL_NAME_RO = Горњи Мазгит
+| srp_NS_FULL_NAME_ND_RO = Горњи Мазгит
+| srp_NS_SORT_NAME_RG = ГОРЊИМАЗГИТ
+| srp_NS_FULL_NAME_RG = Горњи Мазгит
+| srp_NS_FULL_NAME_ND_RG = Горњи Мазгит
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Rahovec
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.698699
+ | Gjatësia            = 21.104427
+ | Lartësia            = 
+}}
+'''Gornji Mazgit''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Rahovec}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Rahovec]]
+[[Kategoria:Vendbanime në Kosovës]]

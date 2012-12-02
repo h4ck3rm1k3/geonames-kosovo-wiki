@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Tonković
+| srp_N_name = Tonković
+| srp_N_FULL_NAME_RO = Tonković
+| srp_N_FULL_NAME_ND_RO = Tonkovic
+| srp_N_SORT_NAME_RG = TONKOVIC
+| srp_N_FULL_NAME_RG = Tonković
+| srp_N_FULL_NAME_ND_RG = Tonkovic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.611667
+ | Gjatësia            = 20.356667
+ | Lartësia            = 
+}}
+'''Tonković''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Ručućeva Mahala
+| srp_N_name = Ručućeva Mahala
+| srp_N_FULL_NAME_RO = Ručućeva Mahala
+| srp_N_FULL_NAME_ND_RO = Rucuceva Mahala
+| srp_N_SORT_NAME_RG = RUCUCEVAMAHALA
+| srp_N_FULL_NAME_RG = Ručućeva Mahala
+| srp_N_FULL_NAME_ND_RG = Rucuceva Mahala
+| srp_V_name = Nešma
+| srp_V_FULL_NAME_RO = Nešma
+| srp_V_FULL_NAME_ND_RO = Nesma
+| srp_V_SORT_NAME_RG = NESMA
+| srp_V_FULL_NAME_RG = Nešma
+| srp_V_FULL_NAME_ND_RG = Nesma
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtërpcë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.288333
+ | Gjatësia            = 21.068889
+ | Lartësia            = 
+}}
+'''Ručućeva Mahala''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtërpcë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtërpcë]]
+[[Kategoria:Vendbanime në Kosovës]]

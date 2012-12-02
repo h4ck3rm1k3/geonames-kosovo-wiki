@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Crnogorei
+| srp_D_name = Crnogorei
+| srp_D_FULL_NAME_RO = Crnogorei
+| srp_D_FULL_NAME_ND_RO = Crnogorei
+| srp_D_SORT_NAME_RG = CRNOGOREI
+| srp_D_FULL_NAME_RG = Crnogorei
+| srp_D_FULL_NAME_ND_RG = Crnogorei
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.536944
+ | Gjatësia            = 21.619167
+ | Lartësia            = 
+}}
+'''Crnogorei''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

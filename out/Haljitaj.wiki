@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Haljitaj
+| srp_N_name = Haljitaj
+| srp_N_FULL_NAME_RO = Haljitaj
+| srp_N_FULL_NAME_ND_RO = Haljitaj
+| srp_N_SORT_NAME_RG = HALJITAJ
+| srp_N_FULL_NAME_RG = Haljitaj
+| srp_N_FULL_NAME_ND_RG = Haljitaj
+| srp_NS_name = Халјитај
+| srp_NS_FULL_NAME_RO = Халјитај
+| srp_NS_FULL_NAME_ND_RO = Халјитај
+| srp_NS_SORT_NAME_RG = ХАЛЈИТАЈ
+| srp_NS_FULL_NAME_RG = Халјитај
+| srp_NS_FULL_NAME_ND_RG = Халјитај
+| srp_V_name = Haljitovići
+| srp_V_FULL_NAME_RO = Haljitovići
+| srp_V_FULL_NAME_ND_RO = Haljitovici
+| srp_V_SORT_NAME_RG = HALJITOVICI
+| srp_V_FULL_NAME_RG = Haljitovići
+| srp_V_FULL_NAME_ND_RG = Haljitovici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.486111
+ | Gjatësia            = 20.828056
+ | Lartësia            = 
+}}
+'''Haljitaj''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Riđevo
+| srp_N_name = Riđevo
+| srp_N_FULL_NAME_RO = Riđevo
+| srp_N_FULL_NAME_ND_RO = Ridevo
+| srp_N_SORT_NAME_RG = RIDEVO
+| srp_N_FULL_NAME_RG = Riđevo
+| srp_N_FULL_NAME_ND_RG = Ridevo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.581667
+ | Gjatësia            = 20.692778
+ | Lartësia            = 
+}}
+'''Riđevo''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Albanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Vendbanime në Kosovës]]

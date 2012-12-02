@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Donja Morina
+| srp_N_name = Donja Morina
+| srp_N_FULL_NAME_RO = Donja Morina
+| srp_N_FULL_NAME_ND_RO = Donja Morina
+| srp_N_SORT_NAME_RG = DONJAMORINA
+| srp_N_FULL_NAME_RG = Donja Morina
+| srp_N_FULL_NAME_ND_RG = Donja Morina
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.414167
+ | Gjatësia            = 20.258056
+ | Lartësia            = 
+}}
+'''Donja Morina''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

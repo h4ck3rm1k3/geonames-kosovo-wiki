@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ljek Mahala
+| srp_N_name = Ljek Mahala
+| srp_N_FULL_NAME_RO = Ljek Mahala
+| srp_N_FULL_NAME_ND_RO = Ljek Mahala
+| srp_N_SORT_NAME_RG = LJEKMAHALA
+| srp_N_FULL_NAME_RG = Ljek Mahala
+| srp_N_FULL_NAME_ND_RG = Ljek Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kaçanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.621944
+ | Gjatësia            = 20.836111
+ | Lartësia            = 
+}}
+'''Ljek Mahala''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kaçanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kaçanik]]
+[[Kategoria:Vendbanime në Kosovës]]

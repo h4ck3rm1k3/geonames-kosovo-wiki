@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Beković Mahala
+| sqi_V_name = Mahalla e Bekoviqëve
+| sqi_V_FULL_NAME_RO = Mahalla e Bekoviqëve
+| sqi_V_FULL_NAME_ND_RO = Mahalla e Bekoviqeve
+| sqi_V_SORT_NAME_RG = MAHALLAEBEKOVIQEVE
+| sqi_V_FULL_NAME_RG = Mahalla e Bekoviqëve
+| sqi_V_FULL_NAME_ND_RG = Mahalla e Bekoviqeve
+| srp_N_name = Beković Mahala
+| srp_N_FULL_NAME_RO = Beković Mahala
+| srp_N_FULL_NAME_ND_RO = Bekovic Mahala
+| srp_N_SORT_NAME_RG = BEKOVICMAHALA
+| srp_N_FULL_NAME_RG = Beković Mahala
+| srp_N_FULL_NAME_ND_RG = Bekovic Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Rahovec
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.784152
+ | Gjatësia            = 21.093301
+ | Lartësia            = 
+}}
+'''Beković Mahala''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Rahovec}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Rahovec]]
+[[Kategoria:Vendbanime në Kosovës]]

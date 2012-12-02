@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Glamska Mala
+| srp_N_name = Glamska Mala
+| srp_N_FULL_NAME_RO = Glamska Mala
+| srp_N_FULL_NAME_ND_RO = Glamska Mala
+| srp_N_SORT_NAME_RG = GLAMSKAMALA
+| srp_N_FULL_NAME_RG = Glamska Mala
+| srp_N_FULL_NAME_ND_RG = Glamska Mala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.491389
+ | Gjatësia            = 21.408611
+ | Lartësia            = 
+}}
+'''Glamska Mala''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

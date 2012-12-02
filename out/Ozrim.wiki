@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ozrim
+| srp_N_name = Ozrim
+| srp_N_FULL_NAME_RO = Ozrim
+| srp_N_FULL_NAME_ND_RO = Ozrim
+| srp_N_SORT_NAME_RG = OZRIM
+| srp_N_FULL_NAME_RG = Ozrim
+| srp_N_FULL_NAME_ND_RG = Ozrim
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Suharekë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.709444
+ | Gjatësia            = 20.634722
+ | Lartësia            = 
+}}
+'''Ozrim''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Suharekë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Suharekë]]
+[[Kategoria:Vendbanime në Kosovës]]

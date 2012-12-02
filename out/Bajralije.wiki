@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Bajralije
+| srp_N_name = Bajralije
+| srp_N_FULL_NAME_RO = Bajralije
+| srp_N_FULL_NAME_ND_RO = Bajralije
+| srp_N_SORT_NAME_RG = BAJRALIJE
+| srp_N_FULL_NAME_RG = Bajralije
+| srp_N_FULL_NAME_ND_RG = Bajralije
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.68
+ | Gjatësia            = 21.752778
+ | Lartësia            = 
+}}
+'''Bajralije''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Mijajlovići
+| srp_N_name = Mijajlovići
+| srp_N_FULL_NAME_RO = Mijajlovići
+| srp_N_FULL_NAME_ND_RO = Mijajlovici
+| srp_N_SORT_NAME_RG = MIJAJLOVICI
+| srp_N_FULL_NAME_RG = Mijajlovići
+| srp_N_FULL_NAME_ND_RG = Mijajlovici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Novobërdë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.828333
+ | Gjatësia            = 20.839167
+ | Lartësia            = 
+}}
+'''Mijajlovići''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Novobërdë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
+[[Kategoria:Vendbanime në Kosovës]]

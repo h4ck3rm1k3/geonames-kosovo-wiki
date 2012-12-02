@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Breg Mahala
+| srp_N_name = Breg Mahala
+| srp_N_FULL_NAME_RO = Breg Mahala
+| srp_N_FULL_NAME_ND_RO = Breg Mahala
+| srp_N_SORT_NAME_RG = BREGMAHALA
+| srp_N_FULL_NAME_RG = Breg Mahala
+| srp_N_FULL_NAME_ND_RG = Breg Mahala
+| srp_NS_name = Брeг Махала
+| srp_NS_FULL_NAME_RO = Брeг Махала
+| srp_NS_FULL_NAME_ND_RO = Брeг Махала
+| srp_NS_SORT_NAME_RG = БРEГМАХАЛА
+| srp_NS_FULL_NAME_RG = Брeг Махала
+| srp_NS_FULL_NAME_ND_RG = Брeг Махала
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.563611
+ | Gjatësia            = 20.758333
+ | Lartësia            = 
+}}
+'''Breg Mahala''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

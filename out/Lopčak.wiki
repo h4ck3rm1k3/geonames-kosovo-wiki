@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Lopčak
+| srp_N_name = Lopčak
+| srp_N_FULL_NAME_RO = Lopčak
+| srp_N_FULL_NAME_ND_RO = Lopcak
+| srp_N_SORT_NAME_RG = LOPCAK
+| srp_N_FULL_NAME_RG = Lopčak
+| srp_N_FULL_NAME_ND_RG = Lopcak
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kamenicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.714722
+ | Gjatësia            = 20.581667
+ | Lartësia            = 
+}}
+'''Lopčak''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kamenicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kamenicë]]
+[[Kategoria:Vendbanime në Kosovës]]

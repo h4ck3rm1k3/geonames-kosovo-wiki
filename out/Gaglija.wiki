@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Gaglija
+| srp_N_name = Gaglija
+| srp_N_FULL_NAME_RO = Gaglija
+| srp_N_FULL_NAME_ND_RO = Gaglija
+| srp_N_SORT_NAME_RG = GAGLIJA
+| srp_N_FULL_NAME_RG = Gaglija
+| srp_N_FULL_NAME_ND_RG = Gaglija
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.310833
+ | Gjatësia            = 21.496389
+ | Lartësia            = 
+}}
+'''Gaglija''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

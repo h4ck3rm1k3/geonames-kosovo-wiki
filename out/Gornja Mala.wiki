@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Gornja Mala
+| srp_N_name = Gornja Mala
+| srp_N_FULL_NAME_RO = Gornja Mala
+| srp_N_FULL_NAME_ND_RO = Gornja Mala
+| srp_N_SORT_NAME_RG = GORNJAMALA
+| srp_N_FULL_NAME_RG = Gornja Mala
+| srp_N_FULL_NAME_ND_RG = Gornja Mala
+| srp_V_name = Gornje Mali
+| srp_V_FULL_NAME_RO = Gornje Mali
+| srp_V_FULL_NAME_ND_RO = Gornje Mali
+| srp_V_SORT_NAME_RG = GORNJEMALI
+| srp_V_FULL_NAME_RG = Gornje Mali
+| srp_V_FULL_NAME_ND_RG = Gornje Mali
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prizren
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.172778
+ | Gjatësia            = 20.936111
+ | Lartësia            = 
+}}
+'''Gornja Mala''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prizren}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Vendbanime në Kosovës]]

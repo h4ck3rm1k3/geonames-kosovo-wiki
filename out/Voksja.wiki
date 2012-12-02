@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Voksja
+| srp_D_name = Voksja
+| srp_D_FULL_NAME_RO = Voksja
+| srp_D_FULL_NAME_ND_RO = Voksja
+| srp_D_SORT_NAME_RG = VOKSJA
+| srp_D_FULL_NAME_RG = Voksja
+| srp_D_FULL_NAME_ND_RG = Voksja
+| srp_DS_name = Воксја
+| srp_DS_FULL_NAME_RO = Воксја
+| srp_DS_FULL_NAME_ND_RO = Воксја
+| srp_DS_SORT_NAME_RG = ВОКСЈА
+| srp_DS_FULL_NAME_RG = Воксја
+| srp_DS_FULL_NAME_ND_RG = Воксја
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.648889
+ | Gjatësia            = 21.666944
+ | Lartësia            = 
+}}
+'''Voksja''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

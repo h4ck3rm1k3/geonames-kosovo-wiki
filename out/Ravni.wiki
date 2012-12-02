@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ravni
+| srp_N_name = Ravni
+| srp_N_FULL_NAME_RO = Ravni
+| srp_N_FULL_NAME_ND_RO = Ravni
+| srp_N_SORT_NAME_RG = RAVNI
+| srp_N_FULL_NAME_RG = Ravni
+| srp_N_FULL_NAME_ND_RG = Ravni
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.153611
+ | Gjatësia            = 20.728333
+ | Lartësia            = 
+}}
+'''Ravni''' është një [[Fshat Vogel]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

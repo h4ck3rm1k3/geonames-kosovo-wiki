@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Gurit-Mahala
+| srp_N_name = Gurit-Mahala
+| srp_N_FULL_NAME_RO = Gurit-Mahala
+| srp_N_FULL_NAME_ND_RO = Gurit-Mahala
+| srp_N_SORT_NAME_RG = GURITMAHALA
+| srp_N_FULL_NAME_RG = Gurit-Mahala
+| srp_N_FULL_NAME_ND_RG = Gurit-Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prizren
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.2475
+ | Gjatësia            = 20.843333
+ | Lartësia            = 
+}}
+'''Gurit-Mahala''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prizren}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Vendbanime në Kosovës]]

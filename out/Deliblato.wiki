@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Deliblato
+| srp_N_name = Deliblato
+| srp_N_FULL_NAME_RO = Deliblato
+| srp_N_FULL_NAME_ND_RO = Deliblato
+| srp_N_SORT_NAME_RG = DELIBLATO
+| srp_N_FULL_NAME_RG = Deliblato
+| srp_N_FULL_NAME_ND_RG = Deliblato
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.833333
+ | Gjatësia            = 21.05
+ | Lartësia            = 
+}}
+'''Deliblato''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

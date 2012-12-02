@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Donja Ljuža
+| srp_N_name = Donja Ljuža
+| srp_N_FULL_NAME_RO = Donja Ljuža
+| srp_N_FULL_NAME_ND_RO = Donja Ljuza
+| srp_N_SORT_NAME_RG = DONJALJUZA
+| srp_N_FULL_NAME_RG = Donja Ljuža
+| srp_N_FULL_NAME_ND_RG = Donja Ljuza
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.315278
+ | Gjatësia            = 21.258056
+ | Lartësia            = 
+}}
+'''Donja Ljuža''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

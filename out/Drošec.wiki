@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Drošec
+| srp_N_name = Drošec
+| srp_N_FULL_NAME_RO = Drošec
+| srp_N_FULL_NAME_ND_RO = Drosec
+| srp_N_SORT_NAME_RG = DROSEC
+| srp_N_FULL_NAME_RG = Drošec
+| srp_N_FULL_NAME_ND_RG = Drosec
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.181111
+ | Gjatësia            = 21.212222
+ | Lartësia            = 
+}}
+'''Drošec''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

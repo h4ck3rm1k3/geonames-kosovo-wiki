@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Stropac
+| sqi_V_name = Strofc
+| sqi_V_FULL_NAME_RO = Strofc
+| sqi_V_FULL_NAME_ND_RO = Strofc
+| sqi_V_SORT_NAME_RG = STROFC
+| sqi_V_FULL_NAME_RG = Strofc
+| sqi_V_FULL_NAME_ND_RG = Strofc
+| srp_N_name = Stropac
+| srp_N_FULL_NAME_RO = Stropac
+| srp_N_FULL_NAME_ND_RO = Stropac
+| srp_N_SORT_NAME_RG = STROPAC
+| srp_N_FULL_NAME_RG = Stropac
+| srp_N_FULL_NAME_ND_RG = Stropac
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kamenicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.839444
+ | Gjatësia            = 20.5875
+ | Lartësia            = 
+}}
+'''Stropac''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kamenicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kamenicë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Zatra
+| sqi_V_name = Drezhiç
+| sqi_V_FULL_NAME_RO = Drezhiç
+| sqi_V_FULL_NAME_ND_RO = Drezhic
+| sqi_V_SORT_NAME_RG = DREZHIC
+| sqi_V_FULL_NAME_RG = Drezhiç
+| sqi_V_FULL_NAME_ND_RG = Drezhic
+| srp_N_name = Zatra
+| srp_N_FULL_NAME_RO = Zatra
+| srp_N_FULL_NAME_ND_RO = Zatra
+| srp_N_SORT_NAME_RG = ZATRA
+| srp_N_FULL_NAME_RG = Zatra
+| srp_N_FULL_NAME_ND_RG = Zatra
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.650278
+ | Gjatësia            = 20.280278
+ | Lartësia            = 
+}}
+'''Zatra''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

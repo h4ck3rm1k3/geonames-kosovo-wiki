@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Brankovo Brdo
+| srp_N_name = Brankovo Brdo
+| srp_N_FULL_NAME_RO = Brankovo Brdo
+| srp_N_FULL_NAME_ND_RO = Brankovo Brdo
+| srp_N_SORT_NAME_RG = BRANKOVOBRDO
+| srp_N_FULL_NAME_RG = Brankovo Brdo
+| srp_N_FULL_NAME_ND_RG = Brankovo Brdo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.928611
+ | Gjatësia            = 20.654444
+ | Lartësia            = 
+}}
+'''Brankovo Brdo''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

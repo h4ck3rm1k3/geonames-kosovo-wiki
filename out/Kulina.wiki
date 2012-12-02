@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Kulina
+| srp_N_name = Kulina
+| srp_N_FULL_NAME_RO = Kulina
+| srp_N_FULL_NAME_ND_RO = Kulina
+| srp_N_SORT_NAME_RG = KULINA
+| srp_N_FULL_NAME_RG = Kulina
+| srp_N_FULL_NAME_ND_RG = Kulina
+| srp_V_name = Mahala Kulina
+| srp_V_FULL_NAME_RO = Mahala Kulina
+| srp_V_FULL_NAME_ND_RO = Mahala Kulina
+| srp_V_SORT_NAME_RG = MAHALAKULINA
+| srp_V_FULL_NAME_RG = Mahala Kulina
+| srp_V_FULL_NAME_ND_RG = Mahala Kulina
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.68
+ | Gjatësia            = 21.514722
+ | Lartësia            = 
+}}
+'''Kulina''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

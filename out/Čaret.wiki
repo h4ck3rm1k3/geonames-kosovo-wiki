@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Čaret
+| srp_N_name = Čaret
+| srp_N_FULL_NAME_RO = Čaret
+| srp_N_FULL_NAME_ND_RO = Caret
+| srp_N_SORT_NAME_RG = CARET
+| srp_N_FULL_NAME_RG = Čaret
+| srp_N_FULL_NAME_ND_RG = Caret
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.841389
+ | Gjatësia            = 21.084722
+ | Lartësia            = 
+}}
+'''Čaret''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

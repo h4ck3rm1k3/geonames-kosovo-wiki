@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Perala
+| srp_N_name = Perala
+| srp_N_FULL_NAME_RO = Perala
+| srp_N_FULL_NAME_ND_RO = Perala
+| srp_N_SORT_NAME_RG = PERALA
+| srp_N_FULL_NAME_RG = Perala
+| srp_N_FULL_NAME_ND_RG = Perala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.561667
+ | Gjatësia            = 20.568611
+ | Lartësia            = 
+}}
+'''Perala''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

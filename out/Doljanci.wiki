@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Doljanci
+| srp_N_name = Doljanci
+| srp_N_FULL_NAME_RO = Doljanci
+| srp_N_FULL_NAME_ND_RO = Doljanci
+| srp_N_SORT_NAME_RG = DOLJANCI
+| srp_N_FULL_NAME_RG = Doljanci
+| srp_N_FULL_NAME_ND_RG = Doljanci
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Novobërdë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.013056
+ | Gjatësia            = 20.936667
+ | Lartësia            = 
+}}
+'''Doljanci''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Novobërdë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
+[[Kategoria:Vendbanime në Kosovës]]

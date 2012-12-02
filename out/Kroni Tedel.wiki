@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kroni Tedel
+| srp_N_name = Kroni Tedel
+| srp_N_FULL_NAME_RO = Kroni Tedel
+| srp_N_FULL_NAME_ND_RO = Kroni Tedel
+| srp_N_SORT_NAME_RG = TEDEL KRONI
+| srp_N_FULL_NAME_RG = Tedel, Kroni
+| srp_N_FULL_NAME_ND_RG = Tedel, Kroni
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.548611
+ | Gjatësia            = 20.130278
+ | Lartësia            = 
+}}
+'''Kroni Tedel''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

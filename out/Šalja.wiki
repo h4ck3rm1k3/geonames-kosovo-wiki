@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Šalja
+| srp_N_name = Šalja
+| srp_N_FULL_NAME_RO = Šalja
+| srp_N_FULL_NAME_ND_RO = Salja
+| srp_N_SORT_NAME_RG = SALJA
+| srp_N_FULL_NAME_RG = Šalja
+| srp_N_FULL_NAME_ND_RG = Salja
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Suharekë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.702222
+ | Gjatësia            = 20.670556
+ | Lartësia            = 
+}}
+'''Šalja''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Suharekë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Suharekë]]
+[[Kategoria:Vendbanime në Kosovës]]

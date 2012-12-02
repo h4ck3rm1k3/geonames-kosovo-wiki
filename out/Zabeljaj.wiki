@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Zabeljaj
+| srp_N_name = Zabeljaj
+| srp_N_FULL_NAME_RO = Zabeljaj
+| srp_N_FULL_NAME_ND_RO = Zabeljaj
+| srp_N_SORT_NAME_RG = ZABELJAJ
+| srp_N_FULL_NAME_RG = Zabeljaj
+| srp_N_FULL_NAME_ND_RG = Zabeljaj
+| srp_NS_name = Забељај
+| srp_NS_FULL_NAME_RO = Забељај
+| srp_NS_FULL_NAME_ND_RO = Забељај
+| srp_NS_SORT_NAME_RG = ЗАБЕЉАЈ
+| srp_NS_FULL_NAME_RG = Забељај
+| srp_NS_FULL_NAME_ND_RG = Забељај
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.438333
+ | Gjatësia            = 20.833333
+ | Lartësia            = 
+}}
+'''Zabeljaj''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

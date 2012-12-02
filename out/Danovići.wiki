@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Danovići
+| srp_N_name = Danovići
+| srp_N_FULL_NAME_RO = Danovići
+| srp_N_FULL_NAME_ND_RO = Danovici
+| srp_N_SORT_NAME_RG = DANOVICI
+| srp_N_FULL_NAME_RG = Danovići
+| srp_N_FULL_NAME_ND_RG = Danovici
+| srp_V_name = Danović
+| srp_V_FULL_NAME_RO = Danović
+| srp_V_FULL_NAME_ND_RO = Danovic
+| srp_V_SORT_NAME_RG = DANOVIC
+| srp_V_FULL_NAME_RG = Danović
+| srp_V_FULL_NAME_ND_RG = Danovic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zveçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.019444
+ | Gjatësia            = 20.773611
+ | Lartësia            = 
+}}
+'''Danovići''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zveçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zveçan]]
+[[Kategoria:Vendbanime në Kosovës]]

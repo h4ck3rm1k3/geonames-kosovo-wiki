@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Srpka
+| srp_N_name = Srpka
+| srp_N_FULL_NAME_RO = Srpka
+| srp_N_FULL_NAME_ND_RO = Srpka
+| srp_N_SORT_NAME_RG = SRPKA
+| srp_N_FULL_NAME_RG = Srpka
+| srp_N_FULL_NAME_ND_RG = Srpka
+| srp_NS_name = Српка
+| srp_NS_FULL_NAME_RO = Српка
+| srp_NS_FULL_NAME_ND_RO = Српка
+| srp_NS_SORT_NAME_RG = СРПКА
+| srp_NS_FULL_NAME_RG = Српка
+| srp_NS_FULL_NAME_ND_RG = Српка
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Malishevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.483889
+ | Gjatësia            = 21.3025
+ | Lartësia            = 
+}}
+'''Srpka''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Malishevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Malishevë]]
+[[Kategoria:Vendbanime në Kosovës]]

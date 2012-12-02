@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ljigata
+| srp_N_name = Ljigata
+| srp_N_FULL_NAME_RO = Ljigata
+| srp_N_FULL_NAME_ND_RO = Ljigata
+| srp_N_SORT_NAME_RG = LJIGATA
+| srp_N_FULL_NAME_RG = Ljigata
+| srp_N_FULL_NAME_ND_RG = Ljigata
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prizren
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.170833
+ | Gjatësia            = 20.5825
+ | Lartësia            = 
+}}
+'''Ljigata''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prizren}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Vendbanime në Kosovës]]

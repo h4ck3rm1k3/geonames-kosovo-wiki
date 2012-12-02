@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Gornje Močare
+| srp_N_name = Gornje Močare
+| srp_N_FULL_NAME_RO = Gornje Močare
+| srp_N_FULL_NAME_ND_RO = Gornje Mocare
+| srp_N_SORT_NAME_RG = GORNJEMOCARE
+| srp_N_FULL_NAME_RG = Gornje Močare
+| srp_N_FULL_NAME_ND_RG = Gornje Mocare
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.6025
+ | Gjatësia            = 21.595278
+ | Lartësia            = 
+}}
+'''Gornje Močare''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

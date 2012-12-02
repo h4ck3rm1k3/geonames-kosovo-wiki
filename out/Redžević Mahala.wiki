@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Redžević Mahala
+| srp_N_name = Redžević Mahala
+| srp_N_FULL_NAME_RO = Redžević Mahala
+| srp_N_FULL_NAME_ND_RO = Redzevic Mahala
+| srp_N_SORT_NAME_RG = REDZEVICMAHALA
+| srp_N_FULL_NAME_RG = Redžević Mahala
+| srp_N_FULL_NAME_ND_RG = Redzevic Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.817616
+ | Gjatësia            = 21.09638
+ | Lartësia            = 
+}}
+'''Redžević Mahala''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

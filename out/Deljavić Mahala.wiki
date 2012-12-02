@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Deljavić Mahala
+| srp_N_name = Deljavić Mahala
+| srp_N_FULL_NAME_RO = Deljavić Mahala
+| srp_N_FULL_NAME_ND_RO = Deljavic Mahala
+| srp_N_SORT_NAME_RG = DELJAVICMAHALA
+| srp_N_FULL_NAME_RG = Deljavić Mahala
+| srp_N_FULL_NAME_ND_RG = Deljavic Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kaçanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.648889
+ | Gjatësia            = 20.783611
+ | Lartësia            = 
+}}
+'''Deljavić Mahala''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kaçanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kaçanik]]
+[[Kategoria:Vendbanime në Kosovës]]

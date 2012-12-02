@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Leskova Glava
+| srp_N_name = Leskova Glava
+| srp_N_FULL_NAME_RO = Leskova Glava
+| srp_N_FULL_NAME_ND_RO = Leskova Glava
+| srp_N_SORT_NAME_RG = LESKOVAGLAVA
+| srp_N_FULL_NAME_RG = Leskova Glava
+| srp_N_FULL_NAME_ND_RG = Leskova Glava
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zveçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.009722
+ | Gjatësia            = 20.744444
+ | Lartësia            = 
+}}
+'''Leskova Glava''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zveçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zveçan]]
+[[Kategoria:Vendbanime në Kosovës]]

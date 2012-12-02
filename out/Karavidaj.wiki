@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Karavidaj
+| srp_N_name = Karavidaj
+| srp_N_FULL_NAME_RO = Karavidaj
+| srp_N_FULL_NAME_ND_RO = Karavidaj
+| srp_N_SORT_NAME_RG = KARAVIDAJ
+| srp_N_FULL_NAME_RG = Karavidaj
+| srp_N_FULL_NAME_ND_RG = Karavidaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prizren
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.235556
+ | Gjatësia            = 20.61
+ | Lartësia            = 
+}}
+'''Karavidaj''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prizren}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Vendbanime në Kosovës]]

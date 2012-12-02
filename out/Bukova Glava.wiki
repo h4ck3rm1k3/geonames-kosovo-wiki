@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Bukova Glava
+| srp_N_name = Bukova Glava
+| srp_N_FULL_NAME_RO = Bukova Glava
+| srp_N_FULL_NAME_ND_RO = Bukova Glava
+| srp_N_SORT_NAME_RG = BUKOVAGLAVA
+| srp_N_FULL_NAME_RG = Bukova Glava
+| srp_N_FULL_NAME_ND_RG = Bukova Glava
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.327222
+ | Gjatësia            = 20.976389
+ | Lartësia            = 
+}}
+'''Bukova Glava''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

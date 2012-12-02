@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Gornje Barane
+| srp_N_name = Gornje Barane
+| srp_N_FULL_NAME_RO = Gornje Barane
+| srp_N_FULL_NAME_ND_RO = Gornje Barane
+| srp_N_SORT_NAME_RG = GORNJEBARANE
+| srp_N_FULL_NAME_RG = Gornje Barane
+| srp_N_FULL_NAME_ND_RG = Gornje Barane
+| srp_V_name = Gornji Barane
+| srp_V_FULL_NAME_RO = Gornji Barane Gornji Barani
+| srp_V_FULL_NAME_ND_RO = Gornji Barane Gornji Barani
+| srp_V_SORT_NAME_RG = GORNJIBARANE GORNJIBARANI
+| srp_V_FULL_NAME_RG = Gornji Barane Gornji Barani
+| srp_V_FULL_NAME_ND_RG = Gornji Barane Gornji Barani
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.577222
+ | Gjatësia            = 20.402222
+ | Lartësia            = 
+}}
+'''Gornje Barane''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

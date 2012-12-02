@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Kodra Fura
+| srp_N_name = Kodra Fura
+| srp_N_FULL_NAME_RO = Kodra Fura
+| srp_N_FULL_NAME_ND_RO = Kodra Fura
+| srp_N_SORT_NAME_RG = FURA KODRA
+| srp_N_FULL_NAME_RG = Fura, Kodra
+| srp_N_FULL_NAME_ND_RG = Fura, Kodra
+| eng_V_name = Mount Kodra Pura
+| eng_V_FULL_NAME_RO = Mount Kodra Pura
+| eng_V_FULL_NAME_ND_RO = Mount Kodra Pura
+| eng_V_SORT_NAME_RG = KODRAPURA MOUNT
+| eng_V_FULL_NAME_RG = Kodra Pura, Mount
+| eng_V_FULL_NAME_ND_RG = Kodra Pura, Mount
+| eng_V_name = Mount Kodra Pura
+| eng_V_FULL_NAME_RO = Mount Kodra Pura
+| eng_V_FULL_NAME_ND_RO = Mount Kodra Pura
+| eng_V_SORT_NAME_RG = KODRAPURA MOUNT
+| eng_V_FULL_NAME_RG = Kodra Pura, Mount
+| eng_V_FULL_NAME_ND_RG = Kodra Pura, Mount
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.234444
+ | Gjatësia            = 21.440833
+ | Lartësia            = 
+}}
+'''Kodra Fura''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

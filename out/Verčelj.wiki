@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Verčelj
+| srp_N_name = Verčelj
+| srp_N_FULL_NAME_RO = Verčelj
+| srp_N_FULL_NAME_ND_RO = Vercelj
+| srp_N_SORT_NAME_RG = VERCELJ
+| srp_N_FULL_NAME_RG = Verčelj
+| srp_N_FULL_NAME_ND_RG = Vercelj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.676389
+ | Gjatësia            = 21.623611
+ | Lartësia            = 
+}}
+'''Verčelj''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

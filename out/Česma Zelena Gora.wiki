@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Česma Zelena Gora
+| srp_N_name = Česma Zelena Gora
+| srp_N_FULL_NAME_RO = Česma Zelena Gora
+| srp_N_FULL_NAME_ND_RO = Cesma Zelena Gora
+| srp_N_SORT_NAME_RG = ZELENAGORA CESMA
+| srp_N_FULL_NAME_RG = Zelena Gora, Česma
+| srp_N_FULL_NAME_ND_RG = Zelena Gora, Cesma
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.126111
+ | Gjatësia            = 20.932778
+ | Lartësia            = 
+}}
+'''Česma Zelena Gora''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

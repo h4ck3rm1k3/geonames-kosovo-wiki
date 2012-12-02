@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Adžini
+| sqi_V_name = Açina
+| sqi_V_FULL_NAME_RO = Açina
+| sqi_V_FULL_NAME_ND_RO = Acina
+| sqi_V_SORT_NAME_RG = ACINA
+| sqi_V_FULL_NAME_RG = Açina
+| sqi_V_FULL_NAME_ND_RG = Acina
+| srp_N_name = Adžini
+| srp_N_FULL_NAME_RO = Adžini
+| srp_N_FULL_NAME_ND_RO = Adzini
+| srp_N_SORT_NAME_RG = ADZINI
+| srp_N_FULL_NAME_RG = Adžini
+| srp_N_FULL_NAME_ND_RG = Adzini
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.344722
+ | Gjatësia            = 21.504722
+ | Lartësia            = 
+}}
+'''Adžini''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Vitija
+| srp_N_name = Vitija
+| srp_N_FULL_NAME_RO = Vitija
+| srp_N_FULL_NAME_ND_RO = Vitija
+| srp_N_SORT_NAME_RG = VITIJA
+| srp_N_FULL_NAME_RG = Vitija
+| srp_N_FULL_NAME_ND_RG = Vitija
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prishtinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.652778
+ | Gjatësia            = 21.35
+ | Lartësia            = 
+}}
+'''Vitija''' është një [[Fshat Vogel]] në [[Prishtinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prishtinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prishtinë]]
+[[Kategoria:Vendbanime në Kosovës]]

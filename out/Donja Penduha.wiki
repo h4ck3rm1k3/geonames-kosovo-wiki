@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Donja Penduha
+| srp_N_name = Donja Penduha
+| srp_N_FULL_NAME_RO = Donja Penduha
+| srp_N_FULL_NAME_ND_RO = Donja Penduha
+| srp_N_SORT_NAME_RG = DONJAPENDUHA
+| srp_N_FULL_NAME_RG = Donja Penduha
+| srp_N_FULL_NAME_ND_RG = Donja Penduha
+| srp_V_name = Donja Penduja
+| srp_V_FULL_NAME_RO = Donja Penduja
+| srp_V_FULL_NAME_ND_RO = Donja Penduja
+| srp_V_SORT_NAME_RG = DONJAPENDUJA
+| srp_V_FULL_NAME_RG = Donja Penduja
+| srp_V_FULL_NAME_ND_RG = Donja Penduja
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.841111
+ | Gjatësia            = 21.183889
+ | Lartësia            = 
+}}
+'''Donja Penduha''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

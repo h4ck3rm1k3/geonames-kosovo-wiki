@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Gornja Repa
+| srp_N_name = Gornja Repa
+| srp_N_FULL_NAME_RO = Gornja Repa
+| srp_N_FULL_NAME_ND_RO = Gornja Repa
+| srp_N_SORT_NAME_RG = GORNJAREPA
+| srp_N_FULL_NAME_RG = Gornja Repa
+| srp_N_FULL_NAME_ND_RG = Gornja Repa
+| srp_NS_name = Горња Репа
+| srp_NS_FULL_NAME_RO = Горња Репа
+| srp_NS_FULL_NAME_ND_RO = Горња Репа
+| srp_NS_SORT_NAME_RG = ГОРЊАРЕПА
+| srp_NS_FULL_NAME_RG = Горња Репа
+| srp_NS_FULL_NAME_ND_RG = Горња Репа
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.048611
+ | Gjatësia            = 21.1225
+ | Lartësia            = 
+}}
+'''Gornja Repa''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

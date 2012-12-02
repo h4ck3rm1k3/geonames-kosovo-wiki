@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Saljijevići
+| srp_N_name = Saljijevići
+| srp_N_FULL_NAME_RO = Saljijevići
+| srp_N_FULL_NAME_ND_RO = Saljijevici
+| srp_N_SORT_NAME_RG = SALJIJEVICI
+| srp_N_FULL_NAME_RG = Saljijevići
+| srp_N_FULL_NAME_ND_RG = Saljijevici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kamenicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.796111
+ | Gjatësia            = 20.585833
+ | Lartësia            = 
+}}
+'''Saljijevići''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kamenicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kamenicë]]
+[[Kategoria:Vendbanime në Kosovës]]

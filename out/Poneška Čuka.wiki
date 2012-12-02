@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Poneška Čuka
+| srp_N_name = Poneška Čuka
+| srp_N_FULL_NAME_RO = Poneška Čuka
+| srp_N_FULL_NAME_ND_RO = Poneska Cuka
+| srp_N_SORT_NAME_RG = PONESKACUKA
+| srp_N_FULL_NAME_RG = Poneška Čuka
+| srp_N_FULL_NAME_ND_RG = Poneska Cuka
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.4825
+ | Gjatësia            = 21.3725
+ | Lartësia            = 
+}}
+'''Poneška Čuka''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

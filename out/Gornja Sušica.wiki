@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Gornja Sušica
+| srp_N_name = Gornja Sušica
+| srp_N_FULL_NAME_RO = Gornja Sušica
+| srp_N_FULL_NAME_ND_RO = Gornja Susica
+| srp_N_SORT_NAME_RG = GORNJASUSICA
+| srp_N_FULL_NAME_RG = Gornja Sušica
+| srp_N_FULL_NAME_ND_RG = Gornja Susica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kamenicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.811389
+ | Gjatësia            = 20.576111
+ | Lartësia            = 
+}}
+'''Gornja Sušica''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kamenicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kamenicë]]
+[[Kategoria:Vendbanime në Kosovës]]

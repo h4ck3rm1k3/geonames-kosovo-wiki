@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Dac Mala
+| srp_N_name = Dac Mala
+| srp_N_FULL_NAME_RO = Dac Mala
+| srp_N_FULL_NAME_ND_RO = Dac Mala
+| srp_N_SORT_NAME_RG = DACMALA
+| srp_N_FULL_NAME_RG = Dac Mala
+| srp_N_FULL_NAME_ND_RG = Dac Mala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.160556
+ | Gjatësia            = 21.259722
+ | Lartësia            = 
+}}
+'''Dac Mala''' është një [[Fshat]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

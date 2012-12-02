@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Stara Banjica
+| srp_N_name = Stara Banjica
+| srp_N_FULL_NAME_RO = Stara Banjica
+| srp_N_FULL_NAME_ND_RO = Stara Banjica
+| srp_N_SORT_NAME_RG = STARABANJICA
+| srp_N_FULL_NAME_RG = Stara Banjica
+| srp_N_FULL_NAME_ND_RG = Stara Banjica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.277222
+ | Gjatësia            = 21.150556
+ | Lartësia            = 
+}}
+'''Stara Banjica''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

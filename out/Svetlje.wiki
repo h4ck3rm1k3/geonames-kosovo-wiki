@@ -1,0 +1,62 @@
+{{Fshat në Kosovës
+ | Emri                = Svetlje
+| sqi_V_name = Sfeqël
+| sqi_V_FULL_NAME_RO = Sfeqël Sfeçla Laberioni Laberion Sveçël Sfeçël
+| sqi_V_FULL_NAME_ND_RO = Sfeqel Sfecla Laberioni Laberion Svecel Sfecel
+| sqi_V_SORT_NAME_RG = SFEQEL SFECLA LABERIONI LABERION SVECEL SFECEL
+| sqi_V_FULL_NAME_RG = Sfeqël Sfeçla Laberioni Laberion Sveçël Sfeçël
+| sqi_V_FULL_NAME_ND_RG = Sfeqel Sfecla Laberioni Laberion Svecel Sfecel
+| srp_N_name = Svetlje
+| srp_N_FULL_NAME_RO = Svetlje
+| srp_N_FULL_NAME_ND_RO = Svetlje
+| srp_N_SORT_NAME_RG = SVETLJE
+| srp_N_FULL_NAME_RG = Svetlje
+| srp_N_FULL_NAME_ND_RG = Svetlje
+| srp_NS_name = Светље
+| srp_NS_FULL_NAME_RO = Светље
+| srp_NS_FULL_NAME_ND_RO = Светље
+| srp_NS_SORT_NAME_RG = СВЕТЉЕ
+| srp_NS_FULL_NAME_RG = Светље
+| srp_NS_FULL_NAME_ND_RG = Светље
+| srp_V_name = Svečelj
+| srp_V_FULL_NAME_RO = Svečelj Svećnje Svečelj
+| srp_V_FULL_NAME_ND_RO = Svecelj Svecnje Svecelj
+| srp_V_SORT_NAME_RG = SVECELJ SVECNJE SVECELJ
+| srp_V_FULL_NAME_RG = Svečelj Svećnje Svečelj
+| srp_V_FULL_NAME_ND_RG = Svecelj Svecnje Svecelj
+| srp_VS_name = Свечељ
+| srp_VS_FULL_NAME_RO = Свечељ
+| srp_VS_FULL_NAME_ND_RO = Свечељ
+| srp_VS_SORT_NAME_RG = СВЕЧЕЉ
+| srp_VS_FULL_NAME_RG = Свечељ
+| srp_VS_FULL_NAME_ND_RG = Свечељ
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.876389
+ | Gjatësia            = 21.220556
+ | Lartësia            = 
+}}
+'''Svetlje''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

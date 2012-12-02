@@ -1,0 +1,38 @@
+{{Fshat në macedonia
+ | Emri                = Trpeznica
+| std_N_name = Trpeznica
+| std_N_FULL_NAME_RO = Trpeznica
+| std_N_FULL_NAME_ND_RO = Trpeznica
+| std_N_SORT_NAME_RG = TRPEZNICA
+| std_N_FULL_NAME_RG = Trpeznica
+| std_N_FULL_NAME_ND_RG = Trpeznica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = macedonia
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 41.963333
+ | Gjatësia            = 20.766111
+ | Lartësia            = 
+}}
+'''Trpeznica''' është një [[]] në [[]] të [[macedonia]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në macedonia]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në macedonia]]

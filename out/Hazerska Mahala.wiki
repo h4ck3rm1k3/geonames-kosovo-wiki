@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Hazerska Mahala
+| srp_N_name = Hazerska Mahala
+| srp_N_FULL_NAME_RO = Hazerska Mahala
+| srp_N_FULL_NAME_ND_RO = Hazerska Mahala
+| srp_N_SORT_NAME_RG = HAZERSKAMAHALA
+| srp_N_FULL_NAME_RG = Hazerska Mahala
+| srp_N_FULL_NAME_ND_RG = Hazerska Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.371111
+ | Gjatësia            = 21.559167
+ | Lartësia            = 
+}}
+'''Hazerska Mahala''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

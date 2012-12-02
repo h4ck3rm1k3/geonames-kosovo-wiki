@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Vrelo Mahala
+| srp_N_name = Vrelo Mahala
+| srp_N_FULL_NAME_RO = Vrelo Mahala
+| srp_N_FULL_NAME_ND_RO = Vrelo Mahala
+| srp_N_SORT_NAME_RG = VRELOMAHALA
+| srp_N_FULL_NAME_RG = Vrelo Mahala
+| srp_N_FULL_NAME_ND_RG = Vrelo Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.396389
+ | Gjatësia            = 20.923333
+ | Lartësia            = 
+}}
+'''Vrelo Mahala''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

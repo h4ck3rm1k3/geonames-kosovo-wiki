@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Zaskošnik
+| srp_N_name = Zaskošnik
+| srp_N_FULL_NAME_RO = Zaskošnik
+| srp_N_FULL_NAME_ND_RO = Zaskosnik
+| srp_N_SORT_NAME_RG = ZASKOSNIK
+| srp_N_FULL_NAME_RG = Zaskošnik
+| srp_N_FULL_NAME_ND_RG = Zaskosnik
+| srp_V_name = Zaskošnik Mala
+| srp_V_FULL_NAME_RO = Zaskošnik Mala
+| srp_V_FULL_NAME_ND_RO = Zaskosnik Mala
+| srp_V_SORT_NAME_RG = ZASKOSNIKMALA
+| srp_V_FULL_NAME_RG = Zaskošnik Mala
+| srp_V_FULL_NAME_ND_RG = Zaskosnik Mala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.402222
+ | Gjatësia            = 21.597222
+ | Lartësia            = 
+}}
+'''Zaskošnik''' është një [[Fshat Vogel]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

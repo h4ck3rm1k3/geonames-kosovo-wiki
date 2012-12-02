@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Trešnjevo
+| srp_N_name = Trešnjevo
+| srp_N_FULL_NAME_RO = Trešnjevo
+| srp_N_FULL_NAME_ND_RO = Tresnjevo
+| srp_N_SORT_NAME_RG = TRESNJEVO
+| srp_N_FULL_NAME_RG = Trešnjevo
+| srp_N_FULL_NAME_ND_RG = Tresnjevo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gllogovc
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.594898
+ | Gjatësia            = 21.009818
+ | Lartësia            = 
+}}
+'''Trešnjevo''' është një [[Fshat]] në [[Gllogovc]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gllogovc}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gllogovc]]
+[[Kategoria:Vendbanime në Kosovës]]

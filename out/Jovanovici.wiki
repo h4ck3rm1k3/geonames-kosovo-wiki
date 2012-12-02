@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Jovanovici
+| srp_N_name = Jovanovici
+| srp_N_FULL_NAME_RO = Jovanovici
+| srp_N_FULL_NAME_ND_RO = Jovanovici
+| srp_N_SORT_NAME_RG = JOVANOVICI
+| srp_N_FULL_NAME_RG = Jovanovici
+| srp_N_FULL_NAME_ND_RG = Jovanovici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Suharekë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.723611
+ | Gjatësia            = 20.623611
+ | Lartësia            = 
+}}
+'''Jovanovici''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Suharekë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Suharekë]]
+[[Kategoria:Vendbanime në Kosovës]]

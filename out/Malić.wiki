@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Malić
+| srp_N_name = Malić
+| srp_N_FULL_NAME_RO = Malić
+| srp_N_FULL_NAME_ND_RO = Malic
+| srp_N_SORT_NAME_RG = MALIC
+| srp_N_FULL_NAME_RG = Malić
+| srp_N_FULL_NAME_ND_RG = Malic
+| srp_NS_name = Малић
+| srp_NS_FULL_NAME_RO = Малић
+| srp_NS_FULL_NAME_ND_RO = Малић
+| srp_NS_SORT_NAME_RG = МАЛИЋ
+| srp_NS_FULL_NAME_RG = Малић
+| srp_NS_FULL_NAME_ND_RG = Малић
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.475833
+ | Gjatësia            = 20.771389
+ | Lartësia            = 
+}}
+'''Malić''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

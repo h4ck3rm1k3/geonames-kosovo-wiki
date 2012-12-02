@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Karađino
+| srp_N_name = Karađino
+| srp_N_FULL_NAME_RO = Karađino
+| srp_N_FULL_NAME_ND_RO = Karadino
+| srp_N_SORT_NAME_RG = KARADINO
+| srp_N_FULL_NAME_RG = Karađino
+| srp_N_FULL_NAME_ND_RG = Karadino
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.296667
+ | Gjatësia            = 21.041111
+ | Lartësia            = 
+}}
+'''Karađino''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

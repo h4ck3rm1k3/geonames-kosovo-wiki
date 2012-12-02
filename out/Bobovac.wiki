@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Bobovac
+| srp_N_name = Bobovac
+| srp_N_FULL_NAME_RO = Bobovac
+| srp_N_FULL_NAME_ND_RO = Bobovac
+| srp_N_SORT_NAME_RG = BOBOVAC
+| srp_N_FULL_NAME_RG = Bobovac
+| srp_N_FULL_NAME_ND_RG = Bobovac
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Skënderaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.431389
+ | Gjatësia            = 20.559444
+ | Lartësia            = 
+}}
+'''Bobovac''' është një [[Fshat]] në [[Skënderaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Skënderaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Skënderaj]]
+[[Kategoria:Vendbanime në Kosovës]]

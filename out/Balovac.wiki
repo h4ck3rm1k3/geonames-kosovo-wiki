@@ -1,0 +1,56 @@
+{{Fshat në Kosovës
+ | Emri                = Balovac
+| sqi_V_name = Balloc
+| sqi_V_FULL_NAME_RO = Balloc Ballofci Ballsh Ballshi Ballovc Ballofc
+| sqi_V_FULL_NAME_ND_RO = Balloc Ballofci Ballsh Ballshi Ballovc Ballofc
+| sqi_V_SORT_NAME_RG = BALLOC BALLOFCI BALLSH BALLSHI BALLOVC BALLOFC
+| sqi_V_FULL_NAME_RG = Balloc Ballofci Ballsh Ballshi Ballovc Ballofc
+| sqi_V_FULL_NAME_ND_RG = Balloc Ballofci Ballsh Ballshi Ballovc Ballofc
+| srp_N_name = Balovac
+| srp_N_FULL_NAME_RO = Balovac
+| srp_N_FULL_NAME_ND_RO = Balovac
+| srp_N_SORT_NAME_RG = BALOVAC
+| srp_N_FULL_NAME_RG = Balovac
+| srp_N_FULL_NAME_ND_RG = Balovac
+| srp_NS_name = Баловац
+| srp_NS_FULL_NAME_RO = Баловац
+| srp_NS_FULL_NAME_ND_RO = Баловац
+| srp_NS_SORT_NAME_RG = БАЛОВАЦ
+| srp_NS_FULL_NAME_RG = Баловац
+| srp_NS_FULL_NAME_ND_RG = Баловац
+| srp_V_name = Balovce
+| srp_V_FULL_NAME_RO = Balovce
+| srp_V_FULL_NAME_ND_RO = Balovce
+| srp_V_SORT_NAME_RG = BALOVCE
+| srp_V_FULL_NAME_RG = Balovce
+| srp_V_FULL_NAME_ND_RG = Balovce
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.894622
+ | Gjatësia            = 21.234068
+ | Lartësia            = 
+}}
+'''Balovac''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

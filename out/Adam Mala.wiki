@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Adam Mala
+| srp_N_name = Adam Mala
+| srp_N_FULL_NAME_RO = Adam Mala
+| srp_N_FULL_NAME_ND_RO = Adam Mala
+| srp_N_SORT_NAME_RG = ADAMMALA
+| srp_N_FULL_NAME_RG = Adam Mala
+| srp_N_FULL_NAME_ND_RG = Adam Mala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.186389
+ | Gjatësia            = 21.278056
+ | Lartësia            = 
+}}
+'''Adam Mala''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

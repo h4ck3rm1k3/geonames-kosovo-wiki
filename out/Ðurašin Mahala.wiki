@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ðurašin Mahala
+| srp_N_name = Ðurašin Mahala
+| srp_N_FULL_NAME_RO = Ðurašin Mahala
+| srp_N_FULL_NAME_ND_RO = Durasin Mahala
+| srp_N_SORT_NAME_RG = DURASINMAHALA
+| srp_N_FULL_NAME_RG = Ðurašin Mahala
+| srp_N_FULL_NAME_ND_RG = Durasin Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kaçanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.598333
+ | Gjatësia            = 20.929722
+ | Lartësia            = 
+}}
+'''Ðurašin Mahala''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kaçanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kaçanik]]
+[[Kategoria:Vendbanime në Kosovës]]

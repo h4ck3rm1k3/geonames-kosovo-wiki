@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Epr Mala
+| srp_N_name = Epr Mala
+| srp_N_FULL_NAME_RO = Epr Mala
+| srp_N_FULL_NAME_ND_RO = Epr Mala
+| srp_N_SORT_NAME_RG = EPRMALA
+| srp_N_FULL_NAME_RG = Epr Mala
+| srp_N_FULL_NAME_ND_RG = Epr Mala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtime
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.451389
+ | Gjatësia            = 20.963333
+ | Lartësia            = 
+}}
+'''Epr Mala''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtime}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtime]]
+[[Kategoria:Vendbanime në Kosovës]]

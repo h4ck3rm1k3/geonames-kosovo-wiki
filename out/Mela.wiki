@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Mela
+| srp_N_name = Mela
+| srp_N_FULL_NAME_RO = Mela
+| srp_N_FULL_NAME_ND_RO = Mela
+| srp_N_SORT_NAME_RG = MELA
+| srp_N_FULL_NAME_RG = Mela
+| srp_N_FULL_NAME_ND_RG = Mela
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.8051
+ | Gjatësia            = 21.104608
+ | Lartësia            = 
+}}
+'''Mela''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

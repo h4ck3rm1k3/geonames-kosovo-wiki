@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Perići
+| sqi_V_name = Doshlia
+| sqi_V_FULL_NAME_RO = Doshlia
+| sqi_V_FULL_NAME_ND_RO = Doshlia
+| sqi_V_SORT_NAME_RG = DOSHLIA
+| sqi_V_FULL_NAME_RG = Doshlia
+| sqi_V_FULL_NAME_ND_RG = Doshlia
+| srp_N_name = Perići
+| srp_N_FULL_NAME_RO = Perići
+| srp_N_FULL_NAME_ND_RO = Perici
+| srp_N_SORT_NAME_RG = PERICI
+| srp_N_FULL_NAME_RG = Perići
+| srp_N_FULL_NAME_ND_RG = Perici
+| srp_V_name = Došljaci
+| srp_V_FULL_NAME_RO = Došljaci
+| srp_V_FULL_NAME_ND_RO = Dosljaci
+| srp_V_SORT_NAME_RG = DOSLJACI
+| srp_V_FULL_NAME_RG = Došljaci
+| srp_V_FULL_NAME_ND_RG = Dosljaci
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.536148
+ | Gjatësia            = 21.36189
+ | Lartësia            = 
+}}
+'''Perići''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

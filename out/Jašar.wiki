@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Jašar
+| sqi_V_name = Jashar
+| sqi_V_FULL_NAME_RO = Jashar
+| sqi_V_FULL_NAME_ND_RO = Jashar
+| sqi_V_SORT_NAME_RG = JASHAR
+| sqi_V_FULL_NAME_RG = Jashar
+| sqi_V_FULL_NAME_ND_RG = Jashar
+| srp_N_name = Jašar
+| srp_N_FULL_NAME_RO = Jašar
+| srp_N_FULL_NAME_ND_RO = Jasar
+| srp_N_SORT_NAME_RG = JASAR
+| srp_N_FULL_NAME_RG = Jašar
+| srp_N_FULL_NAME_ND_RG = Jasar
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Viti
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.301111
+ | Gjatësia            = 21.278889
+ | Lartësia            = 
+}}
+'''Jašar''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Viti}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Viti]]
+[[Kategoria:Vendbanime në Kosovës]]

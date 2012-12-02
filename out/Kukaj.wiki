@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kukaj
+| srp_N_name = Kukaj
+| srp_N_FULL_NAME_RO = Kukaj
+| srp_N_FULL_NAME_ND_RO = Kukaj
+| srp_N_SORT_NAME_RG = KUKAJ
+| srp_N_FULL_NAME_RG = Kukaj
+| srp_N_FULL_NAME_ND_RG = Kukaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.339722
+ | Gjatësia            = 20.366944
+ | Lartësia            = 
+}}
+'''Kukaj''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Roga Čiftluk
+| srp_N_name = Roga Čiftluk
+| srp_N_FULL_NAME_RO = Roga Čiftluk
+| srp_N_FULL_NAME_ND_RO = Roga Ciftluk
+| srp_N_SORT_NAME_RG = ROGACIFTLUK
+| srp_N_FULL_NAME_RG = Roga Čiftluk
+| srp_N_FULL_NAME_ND_RG = Roga Ciftluk
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.643056
+ | Gjatësia            = 20.935833
+ | Lartësia            = 
+}}
+'''Roga Čiftluk''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

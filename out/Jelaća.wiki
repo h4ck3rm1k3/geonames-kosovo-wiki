@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Jelaća
+| srp_N_name = Jelaća
+| srp_N_FULL_NAME_RO = Jelaća
+| srp_N_FULL_NAME_ND_RO = Jelaca
+| srp_N_SORT_NAME_RG = JELACA
+| srp_N_FULL_NAME_RG = Jelaća
+| srp_N_FULL_NAME_ND_RG = Jelaca
+| srp_V_name = Jelača Mahala
+| srp_V_FULL_NAME_RO = Jelača Mahala
+| srp_V_FULL_NAME_ND_RO = Jelaca Mahala
+| srp_V_SORT_NAME_RG = JELACAMAHALA
+| srp_V_FULL_NAME_RG = Jelača Mahala
+| srp_V_FULL_NAME_ND_RG = Jelaca Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.650556
+ | Gjatësia            = 21.568333
+ | Lartësia            = 
+}}
+'''Jelaća''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

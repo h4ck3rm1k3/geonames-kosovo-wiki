@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Galič
+| srp_N_name = Galič
+| srp_N_FULL_NAME_RO = Galič
+| srp_N_FULL_NAME_ND_RO = Galic
+| srp_N_SORT_NAME_RG = GALIC
+| srp_N_FULL_NAME_RG = Galič
+| srp_N_FULL_NAME_ND_RG = Galic
+| srp_V_name = Golič
+| srp_V_FULL_NAME_RO = Golič
+| srp_V_FULL_NAME_ND_RO = Golic
+| srp_V_SORT_NAME_RG = GOLIC
+| srp_V_FULL_NAME_RG = Golič
+| srp_V_FULL_NAME_ND_RG = Golic
+| srp_V_name = Golič
+| srp_V_FULL_NAME_RO = Golič
+| srp_V_FULL_NAME_ND_RO = Golic
+| srp_V_SORT_NAME_RG = GOLIC
+| srp_V_FULL_NAME_RG = Golič
+| srp_V_FULL_NAME_ND_RG = Golic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.083611
+ | Gjatësia            = 20.84
+ | Lartësia            = 
+}}
+'''Galič''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

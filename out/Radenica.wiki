@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Radenica
+| srp_N_name = Radenica
+| srp_N_FULL_NAME_RO = Radenica Mahala Radenica
+| srp_N_FULL_NAME_ND_RO = Radenica Mahala Radenica
+| srp_N_SORT_NAME_RG = RADENICA MAHALARADENICA
+| srp_N_FULL_NAME_RG = Radenica Mahala Radenica
+| srp_N_FULL_NAME_ND_RG = Radenica Mahala Radenica
+| srp_V_name = Radenica Mahala
+| srp_V_FULL_NAME_RO = Radenica Mahala
+| srp_V_FULL_NAME_ND_RO = Radenica Mahala
+| srp_V_SORT_NAME_RG = RADENICAMAHALA
+| srp_V_FULL_NAME_RG = Radenica Mahala
+| srp_V_FULL_NAME_ND_RG = Radenica Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.649444
+ | Gjatësia            = 21.658889
+ | Lartësia            = 
+}}
+'''Radenica''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Jošanica
+| sqi_V_name = Jashanicë
+| sqi_V_FULL_NAME_RO = Jashanicë Joshanica Jashanica
+| sqi_V_FULL_NAME_ND_RO = Jashanice Joshanica Jashanica
+| sqi_V_SORT_NAME_RG = JASHANICE JOSHANICA JASHANICA
+| sqi_V_FULL_NAME_RG = Jashanicë Joshanica Jashanica
+| sqi_V_FULL_NAME_ND_RG = Jashanice Joshanica Jashanica
+| srp_N_name = Jošanica
+| srp_N_FULL_NAME_RO = Jošanica
+| srp_N_FULL_NAME_ND_RO = Josanica
+| srp_N_SORT_NAME_RG = JOSANICA
+| srp_N_FULL_NAME_RG = Jošanica
+| srp_N_FULL_NAME_ND_RG = Josanica
+| srp_V_name = Jašanica
+| srp_V_FULL_NAME_RO = Jašanica
+| srp_V_FULL_NAME_ND_RO = Jasanica
+| srp_V_SORT_NAME_RG = JASANICA
+| srp_V_FULL_NAME_RG = Jašanica
+| srp_V_FULL_NAME_ND_RG = Jasanica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.729167
+ | Gjatësia            = 20.039167
+ | Lartësia            = 
+}}
+'''Jošanica''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Čardak
+| srp_N_name = Čardak
+| srp_N_FULL_NAME_RO = Čardak
+| srp_N_FULL_NAME_ND_RO = Cardak
+| srp_N_SORT_NAME_RG = CARDAK
+| srp_N_FULL_NAME_RG = Čardak
+| srp_N_FULL_NAME_ND_RG = Cardak
+| srp_V_name = Čardak Mahala
+| srp_V_FULL_NAME_RO = Čardak Mahala
+| srp_V_FULL_NAME_ND_RO = Cardak Mahala
+| srp_V_SORT_NAME_RG = CARDAKMAHALA
+| srp_V_FULL_NAME_RG = Čardak Mahala
+| srp_V_FULL_NAME_ND_RG = Cardak Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.286389
+ | Gjatësia            = 21.224167
+ | Lartësia            = 
+}}
+'''Čardak''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

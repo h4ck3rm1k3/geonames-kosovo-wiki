@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Bektešević Mahala
+| srp_N_name = Bektešević Mahala
+| srp_N_FULL_NAME_RO = Bektešević Mahala
+| srp_N_FULL_NAME_ND_RO = Bektesevic Mahala
+| srp_N_SORT_NAME_RG = BEKTESEVICMAHALA
+| srp_N_FULL_NAME_RG = Bektešević Mahala
+| srp_N_FULL_NAME_ND_RG = Bektesevic Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.771127
+ | Gjatësia            = 21.041962
+ | Lartësia            = 
+}}
+'''Bektešević Mahala''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Miđanska Mahala
+| srp_N_name = Miđanska Mahala
+| srp_N_FULL_NAME_RO = Miđanska Mahala
+| srp_N_FULL_NAME_ND_RO = Midanska Mahala
+| srp_N_SORT_NAME_RG = MIDANSKAMAHALA
+| srp_N_FULL_NAME_RG = Miđanska Mahala
+| srp_N_FULL_NAME_ND_RG = Midanska Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Rahovec
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.678095
+ | Gjatësia            = 21.010442
+ | Lartësia            = 
+}}
+'''Miđanska Mahala''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Rahovec}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Rahovec]]
+[[Kategoria:Vendbanime në Kosovës]]

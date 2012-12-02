@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Terzić
+| srp_N_name = Terzić
+| srp_N_FULL_NAME_RO = Terzić
+| srp_N_FULL_NAME_ND_RO = Terzic
+| srp_N_SORT_NAME_RG = TERZIC
+| srp_N_FULL_NAME_RG = Terzić
+| srp_N_FULL_NAME_ND_RG = Terzic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.352222
+ | Gjatësia            = 21.517778
+ | Lartësia            = 
+}}
+'''Terzić''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Bublica
+| srp_N_name = Bublica
+| srp_N_FULL_NAME_RO = Bublica
+| srp_N_FULL_NAME_ND_RO = Bublica
+| srp_N_SORT_NAME_RG = BUBLICA
+| srp_N_FULL_NAME_RG = Bublica
+| srp_N_FULL_NAME_ND_RG = Bublica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjakovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.403889
+ | Gjatësia            = 21.13
+ | Lartësia            = 
+}}
+'''Bublica''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjakovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjakovë]]
+[[Kategoria:Vendbanime në Kosovës]]

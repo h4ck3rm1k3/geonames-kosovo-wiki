@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Stanisavljeva Mala
+| srp_N_name = Stanisavljeva Mala
+| srp_N_FULL_NAME_RO = Stanisavljeva Mala
+| srp_N_FULL_NAME_ND_RO = Stanisavljeva Mala
+| srp_N_SORT_NAME_RG = STANISAVLJEVAMALA
+| srp_N_FULL_NAME_RG = Stanisavljeva Mala
+| srp_N_FULL_NAME_ND_RG = Stanisavljeva Mala
+| srp_V_name = Orlićevo
+| srp_V_FULL_NAME_RO = Orlićevo Orlaćevo Orloćevo
+| srp_V_FULL_NAME_ND_RO = Orlicevo Orlacevo Orlocevo
+| srp_V_SORT_NAME_RG = ORLICEVO ORLACEVO ORLOCEVO
+| srp_V_FULL_NAME_RG = Orlićevo Orlaćevo Orloćevo
+| srp_V_FULL_NAME_ND_RG = Orlicevo Orlacevo Orlocevo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtërpcë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.2425
+ | Gjatësia            = 20.974722
+ | Lartësia            = 
+}}
+'''Stanisavljeva Mala''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtërpcë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtërpcë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Roga e Dakes
+| srp_N_name = Roga e Dakes
+| srp_N_FULL_NAME_RO = Roga e Dakes
+| srp_N_FULL_NAME_ND_RO = Roga e Dakes
+| srp_N_SORT_NAME_RG = DAKES ROGAE
+| srp_N_FULL_NAME_RG = Dakes, Roga e
+| srp_N_FULL_NAME_ND_RG = Dakes, Roga e
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.326944
+ | Gjatësia            = 20.371111
+ | Lartësia            = 
+}}
+'''Roga e Dakes''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

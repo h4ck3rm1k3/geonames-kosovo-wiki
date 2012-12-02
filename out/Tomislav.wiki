@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Tomislav
+| srp_N_name = Tomislav
+| srp_N_FULL_NAME_RO = Tomislav
+| srp_N_FULL_NAME_ND_RO = Tomislav
+| srp_N_SORT_NAME_RG = TOMISLAV
+| srp_N_FULL_NAME_RG = Tomislav
+| srp_N_FULL_NAME_ND_RG = Tomislav
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Suharekë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.800833
+ | Gjatësia            = 20.801389
+ | Lartësia            = 
+}}
+'''Tomislav''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Suharekë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Suharekë]]
+[[Kategoria:Vendbanime në Kosovës]]

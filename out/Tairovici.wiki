@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Tairovici
+| srp_N_name = Tairovici
+| srp_N_FULL_NAME_RO = Tairovici
+| srp_N_FULL_NAME_ND_RO = Tairovici
+| srp_N_SORT_NAME_RG = TAIROVICI
+| srp_N_FULL_NAME_RG = Tairovici
+| srp_N_FULL_NAME_ND_RG = Tairovici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Novobërdë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.0025
+ | Gjatësia            = 20.953056
+ | Lartësia            = 
+}}
+'''Tairovici''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Novobërdë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
+[[Kategoria:Vendbanime në Kosovës]]

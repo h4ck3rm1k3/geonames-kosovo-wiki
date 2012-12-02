@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Avdijević Mahala
+| srp_N_name = Avdijević Mahala
+| srp_N_FULL_NAME_RO = Avdijević Mahala
+| srp_N_FULL_NAME_ND_RO = Avdijevic Mahala
+| srp_N_SORT_NAME_RG = AVDIJEVICMAHALA
+| srp_N_FULL_NAME_RG = Avdijević Mahala
+| srp_N_FULL_NAME_ND_RG = Avdijevic Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.406667
+ | Gjatësia            = 20.938889
+ | Lartësia            = 
+}}
+'''Avdijević Mahala''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

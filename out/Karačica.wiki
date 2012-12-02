@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Karačica
+| sqi_V_name = Koraçicë
+| sqi_V_FULL_NAME_RO = Koraçicë
+| sqi_V_FULL_NAME_ND_RO = Koracice
+| sqi_V_SORT_NAME_RG = KORACICE
+| sqi_V_FULL_NAME_RG = Koraçicë
+| sqi_V_FULL_NAME_ND_RG = Koracice
+| srp_N_name = Karačica
+| srp_N_FULL_NAME_RO = Karačica
+| srp_N_FULL_NAME_ND_RO = Karacica
+| srp_N_SORT_NAME_RG = KARACICA
+| srp_N_FULL_NAME_RG = Karačica
+| srp_N_FULL_NAME_ND_RG = Karacica
+| srp_V_name = Koračica
+| srp_V_FULL_NAME_RO = Koračica
+| srp_V_FULL_NAME_ND_RO = Koracica
+| srp_V_SORT_NAME_RG = KORACICA
+| srp_V_FULL_NAME_RG = Koračica
+| srp_V_FULL_NAME_ND_RG = Koracica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.468333
+ | Gjatësia            = 20.906389
+ | Lartësia            = 
+}}
+'''Karačica''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

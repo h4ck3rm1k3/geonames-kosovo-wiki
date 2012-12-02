@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Rapunska Mahala
+| srp_D_name = Rapunska Mahala
+| srp_D_FULL_NAME_RO = Rapunska Mahala
+| srp_D_FULL_NAME_ND_RO = Rapunska Mahala
+| srp_D_SORT_NAME_RG = RAPUNSKAMAHALA
+| srp_D_FULL_NAME_RG = Rapunska Mahala
+| srp_D_FULL_NAME_ND_RG = Rapunska Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.631389
+ | Gjatësia            = 21.720833
+ | Lartësia            = 
+}}
+'''Rapunska Mahala''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

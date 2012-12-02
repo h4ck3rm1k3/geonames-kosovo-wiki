@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Pejovići
+| srp_N_name = Pejovići
+| srp_N_FULL_NAME_RO = Pejovići
+| srp_N_FULL_NAME_ND_RO = Pejovici
+| srp_N_SORT_NAME_RG = PEJOVICI
+| srp_N_FULL_NAME_RG = Pejovići
+| srp_N_FULL_NAME_ND_RG = Pejovici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zveçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.0275
+ | Gjatësia            = 20.753333
+ | Lartësia            = 
+}}
+'''Pejovići''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zveçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zveçan]]
+[[Kategoria:Vendbanime në Kosovës]]

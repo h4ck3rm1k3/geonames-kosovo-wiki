@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Gornje Semanje
+| srp_N_name = Gornje Semanje
+| srp_N_FULL_NAME_RO = Gornje Semanje
+| srp_N_FULL_NAME_ND_RO = Gornje Semanje
+| srp_N_SORT_NAME_RG = GORNJESEMANJE
+| srp_N_FULL_NAME_RG = Gornje Semanje
+| srp_N_FULL_NAME_ND_RG = Gornje Semanje
+| srp_V_name = Gornja Semanja
+| srp_V_FULL_NAME_RO = Gornja Semanja
+| srp_V_FULL_NAME_ND_RO = Gornja Semanja
+| srp_V_SORT_NAME_RG = GORNJASEMANJA
+| srp_V_FULL_NAME_RG = Gornja Semanja
+| srp_V_FULL_NAME_ND_RG = Gornja Semanja
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.287222
+ | Gjatësia            = 21.119722
+ | Lartësia            = 
+}}
+'''Gornje Semanje''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

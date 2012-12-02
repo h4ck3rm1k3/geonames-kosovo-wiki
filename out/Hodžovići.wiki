@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Hodžovići
+| srp_N_name = Hodžovići
+| srp_N_FULL_NAME_RO = Hodžovići
+| srp_N_FULL_NAME_ND_RO = Hodzovici
+| srp_N_SORT_NAME_RG = HODZOVICI
+| srp_N_FULL_NAME_RG = Hodžovići
+| srp_N_FULL_NAME_ND_RG = Hodzovici
+| srp_V_name = Hodžina Mahala
+| srp_V_FULL_NAME_RO = Hodžina Mahala
+| srp_V_FULL_NAME_ND_RO = Hodzina Mahala
+| srp_V_SORT_NAME_RG = HODZINAMAHALA
+| srp_V_FULL_NAME_RG = Hodžina Mahala
+| srp_V_FULL_NAME_ND_RG = Hodzina Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.522215
+ | Gjatësia            = 21.377771
+ | Lartësia            = 
+}}
+'''Hodžovići''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Bištaj
+| srp_N_name = Bištaj
+| srp_N_FULL_NAME_RO = Bištaj
+| srp_N_FULL_NAME_ND_RO = Bistaj
+| srp_N_SORT_NAME_RG = BISTAJ
+| srp_N_FULL_NAME_RG = Bištaj
+| srp_N_FULL_NAME_ND_RG = Bistaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.385
+ | Gjatësia            = 21.604167
+ | Lartësia            = 
+}}
+'''Bištaj''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

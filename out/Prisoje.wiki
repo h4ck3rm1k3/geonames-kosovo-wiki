@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Prisoje
+| srp_N_name = Prisoje
+| srp_N_FULL_NAME_RO = Prisoje
+| srp_N_FULL_NAME_ND_RO = Prisoje
+| srp_N_SORT_NAME_RG = PRISOJE
+| srp_N_FULL_NAME_RG = Prisoje
+| srp_N_FULL_NAME_ND_RG = Prisoje
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.071389
+ | Gjatësia            = 20.813889
+ | Lartësia            = 
+}}
+'''Prisoje''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Brehov
+| srp_N_name = Brehov
+| srp_N_FULL_NAME_RO = Brehov
+| srp_N_FULL_NAME_ND_RO = Brehov
+| srp_N_SORT_NAME_RG = BREHOV
+| srp_N_FULL_NAME_RG = Brehov
+| srp_N_FULL_NAME_ND_RG = Brehov
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.525
+ | Gjatësia            = 20.156111
+ | Lartësia            = 
+}}
+'''Brehov''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

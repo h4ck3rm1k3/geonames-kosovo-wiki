@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Devojkin Kamen
+| srp_D_name = Devojkin Kamen
+| srp_D_FULL_NAME_RO = Devojkin Kamen
+| srp_D_FULL_NAME_ND_RO = Devojkin Kamen
+| srp_D_SORT_NAME_RG = DEVOJKINKAMEN
+| srp_D_FULL_NAME_RG = Devojkin Kamen
+| srp_D_FULL_NAME_ND_RG = Devojkin Kamen
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.689444
+ | Gjatësia            = 21.720833
+ | Lartësia            = 
+}}
+'''Devojkin Kamen''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

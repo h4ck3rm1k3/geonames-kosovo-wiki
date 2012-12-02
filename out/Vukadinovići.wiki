@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Vukadinovići
+| sqi_V_name = Zhivodere
+| sqi_V_FULL_NAME_RO = Zhivodere
+| sqi_V_FULL_NAME_ND_RO = Zhivodere
+| sqi_V_SORT_NAME_RG = ZHIVODERE
+| sqi_V_FULL_NAME_RG = Zhivodere
+| sqi_V_FULL_NAME_ND_RG = Zhivodere
+| srp_N_name = Vukadinovići
+| srp_N_FULL_NAME_RO = Vukadinovići
+| srp_N_FULL_NAME_ND_RO = Vukadinovici
+| srp_N_SORT_NAME_RG = VUKADINOVICI
+| srp_N_FULL_NAME_RG = Vukadinovići
+| srp_N_FULL_NAME_ND_RG = Vukadinovici
+| srp_V_name = Živodere
+| srp_V_FULL_NAME_RO = Živodere
+| srp_V_FULL_NAME_ND_RO = Zivodere
+| srp_V_SORT_NAME_RG = ZIVODERE
+| srp_V_FULL_NAME_RG = Živodere
+| srp_V_FULL_NAME_ND_RG = Zivodere
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.189444
+ | Gjatësia            = 20.646389
+ | Lartësia            = 
+}}
+'''Vukadinovići''' është një [[Fshat Vogel]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Gornji Muhadžeri
+| srp_N_name = Gornji Muhadžeri
+| srp_N_FULL_NAME_RO = Gornji Muhadžeri
+| srp_N_FULL_NAME_ND_RO = Gornji Muhadzeri
+| srp_N_SORT_NAME_RG = GORNJIMUHADZERI
+| srp_N_FULL_NAME_RG = Gornji Muhadžeri
+| srp_N_FULL_NAME_ND_RG = Gornji Muhadzeri
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.444444
+ | Gjatësia            = 21.4375
+ | Lartësia            = 
+}}
+'''Gornji Muhadžeri''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

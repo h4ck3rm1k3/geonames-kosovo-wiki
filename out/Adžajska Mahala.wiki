@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Adžajska Mahala
+| srp_N_name = Adžajska Mahala
+| srp_N_FULL_NAME_RO = Adžajska Mahala
+| srp_N_FULL_NAME_ND_RO = Adzajska Mahala
+| srp_N_SORT_NAME_RG = ADZAJSKAMAHALA
+| srp_N_FULL_NAME_RG = Adžajska Mahala
+| srp_N_FULL_NAME_ND_RG = Adzajska Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.753495
+ | Gjatësia            = 21.047488
+ | Lartësia            = 
+}}
+'''Adžajska Mahala''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

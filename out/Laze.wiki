@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Laze
+| sqi_V_name = Llazet e Haxhajve
+| sqi_V_FULL_NAME_RO = Llazet e Haxhajve
+| sqi_V_FULL_NAME_ND_RO = Llazet e Haxhajve
+| sqi_V_SORT_NAME_RG = LLAZETEHAXHAJVE
+| sqi_V_FULL_NAME_RG = Llazet e Haxhajve
+| sqi_V_FULL_NAME_ND_RG = Llazet e Haxhajve
+| srp_N_name = Laze
+| srp_N_FULL_NAME_RO = Laze
+| srp_N_FULL_NAME_ND_RO = Laze
+| srp_N_SORT_NAME_RG = LAZE
+| srp_N_FULL_NAME_RG = Laze
+| srp_N_FULL_NAME_ND_RG = Laze
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.738333
+ | Gjatësia            = 20.047222
+ | Lartësia            = 
+}}
+'''Laze''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

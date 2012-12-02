@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Grčevo
+| srp_N_name = Grčevo
+| srp_N_FULL_NAME_RO = Grčevo
+| srp_N_FULL_NAME_ND_RO = Grcevo
+| srp_N_SORT_NAME_RG = GRCEVO
+| srp_N_FULL_NAME_RG = Grčevo
+| srp_N_FULL_NAME_ND_RG = Grcevo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.186944
+ | Gjatësia            = 20.700278
+ | Lartësia            = 
+}}
+'''Grčevo''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Gornje Maleševo
+| srp_N_name = Gornje Maleševo
+| srp_N_FULL_NAME_RO = Gornje Maleševo
+| srp_N_FULL_NAME_ND_RO = Gornje Malesevo
+| srp_N_SORT_NAME_RG = GORNJEMALESEVO
+| srp_N_FULL_NAME_RG = Gornje Maleševo
+| srp_N_FULL_NAME_ND_RG = Gornje Malesevo
+| srp_V_name = Gornja Maleševo
+| srp_V_FULL_NAME_RO = Gornja Maleševo
+| srp_V_FULL_NAME_ND_RO = Gornja Malesevo
+| srp_V_SORT_NAME_RG = GORNJAMALESEVO
+| srp_V_FULL_NAME_RG = Gornja Maleševo
+| srp_V_FULL_NAME_ND_RG = Gornja Malesevo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.467778
+ | Gjatësia            = 21.521667
+ | Lartësia            = 
+}}
+'''Gornje Maleševo''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

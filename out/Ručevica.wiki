@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Ručevica
+| srp_N_name = Ručevica
+| srp_N_FULL_NAME_RO = Ručevica
+| srp_N_FULL_NAME_ND_RO = Rucevica
+| srp_N_SORT_NAME_RG = RUCEVICA
+| srp_N_FULL_NAME_RG = Ručevica
+| srp_N_FULL_NAME_ND_RG = Rucevica
+| srp_V_name = Mahala Ručevica
+| srp_V_FULL_NAME_RO = Mahala Ručevica
+| srp_V_FULL_NAME_ND_RO = Mahala Rucevica
+| srp_V_SORT_NAME_RG = MAHALARUCEVICA
+| srp_V_FULL_NAME_RG = Mahala Ručevica
+| srp_V_FULL_NAME_ND_RG = Mahala Rucevica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.634722
+ | Gjatësia            = 21.522222
+ | Lartësia            = 
+}}
+'''Ručevica''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Bramatok
+| srp_N_name = Bramatok
+| srp_N_FULL_NAME_RO = Bramatok
+| srp_N_FULL_NAME_ND_RO = Bramatok
+| srp_N_SORT_NAME_RG = BRAMATOK
+| srp_N_FULL_NAME_RG = Bramatok
+| srp_N_FULL_NAME_ND_RG = Bramatok
+| srp_NS_name = Браматок
+| srp_NS_FULL_NAME_RO = Браматок
+| srp_NS_FULL_NAME_ND_RO = Браматок
+| srp_NS_SORT_NAME_RG = БРАМАТОК
+| srp_NS_FULL_NAME_RG = Браматок
+| srp_NS_FULL_NAME_ND_RG = Браматок
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.474722
+ | Gjatësia            = 20.3075
+ | Lartësia            = 
+}}
+'''Bramatok''' është një [[Fshat]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kodra e Bajrakut
+| srp_N_name = Kodra e Bajrakut
+| srp_N_FULL_NAME_RO = Kodra e Bajrakut
+| srp_N_FULL_NAME_ND_RO = Kodra e Bajrakut
+| srp_N_SORT_NAME_RG = BAJRAKUT KODRAE
+| srp_N_FULL_NAME_RG = Bajrakut, Kodra e
+| srp_N_FULL_NAME_ND_RG = Bajrakut, Kodra e
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.358889
+ | Gjatësia            = 21.256111
+ | Lartësia            = 
+}}
+'''Kodra e Bajrakut''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

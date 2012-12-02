@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Toplanaj
+| srp_N_name = Toplanaj
+| srp_N_FULL_NAME_RO = Toplanaj
+| srp_N_FULL_NAME_ND_RO = Toplanaj
+| srp_N_SORT_NAME_RG = TOPLANAJ
+| srp_N_FULL_NAME_RG = Toplanaj
+| srp_N_FULL_NAME_ND_RG = Toplanaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.628611
+ | Gjatësia            = 20.621667
+ | Lartësia            = 
+}}
+'''Toplanaj''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Albanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Vendbanime në Kosovës]]

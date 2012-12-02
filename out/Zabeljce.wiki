@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Zabeljce
+| srp_N_name = Zabeljce
+| srp_N_FULL_NAME_RO = Zabeljce
+| srp_N_FULL_NAME_ND_RO = Zabeljce
+| srp_N_SORT_NAME_RG = ZABELJCE
+| srp_N_FULL_NAME_RG = Zabeljce
+| srp_N_FULL_NAME_ND_RG = Zabeljce
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Obiliq
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.585556
+ | Gjatësia            = 21.395833
+ | Lartësia            = 
+}}
+'''Zabeljce''' është një [[Fshat]] në [[Obiliq]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Obiliq}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Obiliq]]
+[[Kategoria:Vendbanime në Kosovës]]

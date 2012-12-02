@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Gornja Ljuža
+| srp_N_name = Gornja Ljuža
+| srp_N_FULL_NAME_RO = Gornja Ljuža
+| srp_N_FULL_NAME_ND_RO = Gornja Ljuza
+| srp_N_SORT_NAME_RG = GORNJALJUZA
+| srp_N_FULL_NAME_RG = Gornja Ljuža
+| srp_N_FULL_NAME_ND_RG = Gornja Ljuza
+| srp_V_name = Luža
+| srp_V_FULL_NAME_RO = Luža Ljuža
+| srp_V_FULL_NAME_ND_RO = Luza Ljuza
+| srp_V_SORT_NAME_RG = LUZA LJUZA
+| srp_V_FULL_NAME_RG = Luža Ljuža
+| srp_V_FULL_NAME_ND_RG = Luza Ljuza
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.3125
+ | Gjatësia            = 21.262222
+ | Lartësia            = 
+}}
+'''Gornja Ljuža''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

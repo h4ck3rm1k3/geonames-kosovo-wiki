@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Zli Potok
+| srp_N_name = Zli Potok
+| srp_N_FULL_NAME_RO = Zli Potok
+| srp_N_FULL_NAME_ND_RO = Zli Potok
+| srp_N_SORT_NAME_RG = ZLIPOTOK
+| srp_N_FULL_NAME_RG = Zli Potok
+| srp_N_FULL_NAME_ND_RG = Zli Potok
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 41.974722
+ | Gjatësia            = 20.644444
+ | Lartësia            = 
+}}
+'''Zli Potok''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

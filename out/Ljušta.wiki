@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Ljušta
+| srp_N_name = Ljušta
+| srp_N_FULL_NAME_RO = Ljušta
+| srp_N_FULL_NAME_ND_RO = Ljusta
+| srp_N_SORT_NAME_RG = LJUSTA
+| srp_N_FULL_NAME_RG = Ljušta
+| srp_N_FULL_NAME_ND_RG = Ljusta
+| srp_V_name = Ljušta Reka
+| srp_V_FULL_NAME_RO = Ljušta Reka
+| srp_V_FULL_NAME_ND_RO = Ljusta Reka
+| srp_V_SORT_NAME_RG = LJUSTAREKA
+| srp_V_FULL_NAME_RG = Ljušta Reka
+| srp_V_FULL_NAME_ND_RG = Ljusta Reka
+| srp_V_name = Ljušta Reka
+| srp_V_FULL_NAME_RO = Ljušta Reka
+| srp_V_FULL_NAME_ND_RO = Ljusta Reka
+| srp_V_SORT_NAME_RG = LJUSTAREKA
+| srp_V_FULL_NAME_RG = Ljušta Reka
+| srp_V_FULL_NAME_ND_RG = Ljusta Reka
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.901389
+ | Gjatësia            = 20.873056
+ | Lartësia            = 
+}}
+'''Ljušta''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

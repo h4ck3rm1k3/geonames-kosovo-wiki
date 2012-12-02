@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Baljevička Mahala
+| srp_N_name = Baljevička Mahala
+| srp_N_FULL_NAME_RO = Baljevička Mahala
+| srp_N_FULL_NAME_ND_RO = Baljevicka Mahala
+| srp_N_SORT_NAME_RG = BALJEVICKAMAHALA
+| srp_N_FULL_NAME_RG = Baljevička Mahala
+| srp_N_FULL_NAME_ND_RG = Baljevicka Mahala
+| srp_V_name = Baljevicka Ka Mahala
+| srp_V_FULL_NAME_RO = Baljevicka Ka Mahala
+| srp_V_FULL_NAME_ND_RO = Baljevicka Ka Mahala
+| srp_V_SORT_NAME_RG = BALJEVICKAKAMAHALA
+| srp_V_FULL_NAME_RG = Baljevicka Ka Mahala
+| srp_V_FULL_NAME_ND_RG = Baljevicka Ka Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.686389
+ | Gjatësia            = 21.699722
+ | Lartësia            = 
+}}
+'''Baljevička Mahala''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

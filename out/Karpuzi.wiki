@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Karpuzi
+| srp_N_name = Karpuzi
+| srp_N_FULL_NAME_RO = Karpuzi
+| srp_N_FULL_NAME_ND_RO = Karpuzi
+| srp_N_SORT_NAME_RG = KARPUZI
+| srp_N_FULL_NAME_RG = Karpuzi
+| srp_N_FULL_NAME_ND_RG = Karpuzi
+| srp_NS_name = Карпузи
+| srp_NS_FULL_NAME_RO = Карпузи
+| srp_NS_FULL_NAME_ND_RO = Карпузи
+| srp_NS_SORT_NAME_RG = КАРПУЗИ
+| srp_NS_FULL_NAME_RG = Карпузи
+| srp_NS_FULL_NAME_ND_RG = Карпузи
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Malishevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.496667
+ | Gjatësia            = 20.923333
+ | Lartësia            = 
+}}
+'''Karpuzi''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Malishevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Malishevë]]
+[[Kategoria:Vendbanime në Kosovës]]

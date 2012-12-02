@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Lokma Mahala
+| srp_N_name = Lokma Mahala
+| srp_N_FULL_NAME_RO = Lokma Mahala
+| srp_N_FULL_NAME_ND_RO = Lokma Mahala
+| srp_N_SORT_NAME_RG = LOKMAMAHALA
+| srp_N_FULL_NAME_RG = Lokma Mahala
+| srp_N_FULL_NAME_ND_RG = Lokma Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kaçanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.58
+ | Gjatësia            = 20.826667
+ | Lartësia            = 
+}}
+'''Lokma Mahala''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kaçanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kaçanik]]
+[[Kategoria:Vendbanime në Kosovës]]

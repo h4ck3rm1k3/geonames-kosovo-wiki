@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Gornji Nec
+| srp_N_name = Gornji Nec
+| srp_N_FULL_NAME_RO = Gornji Nec
+| srp_N_FULL_NAME_ND_RO = Gornji Nec
+| srp_N_SORT_NAME_RG = GORNJINEC
+| srp_N_FULL_NAME_RG = Gornji Nec
+| srp_N_FULL_NAME_ND_RG = Gornji Nec
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.416389
+ | Gjatësia            = 20.312778
+ | Lartësia            = 
+}}
+'''Gornji Nec''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Mučubelj
+| srp_N_name = Mučubelj
+| srp_N_FULL_NAME_RO = Mučubelj
+| srp_N_FULL_NAME_ND_RO = Mucubelj
+| srp_N_SORT_NAME_RG = MUCUBELJ
+| srp_N_FULL_NAME_RG = Mučubelj
+| srp_N_FULL_NAME_ND_RG = Mucubelj
+| srp_NS_name = Мучибељ
+| srp_NS_FULL_NAME_RO = Мучибељ
+| srp_NS_FULL_NAME_ND_RO = Мучибељ
+| srp_NS_SORT_NAME_RG = МУЧИБЕЉ
+| srp_NS_FULL_NAME_RG = Мучибељ
+| srp_NS_FULL_NAME_ND_RG = Мучибељ
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.5975
+ | Gjatësia            = 20.767778
+ | Lartësia            = 
+}}
+'''Mučubelj''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

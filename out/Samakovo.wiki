@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Samakovo
+| srp_N_name = Samakovo
+| srp_N_FULL_NAME_RO = Samakovo
+| srp_N_FULL_NAME_ND_RO = Samakovo
+| srp_N_SORT_NAME_RG = SAMAKOVO
+| srp_N_FULL_NAME_RG = Samakovo
+| srp_N_FULL_NAME_ND_RG = Samakovo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Viti
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.259444
+ | Gjatësia            = 21.341667
+ | Lartësia            = 
+}}
+'''Samakovo''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Viti}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Viti]]
+[[Kategoria:Vendbanime në Kosovës]]

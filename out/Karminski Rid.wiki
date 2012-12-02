@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Karminski Rid
+| srp_N_name = Karminski Rid
+| srp_N_FULL_NAME_RO = Karminski Rid
+| srp_N_FULL_NAME_ND_RO = Karminski Rid
+| srp_N_SORT_NAME_RG = KARMINSKIRID
+| srp_N_FULL_NAME_RG = Karminski Rid
+| srp_N_FULL_NAME_ND_RG = Karminski Rid
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.490278
+ | Gjatësia            = 21.647778
+ | Lartësia            = 
+}}
+'''Karminski Rid''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

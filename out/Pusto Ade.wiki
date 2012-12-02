@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Pusto Ade
+| srp_N_name = Pusto Ade
+| srp_N_FULL_NAME_RO = Pusto Ade
+| srp_N_FULL_NAME_ND_RO = Pusto Ade
+| srp_N_SORT_NAME_RG = PUSTOADE
+| srp_N_FULL_NAME_RG = Pusto Ade
+| srp_N_FULL_NAME_ND_RG = Pusto Ade
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Rahovec
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.653341
+ | Gjatësia            = 21.035628
+ | Lartësia            = 
+}}
+'''Pusto Ade''' është një [[Fshat]] në [[Rahovec]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Rahovec}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Rahovec]]
+[[Kategoria:Vendbanime në Kosovës]]

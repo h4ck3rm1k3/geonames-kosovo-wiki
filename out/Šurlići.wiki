@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Šurlići
+| srp_N_name = Šurlići
+| srp_N_FULL_NAME_RO = Šurlići
+| srp_N_FULL_NAME_ND_RO = Surlici
+| srp_N_SORT_NAME_RG = SURLICI
+| srp_N_FULL_NAME_RG = Šurlići
+| srp_N_FULL_NAME_ND_RG = Surlici
+| srp_NS_name = Шурлићи
+| srp_NS_FULL_NAME_RO = Шурлићи
+| srp_NS_FULL_NAME_ND_RO = Шурлићи
+| srp_NS_SORT_NAME_RG = ШУРЛИЋИ
+| srp_NS_FULL_NAME_RG = Шурлићи
+| srp_NS_FULL_NAME_ND_RG = Шурлићи
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Malishevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.523889
+ | Gjatësia            = 20.923889
+ | Lartësia            = 
+}}
+'''Šurlići''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Malishevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Malishevë]]
+[[Kategoria:Vendbanime në Kosovës]]

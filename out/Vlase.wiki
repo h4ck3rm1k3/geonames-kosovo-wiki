@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Vlase
+| sqi_V_name = Vllasaj
+| sqi_V_FULL_NAME_RO = Vllasaj Vllasali
+| sqi_V_FULL_NAME_ND_RO = Vllasaj Vllasali
+| sqi_V_SORT_NAME_RG = VLLASAJ VLLASALI
+| sqi_V_FULL_NAME_RG = Vllasaj Vllasali
+| sqi_V_FULL_NAME_ND_RG = Vllasaj Vllasali
+| srp_N_name = Vlase
+| srp_N_FULL_NAME_RO = Vlase
+| srp_N_FULL_NAME_ND_RO = Vlase
+| srp_N_SORT_NAME_RG = VLASE
+| srp_N_FULL_NAME_RG = Vlase
+| srp_N_FULL_NAME_ND_RG = Vlase
+| srp_V_name = Mahala Vlase
+| srp_V_FULL_NAME_RO = Mahala Vlase
+| srp_V_FULL_NAME_ND_RO = Mahala Vlase
+| srp_V_SORT_NAME_RG = MAHALAVLASE
+| srp_V_FULL_NAME_RG = Mahala Vlase
+| srp_V_FULL_NAME_ND_RG = Mahala Vlase
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Obiliq
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.619722
+ | Gjatësia            = 21.396667
+ | Lartësia            = 
+}}
+'''Vlase''' është një [[Fshat]] në [[Obiliq]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Obiliq}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Obiliq]]
+[[Kategoria:Vendbanime në Kosovës]]

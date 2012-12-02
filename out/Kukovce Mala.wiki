@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kukovce Mala
+| srp_N_name = Kukovce Mala
+| srp_N_FULL_NAME_RO = Kukovce Mala
+| srp_N_FULL_NAME_ND_RO = Kukovce Mala
+| srp_N_SORT_NAME_RG = KUKOVCEMALA
+| srp_N_FULL_NAME_RG = Kukovce Mala
+| srp_N_FULL_NAME_ND_RG = Kukovce Mala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.395278
+ | Gjatësia            = 21.625
+ | Lartësia            = 
+}}
+'''Kukovce Mala''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Han Grižani
+| sqi_V_name = Han-Grizhani
+| sqi_V_FULL_NAME_RO = Han-Grizhani
+| sqi_V_FULL_NAME_ND_RO = Han-Grizhani
+| sqi_V_SORT_NAME_RG = HANGRIZHANI
+| sqi_V_FULL_NAME_RG = Han-Grizhani
+| sqi_V_FULL_NAME_ND_RG = Han-Grizhani
+| srp_N_name = Han Grižani
+| srp_N_FULL_NAME_RO = Han Grižani
+| srp_N_FULL_NAME_ND_RO = Han Grizani
+| srp_N_SORT_NAME_RG = HANGRIZANI
+| srp_N_FULL_NAME_RG = Han Grižani
+| srp_N_FULL_NAME_ND_RG = Han Grizani
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zveçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.035
+ | Gjatësia            = 20.712778
+ | Lartësia            = 
+}}
+'''Han Grižani''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zveçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zveçan]]
+[[Kategoria:Vendbanime në Kosovës]]

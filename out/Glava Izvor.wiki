@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Glava Izvor
+| srp_N_name = Glava Izvor
+| srp_N_FULL_NAME_RO = Glava Izvor
+| srp_N_FULL_NAME_ND_RO = Glava Izvor
+| srp_N_SORT_NAME_RG = GLAVAIZVOR
+| srp_N_FULL_NAME_RG = Glava Izvor
+| srp_N_FULL_NAME_ND_RG = Glava Izvor
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.182222
+ | Gjatësia            = 20.746111
+ | Lartësia            = 
+}}
+'''Glava Izvor''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Kurtaj
+| srp_N_name = Kurtaj
+| srp_N_FULL_NAME_RO = Kurtaj
+| srp_N_FULL_NAME_ND_RO = Kurtaj
+| srp_N_SORT_NAME_RG = KURTAJ
+| srp_N_FULL_NAME_RG = Kurtaj
+| srp_N_FULL_NAME_ND_RG = Kurtaj
+| srp_V_name = Mahala Kurtović
+| srp_V_FULL_NAME_RO = Mahala Kurtović
+| srp_V_FULL_NAME_ND_RO = Mahala Kurtovic
+| srp_V_SORT_NAME_RG = MAHALAKURTOVIC
+| srp_V_FULL_NAME_RG = Mahala Kurtović
+| srp_V_FULL_NAME_ND_RG = Mahala Kurtovic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.6825
+ | Gjatësia            = 21.554444
+ | Lartësia            = 
+}}
+'''Kurtaj''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

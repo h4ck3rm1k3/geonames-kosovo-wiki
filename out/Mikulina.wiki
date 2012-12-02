@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Mikulina
+| srp_N_name = Mikulina
+| srp_N_FULL_NAME_RO = Mikulina
+| srp_N_FULL_NAME_ND_RO = Mikulina
+| srp_N_SORT_NAME_RG = MIKULINA
+| srp_N_FULL_NAME_RG = Mikulina
+| srp_N_FULL_NAME_ND_RG = Mikulina
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.054722
+ | Gjatësia            = 20.846667
+ | Lartësia            = 
+}}
+'''Mikulina''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

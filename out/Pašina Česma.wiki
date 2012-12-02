@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Pašina Česma
+| srp_N_name = Pašina Česma
+| srp_N_FULL_NAME_RO = Pašina Česma
+| srp_N_FULL_NAME_ND_RO = Pasina Cesma
+| srp_N_SORT_NAME_RG = PASINACESMA
+| srp_N_FULL_NAME_RG = Pašina Česma
+| srp_N_FULL_NAME_ND_RG = Pasina Cesma
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.586944
+ | Gjatësia            = 20.095556
+ | Lartësia            = 
+}}
+'''Pašina Česma''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

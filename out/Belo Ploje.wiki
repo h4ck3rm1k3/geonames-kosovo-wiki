@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Belo Ploje
+| srp_N_name = Belo Ploje
+| srp_N_FULL_NAME_RO = Belo Ploje
+| srp_N_FULL_NAME_ND_RO = Belo Ploje
+| srp_N_SORT_NAME_RG = BELOPLOJE
+| srp_N_FULL_NAME_RG = Belo Ploje
+| srp_N_FULL_NAME_ND_RG = Belo Ploje
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.996944
+ | Gjatësia            = 20.827222
+ | Lartësia            = 
+}}
+'''Belo Ploje''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

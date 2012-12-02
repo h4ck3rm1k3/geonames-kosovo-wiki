@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Železnička Stanica Kačanik
+| srp_N_name = Železnička Stanica Kačanik
+| srp_N_FULL_NAME_RO = Železnička Stanica Kačanik
+| srp_N_FULL_NAME_ND_RO = Zeleznicka Stanica Kacanik
+| srp_N_SORT_NAME_RG = KACANIK ZELEZNICKASTANICA
+| srp_N_FULL_NAME_RG = Kačanik, Železnička Stanica
+| srp_N_FULL_NAME_ND_RG = Kacanik, Zeleznicka Stanica
+| srp_V_name = Stanica Kačanik
+| srp_V_FULL_NAME_RO = Stanica Kačanik
+| srp_V_FULL_NAME_ND_RO = Stanica Kacanik
+| srp_V_SORT_NAME_RG = KACANIK STANICA
+| srp_V_FULL_NAME_RG = Kačanik, Stanica
+| srp_V_FULL_NAME_ND_RG = Kacanik, Stanica
+| srp_V_name = Stanica Kačanik
+| srp_V_FULL_NAME_RO = Stanica Kačanik
+| srp_V_FULL_NAME_ND_RO = Stanica Kacanik
+| srp_V_SORT_NAME_RG = KACANIK STANICA
+| srp_V_FULL_NAME_RG = Kačanik, Stanica
+| srp_V_FULL_NAME_ND_RG = Kacanik, Stanica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.233056
+ | Gjatësia            = 21.255278
+ | Lartësia            = 
+}}
+'''Železnička Stanica Kačanik''' është një [[]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

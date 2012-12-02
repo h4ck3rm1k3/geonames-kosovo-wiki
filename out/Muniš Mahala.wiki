@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Muniš Mahala
+| srp_N_name = Muniš Mahala
+| srp_N_FULL_NAME_RO = Muniš Mahala
+| srp_N_FULL_NAME_ND_RO = Munis Mahala
+| srp_N_SORT_NAME_RG = MUNISMAHALA
+| srp_N_FULL_NAME_RG = Muniš Mahala
+| srp_N_FULL_NAME_ND_RG = Munis Mahala
+| srp_NS_name = Муниш Махала
+| srp_NS_FULL_NAME_RO = Муниш Махала
+| srp_NS_FULL_NAME_ND_RO = Муниш Махала
+| srp_NS_SORT_NAME_RG = МУНИШМАХАЛА
+| srp_NS_FULL_NAME_RG = Муниш Махала
+| srp_NS_FULL_NAME_ND_RG = Муниш Махала
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.508611
+ | Gjatësia            = 20.8525
+ | Lartësia            = 
+}}
+'''Muniš Mahala''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

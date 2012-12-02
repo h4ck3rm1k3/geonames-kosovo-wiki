@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Donja Dobruša
+| srp_N_name = Donja Dobruša
+| srp_N_FULL_NAME_RO = Donja Dobruša
+| srp_N_FULL_NAME_ND_RO = Donja Dobrusa
+| srp_N_SORT_NAME_RG = DONJADOBRUSA
+| srp_N_FULL_NAME_RG = Donja Dobruša
+| srp_N_FULL_NAME_ND_RG = Donja Dobrusa
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kamenicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.700278
+ | Gjatësia            = 20.451389
+ | Lartësia            = 
+}}
+'''Donja Dobruša''' është një [[Fshat Vogel]] në [[Kamenicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kamenicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kamenicë]]
+[[Kategoria:Vendbanime në Kosovës]]

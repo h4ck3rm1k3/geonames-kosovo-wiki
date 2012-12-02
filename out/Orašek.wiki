@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Orašek
+| srp_N_name = Orašek
+| srp_N_FULL_NAME_RO = Orašek
+| srp_N_FULL_NAME_ND_RO = Orasek
+| srp_N_SORT_NAME_RG = ORASEK
+| srp_N_FULL_NAME_RG = Orašek
+| srp_N_FULL_NAME_ND_RG = Orasek
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zubin Potok
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.938056
+ | Gjatësia            = 20.599167
+ | Lartësia            = 
+}}
+'''Orašek''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zubin Potok}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zubin Potok]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Salihovići
+| srp_N_name = Salihovići
+| srp_N_FULL_NAME_RO = Salihovići
+| srp_N_FULL_NAME_ND_RO = Salihovici
+| srp_N_SORT_NAME_RG = SALIHOVICI
+| srp_N_FULL_NAME_RG = Salihovići
+| srp_N_FULL_NAME_ND_RG = Salihovici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtime
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.479167
+ | Gjatësia            = 20.957222
+ | Lartësia            = 
+}}
+'''Salihovići''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtime}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtime]]
+[[Kategoria:Vendbanime në Kosovës]]

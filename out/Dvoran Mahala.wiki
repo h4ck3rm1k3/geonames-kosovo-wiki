@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Dvoran Mahala
+| srp_N_name = Dvoran Mahala
+| srp_N_FULL_NAME_RO = Dvoran Mahala
+| srp_N_FULL_NAME_ND_RO = Dvoran Mahala
+| srp_N_SORT_NAME_RG = DVORANMAHALA
+| srp_N_FULL_NAME_RG = Dvoran Mahala
+| srp_N_FULL_NAME_ND_RG = Dvoran Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kaçanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.651389
+ | Gjatësia            = 20.863889
+ | Lartësia            = 
+}}
+'''Dvoran Mahala''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kaçanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kaçanik]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Lalici
+| srp_N_name = Lalici
+| srp_N_FULL_NAME_RO = Lalici
+| srp_N_FULL_NAME_ND_RO = Lalici
+| srp_N_SORT_NAME_RG = LALICI
+| srp_N_FULL_NAME_RG = Lalici
+| srp_N_FULL_NAME_ND_RG = Lalici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.6575
+ | Gjatësia            = 20.5975
+ | Lartësia            = 
+}}
+'''Lalici''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Albanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Šaban Mahala
+| srp_N_name = Šaban Mahala
+| srp_N_FULL_NAME_RO = Šaban Mahala
+| srp_N_FULL_NAME_ND_RO = Saban Mahala
+| srp_N_SORT_NAME_RG = SABANMAHALA
+| srp_N_FULL_NAME_RG = Šaban Mahala
+| srp_N_FULL_NAME_ND_RG = Saban Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.514722
+ | Gjatësia            = 20.521944
+ | Lartësia            = 
+}}
+'''Šaban Mahala''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

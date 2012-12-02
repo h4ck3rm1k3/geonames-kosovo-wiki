@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Ramaj
+| srp_N_name = Ramaj
+| srp_N_FULL_NAME_RO = Ramaj
+| srp_N_FULL_NAME_ND_RO = Ramaj
+| srp_N_SORT_NAME_RG = RAMAJ
+| srp_N_FULL_NAME_RG = Ramaj
+| srp_N_FULL_NAME_ND_RG = Ramaj
+| srp_NS_name = Рамај
+| srp_NS_FULL_NAME_RO = Рамај
+| srp_NS_FULL_NAME_ND_RO = Рамај
+| srp_NS_SORT_NAME_RG = РАМАЈ
+| srp_NS_FULL_NAME_RG = Рамај
+| srp_NS_FULL_NAME_ND_RG = Рамај
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.4875
+ | Gjatësia            = 20.836944
+ | Lartësia            = 
+}}
+'''Ramaj''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

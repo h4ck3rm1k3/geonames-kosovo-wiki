@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Preten
+| srp_N_name = Preten
+| srp_N_FULL_NAME_RO = Preten
+| srp_N_FULL_NAME_ND_RO = Preten
+| srp_N_SORT_NAME_RG = PRETEN
+| srp_N_FULL_NAME_RG = Preten
+| srp_N_FULL_NAME_ND_RG = Preten
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Novobërdë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.955
+ | Gjatësia            = 20.914167
+ | Lartësia            = 
+}}
+'''Preten''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Novobërdë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
+[[Kategoria:Vendbanime në Kosovës]]

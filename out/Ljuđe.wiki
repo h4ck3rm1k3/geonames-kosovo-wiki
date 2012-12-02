@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ljuđe
+| srp_N_name = Ljuđe
+| srp_N_FULL_NAME_RO = Ljuđe
+| srp_N_FULL_NAME_ND_RO = Ljude
+| srp_N_SORT_NAME_RG = LJUDE
+| srp_N_FULL_NAME_RG = Ljuđe
+| srp_N_FULL_NAME_ND_RG = Ljude
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.735556
+ | Gjatësia            = 20.108611
+ | Lartësia            = 
+}}
+'''Ljuđe''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Grubovica
+| srp_N_name = Grubovica
+| srp_N_FULL_NAME_RO = Grubovica
+| srp_N_FULL_NAME_ND_RO = Grubovica
+| srp_N_SORT_NAME_RG = GRUBOVICA
+| srp_N_FULL_NAME_RG = Grubovica
+| srp_N_FULL_NAME_ND_RG = Grubovica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zveçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.025278
+ | Gjatësia            = 20.721389
+ | Lartësia            = 
+}}
+'''Grubovica''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zveçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zveçan]]
+[[Kategoria:Vendbanime në Kosovës]]

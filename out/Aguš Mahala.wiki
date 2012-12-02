@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Aguš Mahala
+| srp_N_name = Aguš Mahala
+| srp_N_FULL_NAME_RO = Aguš Mahala
+| srp_N_FULL_NAME_ND_RO = Agus Mahala
+| srp_N_SORT_NAME_RG = AGUSMAHALA
+| srp_N_FULL_NAME_RG = Aguš Mahala
+| srp_N_FULL_NAME_ND_RG = Agus Mahala
+| srp_V_name = Mahala Aguš
+| srp_V_FULL_NAME_RO = Mahala Aguš Ogušaj
+| srp_V_FULL_NAME_ND_RO = Mahala Agus Ogusaj
+| srp_V_SORT_NAME_RG = MAHALAAGUS OGUSAJ
+| srp_V_FULL_NAME_RG = Mahala Aguš Ogušaj
+| srp_V_FULL_NAME_ND_RG = Mahala Agus Ogusaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtërpcë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.259444
+ | Gjatësia            = 21.114167
+ | Lartësia            = 
+}}
+'''Aguš Mahala''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtërpcë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtërpcë]]
+[[Kategoria:Vendbanime në Kosovës]]

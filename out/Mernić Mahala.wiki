@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Mernić Mahala
+| srp_N_name = Mernić Mahala
+| srp_N_FULL_NAME_RO = Mernić Mahala
+| srp_N_FULL_NAME_ND_RO = Mernic Mahala
+| srp_N_SORT_NAME_RG = MERNICMAHALA
+| srp_N_FULL_NAME_RG = Mernić Mahala
+| srp_N_FULL_NAME_ND_RG = Mernic Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.800905
+ | Gjatësia            = 21.090299
+ | Lartësia            = 
+}}
+'''Mernić Mahala''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

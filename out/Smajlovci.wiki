@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Smajlovci
+| srp_N_name = Smajlovci
+| srp_N_FULL_NAME_RO = Smajlovci
+| srp_N_FULL_NAME_ND_RO = Smajlovci
+| srp_N_SORT_NAME_RG = SMAJLOVCI
+| srp_N_FULL_NAME_RG = Smajlovci
+| srp_N_FULL_NAME_ND_RG = Smajlovci
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.559167
+ | Gjatësia            = 21.328611
+ | Lartësia            = 
+}}
+'''Smajlovci''' është një [[Fshat Vogel]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

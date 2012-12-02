@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Mahala Staro Rosulje
+| srp_N_name = Mahala Staro Rosulje
+| srp_N_FULL_NAME_RO = Mahala Staro Rosulje
+| srp_N_FULL_NAME_ND_RO = Mahala Staro Rosulje
+| srp_N_SORT_NAME_RG = MAHALASTAROROSULJE
+| srp_N_FULL_NAME_RG = Mahala Staro Rosulje
+| srp_N_FULL_NAME_ND_RG = Mahala Staro Rosulje
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.604167
+ | Gjatësia            = 20.469444
+ | Lartësia            = 
+}}
+'''Mahala Staro Rosulje''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ljimanavit Mahala
+| srp_N_name = Ljimanavit Mahala
+| srp_N_FULL_NAME_RO = Ljimanavit Mahala
+| srp_N_FULL_NAME_ND_RO = Ljimanavit Mahala
+| srp_N_SORT_NAME_RG = LJIMANAVITMAHALA
+| srp_N_FULL_NAME_RG = Ljimanavit Mahala
+| srp_N_FULL_NAME_ND_RG = Ljimanavit Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.355
+ | Gjatësia            = 20.931389
+ | Lartësia            = 
+}}
+'''Ljimanavit Mahala''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

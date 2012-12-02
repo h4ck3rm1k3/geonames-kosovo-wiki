@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Miljevo
+| srp_N_name = Miljevo
+| srp_N_FULL_NAME_RO = Miljevo
+| srp_N_FULL_NAME_ND_RO = Miljevo
+| srp_N_SORT_NAME_RG = MILJEVO
+| srp_N_FULL_NAME_RG = Miljevo
+| srp_N_FULL_NAME_ND_RG = Miljevo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.003889
+ | Gjatësia            = 20.739722
+ | Lartësia            = 
+}}
+'''Miljevo''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

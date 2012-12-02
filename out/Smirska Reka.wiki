@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Smirska Reka
+| srp_N_name = Smirska Reka
+| srp_N_FULL_NAME_RO = Smirska Reka
+| srp_N_FULL_NAME_ND_RO = Smirska Reka
+| srp_N_SORT_NAME_RG = SMIRSKAREKA
+| srp_N_FULL_NAME_RG = Smirska Reka
+| srp_N_FULL_NAME_ND_RG = Smirska Reka
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.351667
+ | Gjatësia            = 21.3375
+ | Lartësia            = 
+}}
+'''Smirska Reka''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

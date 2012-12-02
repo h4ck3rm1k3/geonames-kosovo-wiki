@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Maja Kolmuć
+| srp_N_name = Maja Kolmuć
+| srp_N_FULL_NAME_RO = Maja Kolmuć
+| srp_N_FULL_NAME_ND_RO = Maja Kolmuc
+| srp_N_SORT_NAME_RG = KOLMUC MAJA
+| srp_N_FULL_NAME_RG = Kolmuć, Maja
+| srp_N_FULL_NAME_ND_RG = Kolmuc, Maja
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.708333
+ | Gjatësia            = 20.183056
+ | Lartësia            = 
+}}
+'''Maja Kolmuć''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

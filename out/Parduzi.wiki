@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Parduzi
+| srp_N_name = Parduzi
+| srp_N_FULL_NAME_RO = Parduzi
+| srp_N_FULL_NAME_ND_RO = Parduzi
+| srp_N_SORT_NAME_RG = PARDUZI
+| srp_N_FULL_NAME_RG = Parduzi
+| srp_N_FULL_NAME_ND_RG = Parduzi
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.932166
+ | Gjatësia            = 21.030222
+ | Lartësia            = 
+}}
+'''Parduzi''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

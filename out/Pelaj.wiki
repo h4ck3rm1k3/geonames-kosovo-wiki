@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Pelaj
+| srp_N_name = Pelaj
+| srp_N_FULL_NAME_RO = Pelaj
+| srp_N_FULL_NAME_ND_RO = Pelaj
+| srp_N_SORT_NAME_RG = PELAJ
+| srp_N_FULL_NAME_RG = Pelaj
+| srp_N_FULL_NAME_ND_RG = Pelaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.722222
+ | Gjatësia            = 20.320833
+ | Lartësia            = 
+}}
+'''Pelaj''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

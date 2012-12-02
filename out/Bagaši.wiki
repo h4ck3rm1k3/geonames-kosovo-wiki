@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Bagaši
+| srp_N_name = Bagaši
+| srp_N_FULL_NAME_RO = Bagaši
+| srp_N_FULL_NAME_ND_RO = Bagasi
+| srp_N_SORT_NAME_RG = BAGASI
+| srp_N_FULL_NAME_RG = Bagaši
+| srp_N_FULL_NAME_ND_RG = Bagasi
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Deçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.536667
+ | Gjatësia            = 20.373333
+ | Lartësia            = 
+}}
+'''Bagaši''' është një [[Fshat Vogel]] në [[Deçan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Deçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Deçan]]
+[[Kategoria:Vendbanime në Kosovës]]

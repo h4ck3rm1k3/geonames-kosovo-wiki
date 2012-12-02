@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Demović
+| srp_N_name = Demović
+| srp_N_FULL_NAME_RO = Demović Demaj
+| srp_N_FULL_NAME_ND_RO = Demovic Demaj
+| srp_N_SORT_NAME_RG = DEMOVIC DEMAJ
+| srp_N_FULL_NAME_RG = Demović Demaj
+| srp_N_FULL_NAME_ND_RG = Demovic Demaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.600833
+ | Gjatësia            = 20.659722
+ | Lartësia            = 
+}}
+'''Demović''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Albanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Vendbanime në Kosovës]]

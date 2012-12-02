@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Trgovište
+| srp_N_name = Trgovište
+| srp_N_FULL_NAME_RO = Trgovište
+| srp_N_FULL_NAME_ND_RO = Trgoviste
+| srp_N_SORT_NAME_RG = TRGOVISTE
+| srp_N_FULL_NAME_RG = Trgovište
+| srp_N_FULL_NAME_ND_RG = Trgoviste
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.323611
+ | Gjatësia            = 21.121111
+ | Lartësia            = 
+}}
+'''Trgovište''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

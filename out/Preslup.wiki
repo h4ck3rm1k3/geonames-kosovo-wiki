@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Preslup
+| srp_N_name = Preslup
+| srp_N_FULL_NAME_RO = Preslup
+| srp_N_FULL_NAME_ND_RO = Preslup
+| srp_N_SORT_NAME_RG = PRESLUP
+| srp_N_FULL_NAME_RG = Preslup
+| srp_N_FULL_NAME_ND_RG = Preslup
+| srp_V_name = Mahala Preslap
+| srp_V_FULL_NAME_RO = Mahala Preslap
+| srp_V_FULL_NAME_ND_RO = Mahala Preslap
+| srp_V_SORT_NAME_RG = MAHALAPRESLAP
+| srp_V_FULL_NAME_RG = Mahala Preslap
+| srp_V_FULL_NAME_ND_RG = Mahala Preslap
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.663889
+ | Gjatësia            = 21.550556
+ | Lartësia            = 
+}}
+'''Preslup''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ramun Mala
+| srp_N_name = Ramun Mala
+| srp_N_FULL_NAME_RO = Ramun Mala
+| srp_N_FULL_NAME_ND_RO = Ramun Mala
+| srp_N_SORT_NAME_RG = RAMUNMALA
+| srp_N_FULL_NAME_RG = Ramun Mala
+| srp_N_FULL_NAME_ND_RG = Ramun Mala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.167778
+ | Gjatësia            = 21.283611
+ | Lartësia            = 
+}}
+'''Ramun Mala''' është një [[Fshat]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

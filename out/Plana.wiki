@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Plana
+| srp_N_name = Plana
+| srp_N_FULL_NAME_RO = Plana
+| srp_N_FULL_NAME_ND_RO = Plana
+| srp_N_SORT_NAME_RG = PLANA
+| srp_N_FULL_NAME_RG = Plana
+| srp_N_FULL_NAME_ND_RG = Plana
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Novobërdë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.855556
+ | Gjatësia            = 20.929167
+ | Lartësia            = 
+}}
+'''Plana''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Novobërdë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
+[[Kategoria:Vendbanime në Kosovës]]

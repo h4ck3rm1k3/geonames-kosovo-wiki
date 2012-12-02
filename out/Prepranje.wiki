@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Prepranje
+| srp_N_name = Prepranje
+| srp_N_FULL_NAME_RO = Prepranje
+| srp_N_FULL_NAME_ND_RO = Prepranje
+| srp_N_SORT_NAME_RG = PREPRANJE
+| srp_N_FULL_NAME_RG = Prepranje
+| srp_N_FULL_NAME_ND_RG = Prepranje
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kamenicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.724444
+ | Gjatësia            = 20.575556
+ | Lartësia            = 
+}}
+'''Prepranje''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kamenicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kamenicë]]
+[[Kategoria:Vendbanime në Kosovës]]

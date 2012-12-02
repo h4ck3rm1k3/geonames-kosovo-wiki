@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Redinci
+| srp_N_name = Redinci
+| srp_N_FULL_NAME_RO = Redinci
+| srp_N_FULL_NAME_ND_RO = Redinci
+| srp_N_SORT_NAME_RG = REDINCI
+| srp_N_FULL_NAME_RG = Redinci
+| srp_N_FULL_NAME_ND_RG = Redinci
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.555556
+ | Gjatësia            = 21.5525
+ | Lartësia            = 
+}}
+'''Redinci''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

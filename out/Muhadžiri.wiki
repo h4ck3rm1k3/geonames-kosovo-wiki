@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Muhadžiri
+| srp_N_name = Muhadžiri
+| srp_N_FULL_NAME_RO = Muhadžiri
+| srp_N_FULL_NAME_ND_RO = Muhadziri
+| srp_N_SORT_NAME_RG = MUHADZIRI
+| srp_N_FULL_NAME_RG = Muhadžiri
+| srp_N_FULL_NAME_ND_RG = Muhadziri
+| srp_V_name = Muadžiri
+| srp_V_FULL_NAME_RO = Muadžiri
+| srp_V_FULL_NAME_ND_RO = Muadziri
+| srp_V_SORT_NAME_RG = MUADZIRI
+| srp_V_FULL_NAME_RG = Muadžiri
+| srp_V_FULL_NAME_ND_RG = Muadziri
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.485278
+ | Gjatësia            = 21.5075
+ | Lartësia            = 
+}}
+'''Muhadžiri''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

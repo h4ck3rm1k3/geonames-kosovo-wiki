@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Donja Trnavica
+| srp_N_name = Donja Trnavica
+| srp_N_FULL_NAME_RO = Donja Trnavica
+| srp_N_FULL_NAME_ND_RO = Donja Trnavica
+| srp_N_SORT_NAME_RG = DONJATRNAVICA
+| srp_N_FULL_NAME_RG = Donja Trnavica
+| srp_N_FULL_NAME_ND_RG = Donja Trnavica
+| srp_V_name = Donja Trnovica
+| srp_V_FULL_NAME_RO = Donja Trnovica
+| srp_V_FULL_NAME_ND_RO = Donja Trnovica
+| srp_V_SORT_NAME_RG = DONJATRNOVICA
+| srp_V_FULL_NAME_RG = Donja Trnovica
+| srp_V_FULL_NAME_ND_RG = Donja Trnovica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.083333
+ | Gjatësia            = 21.066667
+ | Lartësia            = 
+}}
+'''Donja Trnavica''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

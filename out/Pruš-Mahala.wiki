@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Pruš-Mahala
+| srp_N_name = Pruš-Mahala
+| srp_N_FULL_NAME_RO = Pruš-Mahala
+| srp_N_FULL_NAME_ND_RO = Prus-Mahala
+| srp_N_SORT_NAME_RG = PRUSMAHALA
+| srp_N_FULL_NAME_RG = Pruš-Mahala
+| srp_N_FULL_NAME_ND_RG = Prus-Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.300278
+ | Gjatësia            = 21.223056
+ | Lartësia            = 
+}}
+'''Pruš-Mahala''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

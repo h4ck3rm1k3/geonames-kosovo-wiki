@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Zairt
+| srp_N_name = Zairt
+| srp_N_FULL_NAME_RO = Zairt
+| srp_N_FULL_NAME_ND_RO = Zairt
+| srp_N_SORT_NAME_RG = ZAIRT
+| srp_N_FULL_NAME_RG = Zairt
+| srp_N_FULL_NAME_ND_RG = Zairt
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.377222
+ | Gjatësia            = 21.608889
+ | Lartësia            = 
+}}
+'''Zairt''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

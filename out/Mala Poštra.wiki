@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Mala Poštra
+| srp_N_name = Mala Poštra
+| srp_N_FULL_NAME_RO = Mala Poštra
+| srp_N_FULL_NAME_ND_RO = Mala Postra
+| srp_N_SORT_NAME_RG = MALAPOSTRA
+| srp_N_FULL_NAME_RG = Mala Poštra
+| srp_N_FULL_NAME_ND_RG = Mala Postra
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.303056
+ | Gjatësia            = 20.5075
+ | Lartësia            = 
+}}
+'''Mala Poštra''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

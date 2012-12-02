@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kalavaj
+| srp_D_name = Kalavaj
+| srp_D_FULL_NAME_RO = Kalavaj
+| srp_D_FULL_NAME_ND_RO = Kalavaj
+| srp_D_SORT_NAME_RG = KALAVAJ
+| srp_D_FULL_NAME_RG = Kalavaj
+| srp_D_FULL_NAME_ND_RG = Kalavaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.451389
+ | Gjatësia            = 20.271944
+ | Lartësia            = 
+}}
+'''Kalavaj''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

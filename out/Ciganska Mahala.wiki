@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ciganska Mahala
+| srp_N_name = Ciganska Mahala
+| srp_N_FULL_NAME_RO = Ciganska Mahala
+| srp_N_FULL_NAME_ND_RO = Ciganska Mahala
+| srp_N_SORT_NAME_RG = CIGANSKAMAHALA
+| srp_N_FULL_NAME_RG = Ciganska Mahala
+| srp_N_FULL_NAME_ND_RG = Ciganska Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.629444
+ | Gjatësia            = 20.571667
+ | Lartësia            = 
+}}
+'''Ciganska Mahala''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Albanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Vendbanime në Kosovës]]

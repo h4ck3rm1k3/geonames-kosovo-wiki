@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Svrhe Čuka
+| srp_N_name = Svrhe Čuka
+| srp_N_FULL_NAME_RO = Svrhe Čuka
+| srp_N_FULL_NAME_ND_RO = Svrhe Cuka
+| srp_N_SORT_NAME_RG = SVRHECUKA
+| srp_N_FULL_NAME_RG = Svrhe Čuka
+| srp_N_FULL_NAME_ND_RG = Svrhe Cuka
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.550556
+ | Gjatësia            = 20.633056
+ | Lartësia            = 
+}}
+'''Svrhe Čuka''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

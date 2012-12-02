@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Dragaš-Mahala
+| srp_N_name = Dragaš-Mahala
+| srp_N_FULL_NAME_RO = Dragaš-Mahala
+| srp_N_FULL_NAME_ND_RO = Dragas-Mahala
+| srp_N_SORT_NAME_RG = DRAGASMAHALA
+| srp_N_FULL_NAME_RG = Dragaš-Mahala
+| srp_N_FULL_NAME_ND_RG = Dragas-Mahala
+| srp_V_name = Dragoš-Mahala
+| srp_V_FULL_NAME_RO = Dragoš-Mahala
+| srp_V_FULL_NAME_ND_RO = Dragos-Mahala
+| srp_V_SORT_NAME_RG = DRAGOSMAHALA
+| srp_V_FULL_NAME_RG = Dragoš-Mahala
+| srp_V_FULL_NAME_ND_RG = Dragos-Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjakovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.377778
+ | Gjatësia            = 21.23
+ | Lartësia            = 
+}}
+'''Dragaš-Mahala''' është një [[Fshat]] në [[Gjakovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjakovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjakovë]]
+[[Kategoria:Vendbanime në Kosovës]]

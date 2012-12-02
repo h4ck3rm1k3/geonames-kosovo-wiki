@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Medveđak
+| srp_N_name = Medveđak
+| srp_N_FULL_NAME_RO = Medveđak
+| srp_N_FULL_NAME_ND_RO = Medvedak
+| srp_N_SORT_NAME_RG = MEDVEDAK
+| srp_N_FULL_NAME_RG = Medveđak
+| srp_N_FULL_NAME_ND_RG = Medvedak
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.072222
+ | Gjatësia            = 20.965833
+ | Lartësia            = 
+}}
+'''Medveđak''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

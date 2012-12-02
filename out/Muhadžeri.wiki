@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Muhadžeri
+| sqi_V_name = Muhaxhire
+| sqi_V_FULL_NAME_RO = Muhaxhire
+| sqi_V_FULL_NAME_ND_RO = Muhaxhire
+| sqi_V_SORT_NAME_RG = MUHAXHIRE
+| sqi_V_FULL_NAME_RG = Muhaxhire
+| sqi_V_FULL_NAME_ND_RG = Muhaxhire
+| srp_N_name = Muhadžeri
+| srp_N_FULL_NAME_RO = Muhadžeri
+| srp_N_FULL_NAME_ND_RO = Muhadzeri
+| srp_N_SORT_NAME_RG = MUHADZERI
+| srp_N_FULL_NAME_RG = Muhadžeri
+| srp_N_FULL_NAME_ND_RG = Muhadzeri
+| srp_V_name = Muadžeri
+| srp_V_FULL_NAME_RO = Muadžeri
+| srp_V_FULL_NAME_ND_RO = Muadzeri
+| srp_V_SORT_NAME_RG = MUADZERI
+| srp_V_FULL_NAME_RG = Muadžeri
+| srp_V_FULL_NAME_ND_RG = Muadzeri
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.502467
+ | Gjatësia            = 21.467601
+ | Lartësia            = 
+}}
+'''Muhadžeri''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

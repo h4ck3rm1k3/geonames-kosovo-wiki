@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Gaštica Mahala
+| sqi_V_name = Lagja e Gastica
+| sqi_V_FULL_NAME_RO = Lagja e Gastica
+| sqi_V_FULL_NAME_ND_RO = Lagja e Gastica
+| sqi_V_SORT_NAME_RG = LAGJAEGASTICA
+| sqi_V_FULL_NAME_RG = Lagja e Gastica
+| sqi_V_FULL_NAME_ND_RG = Lagja e Gastica
+| srp_N_name = Gaštica Mahala
+| srp_N_FULL_NAME_RO = Gaštica Mahala
+| srp_N_FULL_NAME_ND_RO = Gastica Mahala
+| srp_N_SORT_NAME_RG = GASTICAMAHALA
+| srp_N_FULL_NAME_RG = Gaštica Mahala
+| srp_N_FULL_NAME_ND_RG = Gastica Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.323333
+ | Gjatësia            = 21.506667
+ | Lartësia            = 
+}}
+'''Gaštica Mahala''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

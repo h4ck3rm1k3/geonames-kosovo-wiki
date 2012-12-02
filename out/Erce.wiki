@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Erce
+| srp_N_name = Erce
+| srp_N_FULL_NAME_RO = Erce
+| srp_N_FULL_NAME_ND_RO = Erce
+| srp_N_SORT_NAME_RG = ERCE
+| srp_N_FULL_NAME_RG = Erce
+| srp_N_FULL_NAME_ND_RG = Erce
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zveçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.025278
+ | Gjatësia            = 20.739722
+ | Lartësia            = 
+}}
+'''Erce''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zveçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zveçan]]
+[[Kategoria:Vendbanime në Kosovës]]

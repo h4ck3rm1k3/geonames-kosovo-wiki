@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kurtović-Mala
+| srp_N_name = Kurtović-Mala
+| srp_N_FULL_NAME_RO = Kurtović-Mala
+| srp_N_FULL_NAME_ND_RO = Kurtovic-Mala
+| srp_N_SORT_NAME_RG = KURTOVICMALA
+| srp_N_FULL_NAME_RG = Kurtović-Mala
+| srp_N_FULL_NAME_ND_RG = Kurtovic-Mala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.233056
+ | Gjatësia            = 21.356944
+ | Lartësia            = 
+}}
+'''Kurtović-Mala''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

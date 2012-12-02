@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Jodovo
+| srp_N_name = Jodovo
+| srp_N_FULL_NAME_RO = Jodovo
+| srp_N_FULL_NAME_ND_RO = Jodovo
+| srp_N_SORT_NAME_RG = JODOVO
+| srp_N_FULL_NAME_RG = Jodovo
+| srp_N_FULL_NAME_ND_RG = Jodovo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.528333
+ | Gjatësia            = 20.202222
+ | Lartësia            = 
+}}
+'''Jodovo''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Novi Raušić
+| srp_N_name = Novi Raušić
+| srp_N_FULL_NAME_RO = Novi Raušić
+| srp_N_FULL_NAME_ND_RO = Novi Rausic
+| srp_N_SORT_NAME_RG = NOVIRAUSIC
+| srp_N_FULL_NAME_RG = Novi Raušić
+| srp_N_FULL_NAME_ND_RG = Novi Rausic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.609722
+ | Gjatësia            = 20.326667
+ | Lartësia            = 
+}}
+'''Novi Raušić''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

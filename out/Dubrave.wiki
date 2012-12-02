@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Dubrave
+| srp_N_name = Dubrave
+| srp_N_FULL_NAME_RO = Dubrave
+| srp_N_FULL_NAME_ND_RO = Dubrave
+| srp_N_SORT_NAME_RG = DUBRAVE
+| srp_N_FULL_NAME_RG = Dubrave
+| srp_N_FULL_NAME_ND_RG = Dubrave
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.08
+ | Gjatësia            = 20.888056
+ | Lartësia            = 
+}}
+'''Dubrave''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

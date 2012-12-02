@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Sać
+| srp_N_name = Sać
+| srp_N_FULL_NAME_RO = Sać
+| srp_N_FULL_NAME_ND_RO = Sac
+| srp_N_SORT_NAME_RG = SAC
+| srp_N_FULL_NAME_RG = Sać
+| srp_N_FULL_NAME_ND_RG = Sac
+| srp_NS_name = Саћ
+| srp_NS_FULL_NAME_RO = Саћ
+| srp_NS_FULL_NAME_ND_RO = Саћ
+| srp_NS_SORT_NAME_RG = САЋ
+| srp_NS_FULL_NAME_RG = Саћ
+| srp_NS_FULL_NAME_ND_RG = Саћ
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.479722
+ | Gjatësia            = 20.290278
+ | Lartësia            = 
+}}
+'''Sać''' është një [[Fshat]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

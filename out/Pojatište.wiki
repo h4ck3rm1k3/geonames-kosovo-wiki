@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Pojatište
+| srp_N_name = Pojatište
+| srp_N_FULL_NAME_RO = Pojatište
+| srp_N_FULL_NAME_ND_RO = Pojatiste
+| srp_N_SORT_NAME_RG = POJATISTE
+| srp_N_FULL_NAME_RG = Pojatište
+| srp_N_FULL_NAME_ND_RG = Pojatiste
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.314167
+ | Gjatësia            = 21.418333
+ | Lartësia            = 
+}}
+'''Pojatište''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

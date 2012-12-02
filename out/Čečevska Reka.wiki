@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Čečevska Reka
+| srp_N_name = Čečevska Reka
+| srp_N_FULL_NAME_RO = Čečevska Reka
+| srp_N_FULL_NAME_ND_RO = Cecevska Reka
+| srp_N_SORT_NAME_RG = CECEVSKAREKA
+| srp_N_FULL_NAME_RG = Čečevska Reka
+| srp_N_FULL_NAME_ND_RG = Cecevska Reka
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.918889
+ | Gjatësia            = 20.635278
+ | Lartësia            = 
+}}
+'''Čečevska Reka''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

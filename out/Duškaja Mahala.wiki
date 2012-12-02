@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Duškaja Mahala
+| sqi_V_name = Dushkaja
+| sqi_V_FULL_NAME_RO = Dushkaja
+| sqi_V_FULL_NAME_ND_RO = Dushkaja
+| sqi_V_SORT_NAME_RG = DUSHKAJA
+| sqi_V_FULL_NAME_RG = Dushkaja
+| sqi_V_FULL_NAME_ND_RG = Dushkaja
+| srp_N_name = Duškaja Mahala
+| srp_N_FULL_NAME_RO = Duškaja Mahala
+| srp_N_FULL_NAME_ND_RO = Duskaja Mahala
+| srp_N_SORT_NAME_RG = DUSKAJAMAHALA
+| srp_N_FULL_NAME_RG = Duškaja Mahala
+| srp_N_FULL_NAME_ND_RG = Duskaja Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.268611
+ | Gjatësia            = 21.242778
+ | Lartësia            = 
+}}
+'''Duškaja Mahala''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

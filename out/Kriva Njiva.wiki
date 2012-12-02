@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Kriva Njiva
+| srp_N_name = Kriva Njiva
+| srp_N_FULL_NAME_RO = Kriva Njiva
+| srp_N_FULL_NAME_ND_RO = Kriva Njiva
+| srp_N_SORT_NAME_RG = KRIVANJIVA
+| srp_N_FULL_NAME_RG = Kriva Njiva
+| srp_N_FULL_NAME_ND_RG = Kriva Njiva
+| srp_V_name = Kriva Njiva Mahala
+| srp_V_FULL_NAME_RO = Kriva Njiva Mahala
+| srp_V_FULL_NAME_ND_RO = Kriva Njiva Mahala
+| srp_V_SORT_NAME_RG = KRIVANJIVAMAHALA
+| srp_V_FULL_NAME_RG = Kriva Njiva Mahala
+| srp_V_FULL_NAME_ND_RG = Kriva Njiva Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.260278
+ | Gjatësia            = 21.264722
+ | Lartësia            = 
+}}
+'''Kriva Njiva''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kastra
+| srp_N_name = Kastra
+| srp_N_FULL_NAME_RO = Kastra
+| srp_N_FULL_NAME_ND_RO = Kastra
+| srp_N_SORT_NAME_RG = KASTRA
+| srp_N_FULL_NAME_RG = Kastra
+| srp_N_FULL_NAME_ND_RG = Kastra
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.610278
+ | Gjatësia            = 20.384722
+ | Lartësia            = 
+}}
+'''Kastra''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

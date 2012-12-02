@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Šurlan
+| srp_N_name = Šurlan
+| srp_N_FULL_NAME_RO = Šurlan
+| srp_N_FULL_NAME_ND_RO = Surlan
+| srp_N_SORT_NAME_RG = SURLAN
+| srp_N_FULL_NAME_RG = Šurlan
+| srp_N_FULL_NAME_ND_RG = Surlan
+| srp_NS_name = Шурлан
+| srp_NS_FULL_NAME_RO = Шурлан
+| srp_NS_FULL_NAME_ND_RO = Шурлан
+| srp_NS_SORT_NAME_RG = ШУРЛАН
+| srp_NS_FULL_NAME_RG = Шурлан
+| srp_NS_FULL_NAME_ND_RG = Шурлан
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.469444
+ | Gjatësia            = 20.781944
+ | Lartësia            = 
+}}
+'''Šurlan''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

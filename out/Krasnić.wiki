@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Krasnić
+| srp_N_name = Krasnić
+| srp_N_FULL_NAME_RO = Krasnić
+| srp_N_FULL_NAME_ND_RO = Krasnic
+| srp_N_SORT_NAME_RG = KRASNIC
+| srp_N_FULL_NAME_RG = Krasnić
+| srp_N_FULL_NAME_ND_RG = Krasnic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.600278
+ | Gjatësia            = 20.712778
+ | Lartësia            = 
+}}
+'''Krasnić''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Albanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Vendbanime në Kosovës]]

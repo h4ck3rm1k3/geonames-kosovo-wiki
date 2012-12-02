@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Vardište
+| srp_N_name = Vardište
+| srp_N_FULL_NAME_RO = Vardište
+| srp_N_FULL_NAME_ND_RO = Vardiste
+| srp_N_SORT_NAME_RG = VARDISTE
+| srp_N_FULL_NAME_RG = Vardište
+| srp_N_FULL_NAME_ND_RG = Vardiste
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.734167
+ | Gjatësia            = 20.330278
+ | Lartësia            = 
+}}
+'''Vardište''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

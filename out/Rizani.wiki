@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Rizani
+| srp_N_name = Rizani
+| srp_N_FULL_NAME_RO = Rizani
+| srp_N_FULL_NAME_ND_RO = Rizani
+| srp_N_SORT_NAME_RG = RIZANI
+| srp_N_FULL_NAME_RG = Rizani
+| srp_N_FULL_NAME_ND_RG = Rizani
+| srp_NS_name = Ризани
+| srp_NS_FULL_NAME_RO = Ризани
+| srp_NS_FULL_NAME_ND_RO = Ризани
+| srp_NS_SORT_NAME_RG = РИЗАНИ
+| srp_NS_FULL_NAME_RG = Ризани
+| srp_NS_FULL_NAME_ND_RG = Ризани
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Malishevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.4875
+ | Gjatësia            = 20.947222
+ | Lartësia            = 
+}}
+'''Rizani''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Malishevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Malishevë]]
+[[Kategoria:Vendbanime në Kosovës]]

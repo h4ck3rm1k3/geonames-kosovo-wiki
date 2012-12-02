@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ljuljaj
+| srp_N_name = Ljuljaj
+| srp_N_FULL_NAME_RO = Ljuljaj
+| srp_N_FULL_NAME_ND_RO = Ljuljaj
+| srp_N_SORT_NAME_RG = LJULJAJ
+| srp_N_FULL_NAME_RG = Ljuljaj
+| srp_N_FULL_NAME_ND_RG = Ljuljaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.715236
+ | Gjatësia            = 20.039165
+ | Lartësia            = 
+}}
+'''Ljuljaj''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

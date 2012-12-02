@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Tahović Mahala
+| srp_N_name = Tahović Mahala
+| srp_N_FULL_NAME_RO = Tahović Mahala
+| srp_N_FULL_NAME_ND_RO = Tahovic Mahala
+| srp_N_SORT_NAME_RG = TAHOVICMAHALA
+| srp_N_FULL_NAME_RG = Tahović Mahala
+| srp_N_FULL_NAME_ND_RG = Tahovic Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.787454
+ | Gjatësia            = 21.051163
+ | Lartësia            = 
+}}
+'''Tahović Mahala''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

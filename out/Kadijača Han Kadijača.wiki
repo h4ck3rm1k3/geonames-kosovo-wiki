@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kadijača Han Kadijača
+| srp_N_name = Kadijača Han Kadijača
+| srp_N_FULL_NAME_RO = Kadijača Han Kadijača
+| srp_N_FULL_NAME_ND_RO = Kadijaca Han Kadijaca
+| srp_N_SORT_NAME_RG = KADIJACAHANKADIJACA
+| srp_N_FULL_NAME_RG = Kadijača Han Kadijača
+| srp_N_FULL_NAME_ND_RG = Kadijaca Han Kadijaca
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zveçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.009444
+ | Gjatësia            = 20.755833
+ | Lartësia            = 
+}}
+'''Kadijača Han Kadijača''' është një [[Fshat]] në [[Zveçan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zveçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zveçan]]
+[[Kategoria:Vendbanime në Kosovës]]

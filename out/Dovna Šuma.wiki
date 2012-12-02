@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Dovna Šuma
+| srp_N_name = Dovna Šuma
+| srp_N_FULL_NAME_RO = Dovna Šuma
+| srp_N_FULL_NAME_ND_RO = Dovna Suma
+| srp_N_SORT_NAME_RG = DOVNASUMA
+| srp_N_FULL_NAME_RG = Dovna Šuma
+| srp_N_FULL_NAME_ND_RG = Dovna Suma
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 41.985
+ | Gjatësia            = 20.618889
+ | Lartësia            = 
+}}
+'''Dovna Šuma''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

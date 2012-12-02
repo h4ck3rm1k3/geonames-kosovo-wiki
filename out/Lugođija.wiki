@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Lugođija
+| sqi_V_name = Lugagji
+| sqi_V_FULL_NAME_RO = Lugagji
+| sqi_V_FULL_NAME_ND_RO = Lugagji
+| sqi_V_SORT_NAME_RG = LUGAGJI
+| sqi_V_FULL_NAME_RG = Lugagji
+| sqi_V_FULL_NAME_ND_RG = Lugagji
+| srp_N_name = Lugođija
+| srp_N_FULL_NAME_RO = Lugođija
+| srp_N_FULL_NAME_ND_RO = Lugodija
+| srp_N_SORT_NAME_RG = LUGODIJA
+| srp_N_FULL_NAME_RG = Lugođija
+| srp_N_FULL_NAME_ND_RG = Lugodija
+| srp_V_name = Lugođijak
+| srp_V_FULL_NAME_RO = Lugođijak
+| srp_V_FULL_NAME_ND_RO = Lugodijak
+| srp_V_SORT_NAME_RG = LUGODIJAK
+| srp_V_FULL_NAME_RG = Lugođijak
+| srp_V_FULL_NAME_ND_RG = Lugodijak
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.331389
+ | Gjatësia            = 20.903611
+ | Lartësia            = 
+}}
+'''Lugođija''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

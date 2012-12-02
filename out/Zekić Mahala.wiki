@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Zekić Mahala
+| srp_N_name = Zekić Mahala
+| srp_N_FULL_NAME_RO = Zekić Mahala
+| srp_N_FULL_NAME_ND_RO = Zekic Mahala
+| srp_N_SORT_NAME_RG = ZEKICMAHALA
+| srp_N_FULL_NAME_RG = Zekić Mahala
+| srp_N_FULL_NAME_ND_RG = Zekic Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.780512
+ | Gjatësia            = 21.010643
+ | Lartësia            = 
+}}
+'''Zekić Mahala''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

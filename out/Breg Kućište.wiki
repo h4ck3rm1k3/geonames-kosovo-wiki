@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Breg Kućište
+| srp_N_name = Breg Kućište
+| srp_N_FULL_NAME_RO = Breg Kućište
+| srp_N_FULL_NAME_ND_RO = Breg Kuciste
+| srp_N_SORT_NAME_RG = BREGKUCISTE
+| srp_N_FULL_NAME_RG = Breg Kućište
+| srp_N_FULL_NAME_ND_RG = Breg Kuciste
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.6975
+ | Gjatësia            = 20.0825
+ | Lartësia            = 
+}}
+'''Breg Kućište''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

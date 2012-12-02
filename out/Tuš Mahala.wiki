@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Tuš Mahala
+| srp_N_name = Tuš Mahala
+| srp_N_FULL_NAME_RO = Tuš Mahala
+| srp_N_FULL_NAME_ND_RO = Tus Mahala
+| srp_N_SORT_NAME_RG = TUSMAHALA
+| srp_N_FULL_NAME_RG = Tuš Mahala
+| srp_N_FULL_NAME_ND_RG = Tus Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.266667
+ | Gjatësia            = 21.203056
+ | Lartësia            = 
+}}
+'''Tuš Mahala''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

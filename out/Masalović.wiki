@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Masalović
+| srp_N_name = Masalović
+| srp_N_FULL_NAME_RO = Masalović
+| srp_N_FULL_NAME_ND_RO = Masalovic
+| srp_N_SORT_NAME_RG = MASALOVIC
+| srp_N_FULL_NAME_RG = Masalović
+| srp_N_FULL_NAME_ND_RG = Masalovic
+| srp_NS_name = Масаловић
+| srp_NS_FULL_NAME_RO = Масаловић
+| srp_NS_FULL_NAME_ND_RO = Масаловић
+| srp_NS_SORT_NAME_RG = МАСАЛОВИЋ
+| srp_NS_FULL_NAME_RG = Масаловић
+| srp_NS_FULL_NAME_ND_RG = Масаловић
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.426111
+ | Gjatësia            = 20.753056
+ | Lartësia            = 
+}}
+'''Masalović''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,56 @@
+{{Fshat në Kosovës
+ | Emri                = Žiljivoda
+| sqi_V_name = Zhilivodë
+| sqi_V_FULL_NAME_RO = Zhilivodë
+| sqi_V_FULL_NAME_ND_RO = Zhilivode
+| sqi_V_SORT_NAME_RG = ZHILIVODE
+| sqi_V_FULL_NAME_RG = Zhilivodë
+| sqi_V_FULL_NAME_ND_RG = Zhilivode
+| srp_N_name = Žiljivoda
+| srp_N_FULL_NAME_RO = Žiljivoda
+| srp_N_FULL_NAME_ND_RO = Ziljivoda
+| srp_N_SORT_NAME_RG = ZILJIVODA
+| srp_N_FULL_NAME_RG = Žiljivoda
+| srp_N_FULL_NAME_ND_RG = Ziljivoda
+| srp_NS_name = Жиливода
+| srp_NS_FULL_NAME_RO = Жиливода
+| srp_NS_FULL_NAME_ND_RO = Жиливода
+| srp_NS_SORT_NAME_RG = ЖИЛИВОДА
+| srp_NS_FULL_NAME_RG = Жиливода
+| srp_NS_FULL_NAME_ND_RG = Жиливода
+| srp_V_name = Želi Voda
+| srp_V_FULL_NAME_RO = Želi Voda Žilivoda
+| srp_V_FULL_NAME_ND_RO = Zeli Voda Zilivoda
+| srp_V_SORT_NAME_RG = ZELIVODA ZILIVODA
+| srp_V_FULL_NAME_RG = Želi Voda Žilivoda
+| srp_V_FULL_NAME_ND_RG = Zeli Voda Zilivoda
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.697778
+ | Gjatësia            = 20.99
+ | Lartësia            = 
+}}
+'''Žiljivoda''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Lanište
+| srp_N_name = Lanište
+| srp_N_FULL_NAME_RO = Lanište
+| srp_N_FULL_NAME_ND_RO = Laniste
+| srp_N_SORT_NAME_RG = LANISTE
+| srp_N_FULL_NAME_RG = Lanište
+| srp_N_FULL_NAME_ND_RG = Laniste
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.216389
+ | Gjatësia            = 21.271389
+ | Lartësia            = 
+}}
+'''Lanište''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Buć Mahala
+| srp_N_name = Buć Mahala
+| srp_N_FULL_NAME_RO = Buć Mahala
+| srp_N_FULL_NAME_ND_RO = Buc Mahala
+| srp_N_SORT_NAME_RG = BUCMAHALA
+| srp_N_FULL_NAME_RG = Buć Mahala
+| srp_N_FULL_NAME_ND_RG = Buc Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.357778
+ | Gjatësia            = 20.926111
+ | Lartësia            = 
+}}
+'''Buć Mahala''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

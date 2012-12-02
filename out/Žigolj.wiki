@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Žigolj
+| srp_N_name = Žigolj
+| srp_N_FULL_NAME_RO = Žigolj
+| srp_N_FULL_NAME_ND_RO = Zigolj
+| srp_N_SORT_NAME_RG = ZIGOLJ
+| srp_N_FULL_NAME_RG = Žigolj
+| srp_N_FULL_NAME_ND_RG = Zigolj
+| srp_V_name = Žigoli
+| srp_V_FULL_NAME_RO = Žigoli
+| srp_V_FULL_NAME_ND_RO = Zigoli
+| srp_V_SORT_NAME_RG = ZIGOLI
+| srp_V_FULL_NAME_RG = Žigoli
+| srp_V_FULL_NAME_ND_RG = Zigoli
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.183611
+ | Gjatësia            = 20.736667
+ | Lartësia            = 
+}}
+'''Žigolj''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Balević Mahala
+| srp_N_name = Balević Mahala
+| srp_N_FULL_NAME_RO = Balević Mahala
+| srp_N_FULL_NAME_ND_RO = Balevic Mahala
+| srp_N_SORT_NAME_RG = BALEVICMAHALA
+| srp_N_FULL_NAME_RG = Balević Mahala
+| srp_N_FULL_NAME_ND_RG = Balevic Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.807018
+ | Gjatësia            = 21.079263
+ | Lartësia            = 
+}}
+'''Balević Mahala''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

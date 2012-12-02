@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Stolići
+| srp_N_name = Stolići
+| srp_N_FULL_NAME_RO = Stolići
+| srp_N_FULL_NAME_ND_RO = Stolici
+| srp_N_SORT_NAME_RG = STOLICI
+| srp_N_FULL_NAME_RG = Stolići
+| srp_N_FULL_NAME_ND_RG = Stolici
+| srp_NS_name = Столићи
+| srp_NS_FULL_NAME_RO = Столићи
+| srp_NS_FULL_NAME_ND_RO = Столићи
+| srp_NS_SORT_NAME_RG = СТОЛИЋИ
+| srp_NS_FULL_NAME_RG = Столићи
+| srp_NS_FULL_NAME_ND_RG = Столићи
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.449167
+ | Gjatësia            = 20.836667
+ | Lartësia            = 
+}}
+'''Stolići''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Mahala Cakaj
+| srp_N_name = Mahala Cakaj
+| srp_N_FULL_NAME_RO = Mahala Cakaj
+| srp_N_FULL_NAME_ND_RO = Mahala Cakaj
+| srp_N_SORT_NAME_RG = MAHALACAKAJ
+| srp_N_FULL_NAME_RG = Mahala Cakaj
+| srp_N_FULL_NAME_ND_RG = Mahala Cakaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prizren
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.272222
+ | Gjatësia            = 20.608333
+ | Lartësia            = 
+}}
+'''Mahala Cakaj''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prizren}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Vendbanime në Kosovës]]

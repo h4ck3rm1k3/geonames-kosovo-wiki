@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kaljatička Reka
+| srp_N_name = Kaljatička Reka
+| srp_N_FULL_NAME_RO = Kaljatička Reka
+| srp_N_FULL_NAME_ND_RO = Kaljaticka Reka
+| srp_N_SORT_NAME_RG = KALJATICKAREKA
+| srp_N_FULL_NAME_RG = Kaljatička Reka
+| srp_N_FULL_NAME_ND_RG = Kaljaticka Reka
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.815466
+ | Gjatësia            = 21.347192
+ | Lartësia            = 
+}}
+'''Kaljatička Reka''' është një [[]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

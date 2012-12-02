@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Goranci
+| srp_N_name = Goranci
+| srp_N_FULL_NAME_RO = Goranci
+| srp_N_FULL_NAME_ND_RO = Goranci
+| srp_N_SORT_NAME_RG = GORANCI
+| srp_N_FULL_NAME_RG = Goranci
+| srp_N_FULL_NAME_ND_RG = Goranci
+| srp_V_name = Gorac
+| srp_V_FULL_NAME_RO = Gorac
+| srp_V_FULL_NAME_ND_RO = Gorac
+| srp_V_SORT_NAME_RG = GORAC
+| srp_V_FULL_NAME_RG = Gorac
+| srp_V_FULL_NAME_ND_RG = Gorac
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Novobërdë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.001944
+ | Gjatësia            = 20.966389
+ | Lartësia            = 
+}}
+'''Goranci''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Novobërdë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
+[[Kategoria:Vendbanime në Kosovës]]

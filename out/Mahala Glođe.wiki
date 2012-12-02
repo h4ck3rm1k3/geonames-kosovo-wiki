@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Mahala Glođe
+| srp_N_name = Mahala Glođe
+| srp_N_FULL_NAME_RO = Mahala Glođe
+| srp_N_FULL_NAME_ND_RO = Mahala Glode
+| srp_N_SORT_NAME_RG = MAHALAGLODE
+| srp_N_FULL_NAME_RG = Mahala Glođe
+| srp_N_FULL_NAME_ND_RG = Mahala Glode
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.607222
+ | Gjatësia            = 21.53
+ | Lartësia            = 
+}}
+'''Mahala Glođe''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

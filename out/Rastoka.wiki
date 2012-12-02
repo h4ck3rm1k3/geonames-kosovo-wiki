@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Rastoka
+| srp_N_name = Rastoka
+| srp_N_FULL_NAME_RO = Rastoka
+| srp_N_FULL_NAME_ND_RO = Rastoka
+| srp_N_SORT_NAME_RG = RASTOKA
+| srp_N_FULL_NAME_RG = Rastoka
+| srp_N_FULL_NAME_ND_RG = Rastoka
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.556944
+ | Gjatësia            = 20.560556
+ | Lartësia            = 
+}}
+'''Rastoka''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Albanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Vendbanime në Kosovës]]

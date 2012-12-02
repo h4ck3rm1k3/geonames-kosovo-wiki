@@ -1,0 +1,38 @@
+{{Fshat në Albania
+ | Emri                = NAME NOT KNOWN
+| std_N_name = NAME NOT KNOWN
+| std_N_FULL_NAME_RO = NAME NOT KNOWN
+| std_N_FULL_NAME_ND_RO = NAME NOT KNOWN
+| std_N_SORT_NAME_RG = NAMENOTKNOWN
+| std_N_FULL_NAME_RG = NAME NOT KNOWN
+| std_N_FULL_NAME_ND_RG = NAME NOT KNOWN
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Albania
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.398333
+ | Gjatësia            = 20.21
+ | Lartësia            = 
+}}
+'''NAME NOT KNOWN''' është një [[]] në [[]] të [[Albania]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Albania]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Albania]]

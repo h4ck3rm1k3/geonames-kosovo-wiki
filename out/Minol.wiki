@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Minol
+| srp_N_name = Minol
+| srp_N_FULL_NAME_RO = Minol
+| srp_N_FULL_NAME_ND_RO = Minol
+| srp_N_SORT_NAME_RG = MINOL
+| srp_N_FULL_NAME_RG = Minol
+| srp_N_FULL_NAME_ND_RG = Minol
+| srp_NS_name = Минол
+| srp_NS_FULL_NAME_RO = Минол
+| srp_NS_FULL_NAME_ND_RO = Минол
+| srp_NS_SORT_NAME_RG = МИНОЛ
+| srp_NS_FULL_NAME_RG = Минол
+| srp_NS_FULL_NAME_ND_RG = Минол
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.488333
+ | Gjatësia            = 20.740556
+ | Lartësia            = 
+}}
+'''Minol''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Caka Mahala
+| srp_N_name = Caka Mahala
+| srp_N_FULL_NAME_RO = Caka Mahala
+| srp_N_FULL_NAME_ND_RO = Caka Mahala
+| srp_N_SORT_NAME_RG = CAKAMAHALA
+| srp_N_FULL_NAME_RG = Caka Mahala
+| srp_N_FULL_NAME_ND_RG = Caka Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.261667
+ | Gjatësia            = 21.174167
+ | Lartësia            = 
+}}
+'''Caka Mahala''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

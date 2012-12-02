@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Crni Vrh
+| srp_N_name = Crni Vrh
+| srp_N_FULL_NAME_RO = Crni Vrh
+| srp_N_FULL_NAME_ND_RO = Crni Vrh
+| srp_N_SORT_NAME_RG = CRNIVRH
+| srp_N_FULL_NAME_RG = Crni Vrh
+| srp_N_FULL_NAME_ND_RG = Crni Vrh
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.234444
+ | Gjatësia            = 21.089722
+ | Lartësia            = 
+}}
+'''Crni Vrh''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

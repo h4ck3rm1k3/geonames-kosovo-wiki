@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Bataire
+| srp_N_name = Bataire
+| srp_N_FULL_NAME_RO = Bataire
+| srp_N_FULL_NAME_ND_RO = Bataire
+| srp_N_SORT_NAME_RG = BATAIRE
+| srp_N_FULL_NAME_RG = Bataire
+| srp_N_FULL_NAME_ND_RG = Bataire
+| srp_NS_name = Батаире
+| srp_NS_FULL_NAME_RO = Батаире
+| srp_NS_FULL_NAME_ND_RO = Батаире
+| srp_NS_SORT_NAME_RG = БАТАИРЕ
+| srp_NS_FULL_NAME_RG = Батаире
+| srp_NS_FULL_NAME_ND_RG = Батаире
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Novobërdë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.001944
+ | Gjatësia            = 20.876944
+ | Lartësia            = 
+}}
+'''Bataire''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Novobërdë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
+[[Kategoria:Vendbanime në Kosovës]]

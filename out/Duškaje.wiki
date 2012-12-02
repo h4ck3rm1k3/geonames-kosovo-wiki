@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Duškaje
+| srp_N_name = Duškaje
+| srp_N_FULL_NAME_RO = Duškaje
+| srp_N_FULL_NAME_ND_RO = Duskaje
+| srp_N_SORT_NAME_RG = DUSKAJE
+| srp_N_FULL_NAME_RG = Duškaje
+| srp_N_FULL_NAME_ND_RG = Duskaje
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.690833
+ | Gjatësia            = 20.275556
+ | Lartësia            = 
+}}
+'''Duškaje''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

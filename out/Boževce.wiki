@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Boževce
+| sqi_V_name = Bozhevce
+| sqi_V_FULL_NAME_RO = Bozhevce
+| sqi_V_FULL_NAME_ND_RO = Bozhevce
+| sqi_V_SORT_NAME_RG = BOZHEVCE
+| sqi_V_FULL_NAME_RG = Bozhevce
+| sqi_V_FULL_NAME_ND_RG = Bozhevce
+| srp_N_name = Boževce
+| srp_N_FULL_NAME_RO = Boževce
+| srp_N_FULL_NAME_ND_RO = Bozevce
+| srp_N_SORT_NAME_RG = BOZEVCE
+| srp_N_FULL_NAME_RG = Boževce
+| srp_N_FULL_NAME_ND_RG = Bozevce
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Suharekë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.801667
+ | Gjatësia            = 20.824444
+ | Lartësia            = 
+}}
+'''Boževce''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Suharekë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Suharekë]]
+[[Kategoria:Vendbanime në Kosovës]]

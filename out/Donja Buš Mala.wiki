@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Donja Buš Mala
+| srp_N_name = Donja Buš Mala
+| srp_N_FULL_NAME_RO = Donja Buš Mala
+| srp_N_FULL_NAME_ND_RO = Donja Bus Mala
+| srp_N_SORT_NAME_RG = DONJABUSMALA
+| srp_N_FULL_NAME_RG = Donja Buš Mala
+| srp_N_FULL_NAME_ND_RG = Donja Bus Mala
+| srp_V_name = Bušal Mala
+| srp_V_FULL_NAME_RO = Bušal Mala
+| srp_V_FULL_NAME_ND_RO = Busal Mala
+| srp_V_SORT_NAME_RG = BUSALMALA
+| srp_V_FULL_NAME_RG = Bušal Mala
+| srp_V_FULL_NAME_ND_RG = Busal Mala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.163333
+ | Gjatësia            = 21.270556
+ | Lartësia            = 
+}}
+'''Donja Buš Mala''' është një [[Fshat]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

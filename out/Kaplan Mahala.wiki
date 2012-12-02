@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Kaplan Mahala
+| srp_N_name = Kaplan Mahala
+| srp_N_FULL_NAME_RO = Kaplan Mahala
+| srp_N_FULL_NAME_ND_RO = Kaplan Mahala
+| srp_N_SORT_NAME_RG = KAPLANMAHALA
+| srp_N_FULL_NAME_RG = Kaplan Mahala
+| srp_N_FULL_NAME_ND_RG = Kaplan Mahala
+| srp_NS_name = Каплан Махала
+| srp_NS_FULL_NAME_RO = Каплан Махала
+| srp_NS_FULL_NAME_ND_RO = Каплан Махала
+| srp_NS_SORT_NAME_RG = КАПЛАНМАХАЛА
+| srp_NS_FULL_NAME_RG = Каплан Махала
+| srp_NS_FULL_NAME_ND_RG = Каплан Махала
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.52
+ | Gjatësia            = 20.720556
+ | Lartësia            = 
+}}
+'''Kaplan Mahala''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

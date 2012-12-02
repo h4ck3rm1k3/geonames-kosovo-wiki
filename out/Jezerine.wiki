@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Jezerine
+| srp_N_name = Jezerine
+| srp_N_FULL_NAME_RO = Jezerine
+| srp_N_FULL_NAME_ND_RO = Jezerine
+| srp_N_SORT_NAME_RG = JEZERINE
+| srp_N_FULL_NAME_RG = Jezerine
+| srp_N_FULL_NAME_ND_RG = Jezerine
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.149167
+ | Gjatësia            = 20.739167
+ | Lartësia            = 
+}}
+'''Jezerine''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

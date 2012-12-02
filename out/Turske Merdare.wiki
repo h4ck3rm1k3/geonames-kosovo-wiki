@@ -1,0 +1,62 @@
+{{Fshat në Kosovës
+ | Emri                = Turske Merdare
+| sqi_V_name = Merdar
+| sqi_V_FULL_NAME_RO = Merdar
+| sqi_V_FULL_NAME_ND_RO = Merdar
+| sqi_V_SORT_NAME_RG = MERDAR
+| sqi_V_FULL_NAME_RG = Merdar
+| sqi_V_FULL_NAME_ND_RG = Merdar
+| srp_N_name = Turske Merdare
+| srp_N_FULL_NAME_RO = Turske Merdare
+| srp_N_FULL_NAME_ND_RO = Turske Merdare
+| srp_N_SORT_NAME_RG = TURSKEMERDARE
+| srp_N_FULL_NAME_RG = Turske Merdare
+| srp_N_FULL_NAME_ND_RG = Turske Merdare
+| srp_NS_name = Турске Мердаре
+| srp_NS_FULL_NAME_RO = Турске Мердаре
+| srp_NS_FULL_NAME_ND_RO = Турске Мердаре
+| srp_NS_SORT_NAME_RG = ТУРСКЕМЕРДАРЕ
+| srp_NS_FULL_NAME_RG = Турске Мердаре
+| srp_NS_FULL_NAME_ND_RG = Турске Мердаре
+| srp_V_name = Mrdare
+| srp_V_FULL_NAME_RO = Mrdare Merdare Tursko Merdare
+| srp_V_FULL_NAME_ND_RO = Mrdare Merdare Tursko Merdare
+| srp_V_SORT_NAME_RG = MRDARE MERDARE TURSKOMERDARE
+| srp_V_FULL_NAME_RG = Mrdare Merdare Tursko Merdare
+| srp_V_FULL_NAME_ND_RG = Mrdare Merdare Tursko Merdare
+| srp_VS_name = Мердаре
+| srp_VS_FULL_NAME_RO = Мердаре
+| srp_VS_FULL_NAME_ND_RO = Мердаре
+| srp_VS_SORT_NAME_RG = МЕРДАРЕ
+| srp_VS_FULL_NAME_RG = Мердаре
+| srp_VS_FULL_NAME_ND_RG = Мердаре
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.932982
+ | Gjatësia            = 21.234839
+ | Lartësia            = 
+}}
+'''Turske Merdare''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

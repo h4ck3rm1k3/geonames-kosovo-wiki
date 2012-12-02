@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Gornja Ladovac
+| sqi_V_name = Mala e Poshtëme
+| sqi_V_FULL_NAME_RO = Mala e Poshtëme Lladoc e Poshtëme
+| sqi_V_FULL_NAME_ND_RO = Mala e Poshteme Lladoc e Poshteme
+| sqi_V_SORT_NAME_RG = MALAEPOSHTEME LLADOCEPOSHTEME
+| sqi_V_FULL_NAME_RG = Mala e Poshtëme Lladoc e Poshtëme
+| sqi_V_FULL_NAME_ND_RG = Mala e Poshteme Lladoc e Poshteme
+| srp_N_name = Gornja Ladovac
+| srp_N_FULL_NAME_RO = Gornja Ladovac
+| srp_N_FULL_NAME_ND_RO = Gornja Ladovac
+| srp_N_SORT_NAME_RG = GORNJALADOVAC
+| srp_N_FULL_NAME_RG = Gornja Ladovac
+| srp_N_FULL_NAME_ND_RG = Gornja Ladovac
+| srp_V_name = Gornja Mala
+| srp_V_FULL_NAME_RO = Gornja Mala
+| srp_V_FULL_NAME_ND_RO = Gornja Mala
+| srp_V_SORT_NAME_RG = GORNJAMALA
+| srp_V_FULL_NAME_RG = Gornja Mala
+| srp_V_FULL_NAME_ND_RG = Gornja Mala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.880729
+ | Gjatësia            = 21.248573
+ | Lartësia            = 
+}}
+'''Gornja Ladovac''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Donje Zlokućane
+| sqi_V_name = Zlakuçan
+| sqi_V_FULL_NAME_RO = Zlakuçan Zllokuqan Ulet
+| sqi_V_FULL_NAME_ND_RO = Zlakucan Zllokuqan Ulet
+| sqi_V_SORT_NAME_RG = ZLAKUCAN ZLLOKUQANULET
+| sqi_V_FULL_NAME_RG = Zlakuçan Zllokuqan Ulet
+| sqi_V_FULL_NAME_ND_RG = Zlakucan Zllokuqan Ulet
+| srp_N_name = Donje Zlokućane
+| srp_N_FULL_NAME_RO = Donje Zlokućane
+| srp_N_FULL_NAME_ND_RO = Donje Zlokucane
+| srp_N_SORT_NAME_RG = DONJEZLOKUCANE
+| srp_N_FULL_NAME_RG = Donje Zlokućane
+| srp_N_FULL_NAME_ND_RG = Donje Zlokucane
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.256667
+ | Gjatësia            = 21.549167
+ | Lartësia            = 
+}}
+'''Donje Zlokućane''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

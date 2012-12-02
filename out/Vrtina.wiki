@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Vrtina
+| srp_N_name = Vrtina
+| srp_N_FULL_NAME_RO = Vrtina
+| srp_N_FULL_NAME_ND_RO = Vrtina
+| srp_N_SORT_NAME_RG = VRTINA
+| srp_N_FULL_NAME_RG = Vrtina
+| srp_N_FULL_NAME_ND_RG = Vrtina
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zubin Potok
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.982222
+ | Gjatësia            = 20.637222
+ | Lartësia            = 
+}}
+'''Vrtina''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zubin Potok}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zubin Potok]]
+[[Kategoria:Vendbanime në Kosovës]]

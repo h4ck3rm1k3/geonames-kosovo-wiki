@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Begović Mahala
+| srp_N_name = Begović Mahala
+| srp_N_FULL_NAME_RO = Begović Mahala
+| srp_N_FULL_NAME_ND_RO = Begovic Mahala
+| srp_N_SORT_NAME_RG = BEGOVICMAHALA
+| srp_N_FULL_NAME_RG = Begović Mahala
+| srp_N_FULL_NAME_ND_RG = Begovic Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.801834
+ | Gjatësia            = 21.220182
+ | Lartësia            = 
+}}
+'''Begović Mahala''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

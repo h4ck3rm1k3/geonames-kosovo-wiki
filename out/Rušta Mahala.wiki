@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Rušta Mahala
+| srp_N_name = Rušta Mahala
+| srp_N_FULL_NAME_RO = Rušta Mahala
+| srp_N_FULL_NAME_ND_RO = Rusta Mahala
+| srp_N_SORT_NAME_RG = RUSTAMAHALA
+| srp_N_FULL_NAME_RG = Rušta Mahala
+| srp_N_FULL_NAME_ND_RG = Rusta Mahala
+| srp_V_name = Rusta Mahala
+| srp_V_FULL_NAME_RO = Rusta Mahala
+| srp_V_FULL_NAME_ND_RO = Rusta Mahala
+| srp_V_SORT_NAME_RG = RUSTAMAHALA
+| srp_V_FULL_NAME_RG = Rusta Mahala
+| srp_V_FULL_NAME_ND_RG = Rusta Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.281389
+ | Gjatësia            = 21.572778
+ | Lartësia            = 
+}}
+'''Rušta Mahala''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Populanci
+| srp_N_name = Populanci
+| srp_N_FULL_NAME_RO = Populanci
+| srp_N_FULL_NAME_ND_RO = Populanci
+| srp_N_SORT_NAME_RG = POPULANCI
+| srp_N_FULL_NAME_RG = Populanci
+| srp_N_FULL_NAME_ND_RG = Populanci
+| srp_V_name = Mahala Populanci
+| srp_V_FULL_NAME_RO = Mahala Populanci
+| srp_V_FULL_NAME_ND_RO = Mahala Populanci
+| srp_V_SORT_NAME_RG = MAHALAPOPULANCI
+| srp_V_FULL_NAME_RG = Mahala Populanci
+| srp_V_FULL_NAME_ND_RG = Mahala Populanci
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.636944
+ | Gjatësia            = 21.516944
+ | Lartësia            = 
+}}
+'''Populanci''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

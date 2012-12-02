@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Pašino Selo
+| sqi_V_name = Pashino Sello
+| sqi_V_FULL_NAME_RO = Pashino Sello
+| sqi_V_FULL_NAME_ND_RO = Pashino Sello
+| sqi_V_SORT_NAME_RG = PASHINOSELLO
+| sqi_V_FULL_NAME_RG = Pashino Sello
+| sqi_V_FULL_NAME_ND_RG = Pashino Sello
+| srp_N_name = Pašino Selo
+| srp_N_FULL_NAME_RO = Pašino Selo
+| srp_N_FULL_NAME_ND_RO = Pasino Selo
+| srp_N_SORT_NAME_RG = PASINOSELO
+| srp_N_FULL_NAME_RG = Pašino Selo
+| srp_N_FULL_NAME_ND_RG = Pasino Selo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.672778
+ | Gjatësia            = 20.330278
+ | Lartësia            = 
+}}
+'''Pašino Selo''' është një [[Fshat Vogel]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

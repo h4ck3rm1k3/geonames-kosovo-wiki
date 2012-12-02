@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Čuljkova Mahala
+| srp_N_name = Čuljkova Mahala
+| srp_N_FULL_NAME_RO = Čuljkova Mahala
+| srp_N_FULL_NAME_ND_RO = Culjkova Mahala
+| srp_N_SORT_NAME_RG = CULJKOVAMAHALA
+| srp_N_FULL_NAME_RG = Čuljkova Mahala
+| srp_N_FULL_NAME_ND_RG = Culjkova Mahala
+| srp_V_name = Čuljkova
+| srp_V_FULL_NAME_RO = Čuljkova
+| srp_V_FULL_NAME_ND_RO = Culjkova
+| srp_V_SORT_NAME_RG = CULJKOVA
+| srp_V_FULL_NAME_RG = Čuljkova
+| srp_V_FULL_NAME_ND_RG = Culjkova
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Obiliq
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.593648
+ | Gjatësia            = 21.439254
+ | Lartësia            = 
+}}
+'''Čuljkova Mahala''' është një [[Fshat]] në [[Obiliq]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Obiliq}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Obiliq]]
+[[Kategoria:Vendbanime në Kosovës]]

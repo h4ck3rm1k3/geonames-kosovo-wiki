@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Popova Livada
+| srp_N_name = Popova Livada
+| srp_N_FULL_NAME_RO = Popova Livada
+| srp_N_FULL_NAME_ND_RO = Popova Livada
+| srp_N_SORT_NAME_RG = POPOVALIVADA
+| srp_N_FULL_NAME_RG = Popova Livada
+| srp_N_FULL_NAME_ND_RG = Popova Livada
+| srp_NS_name = Попова Ливада
+| srp_NS_FULL_NAME_RO = Попова Ливада
+| srp_NS_FULL_NAME_ND_RO = Попова Ливада
+| srp_NS_SORT_NAME_RG = ПОПОВАЛИВАДА
+| srp_NS_FULL_NAME_RG = Попова Ливада
+| srp_NS_FULL_NAME_ND_RG = Попова Ливада
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Malishevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.575462
+ | Gjatësia            = 21.315643
+ | Lartësia            = 
+}}
+'''Popova Livada''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Malishevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Malishevë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Pniš
+| srp_N_name = Pniš
+| srp_N_FULL_NAME_RO = Pniš
+| srp_N_FULL_NAME_ND_RO = Pnis
+| srp_N_SORT_NAME_RG = PNIS
+| srp_N_FULL_NAME_RG = Pniš
+| srp_N_FULL_NAME_ND_RG = Pnis
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.313333
+ | Gjatësia            = 20.5225
+ | Lartësia            = 
+}}
+'''Pniš''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

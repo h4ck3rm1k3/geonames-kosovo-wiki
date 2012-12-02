@@ -1,0 +1,50 @@
+{{Fshat në Kosovës
+ | Emri                = Grlica
+| sqi_V_name = Grlica e Poshtëme
+| sqi_V_FULL_NAME_RO = Grlica e Poshtëme Gryka e Poshtme
+| sqi_V_FULL_NAME_ND_RO = Grlica e Poshteme Gryka e Poshtme
+| sqi_V_SORT_NAME_RG = GRLICAEPOSHTEME GRYKAEPOSHTME
+| sqi_V_FULL_NAME_RG = Grlica e Poshtëme Gryka e Poshtme
+| sqi_V_FULL_NAME_ND_RG = Grlica e Poshteme Gryka e Poshtme
+| srp_N_name = Grlica
+| srp_N_FULL_NAME_RO = Grlica
+| srp_N_FULL_NAME_ND_RO = Grlica
+| srp_N_SORT_NAME_RG = GRLICA
+| srp_N_FULL_NAME_RG = Grlica
+| srp_N_FULL_NAME_ND_RG = Grlica
+| srp_V_name = Donja Grlica
+| srp_V_FULL_NAME_RO = Donja Grlica
+| srp_V_FULL_NAME_ND_RO = Donja Grlica
+| srp_V_SORT_NAME_RG = DONJAGRLICA
+| srp_V_FULL_NAME_RG = Donja Grlica
+| srp_V_FULL_NAME_ND_RG = Donja Grlica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.288611
+ | Gjatësia            = 21.216667
+ | Lartësia            = 
+}}
+'''Grlica''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

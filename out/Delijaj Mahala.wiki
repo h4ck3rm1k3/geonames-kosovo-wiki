@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Delijaj Mahala
+| srp_N_name = Delijaj Mahala
+| srp_N_FULL_NAME_RO = Delijaj Mahala
+| srp_N_FULL_NAME_ND_RO = Delijaj Mahala
+| srp_N_SORT_NAME_RG = DELIJAJMAHALA
+| srp_N_FULL_NAME_RG = Delijaj Mahala
+| srp_N_FULL_NAME_ND_RG = Delijaj Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Suharekë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.699722
+ | Gjatësia            = 20.785556
+ | Lartësia            = 
+}}
+'''Delijaj Mahala''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Suharekë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Suharekë]]
+[[Kategoria:Vendbanime në Kosovës]]

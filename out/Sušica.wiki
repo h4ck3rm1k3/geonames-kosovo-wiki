@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Sušica
+| srp_N_name = Sušica
+| srp_N_FULL_NAME_RO = Sušica
+| srp_N_FULL_NAME_ND_RO = Susica
+| srp_N_SORT_NAME_RG = SUSICA
+| srp_N_FULL_NAME_RG = Sušica
+| srp_N_FULL_NAME_ND_RG = Susica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.500833
+ | Gjatësia            = 20.520556
+ | Lartësia            = 
+}}
+'''Sušica''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

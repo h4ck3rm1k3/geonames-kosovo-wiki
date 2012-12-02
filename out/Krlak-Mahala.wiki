@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Krlak-Mahala
+| srp_N_name = Krlak-Mahala
+| srp_N_FULL_NAME_RO = Krlak-Mahala
+| srp_N_FULL_NAME_ND_RO = Krlak-Mahala
+| srp_N_SORT_NAME_RG = KRLAKMAHALA
+| srp_N_FULL_NAME_RG = Krlak-Mahala
+| srp_N_FULL_NAME_ND_RG = Krlak-Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Klinë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.270556
+ | Gjatësia            = 21.218611
+ | Lartësia            = 
+}}
+'''Krlak-Mahala''' është një [[Fshat]] në [[Klinë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Klinë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Klinë]]
+[[Kategoria:Vendbanime në Kosovës]]

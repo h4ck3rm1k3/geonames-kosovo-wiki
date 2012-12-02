@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kaljaja e Emljakut
+| srp_N_name = Kaljaja e Emljakut
+| srp_N_FULL_NAME_RO = Kaljaja e Emljakut
+| srp_N_FULL_NAME_ND_RO = Kaljaja e Emljakut
+| srp_N_SORT_NAME_RG = EMLJAKUT KALJAJAE
+| srp_N_FULL_NAME_RG = Emljakut, Kaljaja e
+| srp_N_FULL_NAME_ND_RG = Emljakut, Kaljaja e
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.2475
+ | Gjatësia            = 21.366667
+ | Lartësia            = 
+}}
+'''Kaljaja e Emljakut''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

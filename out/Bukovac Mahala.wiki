@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Bukovac Mahala
+| srp_N_name = Bukovac Mahala
+| srp_N_FULL_NAME_RO = Bukovac Mahala
+| srp_N_FULL_NAME_ND_RO = Bukovac Mahala
+| srp_N_SORT_NAME_RG = BUKOVACMAHALA
+| srp_N_FULL_NAME_RG = Bukovac Mahala
+| srp_N_FULL_NAME_ND_RG = Bukovac Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.298056
+ | Gjatësia            = 21.526667
+ | Lartësia            = 
+}}
+'''Bukovac Mahala''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Donji Žegovac
+| srp_N_name = Donji Žegovac
+| srp_N_FULL_NAME_RO = Donji Žegovac
+| srp_N_FULL_NAME_ND_RO = Donji Zegovac
+| srp_N_SORT_NAME_RG = DONJIZEGOVAC
+| srp_N_FULL_NAME_RG = Donji Žegovac
+| srp_N_FULL_NAME_ND_RG = Donji Zegovac
+| srp_V_name = Donje Žegovce
+| srp_V_FULL_NAME_RO = Donje Žegovce
+| srp_V_FULL_NAME_ND_RO = Donje Zegovce
+| srp_V_SORT_NAME_RG = DONJEZEGOVCE
+| srp_V_FULL_NAME_RG = Donje Žegovce
+| srp_V_FULL_NAME_ND_RG = Donje Zegovce
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.511111
+ | Gjatësia            = 21.316225
+ | Lartësia            = 
+}}
+'''Donji Žegovac''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

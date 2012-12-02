@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Hađovići
+| srp_N_name = Hađovići
+| srp_N_FULL_NAME_RO = Hađovići
+| srp_N_FULL_NAME_ND_RO = Hadovici
+| srp_N_SORT_NAME_RG = HADOVICI
+| srp_N_FULL_NAME_RG = Hađovići
+| srp_N_FULL_NAME_ND_RG = Hadovici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtime
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.419167
+ | Gjatësia            = 21.035
+ | Lartësia            = 
+}}
+'''Hađovići''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtime}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtime]]
+[[Kategoria:Vendbanime në Kosovës]]

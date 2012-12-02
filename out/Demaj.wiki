@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Demaj
+| srp_N_name = Demaj
+| srp_N_FULL_NAME_RO = Demaj
+| srp_N_FULL_NAME_ND_RO = Demaj
+| srp_N_SORT_NAME_RG = DEMAJ
+| srp_N_FULL_NAME_RG = Demaj
+| srp_N_FULL_NAME_ND_RG = Demaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.745833
+ | Gjatësia            = 20.0825
+ | Lartësia            = 
+}}
+'''Demaj''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

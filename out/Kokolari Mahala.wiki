@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kokolari Mahala
+| srp_N_name = Kokolari Mahala
+| srp_N_FULL_NAME_RO = Kokolari Mahala
+| srp_N_FULL_NAME_ND_RO = Kokolari Mahala
+| srp_N_SORT_NAME_RG = KOKOLARIMAHALA
+| srp_N_FULL_NAME_RG = Kokolari Mahala
+| srp_N_FULL_NAME_ND_RG = Kokolari Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.352778
+ | Gjatësia            = 20.937778
+ | Lartësia            = 
+}}
+'''Kokolari Mahala''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

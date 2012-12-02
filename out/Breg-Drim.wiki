@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Breg-Drim
+| srp_N_name = Breg-Drim
+| srp_N_FULL_NAME_RO = Breg-Drim
+| srp_N_FULL_NAME_ND_RO = Breg-Drim
+| srp_N_SORT_NAME_RG = BREGDRIM
+| srp_N_FULL_NAME_RG = Breg-Drim
+| srp_N_FULL_NAME_ND_RG = Breg-Drim
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prizren
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.289167
+ | Gjatësia            = 20.636944
+ | Lartësia            = 
+}}
+'''Breg-Drim''' është një [[Fshat Vogel]] në [[Prizren]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prizren}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Vendbanime në Kosovës]]

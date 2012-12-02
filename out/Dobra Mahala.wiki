@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Dobra Mahala
+| srp_N_name = Dobra Mahala
+| srp_N_FULL_NAME_RO = Dobra Mahala
+| srp_N_FULL_NAME_ND_RO = Dobra Mahala
+| srp_N_SORT_NAME_RG = DOBRAMAHALA
+| srp_N_FULL_NAME_RG = Dobra Mahala
+| srp_N_FULL_NAME_ND_RG = Dobra Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kaçanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.679167
+ | Gjatësia            = 20.856111
+ | Lartësia            = 
+}}
+'''Dobra Mahala''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kaçanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kaçanik]]
+[[Kategoria:Vendbanime në Kosovës]]

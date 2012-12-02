@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Kosančić
+| sqi_V_name = Kosaniq
+| sqi_V_FULL_NAME_RO = Kosaniq
+| sqi_V_FULL_NAME_ND_RO = Kosaniq
+| sqi_V_SORT_NAME_RG = KOSANIQ
+| sqi_V_FULL_NAME_RG = Kosaniq
+| sqi_V_FULL_NAME_ND_RG = Kosaniq
+| srp_N_name = Kosančić
+| srp_N_FULL_NAME_RO = Kosančić
+| srp_N_FULL_NAME_ND_RO = Kosancic
+| srp_N_SORT_NAME_RG = KOSANCIC
+| srp_N_FULL_NAME_RG = Kosančić
+| srp_N_FULL_NAME_ND_RG = Kosancic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.348056
+ | Gjatësia            = 20.774167
+ | Lartësia            = 
+}}
+'''Kosančić''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Bašići
+| srp_D_name = Bašići
+| srp_D_FULL_NAME_RO = Bašići
+| srp_D_FULL_NAME_ND_RO = Basici
+| srp_D_SORT_NAME_RG = BASICI
+| srp_D_FULL_NAME_RG = Bašići
+| srp_D_FULL_NAME_ND_RG = Basici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Viti
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.304444
+ | Gjatësia            = 21.470278
+ | Lartësia            = 
+}}
+'''Bašići''' është një [[Fshat]] në [[Viti]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Viti}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Viti]]
+[[Kategoria:Vendbanime në Kosovës]]

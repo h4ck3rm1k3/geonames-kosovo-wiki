@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Demirovci
+| sqi_V_name = Demë
+| sqi_V_FULL_NAME_RO = Demë Demirofc
+| sqi_V_FULL_NAME_ND_RO = Deme Demirofc
+| sqi_V_SORT_NAME_RG = DEME DEMIROFC
+| sqi_V_FULL_NAME_RG = Demë Demirofc
+| sqi_V_FULL_NAME_ND_RG = Deme Demirofc
+| srp_N_name = Demirovci
+| srp_N_FULL_NAME_RO = Demirovci
+| srp_N_FULL_NAME_ND_RO = Demirovci
+| srp_N_SORT_NAME_RG = DEMIROVCI
+| srp_N_FULL_NAME_RG = Demirovci
+| srp_N_FULL_NAME_ND_RG = Demirovci
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.3375
+ | Gjatësia            = 21.5125
+ | Lartësia            = 
+}}
+'''Demirovci''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

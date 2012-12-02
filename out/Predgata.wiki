@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Predgata
+| srp_N_name = Predgata
+| srp_N_FULL_NAME_RO = Predgata
+| srp_N_FULL_NAME_ND_RO = Predgata
+| srp_N_SORT_NAME_RG = PREDGATA
+| srp_N_FULL_NAME_RG = Predgata
+| srp_N_FULL_NAME_ND_RG = Predgata
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.646111
+ | Gjatësia            = 20.731389
+ | Lartësia            = 
+}}
+'''Predgata''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

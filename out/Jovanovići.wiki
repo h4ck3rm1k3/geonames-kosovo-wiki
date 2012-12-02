@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Jovanovići
+| srp_N_name = Jovanovići
+| srp_N_FULL_NAME_RO = Jovanovići
+| srp_N_FULL_NAME_ND_RO = Jovanovici
+| srp_N_SORT_NAME_RG = JOVANOVICI
+| srp_N_FULL_NAME_RG = Jovanovići
+| srp_N_FULL_NAME_ND_RG = Jovanovici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Novobërdë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.826389
+ | Gjatësia            = 20.846667
+ | Lartësia            = 
+}}
+'''Jovanovići''' është një [[Fshat]] në [[Novobërdë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Novobërdë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Novobërdë]]
+[[Kategoria:Vendbanime në Kosovës]]

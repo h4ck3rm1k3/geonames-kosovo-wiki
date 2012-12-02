@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Zuzaku
+| srp_N_name = Zuzaku
+| srp_N_FULL_NAME_RO = Zuzaku
+| srp_N_FULL_NAME_ND_RO = Zuzaku
+| srp_N_SORT_NAME_RG = ZUZAKU
+| srp_N_FULL_NAME_RG = Zuzaku
+| srp_N_FULL_NAME_ND_RG = Zuzaku
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.679167
+ | Gjatësia            = 21.643611
+ | Lartësia            = 
+}}
+'''Zuzaku''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

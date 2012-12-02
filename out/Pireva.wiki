@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Pireva
+| srp_N_name = Pireva
+| srp_N_FULL_NAME_RO = Pireva
+| srp_N_FULL_NAME_ND_RO = Pireva
+| srp_N_SORT_NAME_RG = PIREVA
+| srp_N_FULL_NAME_RG = Pireva
+| srp_N_FULL_NAME_ND_RG = Pireva
+| srp_V_name = Mahala Pirevo
+| srp_V_FULL_NAME_RO = Mahala Pirevo
+| srp_V_FULL_NAME_ND_RO = Mahala Pirevo
+| srp_V_SORT_NAME_RG = MAHALAPIREVO
+| srp_V_FULL_NAME_RG = Mahala Pirevo
+| srp_V_FULL_NAME_ND_RG = Mahala Pirevo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.6725
+ | Gjatësia            = 21.551111
+ | Lartësia            = 
+}}
+'''Pireva''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

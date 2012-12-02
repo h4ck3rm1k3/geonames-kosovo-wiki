@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ledenik
+| srp_N_name = Ledenik
+| srp_N_FULL_NAME_RO = Ledenik
+| srp_N_FULL_NAME_ND_RO = Ledenik
+| srp_N_SORT_NAME_RG = LEDENIK
+| srp_N_FULL_NAME_RG = Ledenik
+| srp_N_FULL_NAME_ND_RG = Ledenik
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zubin Potok
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.978611
+ | Gjatësia            = 20.644722
+ | Lartësia            = 
+}}
+'''Ledenik''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zubin Potok}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zubin Potok]]
+[[Kategoria:Vendbanime në Kosovës]]

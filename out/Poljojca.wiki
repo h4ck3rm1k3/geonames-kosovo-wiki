@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Poljojca
+| srp_N_name = Poljojca
+| srp_N_FULL_NAME_RO = Poljojca
+| srp_N_FULL_NAME_ND_RO = Poljojca
+| srp_N_SORT_NAME_RG = POLJOJCA
+| srp_N_FULL_NAME_RG = Poljojca
+| srp_N_FULL_NAME_ND_RG = Poljojca
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtërpcë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.281944
+ | Gjatësia            = 21.030833
+ | Lartësia            = 
+}}
+'''Poljojca''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtërpcë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtërpcë]]
+[[Kategoria:Vendbanime në Kosovës]]

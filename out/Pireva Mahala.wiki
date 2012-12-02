@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Pireva Mahala
+| srp_N_name = Pireva Mahala
+| srp_N_FULL_NAME_RO = Pireva Mahala
+| srp_N_FULL_NAME_ND_RO = Pireva Mahala
+| srp_N_SORT_NAME_RG = PIREVAMAHALA
+| srp_N_FULL_NAME_RG = Pireva Mahala
+| srp_N_FULL_NAME_ND_RG = Pireva Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.779722
+ | Gjatësia            = 21.141667
+ | Lartësia            = 
+}}
+'''Pireva Mahala''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

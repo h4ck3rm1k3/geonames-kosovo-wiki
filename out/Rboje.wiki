@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Rboje
+| srp_N_name = Rboje
+| srp_N_FULL_NAME_RO = Rboje
+| srp_N_FULL_NAME_ND_RO = Rboje
+| srp_N_SORT_NAME_RG = RBOJE
+| srp_N_FULL_NAME_RG = Rboje
+| srp_N_FULL_NAME_ND_RG = Rboje
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtime
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.418611
+ | Gjatësia            = 21.040833
+ | Lartësia            = 
+}}
+'''Rboje''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtime}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtime]]
+[[Kategoria:Vendbanime në Kosovës]]

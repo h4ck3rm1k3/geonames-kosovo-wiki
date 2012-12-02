@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Radići
+| srp_N_name = Radići
+| srp_N_FULL_NAME_RO = Radići
+| srp_N_FULL_NAME_ND_RO = Radici
+| srp_N_SORT_NAME_RG = RADICI
+| srp_N_FULL_NAME_RG = Radići
+| srp_N_FULL_NAME_ND_RG = Radici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zubin Potok
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.946111
+ | Gjatësia            = 20.503056
+ | Lartësia            = 
+}}
+'''Radići''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zubin Potok}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zubin Potok]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Istrefaj
+| srp_N_name = Istrefaj
+| srp_N_FULL_NAME_RO = Istrefaj
+| srp_N_FULL_NAME_ND_RO = Istrefaj
+| srp_N_SORT_NAME_RG = ISTREFAJ
+| srp_N_FULL_NAME_RG = Istrefaj
+| srp_N_FULL_NAME_ND_RG = Istrefaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Deçan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.592222
+ | Gjatësia            = 20.312222
+ | Lartësia            = 
+}}
+'''Istrefaj''' është një [[Fshat]] në [[Deçan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Deçan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Deçan]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Sovrliće
+| srp_N_name = Sovrliće
+| srp_N_FULL_NAME_RO = Sovrliće
+| srp_N_FULL_NAME_ND_RO = Sovrlice
+| srp_N_SORT_NAME_RG = SOVRLICE
+| srp_N_FULL_NAME_RG = Sovrliće
+| srp_N_FULL_NAME_ND_RG = Sovrlice
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zubin Potok
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.981667
+ | Gjatësia            = 20.5875
+ | Lartësia            = 
+}}
+'''Sovrliće''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zubin Potok}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zubin Potok]]
+[[Kategoria:Vendbanime në Kosovës]]

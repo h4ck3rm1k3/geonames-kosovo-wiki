@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Slima
+| srp_D_name = Slima
+| srp_D_FULL_NAME_RO = Slima
+| srp_D_FULL_NAME_ND_RO = Slima
+| srp_D_SORT_NAME_RG = SLIMA
+| srp_D_FULL_NAME_RG = Slima
+| srp_D_FULL_NAME_ND_RG = Slima
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.64
+ | Gjatësia            = 21.723889
+ | Lartësia            = 
+}}
+'''Slima''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

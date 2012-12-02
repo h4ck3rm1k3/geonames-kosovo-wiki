@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Ravnište
+| srp_N_name = Ravnište
+| srp_N_FULL_NAME_RO = Ravnište
+| srp_N_FULL_NAME_ND_RO = Ravniste
+| srp_N_SORT_NAME_RG = RAVNISTE
+| srp_N_FULL_NAME_RG = Ravnište
+| srp_N_FULL_NAME_ND_RG = Ravniste
+| srp_V_name = Mahala Ravnište
+| srp_V_FULL_NAME_RO = Mahala Ravnište Ravnište Mahala
+| srp_V_FULL_NAME_ND_RO = Mahala Ravniste Ravniste Mahala
+| srp_V_SORT_NAME_RG = MAHALARAVNISTE RAVNISTEMAHALA
+| srp_V_FULL_NAME_RG = Mahala Ravnište Ravnište Mahala
+| srp_V_FULL_NAME_ND_RG = Mahala Ravniste Ravniste Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.6575
+ | Gjatësia            = 21.559167
+ | Lartësia            = 
+}}
+'''Ravnište''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Duljevička Mahala
+| srp_N_name = Duljevička Mahala
+| srp_N_FULL_NAME_RO = Duljevička Mahala
+| srp_N_FULL_NAME_ND_RO = Duljevicka Mahala
+| srp_N_SORT_NAME_RG = DULJEVICKAMAHALA
+| srp_N_FULL_NAME_RG = Duljevička Mahala
+| srp_N_FULL_NAME_ND_RG = Duljevicka Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.682778
+ | Gjatësia            = 21.694167
+ | Lartësia            = 
+}}
+'''Duljevička Mahala''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

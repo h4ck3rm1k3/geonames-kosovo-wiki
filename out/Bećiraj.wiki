@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Bećiraj
+| srp_N_name = Bećiraj
+| srp_N_FULL_NAME_RO = Bećiraj
+| srp_N_FULL_NAME_ND_RO = Beciraj
+| srp_N_SORT_NAME_RG = BECIRAJ
+| srp_N_FULL_NAME_RG = Bećiraj
+| srp_N_FULL_NAME_ND_RG = Beciraj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.741111
+ | Gjatësia            = 20.06
+ | Lartësia            = 
+}}
+'''Bećiraj''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

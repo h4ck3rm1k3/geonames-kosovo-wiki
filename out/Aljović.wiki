@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Aljović
+| srp_N_name = Aljović
+| srp_N_FULL_NAME_RO = Aljović
+| srp_N_FULL_NAME_ND_RO = Aljovic
+| srp_N_SORT_NAME_RG = ALJOVIC
+| srp_N_FULL_NAME_RG = Aljović
+| srp_N_FULL_NAME_ND_RG = Aljovic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.421667
+ | Gjatësia            = 20.8025
+ | Lartësia            = 
+}}
+'''Aljović''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

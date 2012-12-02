@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Dela
+| srp_N_name = Dela
+| srp_N_FULL_NAME_RO = Dela
+| srp_N_FULL_NAME_ND_RO = Dela
+| srp_N_SORT_NAME_RG = DELA
+| srp_N_FULL_NAME_RG = Dela
+| srp_N_FULL_NAME_ND_RG = Dela
+| srp_NS_name = Дела
+| srp_NS_FULL_NAME_RO = Дела
+| srp_NS_FULL_NAME_ND_RO = Дела
+| srp_NS_SORT_NAME_RG = ДЕЛА
+| srp_NS_FULL_NAME_RG = Дела
+| srp_NS_FULL_NAME_ND_RG = Дела
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.54
+ | Gjatësia            = 20.718611
+ | Lartësia            = 
+}}
+'''Dela''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

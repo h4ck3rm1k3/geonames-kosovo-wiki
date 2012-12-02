@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Red Boge
+| srp_N_name = Red Boge
+| srp_N_FULL_NAME_RO = Red Boge
+| srp_N_FULL_NAME_ND_RO = Red Boge
+| srp_N_SORT_NAME_RG = REDBOGE
+| srp_N_FULL_NAME_RG = Red Boge
+| srp_N_FULL_NAME_ND_RG = Red Boge
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.745833
+ | Gjatësia            = 20.054444
+ | Lartësia            = 
+}}
+'''Red Boge''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

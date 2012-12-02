@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Vukoslavljeviće
+| srp_N_name = Vukoslavljeviće
+| srp_N_FULL_NAME_RO = Vukoslavljeviće
+| srp_N_FULL_NAME_ND_RO = Vukoslavljevice
+| srp_N_SORT_NAME_RG = VUKOSLAVLJEVICE
+| srp_N_FULL_NAME_RG = Vukoslavljeviće
+| srp_N_FULL_NAME_ND_RG = Vukoslavljevice
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zubin Potok
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.990833
+ | Gjatësia            = 20.626944
+ | Lartësia            = 
+}}
+'''Vukoslavljeviće''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zubin Potok}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zubin Potok]]
+[[Kategoria:Vendbanime në Kosovës]]

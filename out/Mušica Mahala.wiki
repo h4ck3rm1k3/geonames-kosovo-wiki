@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Mušica Mahala
+| srp_N_name = Mušica Mahala
+| srp_N_FULL_NAME_RO = Mušica Mahala
+| srp_N_FULL_NAME_ND_RO = Musica Mahala
+| srp_N_SORT_NAME_RG = MUSICAMAHALA
+| srp_N_FULL_NAME_RG = Mušica Mahala
+| srp_N_FULL_NAME_ND_RG = Musica Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.651111
+ | Gjatësia            = 21.664167
+ | Lartësia            = 
+}}
+'''Mušica Mahala''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

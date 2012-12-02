@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Rašan Mahala
+| srp_N_name = Rašan Mahala
+| srp_N_FULL_NAME_RO = Rašan Mahala
+| srp_N_FULL_NAME_ND_RO = Rasan Mahala
+| srp_N_SORT_NAME_RG = RASANMAHALA
+| srp_N_FULL_NAME_RG = Rašan Mahala
+| srp_N_FULL_NAME_ND_RG = Rasan Mahala
+| srp_V_name = Gričec
+| srp_V_FULL_NAME_RO = Gričec
+| srp_V_FULL_NAME_ND_RO = Gricec
+| srp_V_SORT_NAME_RG = GRICEC
+| srp_V_FULL_NAME_RG = Gričec
+| srp_V_FULL_NAME_ND_RG = Gricec
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Ferizaj
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.399444
+ | Gjatësia            = 20.943333
+ | Lartësia            = 
+}}
+'''Rašan Mahala''' është një [[Fshat]] në [[Ferizaj]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Ferizaj}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Ferizaj]]
+[[Kategoria:Vendbanime në Kosovës]]

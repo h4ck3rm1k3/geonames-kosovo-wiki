@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ćurdina
+| srp_N_name = Ćurdina
+| srp_N_FULL_NAME_RO = Ćurdina
+| srp_N_FULL_NAME_ND_RO = Curdina
+| srp_N_SORT_NAME_RG = CURDINA
+| srp_N_FULL_NAME_RG = Ćurdina
+| srp_N_FULL_NAME_ND_RG = Curdina
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.3075
+ | Gjatësia            = 20.418333
+ | Lartësia            = 
+}}
+'''Ćurdina''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

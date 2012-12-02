@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Rujiška Reka
+| srp_N_name = Rujiška Reka
+| srp_N_FULL_NAME_RO = Rujiška Reka
+| srp_N_FULL_NAME_ND_RO = Rujiska Reka
+| srp_N_SORT_NAME_RG = RUJISKAREKA
+| srp_N_FULL_NAME_RG = Rujiška Reka
+| srp_N_FULL_NAME_ND_RG = Rujiska Reka
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.928333
+ | Gjatësia            = 20.746111
+ | Lartësia            = 
+}}
+'''Rujiška Reka''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

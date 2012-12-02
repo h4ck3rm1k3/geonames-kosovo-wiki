@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Čeranovica
+| srp_N_name = Čeranovica
+| srp_N_FULL_NAME_RO = Čeranovica
+| srp_N_FULL_NAME_ND_RO = Ceranovica
+| srp_N_SORT_NAME_RG = CERANOVICA
+| srp_N_FULL_NAME_RG = Čeranovica
+| srp_N_FULL_NAME_ND_RG = Ceranovica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Obiliq
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.583056
+ | Gjatësia            = 21.457222
+ | Lartësia            = 
+}}
+'''Čeranovica''' është një [[Fshat]] në [[Obiliq]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Obiliq}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Obiliq]]
+[[Kategoria:Vendbanime në Kosovës]]

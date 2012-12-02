@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Čukovac
+| srp_N_name = Čukovac
+| srp_N_FULL_NAME_RO = Čukovac
+| srp_N_FULL_NAME_ND_RO = Cukovac
+| srp_N_SORT_NAME_RG = CUKOVAC
+| srp_N_FULL_NAME_RG = Čukovac
+| srp_N_FULL_NAME_ND_RG = Cukovac
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Zubin Potok
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.939444
+ | Gjatësia            = 20.568333
+ | Lartësia            = 
+}}
+'''Čukovac''' është një [[Fshat]] në [[Zubin Potok]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Zubin Potok}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Zubin Potok]]
+[[Kategoria:Vendbanime në Kosovës]]

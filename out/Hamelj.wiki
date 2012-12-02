@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Hamelj
+| srp_N_name = Hamelj
+| srp_N_FULL_NAME_RO = Hamelj
+| srp_N_FULL_NAME_ND_RO = Hamelj
+| srp_N_SORT_NAME_RG = HAMELJ
+| srp_N_FULL_NAME_RG = Hamelj
+| srp_N_FULL_NAME_ND_RG = Hamelj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prizren
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.233889
+ | Gjatësia            = 20.606389
+ | Lartësia            = 
+}}
+'''Hamelj''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prizren}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Vendbanime në Kosovës]]

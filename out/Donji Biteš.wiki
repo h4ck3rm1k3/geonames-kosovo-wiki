@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Donji Biteš
+| srp_N_name = Donji Biteš
+| srp_N_FULL_NAME_RO = Donji Biteš
+| srp_N_FULL_NAME_ND_RO = Donji Bites
+| srp_N_SORT_NAME_RG = DONJIBITES
+| srp_N_FULL_NAME_RG = Donji Biteš
+| srp_N_FULL_NAME_ND_RG = Donji Bites
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.470278
+ | Gjatësia            = 20.398333
+ | Lartësia            = 
+}}
+'''Donji Biteš''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

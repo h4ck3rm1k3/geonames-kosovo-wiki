@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Šejak
+| srp_N_name = Šejak
+| srp_N_FULL_NAME_RO = Šejak
+| srp_N_FULL_NAME_ND_RO = Sejak
+| srp_N_SORT_NAME_RG = SEJAK
+| srp_N_FULL_NAME_RG = Šejak
+| srp_N_FULL_NAME_ND_RG = Sejak
+| srp_NS_name = Шејак
+| srp_NS_FULL_NAME_RO = Шејак
+| srp_NS_FULL_NAME_ND_RO = Шејак
+| srp_NS_SORT_NAME_RG = ШЕЈАК
+| srp_NS_FULL_NAME_RG = Шејак
+| srp_NS_FULL_NAME_ND_RG = Шејак
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.441389
+ | Gjatësia            = 20.832222
+ | Lartësia            = 
+}}
+'''Šejak''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

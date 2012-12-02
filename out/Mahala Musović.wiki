@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Mahala Musović
+| srp_N_name = Mahala Musović
+| srp_N_FULL_NAME_RO = Mahala Musović
+| srp_N_FULL_NAME_ND_RO = Mahala Musovic
+| srp_N_SORT_NAME_RG = MAHALAMUSOVIC
+| srp_N_FULL_NAME_RG = Mahala Musović
+| srp_N_FULL_NAME_ND_RG = Mahala Musovic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.686944
+ | Gjatësia            = 21.6125
+ | Lartësia            = 
+}}
+'''Mahala Musović''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

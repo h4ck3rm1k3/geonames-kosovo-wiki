@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Jabučani
+| srp_N_name = Jabučani
+| srp_N_FULL_NAME_RO = Jabučani
+| srp_N_FULL_NAME_ND_RO = Jabucani
+| srp_N_SORT_NAME_RG = JABUCANI
+| srp_N_FULL_NAME_RG = Jabučani
+| srp_N_FULL_NAME_ND_RG = Jabucani
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Istog
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.468889
+ | Gjatësia            = 21.409444
+ | Lartësia            = 
+}}
+'''Jabučani''' është një [[Fshat]] në [[Istog]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Istog}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Istog]]
+[[Kategoria:Vendbanime në Kosovës]]

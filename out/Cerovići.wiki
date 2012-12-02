@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Cerovići
+| srp_N_name = Cerovići
+| srp_N_FULL_NAME_RO = Cerovići
+| srp_N_FULL_NAME_ND_RO = Cerovici
+| srp_N_SORT_NAME_RG = CEROVICI
+| srp_N_FULL_NAME_RG = Cerovići
+| srp_N_FULL_NAME_ND_RG = Cerovici
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Vushtrri
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.812156
+ | Gjatësia            = 21.05847
+ | Lartësia            = 
+}}
+'''Cerovići''' është një [[Fshat]] në [[Vushtrri]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Vushtrri}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Vushtrri]]
+[[Kategoria:Vendbanime në Kosovës]]

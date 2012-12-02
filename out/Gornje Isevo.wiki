@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Gornje Isevo
+| srp_N_name = Gornje Isevo
+| srp_N_FULL_NAME_RO = Gornje Isevo
+| srp_N_FULL_NAME_ND_RO = Gornje Isevo
+| srp_N_SORT_NAME_RG = GORNJEISEVO
+| srp_N_FULL_NAME_RG = Gornje Isevo
+| srp_N_FULL_NAME_ND_RG = Gornje Isevo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Lipjan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.217778
+ | Gjatësia            = 20.769444
+ | Lartësia            = 
+}}
+'''Gornje Isevo''' është një [[Fshat]] në [[Lipjan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Lipjan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Lipjan]]
+[[Kategoria:Vendbanime në Kosovës]]

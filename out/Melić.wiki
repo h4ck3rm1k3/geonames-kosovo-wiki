@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Melić
+| srp_N_name = Melić
+| srp_N_FULL_NAME_RO = Melić
+| srp_N_FULL_NAME_ND_RO = Melic
+| srp_N_SORT_NAME_RG = MELIC
+| srp_N_FULL_NAME_RG = Melić
+| srp_N_FULL_NAME_ND_RG = Melic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.148056
+ | Gjatësia            = 21.289722
+ | Lartësia            = 
+}}
+'''Melić''' është një [[Fshat]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

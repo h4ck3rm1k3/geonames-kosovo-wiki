@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Pronit-Mahala
+| srp_N_name = Pronit-Mahala
+| srp_N_FULL_NAME_RO = Pronit-Mahala
+| srp_N_FULL_NAME_ND_RO = Pronit-Mahala
+| srp_N_SORT_NAME_RG = PRONITMAHALA
+| srp_N_FULL_NAME_RG = Pronit-Mahala
+| srp_N_FULL_NAME_ND_RG = Pronit-Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.3
+ | Gjatësia            = 20.518889
+ | Lartësia            = 
+}}
+'''Pronit-Mahala''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

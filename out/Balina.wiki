@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Balina
+| srp_N_name = Balina
+| srp_N_FULL_NAME_RO = Balina
+| srp_N_FULL_NAME_ND_RO = Balina
+| srp_N_SORT_NAME_RG = BALINA
+| srp_N_FULL_NAME_RG = Balina
+| srp_N_FULL_NAME_ND_RG = Balina
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.443333
+ | Gjatësia            = 21.536667
+ | Lartësia            = 
+}}
+'''Balina''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

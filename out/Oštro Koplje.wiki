@@ -1,0 +1,62 @@
+{{Fshat në Kosovës
+ | Emri                = Oštro Koplje
+| sqi_V_name = Maja e Mprehtë
+| sqi_V_FULL_NAME_RO = Maja e Mprehtë
+| sqi_V_FULL_NAME_ND_RO = Maja e Mprehte
+| sqi_V_SORT_NAME_RG = MPREHTE MAJAE
+| sqi_V_FULL_NAME_RG = Mprehtë, Maja e
+| sqi_V_FULL_NAME_ND_RG = Mprehte, Maja e
+| sqi_V_name = Maja e Mprehtë
+| sqi_V_FULL_NAME_RO = Maja e Mprehtë
+| sqi_V_FULL_NAME_ND_RO = Maja e Mprehte
+| sqi_V_SORT_NAME_RG = MPREHTE MAJAE
+| sqi_V_FULL_NAME_RG = Mprehtë, Maja e
+| sqi_V_FULL_NAME_ND_RG = Mprehte, Maja e
+| srp_N_name = Oštro Koplje
+| srp_N_FULL_NAME_RO = Oštro Koplje
+| srp_N_FULL_NAME_ND_RO = Ostro Koplje
+| srp_N_SORT_NAME_RG = OSTROKOPLJE
+| srp_N_FULL_NAME_RG = Oštro Koplje
+| srp_N_FULL_NAME_ND_RG = Ostro Koplje
+| sqi_V_name = Maja e Mprehtë
+| sqi_V_FULL_NAME_RO = Maja e Mprehtë
+| sqi_V_FULL_NAME_ND_RO = Maja e Mprehte
+| sqi_V_SORT_NAME_RG = MPREHTE MAJAE
+| sqi_V_FULL_NAME_RG = Mprehtë, Maja e
+| sqi_V_FULL_NAME_ND_RG = Mprehte, Maja e
+| sqi_V_name = Maja e Mprehtë
+| sqi_V_FULL_NAME_RO = Maja e Mprehtë
+| sqi_V_FULL_NAME_ND_RO = Maja e Mprehte
+| sqi_V_SORT_NAME_RG = MPREHTE MAJAE
+| sqi_V_FULL_NAME_RG = Mprehtë, Maja e
+| sqi_V_FULL_NAME_ND_RG = Mprehte, Maja e
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.019444
+ | Gjatësia            = 21.014722
+ | Lartësia            = 
+}}
+'''Oštro Koplje''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]

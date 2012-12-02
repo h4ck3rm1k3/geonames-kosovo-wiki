@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Renoj
+| srp_N_name = Renoj
+| srp_N_FULL_NAME_RO = Renoj
+| srp_N_FULL_NAME_ND_RO = Renoj
+| srp_N_SORT_NAME_RG = RENOJ
+| srp_N_FULL_NAME_RG = Renoj
+| srp_N_FULL_NAME_ND_RG = Renoj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtime
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.413611
+ | Gjatësia            = 21.045278
+ | Lartësia            = 
+}}
+'''Renoj''' është një [[Fshat]] në [[Shtime]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtime}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtime]]
+[[Kategoria:Vendbanime në Kosovës]]

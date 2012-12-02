@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Soračak
+| srp_N_name = Soračak
+| srp_N_FULL_NAME_RO = Soračak Svračak
+| srp_N_FULL_NAME_ND_RO = Soracak Svracak
+| srp_N_SORT_NAME_RG = SORACAK SVRACAK
+| srp_N_FULL_NAME_RG = Soračak Svračak
+| srp_N_FULL_NAME_ND_RG = Soracak Svracak
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Obiliq
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.593611
+ | Gjatësia            = 21.378611
+ | Lartësia            = 
+}}
+'''Soračak''' është një [[Fshat]] në [[Obiliq]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Obiliq}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Obiliq]]
+[[Kategoria:Vendbanime në Kosovës]]

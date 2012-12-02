@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Veliki Krstac
+| srp_N_name = Veliki Krstac
+| srp_N_FULL_NAME_RO = Veliki Krstac
+| srp_N_FULL_NAME_ND_RO = Veliki Krstac
+| srp_N_SORT_NAME_RG = VELIKIKRSTAC
+| srp_N_FULL_NAME_RG = Veliki Krstac
+| srp_N_FULL_NAME_ND_RG = Veliki Krstac
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Dragash
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.065833
+ | Gjatësia            = 20.595278
+ | Lartësia            = 
+}}
+'''Veliki Krstac''' është një [[Fshat]] në [[Dragash]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Dragash}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Dragash]]
+[[Kategoria:Vendbanime në Kosovës]]

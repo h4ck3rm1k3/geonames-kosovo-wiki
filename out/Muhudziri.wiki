@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Muhudziri
+| srp_D_name = Muhudziri
+| srp_D_FULL_NAME_RO = Muhudziri
+| srp_D_FULL_NAME_ND_RO = Muhudziri
+| srp_D_SORT_NAME_RG = MUHUDZIRI
+| srp_D_FULL_NAME_RG = Muhudziri
+| srp_D_FULL_NAME_ND_RG = Muhudziri
+| srp_DS_name = Мухудзири
+| srp_DS_FULL_NAME_RO = Мухудзири
+| srp_DS_FULL_NAME_ND_RO = Мухудзири
+| srp_DS_SORT_NAME_RG = МУХУДЗИРИ
+| srp_DS_FULL_NAME_RG = Мухудзири
+| srp_DS_FULL_NAME_ND_RG = Мухудзири
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.556944
+ | Gjatësia            = 21.672778
+ | Lartësia            = 
+}}
+'''Muhudziri''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

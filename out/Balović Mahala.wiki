@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Balović Mahala
+| srp_N_name = Balović Mahala
+| srp_N_FULL_NAME_RO = Balović Mahala
+| srp_N_FULL_NAME_ND_RO = Balovic Mahala
+| srp_N_SORT_NAME_RG = BALOVICMAHALA
+| srp_N_FULL_NAME_RG = Balović Mahala
+| srp_N_FULL_NAME_ND_RG = Balovic Mahala
+| srp_NS_name = Баловић Махала
+| srp_NS_FULL_NAME_RO = Баловић Махала
+| srp_NS_FULL_NAME_ND_RO = Баловић Махала
+| srp_NS_SORT_NAME_RG = БАЛОВИЋМАХАЛА
+| srp_NS_FULL_NAME_RG = Баловић Махала
+| srp_NS_FULL_NAME_ND_RG = Баловић Махала
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.512778
+ | Gjatësia            = 20.760833
+ | Lartësia            = 
+}}
+'''Balović Mahala''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

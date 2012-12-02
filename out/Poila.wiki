@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Poila
+| sqi_V_name = Pailla
+| sqi_V_FULL_NAME_RO = Pailla
+| sqi_V_FULL_NAME_ND_RO = Pailla
+| sqi_V_SORT_NAME_RG = PAILLA
+| sqi_V_FULL_NAME_RG = Pailla
+| sqi_V_FULL_NAME_ND_RG = Pailla
+| srp_N_name = Poila
+| srp_N_FULL_NAME_RO = Poila
+| srp_N_FULL_NAME_ND_RO = Poila
+| srp_N_SORT_NAME_RG = POILA
+| srp_N_FULL_NAME_RG = Poila
+| srp_N_FULL_NAME_ND_RG = Poila
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Podujevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 43.031667
+ | Gjatësia            = 21.112778
+ | Lartësia            = 
+}}
+'''Poila''' është një [[Fshat]] në [[Podujevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Podujevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Podujevë]]
+[[Kategoria:Vendbanime në Kosovës]]

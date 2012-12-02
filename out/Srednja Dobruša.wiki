@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Srednja Dobruša
+| srp_N_name = Srednja Dobruša
+| srp_N_FULL_NAME_RO = Srednja Dobruša
+| srp_N_FULL_NAME_ND_RO = Srednja Dobrusa
+| srp_N_SORT_NAME_RG = SREDNJADOBRUSA
+| srp_N_FULL_NAME_RG = Srednja Dobruša
+| srp_N_FULL_NAME_ND_RG = Srednja Dobrusa
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kamenicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.704444
+ | Gjatësia            = 20.445833
+ | Lartësia            = 
+}}
+'''Srednja Dobruša''' është një [[Fshat Vogel]] në [[Kamenicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kamenicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kamenicë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në MJ?
+ | Emri                = Rđavi Potok
+| srp_N_name = Rđavi Potok
+| srp_N_FULL_NAME_RO = Rđavi Potok
+| srp_N_FULL_NAME_ND_RO = Rdavi Potok
+| srp_N_SORT_NAME_RG = RDAVIPOTOK
+| srp_N_FULL_NAME_RG = Rđavi Potok
+| srp_N_FULL_NAME_ND_RG = Rdavi Potok
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = MJ?
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.685
+ | Gjatësia            = 20.053611
+ | Lartësia            = 
+}}
+'''Rđavi Potok''' është një [[]] në [[]] të [[MJ?]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në MJ?]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në MJ?]]

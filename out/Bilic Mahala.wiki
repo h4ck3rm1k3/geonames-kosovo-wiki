@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Bilic Mahala
+| srp_N_name = Bilic Mahala
+| srp_N_FULL_NAME_RO = Bilic Mahala
+| srp_N_FULL_NAME_ND_RO = Bilic Mahala
+| srp_N_SORT_NAME_RG = BILICMAHALA
+| srp_N_FULL_NAME_RG = Bilic Mahala
+| srp_N_FULL_NAME_ND_RG = Bilic Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kaçanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.534444
+ | Gjatësia            = 20.8275
+ | Lartësia            = 
+}}
+'''Bilic Mahala''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kaçanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kaçanik]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Alurević
+| srp_N_name = Alurević
+| srp_N_FULL_NAME_RO = Alurević Aluraj
+| srp_N_FULL_NAME_ND_RO = Alurevic Aluraj
+| srp_N_SORT_NAME_RG = ALUREVIC ALURAJ
+| srp_N_FULL_NAME_RG = Alurević Aluraj
+| srp_N_FULL_NAME_ND_RG = Alurevic Aluraj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Suharekë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.644444
+ | Gjatësia            = 20.711111
+ | Lartësia            = 
+}}
+'''Alurević''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Suharekë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Suharekë]]
+[[Kategoria:Vendbanime në Kosovës]]

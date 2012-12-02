@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Gradište
+| srp_N_name = Gradište
+| srp_N_FULL_NAME_RO = Gradište
+| srp_N_FULL_NAME_ND_RO = Gradiste
+| srp_N_SORT_NAME_RG = GRADISTE
+| srp_N_FULL_NAME_RG = Gradište
+| srp_N_FULL_NAME_ND_RG = Gradiste
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prizren
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.196111
+ | Gjatësia            = 20.6525
+ | Lartësia            = 
+}}
+'''Gradište''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prizren}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Vendbanime në Kosovës]]

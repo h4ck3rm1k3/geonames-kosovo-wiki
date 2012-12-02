@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Zigoli
+| srp_N_name = Zigoli
+| srp_N_FULL_NAME_RO = Zigoli
+| srp_N_FULL_NAME_ND_RO = Zigoli
+| srp_N_SORT_NAME_RG = ZIGOLI
+| srp_N_FULL_NAME_RG = Zigoli
+| srp_N_FULL_NAME_ND_RG = Zigoli
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Fushë Kosovë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.650833
+ | Gjatësia            = 21.740833
+ | Lartësia            = 
+}}
+'''Zigoli''' është një [[Fshat]] në [[Fushë Kosovë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Fushë Kosovë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Fushë Kosovë]]
+[[Kategoria:Vendbanime në Kosovës]]

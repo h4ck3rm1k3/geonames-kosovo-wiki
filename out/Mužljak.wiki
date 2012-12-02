@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Mužljak
+| sqi_V_name = Muzhlik
+| sqi_V_FULL_NAME_RO = Muzhlik
+| sqi_V_FULL_NAME_ND_RO = Muzhlik
+| sqi_V_SORT_NAME_RG = MUZHLIK
+| sqi_V_FULL_NAME_RG = Muzhlik
+| sqi_V_FULL_NAME_ND_RG = Muzhlik
+| srp_N_name = Mužljak
+| srp_N_FULL_NAME_RO = Mužljak
+| srp_N_FULL_NAME_ND_RO = Muzljak
+| srp_N_SORT_NAME_RG = MUZLJAK
+| srp_N_FULL_NAME_RG = Mužljak
+| srp_N_FULL_NAME_ND_RG = Muzljak
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Prizren
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.2675
+ | Gjatësia            = 20.831111
+ | Lartësia            = 
+}}
+'''Mužljak''' është një [[Fshat]] në [[Prizren]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Prizren}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Prizren]]
+[[Kategoria:Vendbanime në Kosovës]]

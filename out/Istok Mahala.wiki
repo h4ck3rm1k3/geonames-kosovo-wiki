@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Istok Mahala
+| sqi_V_name = Istog Mahala
+| sqi_V_FULL_NAME_RO = Istog Mahala
+| sqi_V_FULL_NAME_ND_RO = Istog Mahala
+| sqi_V_SORT_NAME_RG = ISTOGMAHALA
+| sqi_V_FULL_NAME_RG = Istog Mahala
+| sqi_V_FULL_NAME_ND_RG = Istog Mahala
+| srp_N_name = Istok Mahala
+| srp_N_FULL_NAME_RO = Istok Mahala
+| srp_N_FULL_NAME_ND_RO = Istok Mahala
+| srp_N_SORT_NAME_RG = ISTOKMAHALA
+| srp_N_FULL_NAME_RG = Istok Mahala
+| srp_N_FULL_NAME_ND_RG = Istok Mahala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kaçanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.677778
+ | Gjatësia            = 20.824167
+ | Lartësia            = 
+}}
+'''Istok Mahala''' është një [[Fshat]] në [[Kaçanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kaçanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kaçanik]]
+[[Kategoria:Vendbanime në Kosovës]]

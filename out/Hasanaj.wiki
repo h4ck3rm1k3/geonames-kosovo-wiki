@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Hasanaj
+| srp_N_name = Hasanaj
+| srp_N_FULL_NAME_RO = Hasanaj
+| srp_N_FULL_NAME_ND_RO = Hasanaj
+| srp_N_SORT_NAME_RG = HASANAJ
+| srp_N_FULL_NAME_RG = Hasanaj
+| srp_N_FULL_NAME_ND_RG = Hasanaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Suharekë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.744167
+ | Gjatësia            = 20.7
+ | Lartësia            = 
+}}
+'''Hasanaj''' është një [[Fshat]] në [[Suharekë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Suharekë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Suharekë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Zvečan
+| srp_N_name = Zvečan
+| srp_N_FULL_NAME_RO = Zvečan
+| srp_N_FULL_NAME_ND_RO = Zvecan
+| srp_N_SORT_NAME_RG = ZVECAN
+| srp_N_FULL_NAME_RG = Zvečan
+| srp_N_FULL_NAME_ND_RG = Zvecan
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Kamenicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.723333
+ | Gjatësia            = 20.550278
+ | Lartësia            = 
+}}
+'''Zvečan''' është një [[Fshat]] në [[Kamenicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Kamenicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Kamenicë]]
+[[Kategoria:Vendbanime në Kosovës]]

@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Kocaj
+| srp_N_name = Kocaj
+| srp_N_FULL_NAME_RO = Kocaj
+| srp_N_FULL_NAME_ND_RO = Kocaj
+| srp_N_SORT_NAME_RG = KOCAJ
+| srp_N_FULL_NAME_RG = Kocaj
+| srp_N_FULL_NAME_ND_RG = Kocaj
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Gjilan
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.405
+ | Gjatësia            = 20.358056
+ | Lartësia            = 
+}}
+'''Kocaj''' është një [[Fshat]] në [[Gjilan]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Gjilan}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Gjilan]]
+[[Kategoria:Vendbanime në Kosovës]]

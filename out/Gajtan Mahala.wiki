@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Gajtan Mahala
+| srp_N_name = Gajtan Mahala
+| srp_N_FULL_NAME_RO = Gajtan Mahala
+| srp_N_FULL_NAME_ND_RO = Gajtan Mahala
+| srp_N_SORT_NAME_RG = GAJTANMAHALA
+| srp_N_FULL_NAME_RG = Gajtan Mahala
+| srp_N_FULL_NAME_ND_RG = Gajtan Mahala
+| srp_NS_name = Гајтан Махала
+| srp_NS_FULL_NAME_RO = Гајтан Махала
+| srp_NS_FULL_NAME_ND_RO = Гајтан Махала
+| srp_NS_SORT_NAME_RG = ГАЈТАНМАХАЛА
+| srp_NS_FULL_NAME_RG = Гајтан Махала
+| srp_NS_FULL_NAME_ND_RG = Гајтан Махала
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Malishevë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.601252
+ | Gjatësia            = 21.283572
+ | Lartësia            = 
+}}
+'''Gajtan Mahala''' është një [[Fshat]] në [[Malishevë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Malishevë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Malishevë]]
+[[Kategoria:Vendbanime në Kosovës]]

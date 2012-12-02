@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Gorje Naklo
+| srp_N_name = Gorje Naklo
+| srp_N_FULL_NAME_RO = Gorje Naklo
+| srp_N_FULL_NAME_ND_RO = Gorje Naklo
+| srp_N_SORT_NAME_RG = GORJENAKLO
+| srp_N_FULL_NAME_RG = Gorje Naklo
+| srp_N_FULL_NAME_ND_RG = Gorje Naklo
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Pejë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.6725
+ | Gjatësia            = 20.369722
+ | Lartësia            = 
+}}
+'''Gorje Naklo''' është një [[Fshat]] në [[Pejë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Pejë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Pejë]]
+[[Kategoria:Vendbanime në Kosovës]]

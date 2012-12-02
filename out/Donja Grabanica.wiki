@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Donja Grabanica
+| srp_N_name = Donja Grabanica
+| srp_N_FULL_NAME_RO = Donja Grabanica
+| srp_N_FULL_NAME_ND_RO = Donja Grabanica
+| srp_N_SORT_NAME_RG = DONJAGRABANICA
+| srp_N_FULL_NAME_RG = Donja Grabanica
+| srp_N_FULL_NAME_ND_RG = Donja Grabanica
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.576111
+ | Gjatësia            = 20.557778
+ | Lartësia            = 
+}}
+'''Donja Grabanica''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Albanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Vendbanime në Kosovës]]

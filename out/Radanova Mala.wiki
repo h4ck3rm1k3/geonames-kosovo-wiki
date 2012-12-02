@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Radanova Mala
+| srp_N_name = Radanova Mala
+| srp_N_FULL_NAME_RO = Radanova Mala
+| srp_N_FULL_NAME_ND_RO = Radanova Mala
+| srp_N_SORT_NAME_RG = RADANOVAMALA
+| srp_N_FULL_NAME_RG = Radanova Mala
+| srp_N_FULL_NAME_ND_RG = Radanova Mala
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtërpcë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.231667
+ | Gjatësia            = 20.987778
+ | Lartësia            = 
+}}
+'''Radanova Mala''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtërpcë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtërpcë]]
+[[Kategoria:Vendbanime në Kosovës]]

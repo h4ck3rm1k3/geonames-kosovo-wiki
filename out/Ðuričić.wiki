@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Ðuričić
+| srp_N_name = Ðuričić
+| srp_N_FULL_NAME_RO = Ðuričić
+| srp_N_FULL_NAME_ND_RO = Duricic
+| srp_N_SORT_NAME_RG = DURICIC
+| srp_N_FULL_NAME_RG = Ðuričić
+| srp_N_FULL_NAME_ND_RG = Duricic
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Albanik
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.581389
+ | Gjatësia            = 20.562222
+ | Lartësia            = 
+}}
+'''Ðuričić''' është një [[Fshat]] në [[Albanik]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Albanik}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Albanik]]
+[[Kategoria:Vendbanime në Kosovës]]

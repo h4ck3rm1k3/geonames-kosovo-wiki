@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Lašarc
+| srp_N_name = Lašarc
+| srp_N_FULL_NAME_RO = Lašarc
+| srp_N_FULL_NAME_ND_RO = Lasarc
+| srp_N_SORT_NAME_RG = LASARC
+| srp_N_FULL_NAME_RG = Lašarc
+| srp_N_FULL_NAME_ND_RG = Lasarc
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Shtërpcë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.294167
+ | Gjatësia            = 21.083611
+ | Lartësia            = 
+}}
+'''Lašarc''' është një [[Fshat]] në [[Shtërpcë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Shtërpcë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Shtërpcë]]
+[[Kategoria:Vendbanime në Kosovës]]

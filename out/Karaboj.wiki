@@ -1,0 +1,44 @@
+{{Fshat në Kosovës
+ | Emri                = Karaboj
+| srp_N_name = Karaboj
+| srp_N_FULL_NAME_RO = Karaboj
+| srp_N_FULL_NAME_ND_RO = Karaboj
+| srp_N_SORT_NAME_RG = KARABOJ
+| srp_N_FULL_NAME_RG = Karaboj
+| srp_N_FULL_NAME_ND_RG = Karaboj
+| srp_NS_name = Карабој
+| srp_NS_FULL_NAME_RO = Карабој
+| srp_NS_FULL_NAME_ND_RO = Карабој
+| srp_NS_SORT_NAME_RG = КАРАБОЈ
+| srp_NS_FULL_NAME_RG = Карабој
+| srp_NS_FULL_NAME_ND_RG = Карабој
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = Mitrovicë
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.445278
+ | Gjatësia            = 20.8625
+ | Lartësia            = 
+}}
+'''Karaboj''' është një [[Fshat]] në [[Mitrovicë]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna Mitrovicë}}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes Mitrovicë]]
+[[Kategoria:Vendbanime në Kosovës]]

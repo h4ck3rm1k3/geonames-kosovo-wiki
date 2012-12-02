@@ -1,0 +1,38 @@
+{{Fshat në Kosovës
+ | Emri                = Sarhoše
+| srp_N_name = Sarhoše
+| srp_N_FULL_NAME_RO = Sarhoše
+| srp_N_FULL_NAME_ND_RO = Sarhose
+| srp_N_SORT_NAME_RG = SARHOSE
+| srp_N_FULL_NAME_RG = Sarhoše
+| srp_N_FULL_NAME_ND_RG = Sarhose
+
+ | Emri (Rasa dhanore) = 
+ | Figura              = 
+ | Shteti              = Kosovo
+ | Komuna              = 
+ | Kodi postar         = 
+ | Sipërfaqja          = 
+
+ | Popullsia           = 
+
+ | Regj. i popullsisë  = 
+ | Dend. e popullsisë  = 
+ | Faqja zyrtare       = 
+ <!--- Koordinatat ----> 
+ | Gjerësia            = 42.609167
+ | Gjatësia            = 20.309722
+ | Lartësia            = 
+}}
+'''Sarhoše''' është një [[]] në [[]] të [[Kosovës]].
+
+<!-- == Gjeografia == -->
+<!-- == Historia == -->
+<!-- == Demografia == -->
+== Shih edhe ==
+{{Komuna }}
+{{Kosovo-Administrata-Cung}}
+
+[[Kategoria:Fshatra në Kosovës]]
+[[Kategoria:Fshatra në Kommunes ]]
+[[Kategoria:Vendbanime në Kosovës]]
